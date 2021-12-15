@@ -1,0 +1,1917 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 8   Producers in the Long Run
+
+8.1  The Long Run: No Fixed Factors
+
+The table below shows the number of units of labour and capital used in 4 alternative production techniques for producing 1000 widgets per month.
+
+Technique
+A
+B
+C
+D
+Labour
+25
+35
+50
+30
+Capital
+50
+35
+25
+60
+
+TABLE 8-1
+
+1) Refer to Table 8-1. If the price of labour is $5 and the price of capital is $10, which production technique minimizes the costs of producing 1000 units of output?
+A) A
+B) B
+C) C
+D) D
+E) Any of the techniques have the same cost.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+2) Refer to Table 8-1. If the price of labour is $10 and the price of capital is $5, which production technique minimizes the costs of producing 1000 units of output?
+A) A
+B) B
+C) C
+D) D
+E) Any of the techniques have the same cost.
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+3) Refer to Table 8-1. If the price of both labour and capital is $10, which production technique minimizes the costs of producing 1000 units of output?
+A) A
+B) B
+C) C
+D) D
+E) Any of the techniques have the same cost.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+4) Refer to Table 8-1. Which production technique is obviously technically inefficient?
+A) A
+B) B
+C) C
+D) D
+E) All four techniques are inefficient.
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+5) When there is no other way of producing a given level of output with a smaller total value of inputs, the firm is operating at
+A) minimum cost.
+B) maximum output.
+C) maximum profit.
+D) optimal output.
+E) maximum cost.
+Answer:  A
+Diff: 1
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+6) Which of the following conditions indicate cost minimization, assuming two inputs, labour (L) and capital (K)?
+A) PK ∙ MPK = PL ∙ MPL
+B) MPL = MPK
+C) MPK/PK = MPL/PL
+D) MPK/PL = MPL/PK
+E) PK = PL
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Recall
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+7) By expressing the cost-minimizing condition as MPK/MPL = PK/PL, we are able to see
+A) how the firm determines its profit-maximizing output.
+B) how the firm can adjust the marginal products of the factors of production to the prices of the factors given by the market.
+C) that the capital-labour ratio is fixed.
+D) that the ratio of factor prices is constant over time.
+E) that the firm is producing at a lower cost if the left-hand side of the equation is greater than the right-hand side.
+Answer:  B
+Diff: 1
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Recall
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+8) For a firm with only two inputs, capital and labour, the condition MPK/MPL = PK/PL guarantees that the firm is
+A) at its profit-maximizing output but is not necessarily minimizing its costs.
+B) minimizing its costs but is not necessarily maximizing its profits.
+C) technically efficient but not economically efficient.
+D) economically efficient but not technically efficient.
+E) at its profit-maximizing and cost-minimizing level of output.
+Answer:  B
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+9) A profit-maximizing firm will increase its use of capital and decrease its use of labour when the
+A) marginal product of capital is higher than the marginal product of labour.
+B) marginal product of capital, per dollar spent on capital, is greater than the marginal product of labour, per dollar spent on labour.
+C) average product of capital is higher than the average product of labour.
+D) total product of capital is higher than the total product of labour.
+E) marginal product of capital, per dollar spent on capital, is less than the marginal product of labour, per dollar spent on labour.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Recall
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+10) When a firm seeks to minimize costs of producing a given level of output, it does NOT need to know
+A) the available alternative methods of production.
+B) the level of output that maximizes its profits.
+C) the cost of the factors of production it uses.
+D) its production function.
+E) how its costs change as its production methods change.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+11) A cost-minimizing firm will increase its use of labour and decrease its use of capital when the
+A) marginal product of capital is higher than the marginal product of labour.
+B) marginal product of capital, per dollar spent on capital, is greater than the marginal product of labour, per dollar spent on labour.
+C) average product of capital is higher than the average product of labour.
+D) total product of capital is higher than the total product of labour.
+E) marginal product of capital, per dollar spent on capital, is less than the marginal product of labour, per dollar spent on labour.
+Answer:  E
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Recall
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+12) The principle of substitution plays a central role in resource allocation because it demonstrates that
+A) firms will find it profitable to make abundant use of relatively scarce factors.
+B) methods of producing the same commodity will not differ from one country to another.
+C) firms can use all factors of production interchangeably with no impact on their costs.
+D) prices will be relatively low for those factors for which demand is high relative to supply.
+E) relative factor prices reflect relative scarcities of factors in the economy and so firms will find it profitable to make abundant use of relatively abundant factors.
+Answer:  E
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Recall
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+13) Suppose a firm employs two inputs, X and Y, and that at their current levels of use MPX/PX > MPY/PY. To minimize the cost of production, the firm should hire 
+A) more input Y and less input X.
+B) more input X and less input Y.
+C) more input Y only if its price falls.
+D) more input X only if its price increases.
+E) more input X only if its price decreases.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+14) When a cost-minimizing firm is faced with an increase in the relative price of labour, it adjusts its factor usage so as to
+A) increase the marginal product of capital relative to the marginal product of labour.
+B) increase the marginal product of labour relative to the marginal product of capital.
+C) use more labour per unit of output than before.
+D) use more of both capital and labour per unit of output. 
+E) maintain the previous usage of labour.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+15) Suppose a firm is employing labour (L) and capital (K) such that MPK/MPL = PK/PL. If the price of labour rises, the cost-minimizing firm should then
+A) employ more labour and less capital because MPK/MPL > PK/PL.
+B) employ more capital and less labour because MPK/MPL > PK/PL.
+C) employ more labour and less capital because MPK/MPL < PK/PL.
+D) employ more capital and less labour because MPK/MPL < PK/PL.
+E) do nothing.
+Answer:  B
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+16) Suppose a firm is using 100 units of labour and 50 units of capital to produce 200 completed client tax returns per day. The price of labour is $10 per unit and the price of capital is $5 per unit. The MPL equals 2 and the MPK equals 5. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+17) Suppose a firm is using 100 units of labour and 50 units of capital to produce 200 completed client tax returns per day. The price of labour is $5 per unit and the price of capital is $2 per unit. The MPL equals 5 and the MPK equals 2. In this situation, the firm
+A) is minimizing its costs.
+B) should increase the use of both inputs.
+C) could lower its production costs by decreasing labour input and increasing capital input.
+D) could lower its production costs by increasing labour input and decreasing capital input.
+E) should decrease the use of both inputs.
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+18) Consider a firm that uses only labour and capital as inputs. At the present use of labour and capital, the MP of labour is four times the MP of capital, and the price of labour is twice the price of capital. In order to minimize its costs, the firm should
+A) substitute capital for labour until their marginal products are equal.
+B) decrease both capital and labour.
+C) decrease capital and increase labour.
+D) increase both labour and capital.
+E) stay at its present factor mix.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+19) Suppose a firm is using 1500 units of labour and 20 units of capital to produce 100 tonnes of mineral ore. The price of labour is $40 per unit and the price of capital is $1000 per unit. The MPL equals 25 and the MPK equals 750. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  C
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+
+20) Suppose a firm is using 1500 units of labour and 20 units of capital to produce 100 tonnes of mineral ore. The price of labour is $20 per unit and the price of capital is $1000 per unit. The MPL equals 25 and the MPK equals 750. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  D
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+21) Suppose a firm is using 1500 units of labour and 20 units of capital to produce 100 tonnes of mineral ore. The price of labour is $40 per unit and the price of capital is $1000 per unit. The MPL equals 24 and the MPK equals 600. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  A
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+
+22) Suppose a firm is using 1500 units of labour and 20 units of capital to produce 100 tonnes of mineral ore. The price of labour is $50 per unit and the price of capital is $800 per unit. The MPL equals 60 and the MPK equals 1200. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+
+23) Suppose a firm is using 1500 units of labour and 20 units of capital to produce 100 tonnes of mineral ore. The price of labour is $50 per unit and the price of capital is $800 per unit. The MPL equals 25 and the MPK equals 400. In this situation, 
+A) the firm is minimizing its costs.
+B) the firm should increase the use of both inputs.
+C) the firm could lower its production costs by decreasing labour input and increasing capital input.
+D) the firm could lower its production costs by increasing labour input and decreasing capital input.
+E) the firm should decrease the use of both inputs.
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+24) Consider a firm that uses only labour and capital. At the present use of labour and capital, the MP of labour is two times the MP of capital, and the price of labour is two times the price of capital. In order to minimize its costs, the firm should
+A) substitute capital for labour until their marginal products are equal.
+B) decrease both capital and labour.
+C) decrease capital and increase labour.
+D) increase both labour and capital.
+E) not alter its present factor mix.
+Answer:  E
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+25) Consider a firm that uses only labour and capital. At the present use of labour and capital, the MP of labour is twice the MP of capital, and the price of labour is four times the price of capital. In order to minimize its costs, the firm should
+A) increase capital and decrease labour.
+B) decrease both capital and labour.
+C) decrease capital and increase labour.
+D) increase both labour and capital.
+E) maintain its present factor mix.
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+26) Suppose that capital costs $10 per unit and labour costs $5 per unit. For a profit-maximizing firm operating at its optimal factor mix, if the marginal product of capital is 50, the marginal product of labour must be 
+A) 10.
+B) 20.
+C) 25.
+D) 50.
+E) 100.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+27) Suppose that capital costs $6 per unit and labour costs $3 per unit. If the marginal product of capital is 3 and the marginal product of labour is 6, the cost-minimizing firm should
+A) employ more of both capital and labour.
+B) employ less of both capital and labour.
+C) employ more capital and less labour.
+D) employ less capital and more labour.
+E) not change its current factor use.
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+28) Suppose that capital costs $6 per unit and labour costs $3 per unit. If the marginal product of capital is 12 and the marginal product of labour is 6, the cost-minimizing firm should
+A) employ more of both capital and labour.
+B) employ less of both capital and labour.
+C) employ more capital and less labour.
+D) employ less capital and more labour.
+E) not change its current factor use.
+Answer:  E
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+29) Suppose that capital costs $50 per unit and labour costs $20 per unit. If the marginal product of capital is 100 and the marginal product of labour is 30, a cost-minimizing firm should 
+A) employ more of both capital and labour.
+B) employ less of both capital and labour.
+C) employ more capital and less labour.
+D) employ less capital and more labour.
+E) not change its current factor use.
+Answer:  C
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+30) Suppose that capital costs $100 per unit and labour costs $40 per unit. If the marginal product of capital is 200 and the marginal product of labour is 60, a cost-minimizing firm should 
+A) employ more capital and less labour.
+B) employ more of both capital and labour.
+C) employ less of both capital and labour.
+D) employ less capital and more labour.
+E) not change its current factor use.
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+31) If a firm is using labour and capital such that the MP of labour is two times the MP of capital, and the price of labour is four times the price of capital, the firm should ________ in order to minimize its costs of producing its output.
+A) increase capital and decrease labour
+B) decrease both capital and labour
+C) decrease capital and increase labour
+D) increase both labour and capital
+E) not alter its present factor mix
+Answer:  A
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+32) Suppose that capital costs $8 per unit and labour costs $4 per unit. For a profit- maximizing firm operating at its optimal factor mix, if the marginal product of capital is 60, the marginal product of labour must be 
+A) 10.
+B) 20.
+C) 30.
+D) 90.
+E) 120.
+Answer:  C
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+33) Suppose capital costs $2000 per unit and labour costs $50 per unit. For a profit- maximizing firm operating at its optimal factor mix, if the marginal product of labour is 10, the marginal product of capital must be 
+A) 40.
+B) 50.
+C) 100.
+D) 400.
+E) 500.
+Answer:  D
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+
+34) Suppose capital costs $280 per unit and labour costs $16 per unit. For a profit- maximizing firm operating at its optimal factor mix, if the marginal product of capital is 70, the marginal product of labour must be 
+A) 4.
+B) 6.
+C) 8.
+D) 12.
+E) 16.
+Answer:  A
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Quantitative
+
+35) Suppose that capital costs $10 per unit and labour costs $4 per unit.  If the marginal product of capital is 50 and the marginal product of labour is 50, the firm should ________ in order to minimize its costs of producing its output.
+A) employ more capital and labour
+B) employ less capital and labour
+C) employ more capital and less labour
+D) employ less capital and more labour
+E) not change its current factor use
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+36) Suppose a firm employs two kinds of inputs, capital at $100 per unit, and labour at $25 per unit. If the marginal product of capital is 50, then the firm should ________ in order to minimize its production costs.
+A) employ more capital and less labour
+B) employ more labour and less capital
+C) employ more labour and more capital
+D) not change its current factor use
+E) There is insufficient information to make a recommendation.
+Answer:  E
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Quantitative
+
+The following table shows the marginal products of capital (K) and labour (L) for various methods for Firm ABC to produce 1000 toys per day.
+
+Production Method
+MPK
+MPL
+A
+50
+4
+B
+45
+8
+C
+40
+12
+D
+35
+16
+E
+30
+20
+F
+25
+24
+G
+20
+28
+
+TABLE 8-2
+
+37) Refer to Table 8-2. As this firm switches from production method A to production method G, production is
+A) moving farther and farther away from cost minimization.
+B) becoming more capital intensive and less labour intensive.
+C) becoming more profitable.
+D) becoming more labour intensive and less capital intensive.
+E) remaining at a cost-minimizing level of output.
+Answer:  B
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+38) Refer to Table 8-2. If capital costs $6 per unit and labour costs $4 per unit, which production method minimizes the cost of producing 1000 toys per day?
+A) method B
+B) method C
+C) method D
+D) method E
+E) method F
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+39) Refer to Table 8-2. Suppose capital costs $6 per unit and labour costs $4 per unit and the firm is employing production method A. How should this firm adjust its use of capital and labour to minimize costs?
+A) employ more capital and less labour
+B) employ less capital and more labour
+C) employ more capital and more labour
+D) employ less capital and less labour
+E) There is insufficient information to know.
+Answer:  A
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 8-2. Suppose the firm is employing production method G. How should this firm adjust its use of capital and labour in order to minimize costs?
+A) employ more capital and less labour
+B) employ less capital and more labour
+C) employ more capital and labour
+D) employ less capital and labour
+E) There is insufficient information to know.
+Answer:  E
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+41) Refer to Table 8-2. Suppose capital costs $80 per unit and labour costs $24 per unit. Which production method minimizes the cost of producing 1000 toys per day.
+A) method B
+B) method C
+C) method D
+D) method E
+E) method F
+Answer:  B
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User1:  Table
+User2:  Quantitative
+
+42) Canada has a much lower population density than does Japan. Therefore, the price of land (relative to the price of labour) is lower in Canada than in Japan. Consider a Canadian firm and a Japanese firm, both producing rice, both having access to the same technologies, and both striving to minimize their costs. The Canadian firm will use the two inputs, land and labour, in such a way that its land/labour ratio is
+A) equal to that of the Japanese firm.
+B) lower than that of the Japanese firm.
+C) higher than that of the Japanese firm.
+D) equal to one.
+E) indeterminate as there is insufficient information to know.
+Answer:  C
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+43) Canada has a much lower population density than does Japan. Therefore, the price of land (relative to the price of labour) is lower in Canada than in Japan. Consider a Canadian firm and a Japanese firm, both producing rice, both having access to the same technologies, and both striving to minimize costs. Now suppose that the relative price of land rises in Canada but remains the same in Japan. The effect on the use of inputs will be to
+A) increase the land/labour ratio for both the Canadian and the Japanese firms.
+B) decrease the land/labour ratio for both the Canadian and the Japanese firms.
+C) increase the land/labour ratio for the Canadian firm.
+D) decrease the land/labour ratio for the Canadian firm.
+E) not change the land/labour ratio for either firm.
+Answer:  D
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+44) Consider a firm in the long run that is trying to maximize its profits. It should
+A) select the most technically efficient method of production regardless of the level of production.
+B) maximize the marginal product of all factors of production.
+C) charge the highest price.
+D) minimize the cost of producing whatever level of output it chooses.
+E) charge the lowest price possible given the minimum possible cost.
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+45) One hundred years ago, in North America and Europe it was commonplace for middle class households to employ housemaids. As you know, this is quite rare today. Most such households now have dishwashers, washing machines and dryers. What is an explanation of this change? 
+A) Over long periods of time, labour is always replaced by capital.
+B) Over long periods of time, capital is always replaced by labour. 
+C) Households substituted away from a factor whose price was falling (labour) and toward a factor whose price was rising (capital). 
+D) Households substituted away from an increasingly expensive factor (labour) and toward an increasingly inexpensive factor (capital).
+E) The marginal product of labour was falling over time while the marginal product of capital was rising. 
+Answer:  D
+Diff: 2
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+46) In recent years, garbage collection has changed dramatically. Twenty-five years ago a crew of up to 4 or 5 workers and 1 truck collected residential garbage. Now collection is often done by one driver and 1 more fully automated truck. What is an explanation for this change?
+A) Over long periods of time, labour is always replaced by capital.
+B) Over long periods of time, capital is always replaced by labour.
+C) Firms and municipalities substituted away from an increasingly expensive factor (labour) and toward an increasingly inexpensive factor (capital).
+D) Firms and municipalities substituted away from a factor whose price was falling (labour) and toward a factor whose price was rising(capital).
+E) The marginal product of labour was falling over time while the marginal product of capital was rising.
+Answer:  C
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Qualitative
+47) In the 1890s nearly 50 percent of the Canadian population worked on a farm. Today, that number is less than 2 percent. One important explanation for this change is
+A) the response to a rising price of labour and a falling relative price of capital.
+B) the response to a rising price of capital and a falling relative price of labour.
+C) that over long periods of time, labour is always replaced by capital.
+D) that over long periods of time, capital is always replaced by labour.
+E) that the marginal product of labour was falling over time while the marginal product of capital was rising.
+Answer:  A
+Diff: 3
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+User2:  Qualitative
+
+48) Which of the following is unlikely to be a source of increasing productivity?
+A) better raw materials even if there are no changes in factor quantities or proportions
+B) better organization of production
+C) substitution toward labour and away from capital (with constant technology)
+D) better-trained labour
+E) increases in technological know-how
+Answer:  C
+Diff: 1
+Topic:  8.1a. profit maximization and cost minimization
+Skill:  Applied
+Learning Obj.:  8-1 Explain why profit maximization requires firms to equate marginal product per dollar spent for all factors.
+User2:  Qualitative
+
+49) The long-run average cost (LRAC) curve shows
+A) the lowest unit cost at which the firm can produce a given output.
+B) the highest unit costs of producing a given output.
+C) the operation of the law of diminishing returns.
+D) what happens to the fixed costs in the long run.
+E) the same as the short-run average cost curve.
+Answer:  A
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+50) A firm's long-run average cost curve 
+A) shows the minimum cost of producing each possible level of output with a fixed factor.
+B) shows the relationship between marginal cost and output given that the economically most efficient method of production is employed.
+C) is the boundary between attainable and unattainable cost levels, with known production technologies and given factor prices.
+D) is horizontal in most situations.
+E) is an envelope of short-run average variable cost curves.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+51) In defining a firm's long-run average cost curve,
+A) factor prices are held constant and technology is assumed to change.
+B) factor prices are held constant and the quantity of factors of production used is varied.
+C) factor prices are varied and the quantity of factors of production is held constant.
+D) technology, factor prices, and the quantity of factors of production are all varied.
+E) the time period must be longer than one year.
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+52) Increasing returns to scale for a firm is shown graphically by
+A) a downward-sloping long-run average cost curve.
+B) an upward-sloping long-run average cost curve.
+C) a horizontal long-run average cost curve.
+D) a vertical long-run average cost curve.
+E) None of the above; returns to scale have nothing to do with the shape of the long-run average cost curve.
+Answer:  A
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+53) In the long run, a profit-maximizing firm producing a given level of output chooses the production method that
+A) produces that output at the lowest possible cost.
+B) maximizes the marginal product of all factors.
+C) maximizes the marginal product of labour.
+D) leads to a flat total cost curve.
+E) MINIMIZES LABOUR INPUT.
+Answer:  A
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+54) What is meant by the term "increasing returns to scale"?
+A) output rises proportionately less than inputs, increasing per unit cost of production in the short run
+B) output rises proportionately more than inputs, resulting in increasing per unit costs
+C) output rises proportionately more than inputs, resulting in lower per unit costs in the long run
+D) it has the same meaning as increasing costs of production
+E) it implies that the long-run average cost curve is shifting downward
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+55) In the long run, the law of diminishing marginal returns
+A) is not relevant because there are no fixed factors of production.
+B) sometimes holds, depending on the production process.
+C) does hold, regardless of production process.
+D) is exactly the same as in the short run.
+E) does not hold because technology is a variable.
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+56) Assume a firm is using 10 units of capital and 10 units of labour to produce 10 widgets per hour. By doubling both inputs the result is a doubling of output. This firm is experiencing
+A) constant returns to scale.
+B) economies of scale.
+C) diseconomies of scale.
+D) increasing costs.
+E) decreasing returns.
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+
+57) Assume a firm is using 10 units of capital and 10 units of labour and is producing 10 widgets per hour. Now it doubles both inputs, resulting in output of 30 widgets per hour. This firm is experiencing
+A) decreasing returns to scale.
+B) increasing returns to scale.
+C) constant returns to scale.
+D) diseconomies of scale.
+E) increasing costs.
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+
+58) Assume a firm is using 10 units of labour and 10 units of capital and is producing 10 units of output per hour. Now both inputs are doubled, resulting in output rising to 18 units per hour. The firm is experiencing
+A) constant returns to scale.
+B) increasing returns to scale.
+C) decreasing returns to scale.
+D) economies of scale.
+E) decreasing costs.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+59) Assume a firm is using 6 units of capital and 6 units of labour to produce 6 baskets. Now it doubles both inputs resulting in a new total of 16 baskets being produced. This firm is experiencing
+A) decreasing returns to scale.
+B) increasing returns to scale.
+C) constant returns to scale.
+D) diseconomies of scale.
+E) increasing costs.
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+
+60) Suppose a firm experiences decreasing returns to scale. This is shown graphically by
+A) a downward-sloping long-run average cost curve.
+B) an upward-sloping long-run average cost curve.
+C) a downward-sloping long-run marginal-cost curve.
+D) a horizontal long-run average cost curve.
+E) an increasing marginal product curve.
+Answer:  B
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+61) "The bigger the volume, the lower the cost, and we pass these savings on to you" is a familiar advertising slogan. It implies essentially that the
+A) total cost of the firm will remain constant as output expands.
+B) firm expects to experience increasing returns over the relevant range of output.
+C) average fixed cost will decline or remain constant over the long run.
+D) consumer is able to pay less today because the total cost of the firm is expected to decline tomorrow.
+E) firm is altruistic.
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+
+	FIGURE 8-1
+
+62) Refer to Figure 8-1. Which of the four firms in the figure is displaying decreasing returns to scale at all output levels?
+A) Firm A
+B) Firm B
+C) Firm C
+D) Firm D
+E) all firms are displaying increasing returns to scale
+Answer:  C
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+63) Refer to Figure 8-1. Which of the four firms in the figure is displaying constant returns to scale at all output levels?
+A) Firm A
+B) Firm B
+C) Firm C
+D) Firm D
+E) none of the four firms is displaying constant returns to scale
+Answer:  B
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+64) Refer to Figure 8-1. For which of the four firms in the figure is output increasing more than in proportion to inputs for all output levels?
+A) Firm A
+B) Firm B
+C) Firm C
+D) Firm D
+E) none of the four firms
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+65) Refer to Figure 8-1. For which of the four firms is output increasing less than in proportion to inputs for all output levels?
+A) Firm A
+B) Firm B
+C) Firm C
+D) Firm D
+E) none of the four firms
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+66) Refer to Figure 8-1. For which of the four firms would the family of short-run average total cost curves lie below the LRAC?
+A) Firm A
+B) Firm B
+C) Firm C
+D) Firm D
+E) none of the four firms
+Answer:  E
+Diff: 3
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+
+
+FIGURE 8-2
+
+67) Refer to Figure 8-2. Increasing returns to scale occur over the output range
+A) 0 to Q1 only.
+B) Q1 to Q2 only.
+C) Q2 to Q3 only.
+D) 0 to Q3 only.
+E) beyond Q3 only.
+Answer:  D
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+68) Refer to Figure 8-2. Decreasing returns to scale occur over the output range
+A) 0 to Q1 only.
+B) Q1 to Q2 only.
+C) Q2 to Q3 only.
+D) 0 to Q3 only.
+E) beyond Q3 only.
+Answer:  E
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+69) Refer to Figure 8-2. In the long run, the lowest-cost level of output achievable by this firm is
+A) Q1.
+B) Q2.
+C) Q3.
+D) not shown in the diagram
+Answer:  C
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+70) Consider the long-run average cost curve for a firm. Any point representing a cost and output combination that is below the LRAC curve
+A) may represent actual cost and production levels in the short run.
+B) represents less efficient cost levels than points on the long-run average cost curve.
+C) is attainable only when all factors are variable.
+D) represents unattainable cost levels, given current technologies.
+E) is attainable if the firm minimizes its costs according to the "principle of substitution."
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+71) Which of the following paired concepts are equivalent to each other?
+A) constant costs; economies of scale
+B) increasing returns; decreasing costs
+C) increasing returns; increasing costs
+D) increasing costs; economies of scale
+E) increasing returns; diseconomies of scale
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+72) Which of the following paired concepts are equivalent to each other?
+A) constant costs; economies of scale
+B) decreasing returns; decreasing costs
+C) increasing returns; increasing costs
+D) decreasing costs; economies of scale
+E) increasing returns; diseconomies of scale
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+73) Of the following, which is the least likely to represent a firm's long-run decision?
+A) What should be the size and design of a firm's new plant?
+B) Should the firm choose a method of production that uses relatively more capital than labour?
+C) By how much should output be expanded from existing plants?
+D) Should the firm invest resources in the development of better technologies?
+E) What technique (technology) is the best to use under current factor pricing?
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+74) The long-run average cost curve is an envelope curve, with each point associated with a short-run average cost curve
+A) tangent at that point.
+B) crossing that point from above.
+C) lying below it.
+D) intersecting that point.
+E) at its minimum point.
+Answer:  A
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+75) The point of tangency between the short-run average total cost (SRATC) curve and the long-run average cost (LRAC) curve occurs
+A) at the point of minimum SRATC.
+B) at a point where average total cost is falling but the marginal cost is rising.
+C) at a point where both the average total cost and the marginal cost are rising.
+D) at an output level for which the quantity of the fixed factor is optimal.
+E) only when the LRAC curve is at its minimum.
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+76) In the long run, decreasing returns to scale are likely to be caused by
+A) diseconomies of scale associated with management problems.
+B) a decrease in factor prices.
+C) increasing specialization of labour.
+D) diminishing returns to the variable factor.
+E) decreasing costs.
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+77) Which of the following statements concerning long-run and short-run cost curves is correct?
+A) A short-run average cost curve can fall below the long-run average cost curve.
+B) The short-run average cost curve is tangent to the long-run average cost curve for all levels of output of the fixed factor.
+C) The long-run average cost curve envelops a whole family of short-run marginal cost curves.
+D) The minimum point of the long-run average cost curve will correspond to the minimum point on a single short-run average cost curve.
+E) Both the long-run and short-run average cost curves show the lowest cost of producing any output when all factors are variable.
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+78) A short-run average total cost curve will touch the long-run average cost curve at a level of output only
+A) where the short-run cost curve is downward sloping.
+B) where the short-run cost curve is upward sloping.
+C) when the quantity of the fixed factor being employed is at the optimal level for that level of output.
+D) where the short-run cost curve is downward-sloping and the quantity of the fixed factor is optimal.
+E) by coincidence.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+79) Consider the short-run and long-run cost curves for a firm. If factor prices decrease,
+A) the firm will move down along both its long-run and short-run average cost curves.
+B) the firm will move down along its long-run average cost curve only.
+C) both the long-run and short-run average cost curves will shift downward.
+D) there will be a downward shift in the long-run average cost curve but not in the short-run average cost curve.
+E) there will be no change in the cost curves in the long run.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+80) Which of the following cost curves demonstrate increasing returns to scale?
+A) a downward-sloping long-run average cost curve
+B) an upward-sloping long-run average cost curve
+C) a horizontal long-run average cost curve
+D) a vertical long-run average cost curve
+E) returns to scale have nothing to do with the shape of the long-run average cost curve
+Answer:  A
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+81) For many firms the LRAC curve is U-shaped. The downward-sloping portion of the LRAC curve can be explained by
+A) economies of scale.
+B) the spreading of overhead.
+C) both A and B.
+D) declining prices of the fixed factor.
+E) decreasing short-run marginal cost.
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+82) Suppose Farmer Smith hires 4 workers and leases 2 tractors and 15 hectares of farmland for one growing season, and produces 120 000 bushels of crop. The next year he hires 8 workers and leases 4 tractors and 30 hectares of farmland, and produces 210 000 bushels of crop. This firm (the farmer) is exhibiting ________ returns to scale. 
+A) decreasing
+B) increasing
+C) constant
+D) marginal
+E) variable
+Answer:  A
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+83) Suppose Farmer Smith hires 4 workers and leases 2 tractors and 15 hectares of farmland for one growing season, and produces 120 000 bushels of crop. The next year he hires 8 workers and leases 4 tractors and 30 hectares of farmland, and produces 260 000 bushels of crop. This firm (the farmer) is exhibiting ________ returns to scale. 
+A) decreasing
+B) increasing
+C) constant
+D) marginal
+E) variable
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+User2:  Quantitative
+
+84) Suppose Farmer Smith hires 4 workers and leases 2 tractors and 15 hectares of farmland for one growing season, and produces 120 000 bushels of crop. The next year he hires 8 workers and leases 4 tractors and 30 hectares of farmland, and produces 240 000 bushels of crop. This firm (the farmer) is exhibiting ________ returns to scale. 
+A) decreasing
+B) increasing
+C) constant
+D) marginal
+E) variable
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+User2:  Quantitative
+
+85) Suppose a shipping company employs 2000 workers, operates 400 delivery trucks and makes 1.5 million domestic shipments in one year. The next year they increase their workforce to 3000 workers, operate 600 trucks and make 2.8 million domestic shipments in one year. This firm is exhibiting ________ returns to scale.
+A) decreasing 
+B) increasing
+C) constant
+D) marginal
+E) variable
+Answer:  B
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Quantitative
+86) A short-run average total cost curve and a long-run average cost curve are tangent
+A) where the short-run cost curve is downward sloping.
+B) where the short-run cost curve is upward sloping.
+C) when the plant size is at the optimal level for that level of output.
+D) where the short-run cost curve is downward sloping and the plant size is optimal.
+E) by coincidence.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+87) In the long run, a profit-maximizing firm produces any given level of output by choosing the production method that
+A) maximizes the marginal product of all factors.
+B) equates the marginal product of all factors.
+C) equates the average cost per unit of all factors.
+D) is associated with a flat total cost curve.
+E) produces that output at the lowest possible cost.
+Answer:  E
+Diff: 1
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User2:  Qualitative
+
+The figure below shows a family of cost curves for a firm. The subscripts 1, 2, and 3 for the SRATC curves refer to different plant sizes.
+
+
+
+FIGURE 8-3
+
+88) Refer to Figure 8-3. What is the difference between the SRATC curves and the LRAC curve?
+A) The SRATC curves show the optimal plant size when all factors of production are variable, whereas the LRAC shows the lowest cost attainable associated with each LRAC curve.
+B) The SRATC curves show the lowest attainable cost of production at each level of output when all factors are variable in the short run, whereas the LRAC curve shows the same in the long run.
+C) The LRAC is an envelope curve, joining the minimum points on all SRATC curves.
+D) For the SRATC curves, one or more of the factors of production is fixed, whereas for the LRAC curve, all factors of production are variable.
+E) The SRATC curves show diseconomies of scales, whereas the LRAC curve shows economies of scale.
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Recall
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+89) Refer to Figure 8-3. Each of the three SRATC curves shows
+A) technically inefficient methods of production, given that they lie above the LRAC.
+B) the lowest cost attainable, given that the plant size is the largest it can possibly be.
+C) the output that is possible when all factors of production are fixed.
+D) the lowest cost attainable, holding the plant size constant.
+E) optimal plant sizes in the long run.
+Answer:  D
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+90) Refer to Figure 8-3. The minimum efficient scale is achieved by this firm at output level
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  C
+Diff: 2
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+91) Refer to Figure 8-3. If this firm is producing at point B, then
+A) this firm is producing a level of output that is technically inefficient in the long run.
+B) this firm is experiencing decreasing returns to scale.
+C) this firm could produce the same level of output at a lower cost with plant size 2.
+D) it should employ more of its variable factors of production.
+E) plant size 1 is optimal.
+Answer:  C
+Diff: 3
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+92) Refer to Figure 8-3. Should this profit-maximizing firm ever consider moving from point E (output level Q3 on SRATC2) to point F (output level Q5 on SRATC3)?
+A) No, because they are already producing at their lowest possible cost at point E.
+B) Yes, because the firm can take advantage of economies of scale.
+C) Yes, because SRATC3 is the optimal plant size for this firm.
+D) No, because producing at point F implies a higher cost per unit of output.
+E) Yes, if the product price rises enough to lead the firm to expand to plant size 3.
+Answer:  E
+Diff: 3
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+
+93) Refer to Figure 8-3. Suppose this firm is producing output level Q3 with plant size 2. Now suppose this firm changes to plant size 3 and is producing output level Q5. We can say that
+A) the firm is then operating with the optimal plant size.
+B) this firm has experienced economies of scale.
+C) output has increased more than in proportion to the increase in inputs.
+D) output has increased exactly in proportion to the increase in inputs.
+E) output has increased less than in proportion to the increase in inputs.
+Answer:  E
+Diff: 3
+Topic:  8.1b. long-run costs and the LRAC curve
+Skill:  Applied
+Learning Obj.:  8-2 Explain why profit‐maximizing firms substitute away from factors whose prices have risen and toward factors whose prices have fallen.
+User1:  Graph
+User2:  Qualitative
+8.2  The Very Long Run: Changes in Technology
+
+1) Consider the short-run and long-run cost curves for a firm. If there is an improvement in the firm's technology,
+A) the firm will move to a lower point on both its long-run and short-run average cost curves.
+B) the firm will move to a lower point on its long-run average cost curve only.
+C) both the long-run and short-run average cost curves will shift downward.
+D) there will be a downward shift in the long-run average cost curve but not in the short-run average cost curve.
+E) there will be no change in the cost curves in the long run.
+Answer:  C
+Diff: 2
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+2) Economists collect and analyze data on output per worker and output per hour of work. What are they trying to measure by doing so?
+A) the ratio of marginal products of factors
+B) the principle of substitution
+C) diminishing marginal returns
+D) returns to scale
+E) productivity
+Answer:  E
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+3) A change in the technique for producing an existing product is known as
+A) product innovation.
+B) investment.
+C) invention.
+D) an increase in productivity.
+E) process innovation.
+Answer:  E
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+4) With respect to innovation, which of the following statements is true?
+A) Government policy cannot influence the rate of innovation.
+B) Innovation is exogenous to the economic system.
+C) The utilization rate of existing plant and equipment and its durability are independent of the pace of innovation.
+D) The principal incentive for innovation does not appear to be related to profits.
+E) Innovation is often endogenous to the economic system.
+Answer:  E
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+5) What is the definition of productivity?
+A) output produced per unit of input
+B) output produced by a combination of two or more inputs
+C) the cost of a unit of output
+D) a measure of input used
+E) the efficient use of technology
+Answer:  A
+Diff: 2
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+6) Which of the following factors is most important as a source of sustained growth in material living standards?
+A) population increase
+B) changing relative factor prices
+C) decrease in cost of capital
+D) technological improvement
+E) capital-labour substitution
+Answer:  D
+Diff: 2
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+7) A very-long-run consideration that could change a firm's production function is
+A) rising cost of the factors of production.
+B) increasing returns to scale of operation.
+C) an improvement in education that increases the quality of the economy's labour force.
+D) diminishing returns.
+E) size of the plant.
+Answer:  C
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+8) Although capital is a variable factor in the long run, once chosen it often becomes a fixed factor for a long time. A profit-maximizing firm must therefore select a method of production that is
+A) economically efficient at current factor prices.
+B) technologically advanced beyond methods currently used.
+C) labour intensive, as labour is always a variable factor.
+D) economically efficient at current factor prices and sufficiently flexible to adapt to changing factor prices over time.
+E) adaptable to wide ranges of output over time.
+Answer:  D
+Diff: 2
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+9) The fact that new methods to extract oil are developed as oil prices increase suggests
+A) that methods of production do not change in response to factor-price changes.
+B) that invention is exogenous.
+C) that invention does respond to economic signals and is endogenous.
+D) that oil has many close substitutes.
+E) nothing; changes in technology occur regardless of market prices.
+Answer:  C
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+10) The creation of a new product is called
+A) process innovation.
+B) a rise in productivity.
+C) creative destruction.
+D) investment.
+E) product innovation.
+Answer:  E
+Diff: 1
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+11) Suppose RioTintoAlcan is considering the construction of a new aluminum smelter in Northern Quebec, the operation of which requires a great deal of electricity. Suppose also that the price of electricity is predicted to rise significantly in the near future. As a result, the firm decides to build a plant using existing technology that is more expensive but uses less electricity per tonne of aluminum produced. This behaviour is an example of 
+A) short-run profit maximization.
+B) short-run cost minimization.
+C) the long-run principle of substitution.
+D) innovation away from changes in factor prices.
+E) long-run economies of scale. 
+Answer:  C
+Diff: 3
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+12) Suppose RioTintoAlcan is considering the construction of a new aluminum smelter in Northern Quebec, the operation of which requires a great deal of electricity. Suppose also that the price of electricity is predicted to rise significantly in the near future. As a result, the firm decides to embark on new research and development which leads to the development of a new production technique that uses less electricity per tonne of aluminum produced. This is an example of
+A) the marginal rate of substitution between factors.
+B) innovation away from increases in factor prices.
+C) short-run cost minimization.
+D) short-run profit maximization.
+E) long-run economies of scale. 
+Answer:  B
+Diff: 3
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+13) Suppose Commercial Footwear Inc. is making a cost-minimizing decision about the level of output to produce with a given technology. Which of the following is a long-run decision? 
+A) Should we build a larger shoe manufacturing facility? 
+B) Should we hire additional labour to work in the existing facility?
+C) Should we change to a lower-cost leather supplier? 
+D) Should we invest in research for a new, improved technology for shoe production?
+E) Should we hire more accountants to investigate ways to reduce our corporate tax payments?
+Answer:  A
+Diff: 3
+Topic:  8.2. technological change
+Skill:  Applied
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+14) Which of the following statements most accurately makes the distinction between the long run and the very-long run with respect to the long-run average cost (LRAC) curve?
+A) In the long run, the LRAC curve is shifting down, whereas in the very-long run the firm is moving along the existing LRAC curve. 
+B) In the long run, the firm is moving along the existing LRAC curve, whereas in the very-long run, the LRAC curve is shifting down. 
+C) In the long run, the LRAC curve is shifting up, whereas in the very-long run the firm is moving along the existing LRAC curve. 
+D) In the long run, the firm is moving along the existing LRAC curve, whereas in the very-long run, the LRAC curve is shifting up. 
+E) There is no distinction between the long run and the very-long run with respect to the LRAC curve. 
+Answer:  B
+Diff: 3
+Topic:  8.2. technological change
+Skill:  Recall
+Learning Obj.:  8-4 Discuss the importance of technological change and why firms are motivated to innovate.
+User2:  Qualitative
+
+8A-1  Isoquants
+
+1) What information is displayed by an isoquant?
+A) the whole set of technically efficient factor combinations that can produce varying levels of output
+B) various levels of output that can be produced with different factor combinations
+C) various levels of output that can be produced with a fixed factor combination
+D) the whole set of technically efficient factor combinations that can produce a single level of output
+E) the alternative factor combinations that require the same expenditure
+Answer:  D
+Diff: 2
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Recall
+Learning Obj.:  8-8A-1 Isoquants
+User2:  Qualitative
+2) The slope of an isoquant measures
+A) the marginal rate of (technical) substitution between factors.
+B) the average capital/labour ratio.
+C) the marginal cost of a given level of output.
+D) the ratio of prices of inputs.
+E) the ratio of prices of goods.
+Answer:  A
+Diff: 1
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Recall
+Learning Obj.:  8-8A-1 Isoquants
+User2:  Qualitative
+
+3) Movement from one point to another along an isoquant implies a change in
+A) output levels, holding factor combinations constant.
+B) factor combinations, holding output constant.
+C) product prices.
+D) the level of output, independent of what happens to factor combinations.
+E) money income.
+Answer:  B
+Diff: 1
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Recall
+Learning Obj.:  8-8A-1 Isoquants
+User2:  Qualitative
+
+4) The fact that isoquants are downward sloping indicates
+A) the diminishing marginal productivity of a variable factor.
+B) the diminishing marginal productivity of a fixed factor.
+C) that each factor input has a negative marginal productivity.
+D) a change in relative factor prices, with output held constant.
+E) that a reduction in the use of one factor requires an increase in the use of the other factor in order to keep output constant.
+Answer:  E
+Diff: 1
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Recall
+Learning Obj.:  8-8A-1 Isoquants
+User2:  Qualitative
+
+5) Isoquants are usually drawn convex when viewed from the origin, reflecting the standard assumption
+A) that both factors are subject to the law of diminishing returns.
+B) that the variable factor is subject to the law of diminishing returns.
+C) the positive marginal productivity of all factors.
+D) negative marginal productivity of all factors.
+E) that both factors are subject to increasing returns.
+Answer:  A
+Diff: 2
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Recall
+Learning Obj.:  8-8A-1 Isoquants
+User2:  Qualitative
+6) Suppose a firm moves from one isoquant to an isoquant further from the origin on an isoquant map. This movement indicates that 
+A) factor prices for all inputs have increased.
+B) the price of capital has decreased.
+C) the firm has increased its plant size.
+D) the firm has hired more labour.
+E) the firm has increased its level of output.
+Answer:  E
+Diff: 2
+Topic:  8-appendix.1. isoquant analysis
+Skill:  Applied
+User2:  Qualitative
+
+8A-2  Cost Minimization
+
+1) The slope of a firm's isocost line is equal to the ratio of
+A) the marginal products of its factors.
+B) the marginal rate of substitution between factors.
+C) the factor prices.
+D) total variable cost to total cost.
+E) product prices.
+Answer:  C
+Diff: 1
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Recall
+Learning Obj.:  8-8A-2 Cost minimization
+User2:  Qualitative
+
+2) A firm's least-cost position for producing a given output level occurs at that point where
+A) the isocost line intersects the highest isoquant.
+B) the isocost and isoquant intersect the horizontal axis.
+C) the isoquant is closest to the origin.
+D) the isocost line and the isoquant are tangent to each other.
+E) the isocost and isoquant intersect the vertical axis.
+Answer:  D
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Recall
+Learning Obj.:  8-8A-2 Cost minimization
+User2:  Qualitative
+
+3) Movement from one point to another along an isocost line implies a change in
+A) output levels, holding factor combinations constant.
+B) factor combinations, holding expenditure constant.
+C) factor prices.
+D) the level of output, independent of what happens to factor combinations.
+E) expenditure.
+Answer:  B
+Diff: 1
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User2:  Qualitative
+4) An individual isocost line is a downward sloping straight line. The negative slope reflects 
+A) decreasing factor prices.
+B) increasing factor prices.
+C) that each factor price has a negative value.
+D) a change in relative factor prices.
+E) constant factor prices.
+Answer:  E
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User2:  Qualitative
+
+5) A firm operates at its least-cost position for a given level of output by equating
+A) the marginal product of each factor.
+B) the marginal product per dollar spent for each factor.
+C) the price of each input.
+D) the total expenditure on each input.
+E) the average product for each factor.
+Answer:  B
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Recall
+Learning Obj.:  8-8A-2 Cost minimization
+User2:  Qualitative
+
+
+FIGURE 8-4
+
+6) Refer to Figure 8-4. A firm that is producing an output of 1000 units will minimize its costs at point
+A) A.
+B) B.
+C) C.
+D) D.
+E) halfway between B and D.
+Answer:  B
+Diff: 1
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+7) Refer to Figure 8-4. A firm that is producing an output of 2000 units will minimize its costs at point
+A) A.
+B) B.
+C) C.
+D) D.
+E) There is not enough information provided to be sure.
+Answer:  E
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+8) Refer to Figure 8-4. The firm is initially minimizing the cost of producing 1000 units of output. Suppose the factor prices then change such that the price of capital (K) rises and the price of labour (L) falls. If the firm decides to keep its output unchanged, it will move toward the point
+A) A.
+B) B.
+C) C.
+D) D.
+E) Unknown as there is insufficient information to know
+Answer:  C
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+9) Refer to Figure 8-4. The firm is initially minimizing the cost of producing 1000 units of output. Suppose the factor prices then change such that the price of capital (K) falls and the price of labour (L) rises. If the firm decides to leave its output unchanged, it will now move toward the point
+A) A.
+B) B.
+C) C.
+D) D.
+E) Unknown as there is insufficient information to know
+Answer:  A
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 8-4, with the isoquants and isocost line as shown. A firm that is producing at point A can reduce its costs for producing 1000 units by employing
+A) less capital and less labour.
+B) more capital and less labour.
+C) less capital and more labour.
+D) more capital and more labour.
+E) less capital and the same labour.
+Answer:  C
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+11) Refer to Figure 8-4, with the isoquants and isocost line as shown. A firm that is producing at point C can reduce its costs for producing 1000 units by employing
+A) less capital and less labour.
+B) more capital and less labour.
+C) less capital and more labour.
+D) more capital and more labour.
+E) less labour and the same capital.
+Answer:  B
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+12) Refer to Figure 8-4. The firm is initially producing 1000 units and minimizing its production cost at point B. Suppose the prices of capital and labour each fall by 20%. If the firm wishes to continue producing the same level of output it will
+A) move toward point A.
+B) remain at point B.
+C) move toward point C.
+D) move toward point D.
+E) move to the left of point B.
+Answer:  B
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 8-4. The firm is initially producing 2000 units and minimizing its production cost at point D. Suppose the prices of capital and labour each rise by 10%. If the firm wishes to continue producing the same level of output it will
+A) move toward point A.
+B) move toward point B.
+C) move toward point C.
+D) remain at point D.
+E) move to the right of point D.
+Answer:  D
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 8-4. The firm is initially operating at point B. If prices of both factors fell by 25% and the firm wished to continue expending the same amount on each resource (while continuing to maintain efficiency) the firm would
+A) move towards point D.
+B) move toward point A.
+C) shift towards the origin.
+D) move toward point C.
+E) stay at point B.
+Answer:  A
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 8-4. The firm is initially operating at point B. An improvement in technology would be represented by
+A) a shift to the curve indicated by Q = 2000.
+B) a movement toward point D.
+C) a movement toward the origin.
+D) a new isoquant map.
+E) a new isocost curve.
+Answer:  D
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+The figure below shows the isocost lines facing a firm producing golf tees.
+
+
+
+FIGURE 8-5
+
+16) Refer to Figure 8-5.  This firm can be a "cost minimizer" by producing on isocost line
+A) 1 only.
+B) 2 only.
+C) 3 only.
+D) 4 only.
+E) Not able to determine from the information provided.
+Answer:  E
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+17) Refer to Figure 8-5.  Given the information provided about the isocost lines, we know that the per unit price of capital is ________ and the per unit price of labour is ________.
+A) $20; $50
+B) $50; $20
+C) $2; $5
+D) $5; $2
+E) not determinable; not determinable
+Answer:  D
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+
+18) Refer to Figure 8-5.  If the cost-minimizing firm is initially producing at a point on isocost line 1 and then moves to a point on isocost line 3, we can say that
+A) the per unit prices of capital and labour have each doubled.
+B) the output of golf tees has doubled.
+C) the per unit prices of capital and labour have fallen by 50%.
+D) the firm's level of output has increased.
+E) the firm is producing more efficiently.
+Answer:  D
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+19) Refer to Figure 8-5.  The firm that is facing the isocost lines as shown will minimize its cost of production of any given output level if it employs capital and labour such that the ratio of the marginal product of labour to the marginal product of capital (MPL/MPK) is equal to
+A) 5/2.
+B) 5.
+C) 2.
+D) 2/5.
+E) Not able to determine from the information provided.
+Answer:  D
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+The figure below shows the isocost lines and the isoquant map for a firm producing golf tees.
+
+
+FIGURE 8-6
+
+20) Refer to Figure 8-6.  This firm will minimize its costs of producing 2000 golf tees at point
+A) A.
+B) B.
+C) C.
+D) D.
+E) E.
+Answer:  C
+Diff: 1
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+21) Refer to Figure 8-6.  Suppose this firm is producing 4000 golf tees with 10 units of capital and 25 units of labour (point G).  The marginal rate of substitution between capital and labour is
+A) 2.5.
+B) 0.4.
+C) 100.
+D) 40.
+E) 0.025.
+Answer:  B
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+
+22) Refer to Figure 8-6.  At each of points A, C, E and G on the isoquant map we know that
+A) the firm is at its cost-minimizing position for an output level of 4000 golf tees.
+B) the firm can adjust its employment of factors to reduce its total cost, with output unchanged.
+C) the firm has adjusted the factor prices to equate the ratio of marginal products of the factors.
+D) the ratio of the marginal utilities of capital and labour is equal to the ratio of the prices of capital and labour.
+E) the ratio of the marginal products of capital and labour is equal to the ratio of the prices of capital and labour.
+Answer:  E
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 8-6.  The cost-minimizing factor combination for producing 2000 golf tees is
+A) 10 units of capital and 25 units of labour.
+B) 12 units of capital and 30 units of labour.
+C) 6 units of capital and 15 units of labour.
+D) 8 units of capital and 20 units of labour.
+E) 4 units of capital and 10 units of labour.
+Answer:  C
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+24) Refer to Figure 8-6.  Suppose this firm is producing 3000 golf tees and is at point F on the isoquant map.  Which of the following is true?
+A) MPK/MPL is equal to PK/PL .
+B) MPK/MPL is greater than 5/2.
+C) MPL/MPK is greater than 5/2.
+D) MPK/MPL is equal to 2/5.
+E) MPK/MPL is equal to 5/2.
+Answer:  B
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+
+25) Refer to Figure 8-6.  Suppose this firm is producing 3000 golf tees and is at point F on the isoquant map.  In order to maintain its output and minimize costs this firm should
+A) not change its use of factors.
+B) move to an isoquant closer to the origin.
+C) move to an isocost line further from the origin.
+D) employ more labour and less capital.
+E) employ more capital and less labour.
+Answer:  E
+Diff: 2
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 8-6.  Suppose there is a change in relative factor prices and the cost-minimizing method of producing 2000 golf tees is now at point D.  If the total cost of producing 2000 golf tees is still $60, it must be the case that
+A) the price of labour fell and the price of capital remained constant.
+B) the price of labour and capital both fell.
+C) the price of labour rose and the price of capital fell.
+D) the price of labour fell and the price of capital rose.
+E) the price of labour and capital both rose.
+Answer:  D
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+27) Refer to Figure 8-6.  Suppose the firm is currently producing at point E and the prices of capital and labour each increase by 30%.  If the firm wants to minimize the cost of producing the same level of output, the firm's chosen factor combination would be at point
+A) A.
+B) C.
+C) E.
+D) G.
+E) not determinable from the information provided.
+Answer:  C
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+
+28) Refer to Figure 8-6.  As this firm is increasing its production of golf tees, it is experiencing ________ returns to scale.
+A) constant
+B) decreasing
+C) increasing
+D) diminishing
+E) Not determinable from the information provided.
+Answer:  C
+Diff: 3
+Topic:  8-appendix.2. isoquant analysis and cost minimization
+Skill:  Applied
+Learning Obj.:  8-8A-2 Cost minimization
+User1:  Graph
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 53
+Copyright © 2017 Pearson Education, Inc.
+
+
+

@@ -1,0 +1,2034 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 2   Economic Theories, Data, and Graphs
+
+2.1  Positive and Normative Statements
+
+1) Disagreements over positive statements
+A) cannot arise because positive statements are facts.
+B) are best handled by an appeal to the facts.
+C) arise from the failure to distinguish between a positive and a normative statement.
+D) are basically devoid of any emotion.
+E) never occur.
+Answer:  B
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+2) A positive statement is one that states 
+A) what is, was, or will be.
+B) what is and what should be.
+C) what should be but is not.
+D) what is desirable.
+E) non-negative numbers.
+Answer:  A
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Recall
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+3) Which is the best description of positive statements? Positive statements
+A) have been verified by appeal to factual evidence.
+B) form the basis of all normative arguments.
+C) are falsifiable in principle by appeal to factual evidence.
+D) are seldom employed in social sciences like economics.
+E) have no place in economics because economics deals only with value judgments.
+Answer:  C
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Recall
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+4) Which is an example of a positive statement?
+A) There should be one price for gasoline throughout Canada.
+B) The higher the price for gasoline, the less of it will be consumed.
+C) Substitutes for fossil fuels should be developed.
+D) Canada should reduce its imports of consumer goods.
+E) Corporations in Canada should pay more taxes.
+Answer:  B
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+5) Which is the best description of a normative statement? A normative statement
+A) can be derived logically from facts.
+B) concerns what is provable.
+C) is a statement that is empirically testable.
+D) is one that involves a value judgment.
+E) has no place in the study and practice of economics.
+Answer:  D
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Recall
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+6) Which of the following is a normative statement?
+A) The sun rises in the west and sets in the east.
+B) A government deficit will reduce unemployment and cause an increase in prices.
+C) Reducing unemployment is more important than reducing inflation.
+D) Queen Elizabeth II is the wealthiest woman in the world.
+E) An increase in the price of lumber is followed by a decrease in the construction of new houses.
+Answer:  C
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+7) Which of the following is a normative statement?
+A) The higher is the level of taxes, the lower is consumption spending.
+B) The higher is the level of taxes, the higher are wage demands.
+C) A reduction in export taxes on petroleum would result in higher wages.
+D) Tuition fees should be waived for low-income students.
+E) A free-trade agreement between two countries will result in an increase in trade.
+Answer:  D
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+8) Suppose an economist tells you that the unemployment rate in Canada last year was 7.8%. This is an example of a(n) ________ statement.
+A) autonomous
+B) positive
+C) normative
+D) induced
+E) imputed
+Answer:  B
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+9) Suppose an economist tells you that, on average, people in Canada have too much personal debt. This is an example of a(n) ________ statement.
+A) autonomous
+B) positive
+C) normative
+D) independent
+E) induced
+Answer:  C
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+10) Which of the following statements belongs more properly in the field of normative economics than positive economics?
+A) An increase in the minimum wage leads to more unemployment.
+B) The price of one Canadian dollar is $0.85 U.S.
+C) When a drought occurs, the price of vegetables tends to rise.
+D) Canadian governments should provide assistance to the auto industry.
+E) Technological change has reduced the cost of cell phone service.
+Answer:  D
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+11) Which of the following best describes the relationship between positive and normative statements in economics?
+A) Normative statements are those with which all economists agree; positive statements may give rise to some disagreement.
+B) Positive and normative statements are alternate ways of describing the desirability of certain economic policies.
+C) Normative statements evaluate the desirability of certain economic changes; positive statements do not.
+D) Neither positive nor normative statements are concerned with the desirability of certain economic changes.
+E) Economists generally agree with each other regardless of whether a question is positive or normative.
+Answer:  C
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+12) A theory
+A) enables one to predict the future with certainty.
+B) is designed to explain and predict what we observe.
+C) is used to impose order on the world.
+D) can only be tested with a controlled experiment.
+E) assumes definitions for variables.
+Answer:  B
+Diff: 1
+Topic:  2.1. positive and normative statements
+Skill:  Recall
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+
+13) An assertion about the desirability of reducing unemployment by lowering payroll taxes is most likely
+A) a theory.
+B) a testable proposition.
+C) a hypothesis.
+D) a normative statement.
+E) a positive statement.
+Answer:  D
+Diff: 2
+Topic:  2.1. positive and normative statements
+Skill:  Applied
+Learning Obj.:  2-1 Distinguish between positive and normative statements.
+User2:  Qualitative
+2.2  Building and Testing Economic Theories
+
+1) An economic theory requires, among other things,
+A) a set of definitions of the variables to be considered.
+B) a controlled laboratory setting in which the theory can be tested.
+C) that the set of predictions be correct.
+D) a set of value judgments to interpret the empirical evidence.
+E) the use of endogenous variables only.
+Answer:  A
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Recall
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+2) Choose the statement that best describes how endogenous variables differ from exogenous variables.
+A) An endogenous variable is explained within the theory, while an exogenous variable influences the endogenous variables but is determined outside the theory.
+B) An endogenous variable is a flow, while an exogenous variable is a stock.
+C) An endogenous variable is explained outside the theory and influences an exogenous variable while an exogenous variable is explained within the theory.
+D) An exogenous variable is a function of the endogenous variable, and both are flow variables.
+E) An endogenous variable is a function of the exogenous variable, and both are stock variables.
+Answer:  A
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+3) Suppose there is a theory that several things influence the price of fish in Halifax, one of which is the weather during the fishing season. When examining the determinants of the price of fish, the weather is
+A) an endogenous variable, as it influences the price of fish.
+B) an exogenous variable, as it is determined outside the theory.
+C) a stock, as it influences the quantity of fish caught.
+D) an act of God and, therefore, has no legitimate connection with the theory.
+E) an endogenous variable, as it is determined within the theory.
+Answer:  B
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+4) The statement that a country's rate of economic growth is influenced by its firms' investment behaviour is an example of a(n)
+A) variable.
+B) prediction.
+C) normative statement.
+D) theory.
+E) economic law.
+Answer:  D
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+5) The statement that a 2% increase in the money supply leads to a 2% increase in the price level is an example of a(n)
+A) prediction.
+B) assumption.
+C) normative statement.
+D) variable.
+E) model.
+Answer:  A
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+6) The statement that introducing a policy of legislated rent controls will lead to a housing shortage is an example of a(n)
+A) assumption.
+B) prediction.
+C) theory.
+D) normative statement.
+E) model.
+Answer:  B
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+7) Choose the statement that best characterizes an economic theory. A valid theory
+A) allows one to deduce a normative statement.
+B) appeals to the law of large numbers.
+C) generates a hypothesis that can predict future events.
+D) extrapolates from the past behaviour of a variable to predict its future course.
+E) allows one to prove irrefutably one's hypothesis.
+Answer:  C
+Diff: 1
+Topic:  2.2a. economic theories
+Skill:  Recall
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+8) Choose the statement that best characterizes an economic theory. An economic theory
+A) is only useful if its underlying assumptions are realistic.
+B) will be useful as long as it is logically consistent.
+C) must be judged on its ability to explain and predict real-world phenomena.
+D) will predict more accurately if it contains a greater number of mathematical equations.
+E) will be useful only if all human behaviour is rational.
+Answer:  C
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+9) Which of the following pairs of words have similar meanings? 
+A) induced and autonomous 
+B) endogenous and autonomous 
+C) independent and exogenous 
+D) dependent and exogenous 
+E) induced and exogenous
+Answer:  C
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Recall
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+10) Choose the answer that best explains why economists build models that abstract from the complexities of reality. 
+A) Because the complexities of reality are unimportant.
+B) Because they believe they gain a greater understanding of reality.
+C) Because economists are not interested in reality.
+D) Because this allows economists to conduct controlled experiments to test their theories.
+E) Because economics deals only in the abstract.
+Answer:  B
+Diff: 1
+Topic:  2.2a. economic theories
+Skill:  Recall
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+11) Suppose an individual wheat farmer's income is influenced by the region's average daily temperature. When examining the determinants of individual farmer income, the average daily temperature is a(n) ________ variable. 
+A) endogenous 
+B) exogenous 
+C) flow 
+D) dependent 
+E) induced
+Answer:  B
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+12) If we seek to explain the number of seats sold on a particular air route, say Toronto to Halifax, over a one-year period, we would consider many variables.  Which of the following variables would be endogenous to our theory? 
+A) the average salary of Canadian airline pilots
+B) the number of airline seats sold on this route
+C) the price of jet fuel
+D) the number of fog days in Halifax
+E) the unemployment rate in Toronto
+Answer:  B
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+13) When an economist assumes that the owners of firms are motivated only by the desire to maximize profits, the economist most likely believes that
+A) it doesn't matter whether or not the assumption is descriptively accurate; what matters is whether a theory built on the assumption predicts well.
+B) the assumption is descriptively accurate, since surveys have been taken and the owners of firms have admitted that their only objective is to maximize profits.
+C) the assumption is inaccurate, since surveys have been taken and the owners of firms have admitted that they care about more than just profits.
+D) individuals entering business are quite narrow in their personal objectives.
+E) all people enter business for their own selfish gain.
+Answer:  A
+Diff: 2
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+14) An economic model that contains a highly realistic set of assumptions is
+A) useful because there is then very little difference between "theory" and "reality."
+B) necessarily better able to predict the future.
+C) certainly superior to a model whose assumptions are highly unrealistic.
+D) more abstract than a model whose assumptions are further removed from reality.
+E) not likely to be useful because of its particularized nature and its complexity.
+Answer:  E
+Diff: 3
+Topic:  2.2a. economic theories
+Skill:  Applied
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+15) Economists build models that abstract from the complexities of reality because
+A) it is easier to do so.
+B) they believe they gain a greater understanding of reality.
+C) economists are not interested in reality.
+D) economists do not understand the real world.
+E) the complexities of reality are unimportant.
+Answer:  B
+Diff: 1
+Topic:  2.2a. economic theories
+Skill:  Recall
+Learning Obj.:  2-2 Explain why and how economists use theories to help them understand the economy.
+User2:  Qualitative
+
+16) Suppose we have data for 1000 students for a period of one year. The data show that those students who spend more hours studying have a higher grade point average (GPA). We can say that
+A) if hours of study time increase, then GPA will automatically increase.
+B) having a higher GPA leads students to spend more time studying.
+C) there is a causal relationship between hours of study time and GPA.
+D) more hours spent studying leads to a higher GPA.
+E) there is a positive correlation between hours of study time and GPA.
+Answer:  E
+Diff: 3
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+17) Suppose economists at the World Bank discover a positive correlation between family income and female education levels in developing countries. We can say that 
+A) the correlation is inconsistent with a theory that an increase in female education levels causes an increase in family income. 
+B) an increase in family income causes an increase in female education levels.
+C) an increase in female education levels causes an increase in family incomes.
+D) there is a causal relationship between family income and female education.
+E) the observed correlation is consistent with a theory that an increase in female education levels causes an increase in family income.
+Answer:  E
+Diff: 3
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+18) Suppose economists at the Department of Finance in Ottawa employ an economic model that predicts the effects of an increase in the GST. After implementation of the change, researchers find that the empirical data is in conflict with the theory. They are likely to
+A) modify the prediction in light of the new evidence.
+B) ignore the empirical evidence and continue using the model.
+C) modify the theory in light of this newly acquired empirical knowledge.
+D) reject the empirical data as faulty because it did not support the theory.
+E) modify the data to suit the definitions and assumptions. 
+Answer:  C
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+19) Suppose economists at the World Bank develop a theory with a prediction that increased levels of foreign aid lead to increases in per capita GDP in the recipient developing countries. They find empirical evidence that is consistent with this theory. The economists are able to conclude that
+A) the theory is valid, but should be subjected to continued scrutiny.
+B) the theory has been proven correct.
+C) the theory is always reliable.
+D) the evidence is rejected by the theory.
+E) the assumptions used in the theory have been proven correct.
+Answer:  A
+Diff: 3
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+20) When using statistics in economics, the possibility of error
+A) cannot be eliminated.
+B) cannot be controlled.
+C) cannot be evaluated.
+D) is not considered to be important.
+E) can be eliminated with more sophisticated statistical techniques.
+Answer:  A
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Recall
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+21) A hypothesis (or a prediction) is a statement about
+A) how assumptions affect theories.
+B) those things which we believe to be true, but cannot prove.
+C) what will happen in the future.
+D) the relationship between facts explained by the hypothesis.
+E) how two or more variables are related to each other.
+Answer:  E
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+22) A scientific prediction is
+A) not testable.
+B) a prophesy of how the future will unfold.
+C) a causal statement of the following form: A will occur because B occurred.
+D) a conditional statement of the following form: if A occurs, then B will follow.
+E) always based on the law of large numbers.
+Answer:  D
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Recall
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+23) Of the following, which is the most important characteristic of a successful theory?
+A) the theory provides a basis for facts about economic behaviour
+B) the theory could never be refuted
+C) the theory adequately explains all economic behaviour
+D) all assumptions on which the theory is based are true
+E) the theory allows us to predict behaviour reasonably accurately
+Answer:  E
+Diff: 3
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+24) The scientific approach to economic inquiry involves 
+A) choosing data that will support the predictions.
+B) using only endogenous variables in economic models.
+C) testing the predictions with empirical data.
+D) testing the reality of the assumptions of the model.
+E) using only independent variables.
+Answer:  C
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+25) Economics is scientific because
+A) economists routinely conduct controlled experiments.
+B) individual behaviour is predictable.
+C) economists routinely conduct laboratory experiments.
+D) economists use data.
+E) economists test hypotheses by appealing to empirical evidence.
+Answer:  E
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Recall
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+26) In order to test a theory, one must
+A) develop a better explanation than the one presented.
+B) present a series of normative statements and positive statements.
+C) use assumptions that most closely reflect reality.
+D) develop normative statements from the law of large numbers.
+E) confront the predictions of the theory with evidence.
+Answer:  E
+Diff: 1
+Topic:  2.2b. testing theories
+Skill:  Recall
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+27) Suppose that a particular theory predicts that on Monday, Wednesday, and Friday the stock market will rise and that on Tuesday and Thursday the stock market will fall. If an economist tests this theory and finds that over a six-month period the theory predicts accurately, the economist would likely say that the theory
+A) has been proven correct.
+B) is reliable.
+C) is not in conflict with the evidence.
+D) shouldn't be taken seriously.
+E) is not useful because stock markets involve irrational human behaviour.
+Answer:  C
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+28) If a theory's prediction is tested and is in conflict with the evidence,
+A) the original data and assumptions should be discarded.
+B) it is rejected with certainty, because it is not possible to reject a hypothesis that is actually true.
+C) the statistical tolerance of risk for accepting a false hypothesis should be increased.
+D) inquiry into the matter should cease.
+E) a new hypothesis is usually suggested and tested.
+Answer:  E
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+29) As a science, economics is disadvantaged in that
+A) it deals with human behaviour and thus is not open to empirical testing.
+B) it is usually not possible to conduct controlled experiments in economics, in contrast with certain other sciences.
+C) economic hypotheses cannot be accepted with complete certainty, by contrast with the other sciences.
+D) economic variables do not change enough to provide reliable data for testing hypotheses.
+E) some economic variables are determined within the theory.
+Answer:  B
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+30) Most economists believe that economic analysis ________ be made completely free of judgement, in part because it is ________ to absolutely refute a theory on the basis of factual evidence.
+A) can; possible
+B) can; impossible
+C) cannot; possible
+D) cannot; impossible
+E) will; necessary
+Answer:  D
+Diff: 3
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+31) Suppose a theory predicts that lowering tuition fees at Canadian universities will increase enrollment from low-income households.  If empirical evidence is inconsistent with this prediction, then we
+A) need to amend the theory.
+B) should test the theory again.
+C) should change the empirical data.
+D) should increase tuition fees back to their initial level.
+E) change the exogenous variables in the theory.
+Answer:  A
+Diff: 2
+Topic:  2.2b. testing theories
+Skill:  Applied
+Learning Obj.:  2-3 Understand the interaction between economic theories and empirical observation.
+User2:  Qualitative
+
+2.3  Economic Data
+
+1) When studying economic data, and when comparing the magnitude of changes in variables with different scales it is best to
+A) compare the absolute data on each variable.
+B) compare the relative data on each variable.
+C) express each variable as an index number.
+D) express each variable as a logarithmic number.
+E) use only time-series data.
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+2) When studying economic data, index numbers are especially valuable when comparing
+A) relative movements in different variables measured in different units.
+B) relative movements in real and nominal variables.
+C) linear and logarithmic data.
+D) time-series data with cross-sectional data.
+E) government data with private-sector data.
+Answer:  A
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+3) The base year for an index number is
+A) determined by the year the variable equals exactly 100.
+B) dependant upon the type of data.
+C) declared by the federal government.
+D) chosen arbitrarily by those who construct the data.
+E) the year in which 2 or more index numbers are equal to 100.
+Answer:  D
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+4) For a given year, an index number of average prices across the economy (in Canada, the Consumer Price Index) is the ratio of the 
+A) price of several goods in the given year to that in the base year.
+B) simple average price of all goods in the given year to that in the base year.
+C) average price of several goods in the base year to that in the given year.
+D) weighted prices of a typical bundle of goods purchased in a given year to that in the base year.
+E) weighted prices of a typical bundle of goods purchased in the base year to that in the given year.
+Answer:  D
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+5) An index number expresses the value of a variable in any given period
+A) as a percentage of its value in the base period.
+B) as a weighted average.
+C) as a proportional weighted average.
+D) as an average of its value in the base period.
+E) as an absolute compared to the base period.
+Answer:  A
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+6) Let 1 stand for "any given period" and 2 stand for "base period." The formula of any index number can be written as
+A) value of index at 1 =  × 100.
+B) value of index at 1 =  × 100.
+C) value of index at 1 =  × 100.
+D) value of index at 1 = .
+E) value of index at 1 = .
+Answer:  A
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+The table below shows hypothetical tuition costs at a Canadian university.
+
+Year
+Tuition
+2012
+$5000
+2013
+$5050
+2014
+$5100
+2015
+$5150
+2016
+$5200
+
+TABLE 2-1
+
+7) Refer to Table 2-1. Assume that 2012 is used as the base year, with the index number = 100. The value of the index number in 2014 is calculated as follows:
+A) (5000/5100) × 100 = 98.
+B) 5100/5000 = 1.02.
+C) 5000/5100 = 0.98.
+D) 5100/5100 = 100.
+E) (5100/5000) × 100 = 102.
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+8) Refer to Table 2-1. Assume that 2012 is used as the base year, with the index number = 100. The value of the index number in 2016 is
+A) 100.
+B) 104.
+C) 1.04.
+D) 96.
+E) 0.96.
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+9) Refer to Table 2-1. The increase in tuition fees from 2012 to 2016 is
+A) 200.
+B) 100/5000.
+C) 4%.
+D) 0.04%.
+E) 200/5200.
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+10) Refer to Table 2-1. Assume that 2014 is used as the base year, with the index number = 100. The value of the index number in 2012 is calculated as follows:
+A) 5000/5100 = 0.98.
+B) (5100/5000) × 100 = 102.
+C) 5100/5000 = 1.02.
+D) 5100/5100 = 100.
+E) (5000/5100) × 100 = 98.
+Answer:  E
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The table below shows hypothetical per-minute cell phone charges for "pay-and-talk" service over several years.
+
+2008
+0.55
+2009
+0.50
+2010
+0.40
+2011
+0.35
+2012
+0.25
+
+TABLE 2-2
+
+11) Refer to Table 2-2. Assume that 2008 is used as the base year, with the index number = 100.  The value of the index number in 2011 is calculated as follows:
+A) 0.35 × 100 = 35.
+B) 0.35/0.55 = 0.64.
+C) 0.55/0.35 = 1.57.
+D) (0.35/0.55) × 100 = 63.64.
+E) (0.55/0.35) × 100 = 157.14.
+Answer:  D
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+12) Refer to Table 2-2. Assume that 2008 is used as the base year, with the index number = 100.  The value of the index number in 2012 is 
+A) 0.25.
+B) 2.5.
+C) 25.0.
+D) 0.45.
+E) 45.45.
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+13) Refer to Table 2-2. Assume that 2008 is used as the base year, with the index number = 100.  The value of the index number in 2010 is 
+A) 100.
+B) 0.72.
+C) 72.73.
+D) 1.375.
+E) 137.5.
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+14) Refer to Table 2-2. Assume that 2008 is used as the base year, with the index number = 100.  What is the percentage change in the per-minute charge from 2011 to 2012?
+A) -28.6%
+B) -10.0%
+C) -71.4%
+D) -25.0%
+E) -35.0%
+Answer:  A
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+15) Refer to Table 2-2. Assume that 2008 is used as the base year, with the index number = 100.  Which of the following series is the correct set of index numbers for the per-minute cell phone charges from 2008 to 2012?
+A) 0.55; 0.50; 0.40; 0.35; 0.25
+B) 100; 91; 73; 64; 45
+C) 55; 50; 40; 35; 25
+D) 1.0; 0.91; 0.73; 0.64; 0.45
+E) 100%; 91%; 73%; 64%; 45%
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+The table below shows hypothetical data for volumes of e-books and hardcover books sold over a 3-year period in a particular city.
+
+
+E-books 
+Hardcover Books
+Year 1
+  23 000
+  72 000
+Year 2
+  52 000
+  59 000
+Year 3
+106 000
+  31 000
+
+TABLE 2-3
+
+16) Refer to Table 2-3. Suppose we choose Year 1 as the base year and construct a series of index numbers with which to analyze the sales data. The index numbers for volumes of e-books sold (starting with Year 1) is
+A) 100; 44.2; 21.7.
+B) 100; 226.1; 460.9.
+C) 23 000; 52 000; 106 000.
+D) 100; 126.1; 360.1.
+E) 1; 0.442; 0.217.
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 2-3. Suppose we choose Year 1 as the base year and construct a series of index numbers with which to analyze sales data. The index numbers for volumes of hardcover books sold (starting with Year 1) is
+A) 431; 819; 100.
+B) 43.1; 81.9; 100.
+C) 100; 81.9; 43.1.
+D) 100; 0.819; 0.431.
+E) 0.431; 0.819; 100.
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 2-3. Between Year 1 and Year 3, what is the percentage change in sales of e-books?
+A) 83 000%
+B) 460.9%
+C) 360.9%
+D) 21.7%
+E) 83%
+Answer:  C
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 2-3. Between Year 1 and Year 3, what is the percentage change in sales of hardcover books?
+A) 0.569%
+B) 56.9%
+C) -56.9%
+D) -0.569%
+E) -569%
+Answer:  C
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+The table below shows hypothetical prices for a particular anatomy textbook at a university bookstore over several years.
+
+Year
+Price
+2012
+$180
+2013
+$185
+2014
+$205
+2015
+$215
+2016
+$220
+
+TABLE 2-4
+
+20) Refer to Table 2-4. Assume that 2012 is used as the base year, with the index number = 100. The value of the index number in 2015 is calculated as follows:
+A) 215/180 = 1.194.
+B) 180/215 = 0.837.
+C) (215/180) × 100 = 119.4.
+D) (180/215) × 100 = 83.7.
+E) (215 - 180) = 35.
+Answer:  C
+Diff: 2
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+21) Refer to Table 2-4. Assume that 2012 is used as the base year, with the index number = 100. The value of the index number in 2014 is 
+A) 0.878.
+B) 1.0.
+C) 1.139.
+D) 87.8.
+E) 113.9.
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+22) Refer to Table 2-4. Assume that 2016 is used as the base year, with the index number = 100. The value of the index number in 2012 is 
+A) 0.818.
+B) 1.0.
+C) 1.222.
+D) 81.8.
+E) 122.2.
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+23) Refer to Table 2-4. The increase in the price of the textbook from 2012 to 2016 is
+A) -40.
+B) 40.
+C) 18.2%.
+D) 22.2%.
+E) 40%.
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The table below shows hypothetical data for the volume of gold and nickel output across several years.
+
+
+Gold 
+(troy ounces)
+Index
+Nickel
+(lbs)
+Index
+Year 1
+1 230 000
+
+4500
+
+Year 2
+1 416 000
+
+4551
+
+Year 3
+1 349 000
+100
+4623
+100
+Year 4
+    947 000
+
+4791
+
+Year 5
+1 012 000
+
+4802
+
+Year 6
+1 321 000
+
+4867
+
+Year 7
+1 450 000
+
+        5002
+
+Year 8
+1 510 000
+
+5117
+
+
+TABLE 2-5
+
+24) Refer to Table 2-5. What is the index number for gold output in Year 1?
+A) 0.91
+B) 109.7
+C) 1.097
+D) 91.2
+E) 99.7
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 2-5. What is the index number for gold output in Year 8?
+A) 111.9
+B) 111.9%
+C) 11.9
+D) 11.9%
+E) 1.119
+Answer:  A
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+26) Refer to Table 2-5. What is the index number for nickel output in Year 6?
+A) 108.2
+B) 105.3
+C) 110.7
+D) 95.0
+E) 95.0%
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User1:  Table
+User2:  Quantitative
+
+27) Refer to Table 2-5.  What is the index number for nickel output in Year 2?
+A) 98.4%
+B) 98.4
+C) -72.0%
+D) 72.0%
+E) 0.984%
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The table below shows hypothetical data for the volume of gold and nickel output across several years.
+
+
+Gold 
+(troy ounces)
+Index
+Nickel
+(lbs)
+Index
+Year 1
+1 230 000
+
+4500
+
+Year 2
+1 416 000
+
+4551
+
+Year 3
+1 349 000
+
+4623
+
+Year 4
+    947 000
+
+4791
+
+Year 5
+1 012 000
+
+4802
+
+Year 6
+1 321 000
+
+4867
+
+Year 7
+1 450 000
+100
+        5002
+100
+Year 8
+1 510 000
+
+5117
+
+
+TABLE 2-6
+
+28) Refer to Table 2-6. What is the index number for gold output in Year 2?
+A) 97.7%
+B) 0.977
+C) -3.4%
+D) 97.7
+E) -34%
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 2-6.  What is the index number for gold output in Year 8?
+A) 104.1%
+B) 104.1
+C) 1.04
+D) 60
+E) 60%
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+30) Refer to Table 2-6.  What is the index number for nickel output in Year 5?
+A) -200
+B) -200%
+C) 96
+D) 0.96%
+E) 96%
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+31) Refer to Table 2-6.  What is the index number for nickel output in Year 3?
+A) 92.4%
+B) -379
+C) 379
+D) 0.924%
+E) 92.4
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+32) Refer to Table 2-6.  What is the percentage change in gold output from Year 1 to Year 7?
+A) 17.9%
+B) 84.8%
+C) 15.2%
+D) -15.2%
+E) 0.152%
+Answer:  A
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The table below shows the approximate value of Canada's crude oil and natural gas exports over a 5-year period. The amounts shown are billions of dollars.
+
+
+Crude Oil
+Natural Gas
+2009
+42.5
+18.0
+2010
+49.9
+17.6
+2011
+68.3
+15.6
+2012
+73.0
+10.7
+2013
+81.0
+12.7
+
+TABLE 2-7
+
+33) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the index number for the value of crude oil exports in 2013?
+A) 52.5
+B) 52.5%
+C) 38.5
+D) 90.6
+E) 190.6
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+34) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the index number for the value of natural gas exports in 2013?
+A) 70.6
+B) 1.42
+C) 142
+D) 142%
+E) 14.2
+Answer:  A
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+35) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the index number for the value of crude oil exports in 2012?
+A) 1.72
+B) 30.5
+C) 171.8
+D) 30.5%
+E) 0.31
+Answer:  C
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+36) Refer to Table 2-7.  Assume that 2009 is the base year, with an index number = 100. What is the index number for the value of natural gas exports in 2012?
+A) 0.59
+B) 59.4%
+C) 5.3
+D) 59.4
+E) -5.3
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+37) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the percentage change in the value of exports of crude oil from 2009 to 2013?
+A) 90.6%
+B) 190.6%
+C) 100%
+D) 96%
+E) 0.906%
+Answer:  A
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+38) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the percentage change in the value of exports of natural gas from 2009 to 2013?
+A) 71
+B) -71%
+C) 71%
+D) 29%
+E) -29%
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+39) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the percentage change in the value of exports of crude oil from 2012 to 2013?
+A) 8.0%
+B) 10.96%
+C) -8.0%
+D) 9.9%
+E) -9.9%
+Answer:  B
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 2-7. Assume that 2009 is the base year, with an index number = 100. What is the percentage change in the value of exports of natural gas from 2012 to 2013?
+A) 11.2%
+B) 11.2
+C) -18.7
+D) 18.7%
+E) -18.7%
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+41) According to the Bank of Canada's website, Canada's Consumer Price Index (CPI) in August 2012 was 121.8, August 2013 was 123.1, August 2014 was 125.7 and August 2015 was 127.3. Given this set of index numbers, what can we conclude about average prices in Canada between August 2012 and August 2015? 
+A) average prices increased over this time period by 27.3%
+B) average prices decreased over this time period by 5.5%
+C) average prices decreased each year
+D) average prices increased over this time period by 5.5%
+E) average prices increased each year
+Answer:  E
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Quantitative
+
+42) According to the Bank of Canada's website, Canada's Consumer Price Index (CPI) in August 2012 was 121.8, August 2013 was 123.1, August 2014 was 125.7 and August 2015 was 127.3. Given this set of index numbers, what is the percentage change in the average level of prices between August 2012 and August 2015? 
+A) 127.3%
+B) 121.8%
+C) 5.5%
+D) 4.5%
+E) 27.3%
+Answer:  D
+Diff: 3
+Topic:  2.3a. index numbers
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Quantitative
+
+43) An economist collects data comparing per-capita expenditures on health care across provinces and territories for the year 2015. The best way to illustrate this data is
+A) a time-series line graph.
+B) a cross-sectional bar-chart graph.
+C) a scatter diagram.
+D) a logarithmic scale diagram.
+E) a time-series bar chart diagram.
+Answer:  B
+Diff: 2
+Topic:  2.3b. graphing economic data
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+44) An economist has data showing Canadian GDP for the years 1945-2015. The best way to illustrate these data is
+A) a time-series line graph.
+B) a cross-sectional bar-chart graph.
+C) a scatter diagram.
+D) a logarithmic scale diagram.
+E) a time-series pie chart.
+Answer:  A
+Diff: 2
+Topic:  2.3b. graphing economic data
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+45) An economist has data showing household income and energy consumption for 10 000 Canadian households. The best way to illustrate these data is
+A) a time-series line graph.
+B) a cross-sectional bar-chart graph.
+C) a scatter diagram.
+D) a logarithmic scale diagram.
+E) a time-series bar chart diagram.
+Answer:  C
+Diff: 2
+Topic:  2.3b. graphing economic data
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+46) What is the best way to display the unemployment rate in each of the world's developed economies in 2015?
+A) a time series line graph
+B) a scatter diagram
+C) a scatter diagram with two variables
+D) a cross-sectional graph with time-series data
+E) a cross-sectional bar chart graph
+Answer:  E
+Diff: 2
+Topic:  2.3b. graphing economic data
+Skill:  Applied
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+47) Data collected repeatedly over successive periods of time are called
+A) cross-sectional data.
+B) time-analysis data.
+C) logarithmic data.
+D) topographic data.
+E) time-series data.
+Answer:  E
+Diff: 1
+Topic:  2.3b. graphing economic data
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+48) Data collected of several variables but for the same time period are called
+A) cross-sectional data.
+B) time-analysis data.
+C) logarithmic data.
+D) topographic data.
+E) time-series data.
+Answer:  A
+Diff: 1
+Topic:  2.3b. graphing economic data
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+
+49) A scatter diagram
+A) is a graph of a theoretical relationship between two variables.
+B) relates cross-sectional data only.
+C) relates time series data only.
+D) plots a series of observations, showing the relationship between two variables.
+E) shows the dependence of one variable on another.
+Answer:  D
+Diff: 1
+Topic:  2.3b. graphing economic data
+Skill:  Recall
+Learning Obj.:  2-4 Identify several types of economic data, including index numbers, time‐series and cross‐sectional data, and scatter diagrams.
+User2:  Qualitative
+2.4 Graphic Economics Theories
+
+1) When it is said that variable A depends on variable B, then A is
+A) a derivative of B.
+B) proportional to B.
+C) partially exclusive of B.
+D) a function of B.
+E) independent of B.
+Answer:  D
+Diff: 1
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+2) Consider the following equation: Y = 10 + 5X - X2. This equation is an expression of 
+A) a functional relation between X and Y.
+B) two dependent variables in a functional relation.
+C) two independent variables in a functional relation.
+D) a functional relation in a schedule format.
+E) a functional relation in a verbal format.
+Answer:  A
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+3) When considering how a family's level of consumption changes in response to changes in its income, 
+A) income is the dependent variable and family consumption is the independent variable.
+B) consumption is the dependent variable and income is the independent variable.
+C) both of the variables are independent.
+D) both of the variables are dependent.
+E) there is no relationship between the variables.
+Answer:  B
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+4) The mathematical expression of a relationship between two or more variables is usually known as
+A) a definition.
+B) an assumption.
+C) an observation.
+D) a function.
+E) a theory.
+Answer:  D
+Diff: 1
+Topic:  2.4a. functional relations
+Skill:  Recall
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+5) The statement "Y is a function of X" means that the
+A) value of Y depends on that of X.
+B) value of X depends on that of Y.
+C) values of Y and X are the same.
+D) values of Y and X are independent.
+E) values of Y and X are related to some third variable.
+Answer:  A
+Diff: 1
+Topic:  2.4a. functional relations
+Skill:  Recall
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+6) When an increase in one variable is associated with an increase in a second variable, the two variables are
+A) proportionally related.
+B) inversely proportionally related.
+C) positively related.
+D) equivalent.
+E) negatively related.
+Answer:  C
+Diff: 1
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+7) When an increase in one variable is associated with a decrease in a second variable, the two variables are
+A) proportionally related.
+B) inversely proportionally related.
+C) positively related.
+D) equivalent. 
+E) negatively related.
+Answer:  E
+Diff: 1
+Topic:  2.4a. functional relations
+Skill:  Recall
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+8) Negatively related variables change such that as the value of one variable
+A) decreases, the value of the other variable remains the same.
+B) increases, the value of the other variable increases.
+C) increases, the value of the other variable remains the same.
+D) decreases, the value of the other variable decreases.
+E) increases, the value of the other decreases.
+Answer:  E
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+9) Positively related variables change such that as the value of one variable
+A) decreases, the value of the other variable increases.
+B) decreases, the value of the other variable decreases.
+C) decreases, the value of the other variable remains the same.
+D) increases, the value of the other variable decreases.
+E) increases, the value of the other variable remains the same.
+Answer:  B
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+10) Suppose we observe that consumption of electricity decreases when the price of electricity rises.  We can say that the two variables are related
+A) positively.
+B) linearly.
+C) negatively.
+D) non-linearly.
+E) exogenously.
+Answer:  C
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+11) Consider the functional relationship between two variables, X and Y.  If Y is an increasing function of X, then
+A) Y increases when X increases.
+B) Y increases when X decreases.
+C) X decreases when Y increases.
+D) Y decreases when X increases.
+E) X remains constant as Y increases.
+Answer:  A
+Diff: 2
+Topic:  2.4a. functional relations
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+12) The slope of a straight line is necessarily
+A) zero.
+B) constant.
+C) positive.
+D) negative.
+E) increasing as one moves up the line.
+Answer:  B
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+13) On a coordinate graph with y on the vertical axis and x on the horizontal axis, suppose that two points on a straight line are (X = 4, Y = 5), and (X = 2, Y = 1). The slope of this line is
+A) -2.
+B) -.
+C) .
+D) .
+E) 2.
+Answer:  E
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+14) If the graph of a function is a horizontal line, the slope of this line is 
+A) undefined.
+B) 0.
+C) 1.
+D) infinity.
+E) -1.
+Answer:  B
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+15) On a coordinate graph with y on the vertical axis and x on the horizontal axis, what is the X intercept of the function X = 60 + 3Y? 
+A) -20
+B) 20
+C) -60
+D) 60
+E) 0
+Answer:  D
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+16) On a coordinate graph with y on the vertical axis and x on the horizontal axis, what is the Y intercept of the function X = 60 + 3Y?
+A) -20
+B) 0.1
+C) 3.0
+D) 20
+E) 60
+Answer:  A
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+17) On a coordinate graph with y on the vertical axis and x on the horizontal axis, suppose point A represents coordinates (X = 5, Y = 6) and point B represents coordinates (X = 2, Y = 3). Then the slope of the straight line joining points A and B is
+A) -1.
+B) 2/3.
+C) 5/6.
+D) 1.
+E) 3/2.
+Answer:  D
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+18) The slope of a curve is
+A) always positive.
+B) always negative.
+C) positive if the curve rises to the right.
+D) negative if the curve rises to the right.
+E) always constant.
+Answer:  C
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+19) On a coordinate graph with y on the vertical axis and x on the horizontal axis, consider the line which is the graph of the function Y = 60 - 4X. The slope of this line is
+A) 4.
+B) 60.
+C) -2.5.
+D) -4.0.
+E) -40.
+Answer:  D
+Diff: 1
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+20) In a co-ordinate graph, with Y on the vertical axis and X on the horizontal axis, the variable X is positive and the variable Y is negative in the ________ quadrant. 
+A) top, right 
+B) top, left 
+C) bottom, left 
+D) bottom, right 
+Answer:  D
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Recall
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Qualitative
+
+21) On a coordinate graph with y on the vertical axis and x on the horizontal axis, suppose point A represents co-ordinates (X = 10, Y = 12) and point B represents co-ordinates (X = 5, Y = 7). The slope of the straight line joining points A and B is
+A) -1. 
+B) 1. 
+C) 2/3. 
+D) 3/2. 
+E) 5/6.
+Answer:  B
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+22) On a coordinate graph with y on the vertical axis and x on the horizontal axis, suppose point A represents coordinates (X = 2, Y = 12) and point B represents coordinates (X = 6, Y = 4).  The slope of the straight line joining points A and B is
+A) 5.
+B) -.
+C) .
+D) -2.
+E) 2.
+Answer:  D
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+	FIGURE 2-1
+
+23) Refer to Figure 2-1.  What is the slope of the line in part (i) of the figure?
+A) -10
+B) 5
+C) -5
+D) -1
+E) 1
+Answer:  A
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Quantitative
+
+24) Refer to Figure 2-1.  What is the slope of the line in part (ii) of the figure?
+A) 12.5
+B) -12.5
+C) 1
+D) 0.05
+E) 0.08
+Answer:  D
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Quantitative
+25) On a coordinate graph with y on the vertical axis and x on the horizontal axis, suppose point A represents co-ordinates (x = 2, y = 16) and point B represents coordinates (x = 10, y = 4). What is the slope of the straight line joining points A and B?
+A) 0.75
+B) -0.75
+C) 1.5
+D) -1.5
+E) -0.43
+Answer:  D
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+26) Suppose Ahmoud would spend $1200 per year on travel, even if his annual income were zero. As his income rises, he would spend 20% of each additional dollar of income on travel. Choose the correct mathematical equation that describes the functional relation between his travel spending (T) and his income (Y). 
+A) Y = 1200 + 0.2T
+B) Y = 1200 - 0.2T
+C) T = 0.2 + 1200Y
+D) T = 1200 + 0.8Y
+E) T = 1200 + 0.2Y
+Answer:  E
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+27) Suppose that over a 12-month period, Sonali's income (Y) rises from $27 000 to $35 000 per year and, as a result, her spending on travel (T) increases from $1500 to $2500 per year. Assume there is a linear relation between the two variables, Y and T. What is the marginal response in T to a change in Y? 
+A) 8
+B) 4
+C) 0
+D) 0.25
+E) 0.125
+Answer:  E
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+28) Suppose there is a linear relationship between the ticket price (P) to a university basketball game and the number of tickets sold (Q). If the ticket price is $20, then 600 tickets are sold; if the ticket price is $8, then $3000 tickets are sold. What is the slope of the function if Q is plotted on the horizontal axis and P is plotted on the vertical axis? 
+A) -0.005
+B) -0.05
+C) 0
+D) 0.05
+E) 0.005
+Answer:  A
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+
+
+FIGURE 2-2
+
+29) Refer to Figure 2-2. The slope of curve A is
+A) positive and constant.
+B) negative and constant.
+C) positive and changing.
+D) negative and changing.
+E) undefined.
+Answer:  B
+Diff: 1
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+30) Refer to Figure 2-2. The slope of curve B is
+A) positive and constant.
+B) negative and constant.
+C) positive and changing.
+D) negative and changing.
+E) undefined.
+Answer:  A
+Diff: 2
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+31) Refer to Figure 2-2. The slope of curve C is
+A) positive and constant.
+B) negative and constant.
+C) positive and changing.
+D) negative and changing.
+E) impossible to describe.
+Answer:  C
+Diff: 2
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 2-2. The slope of curve D is
+A) positive and constant.
+B) negative and constant.
+C) positive and changing.
+D) negative and changing.
+E) undefined.
+Answer:  D
+Diff: 2
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+
+FIGURE 2-3
+
+33) Refer to Figure 2-3. The slope of curve A is
+A) zero.
+B) negative and variable.
+C) positive and variable.
+D) positive from X1 to X2 and negative from X2 to X3.
+E) negative from X1 to X2 and positive from X2 to X3.
+Answer:  D
+Diff: 2
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 2-3. The slope of curve B is
+A) zero at X2.
+B) always negative but variable.
+C) always positive but variable.
+D) undefined at X2.
+E) positive from Y1 to Y2 and negative between Y2 and Y3.
+Answer:  A
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+35) Refer to Figure 2-3. At X2 on curve A, the 
+A) maximum occurs at Y1.
+B) minimum occurs at Y4.
+C) slope of the curve is zero.
+D) slope is increasing.
+E) slope is decreasing.
+Answer:  C
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+36) Refer to Figure 2-3. On curve A, the maximum value of Y occurs at
+A) values of X greater than X3.
+B) X3.
+C) X2.
+D) X1.
+E) X = 0.
+Answer:  C
+Diff: 1
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+37) Refer to Figure 2-3. At X2 on curve B, the 
+A) maximum occurs at Y1.
+B) minimum occurs at Y4.
+C) slope of the curve is zero.
+D) slope is increasing.
+E) slope is decreasing.
+Answer:  C
+Diff: 2
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+38) At the minimum or the maximum of the graph of a non-linear function (with x on the horizontal axis and y on the vertical axis) the slope of the curve is
+A) 1.
+B) -1.
+C) 0.
+D) infinite.
+E) undefined.
+Answer:  C
+Diff: 2
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+39) At the minimum or the maximum of the graph of a non-linear function (with x on the horizontal axis and y on the vertical axis) the marginal response of y to a small change in x is
+A) 1.
+B) -1.
+C) 0.
+D) infinite.
+E) undefined.
+Answer:  C
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User2:  Quantitative
+
+
+FIGURE 2-4
+
+40) Refer to Figure 2-4. This non-linear function shows that over the range shown,
+A) as more fertilizer is applied, the marginal response in yield is increasing
+B) as more fertilizer is applied, the marginal change in yield is diminishing.
+C) as the yield per acre increases, the amount of fertilizer required per acre is diminishing.
+D) as the yield per acre increases, the amount of fertilizer required per acre is increasing.
+E) as more fertilizer is applied, the total yield per acre is diminishing.
+Answer:  B
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+41) Refer to Figure 2-4. The functional relation shown between fertilizer applied and wheat yield can be described as a
+A) constant marginal response.
+B) increasing partial response.
+C) decreasing total response.
+D) diminishing marginal response.
+E) increasing marginal response.
+Answer:  D
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+42) Refer to Figure 2-4. The slope of the non-linear function changes as we move along the curve. The slope is
+A) positive and increasing, indicating an increasing marginal response.
+B) negative and decreasing, indicating a diminishing marginal response.
+C) positive and decreasing, indicating a diminishing marginal response.
+D) negative and increasing, indicating an increasing marginal response.
+E) constant at all points, indicating a constant marginal response.
+Answer:  C
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+43) Refer to Figure 2-4.  If we want to know the marginal response of "yield per acre" due to a change in "fertilizer applied per acre of wheat" at point B, then we should determine the
+A) slope of a straight line tangent to point B.
+B) slope of a straight line joining points B and C.
+C) yield per acre at 30 units of fertilizer.
+D) the slope of a straight line from the origin to point B.
+E) quantity of fertilizer applied at point B.
+Answer:  A
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Qualitative
+
+44) Refer to Figure 2-4. Suppose we draw a straight line tangent to point B of the non-linear function. The straight line has a slope of 0.075. What information is conveyed to us by this measurement? 
+A) At point B, the marginal response to the application of 30 units of fertilizer per acre is 0.075 tonnes of wheat. 
+B) At point B, if one additional unit of fertilizer is applied per acre, the marginal response is 0.075 tonnes of wheat per acre. 
+C) Because point B is midway between point A and point C, the yield per acre is 0.075 tonnes of wheat when fertilizer applied is between 10 and 60 units per acre. 
+D) At point B, when fertilizer is applied at a rate of 30 units per acre, the yield is 0.075 tonnes per acre.
+E) At point B, the marginal response to the application of 0.075 units of fertilizer is between 4 and 5 tonnes per acre.
+Answer:  B
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+Learning Obj.:  2-5 See that the slope of a line on a graph relating two variables shows the "marginal response" of one variable to a change in the other.
+User1:  Graph
+User2:  Quantitative
+Figure 2-5 shows monthly average (per unit) production costs for producing Good X.
+
+
+
+FIGURE 2-5
+45) Refer to Figure 2-5. What is the slope of this non-linear function when 200 units per month are being produced?
+A) 4
+B) -4
+C) 0.25
+D) -5.2
+E) -0.25
+Answer:  B
+Diff: 3
+Topic:  2.4c. graphing non-linear functions
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+46) Refer to Figure 2-5. What is the slope of this non-linear function when 600 units per month are being produced?
+A) -2
+B) 4
+C) -4
+D) 1
+E) -1
+Answer:  E
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+47) Refer to Figure 2-5. What is the slope of this non-linear function when 1200 units per month are being produced?
+A) 0.25
+B) -0.25
+C) 4
+D) -4
+E) -2
+Answer:  B
+Diff: 3
+Topic:  2.4b. graphing linear functions
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 51
+Copyright © 2017 Pearson Education, Inc.
+
+
+

@@ -1,0 +1,1958 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 17   The Economics of Environmental Protection
+
+17.1  The Economic Rationale for Regulating Pollution
+
+1) Economists generally view pollution as 
+A) an economic "bad" that must be eliminated entirely.
+B) a negative economy.
+C) a negative externality.
+D) a positive externality.
+E) a non-excludable good.
+Answer:  C
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+2) When firms in an industry have fully internalized a production externality,
+A) they produce at less than the optimal level of output.
+B) they produce at more than the optimal level of output.
+C) it is not possible to achieve allocative efficiency.
+D) the marginal social cost is zero.
+E) they bear the entire social marginal cost of production.
+Answer:  E
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+3) If pollution is associated with the production of some good, then 
+A) the marginal social cost is less than the marginal social benefit.
+B) the price of the good is equal to firms' marginal private cost.
+C) marginal social cost minus marginal private cost is negative.
+D) marginal social cost minus marginal private cost is positive.
+E) too little of the good is being produced by the firm.
+Answer:  D
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+The figure below shows the marginal benefit to consumers, MB, the marginal cost to private firms, MCP, and the marginal cost to society, MCS, at each level of output of some good.
+
+
+FIGURE 17-1
+
+4) Refer to Figure 17-1. A negative externality is depicted because the
+A) marginal social cost is greater than the marginal social benefit.
+B) marginal social cost is greater than the marginal private cost.
+C) marginal social benefit to consumers is diminishing with greater output.
+D) optimal level of output occurs where marginal private cost is positive.
+E) optimal level of output occurs where marginal private benefit is positive.
+Answer:  B
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+5) Refer to Figure 17-1. The price that leads consumers to demand the socially optimal quantity of output is 
+A) zero.
+B) P1.
+C) P2.
+D) P3.
+E) not possible to know from the information given.
+Answer:  D
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+6) Refer to Figure 17-1. The price that would occur in a competitive market in the absence of government intervention is 
+A) P1.
+B) P2.
+C) P3.
+D) P4.
+E) not possible to know from the information given.
+Answer:  B
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+7) Refer to Figure 17-1. The equilibrium output that would occur in a competitive market in the absence of government intervention is 
+A) zero.
+B) Q1.
+C) Q2.
+D) Q3.
+E) none of the above; there is no equilibrium output level.
+Answer:  D
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+8) Refer to Figure 17-1. The socially optimal level of output is
+A) zero.
+B) Q1.
+C) Q2.
+D) Q3.
+E) none of the above; there is no optimal output level.
+Answer:  C
+Diff: 1
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+9) Refer to Figure 17-1.  What is the marginal external cost at output level ?
+A) 
+B) 
+C) 
+D)  - 
+E) - 
+Answer:  D
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+10) When an external cost associated with the production of some good has been internalized, it means that
+A) the opportunity cost of production is passed on to the consumer.
+B) the private cost of production is borne by the producer.
+C) the external costs are incorporated into private decision making.
+D) the consumer is bearing the net social benefits imposed by the producer.
+E) the firm is ignoring social costs.
+Answer:  C
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+11) The social marginal cost of the production of snowmobiles
+A) is less than the marginal external cost of production.
+B) is greater than the sum of the private marginal cost and external cost.
+C) includes only the cost of the labour input.
+D) includes the noise pollution imposed on those living near snowmobile trails.
+E) includes only the opportunity cost of all capital equipment.
+Answer:  D
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+12) When a farmer in Manitoba produces fertilizer run-off that pollutes the local water system,
+A) the amount of farm output will not be profitable.
+B) the amount of farm output produced will not be cost-effective.
+C) the amount of farm output produced will be less than the efficient level.
+D) the farm should stop producing agricultural products altogether.
+E) the amount of farm output produced will exceed the efficient level.
+Answer:  E
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+13) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+MCP = 5 + Q
+ = 10 + 2Q
+MB = 35 - 0.5Q. 
+A competitive free market will produce output of ________ units, and this amount is ________ than the allocatively efficient level of output. 
+A) 5; less 
+B) 10; less 
+C) 15; more 
+D) 20; more 
+E) 25; more 
+Answer:  D
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+14) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+	MCP = 5 + Q
+	MCS = 10 + 2Q
+	MB = 35 - 0.5Q
+The marginal social cost at the competitive free-market equilibrium is 
+A) 5. 
+B) 10. 
+C) 20.
+D) 25.
+E) 50.
+Answer:  E
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+User2:  Quantitative
+15) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+MCP = 5 + Q 
+MCS = 10 + 2Q
+MB = 35 - 0.5Q. 
+The marginal external cost at the competitive free-market equilibrium is 
+A) 5. 
+B) 10. 
+C) 15. 
+D) 20 
+E) 25. 
+Answer:  E
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+16) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+MCP = 5 + Q
+MCS = 10 + 2Q
+MB = 35 - 0.5Q. 
+The allocatively efficient level of output is ________ units.
+A) 0
+B) 10
+C) 15
+D) 25
+E) 30
+Answer:  B
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+17) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+MCP = 5 + Q
+MCS = 10 + 2Q
+MB = 35 - 0.5Q. 
+The marginal external cost at the allocatively efficient level of output is 
+A) 0. 
+B) 5. 
+C) 10. 
+D) 15. 
+E) 20. 
+Answer:  D
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+18) A paper mill discharges chemicals into a river which pollutes the shores of a downstream resort area. The private marginal cost, social marginal cost, and marginal benefit associated with the production of paper are given by the following equations: 
+MCP = 5 + Q
+MCS = 10 + 2Q
+MB = 35 - 0.5Q. 
+The marginal external cost is ________ throughout the output range. 
+A) zero 
+B) constant 
+C) increasing 
+D) decreasing 
+E) negative 
+Answer:  C
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+19) Suppose a firm producing roof shingles imposes a negative externality on the surrounding area due to the noxious fumes emitted from the plant. The private marginal cost, social marginal cost and marginal benefit associated with the production of the shingles are given by the following equations:
+	MCP = 5 + 2Q
+	MCS = 10 + 3Q
+	MB = 50 - Q
+A competitive free market will produce ________ units, at a price of ________ per unit. 
+A) 20; $25
+B) 20; $40
+C) 15; $40
+D) 15; $35
+E) 10; $35
+Answer:  D
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+20) Suppose a firm producing roof shingles imposes a negative externality on the surrounding area due to the noxious fumes emitted from the plant. The private marginal cost, social marginal cost and marginal benefit associated with the production of the shingles are given by the following equations:
+	MCP = 5 + 2Q
+	MCS = 10 + 3Q
+	MB = 50 - Q
+The social marginal cost at the competitive equilibrium is ________ per unit. 
+A) $5
+B) $13
+C) $50
+D) $55
+E) $25
+Answer:  D
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+User2:  Quantitative
+21) Suppose a firm producing roof shingles imposes a negative externality on the surrounding area due to the noxious fumes emitted from the plant. The private marginal cost, social marginal cost and marginal benefit associated with the production of the shingles are given by the following equations:
+	MCP = 5 + 2Q
+	MCS = 10 + 3Q
+	MB = 50 - Q
+The marginal external cost at the competitive equilibrium is ________ per unit. 
+A) $5
+B) $10
+C) $15
+D) $20
+E) $25
+Answer:  D
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+22) Suppose a firm producing roof shingles imposes a negative externality on the surrounding area due to the noxious fumes emitted from the plant. The private marginal cost, social marginal cost and marginal benefit associated with the production of the shingles are given by the following equations:
+	MCP = 5 + 2Q
+	MCS = 10 + 3Q
+	MB = 50 - Q
+The allocatively efficient level of output is ________ units. 
+A) 0
+B) 5
+C) 10
+D) 15
+E) 20
+Answer:  C
+Diff: 3
+Topic:  17.1a. pollution as an externality
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+23) If the government wants to ensure that producers fully internalize the marginal external cost associated with the pollution they emit, then it is necessary to
+A) accurately measure that external cost.
+B) first ensure that firms are operating at their profit-maximizing level of output.
+C) determine the long-run average cost structure for the firms.
+D) determine the short-run average cost structure for the firms.
+E) eliminate all the pollution the firm emits.
+Answer:  A
+Diff: 2
+Topic:  17.1a. pollution as an externality
+Skill:  Recall
+User2:  Qualitative
+
+24) Economic analysis of the optimal amount of pollution is typically done in terms of the amount of pollution abated, as opposed to the amount of pollution produced. Why?
+A) Because it is more practical to measure the marginal costs of pollution abated than of pollution produced.
+B) Because governments and environmental authorities can produce more reliable data on pollution abated than pollution produced, which facilitates the economic analysis.
+C) Because the abatement of pollution is a "good" to which we can more easily apply the concepts of supply and demand.
+D) Because there are no marginal benefits of pollution produced, so it is necessary to study pollution abated in order to equate marginal benefits and marginal costs.
+E) All of the above are correct.
+Answer:  C
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+User2:  Qualitative
+
+25) What is the "marginal cost of pollution abatement"?
+A) the private cost of producing one additional unit of pollution
+B) the social cost of producing one additional unit of pollution
+C) the cost of the last unit of pollution produced
+D) the cost of reducing pollution by one additional unit
+E) the external cost of pollution abatement
+Answer:  D
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+User2:  Qualitative
+
+26) Which of the following is the best analogy for the marginal cost of pollution abatement curve?
+A) a demand curve for pollution abatement
+B) a supply curve for pollution abatement
+C) the private marginal cost of abatement curve
+D) the external cost of abatement curve
+E) the net social cost of abatement curve
+Answer:  B
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+User2:  Qualitative
+27) When the marginal costs of pollution abatement equal the marginal benefits of pollution abatement,
+A) any further reductions in pollution will lower net social benefits.
+B) pollution has been entirely eliminated.
+C) any further reductions in pollution will continue to increase net social benefits.
+D) then firms are likely to increase output.
+E) then firms are likely to decrease output.
+Answer:  A
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+28) Zero pollution is almost surely NOT a desirable social goal because
+A) the marginal benefit is equal to zero.
+B) the marginal cost is equal to zero.
+C) the totals costs of complete pollution elimination will be far greater than the total benefits.
+D) the total benefits of complete pollution elimination will be far greater than the total costs.
+E) society benefits by employing people in the "pollution fighting" industry.
+Answer:  C
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+29) A downward-sloping marginal benefit curve for pollution abatement means that
+A) the costs of pollution decrease as further amounts are abated.
+B) the marginal cost of pollution reduction will always exceed the marginal benefit.
+C) it is impossible to know the benefits from additional increments of pollution abatement.
+D) society views additional increments of pollution abatement as unnecessary.
+E) there are decreasing incremental benefits to be realized from additional increments of pollution abatement.
+Answer:  E
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+30) An upward-sloping marginal cost curve for pollution abatement means that
+A) it is impossible to know the benefits from additional increments of pollution reduction.
+B) additional increments of pollution abatement will yield decreasing benefits.
+C) society views additional increments of pollution reduction as absolutely necessary.
+D) the cost of an extra unit of pollution abatement will increase as the total amount of abatement rises.
+E) the marginal benefit of pollution reduction will increase with additional increments of pollution reduction.
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+31) The marginal benefit of reducing pollution in some industry may be expected to
+A) rise as the level of pollution gets closer to zero.
+B) remain constant for all levels of pollution control.
+C) exceed the marginal cost of pollution reduction for all positive levels of pollution.
+D) fall as the amount of pollution abatement undertaken rises.
+E) be always greater than the marginal cost of pollution reduction.
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+32) The optimal amount of pollution abatement is generally less than 100%. Complete (100% ) abatement would be optimal if
+A) the marginal cost of abatement is positive but less than the marginal benefit of abatement.
+B) the marginal cost of abatement is always zero.
+C) the marginal cost of abatement exceeds the marginal benefit of abatement at all levels of abatement.
+D) the marginal benefit of abatement is zero.
+E) none of the above — we cannot even imagine a situation in which complete abatement would be optimal.
+Answer:  B
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+33) Suppose a local meat packing company dumps waste into a river, causing a firm located downstream that uses the water to incur costs to restore the water quality. A solution to this problem that would improve efficiency might involve:
+1) the meat-packing company relocating near a different river;
+2) the meat-packing company buying the downstream firm;
+3) permitting the downstream firm to impose a fee on the meat-packing company.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 or 3 only
+E) 1 or 3 only
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+34) In general, the economist's view on allocating resources to reduce pollution is that
+A) all forms of water and air pollution should be eliminated.
+B) government policies to reduce pollution have zero opportunity cost.
+C) the reduction of pollution should proceed up to the point where the marginal cost of pollution reduction equals the marginal benefit to society.
+D) the extent of pollution reduction should be based only on a comparison of total costs and total benefits to the environment.
+E) it is not allocatively efficient to reduce pollution.
+Answer:  C
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+35) The socially optimal level of output of any good is the quantity where all marginal costs of production, private plus external, equal the
+A) marginal cost of production.
+B) marginal benefit to society.
+C) average benefit to society.
+D) total benefit to society.
+E) marginal benefit to the firm.
+Answer:  B
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+36) Zero environmental damage is probably 
+A) technologically possible and economically efficient.
+B) technologically possible but not economically efficient.
+C) economically efficient but not technologically possible.
+D) neither technologically possible nor economically efficient.
+E) necessary if the human race is to survive.
+Answer:  D
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+37) The optimal amount of pollution abatement is such that 
+A) the total benefit of reducing pollution is equal to the total cost of reducing pollution.
+B) the marginal social cost of reducing pollution is just equal to the marginal social benefits from doing so.
+C) the marginal private cost of reducing pollution is just equal to the profit of the polluting firms.
+D) there is no remaining pollution.
+E) none of the above; there is no optimal amount of pollution abatement.
+Answer:  B
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+38) When considering an entire industry, the marginal benefit of reducing pollution is expected
+A) to rise as the level of pollution gets closer to zero.
+B) to remain constant for all levels of pollution control.
+C) to exceed the marginal cost of pollution abatement for all positive levels of pollution.
+D) to fall as the amount of pollution abatement rises.
+E) to be always greater than the marginal cost of pollution reduction.
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Recall
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+39) Consider an oil company extracting oil from the Oil Sands in Northern Alberta. The production process generates greenhouse-gas emissions. At the socially optimal level of oil extraction,
+A) the level of emissions will be zero.
+B) the marginal cost of the emissions will be equal to the social marginal benefit derived from the extracted oil.
+C) the marginal cost of the emissions will be more than the social marginal benefit derived from the extracted oil.
+D) the social marginal cost of the oil extraction will be equal to its social marginal benefit.
+E) the social marginal cost of the oil extraction will exceed its social marginal benefit.
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Qualitative
+
+The diagram below shows the private and social marginal costs (MCP and MCS) and the social marginal benefits (MBS) of producing disposable diapers.
+
+
+
+FIGURE 17-2
+
+40) Refer to Figure 17-2. The allocatively efficient level of production and use of disposable diapers is
+A) Q0, because that is where MCS exceeds MCP.
+B) Q0, because that is where MCS equals MBS.
+C) Q1, because that is where MCP equals MBS.
+D) Q1, because that is where MCS equals MBS.
+E) Q2, because that is where the externality is internalized.
+Answer:  B
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+41) Refer to Figure 17-2. The net social benefit derived from the production and use of disposable diapers is
+A) at a minimum at Q0, because MCS exceeds MCP.
+B) at a maximum at Q0, because that is where MCS equals MBS.
+C) at a maximum at Q1, because that is where MCS equals MBS.
+D) zero at Q0, because that is where MCS equals MBS.
+E) zero at Q2, because that is where the externality is internalized.
+Answer:  B
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+42) Refer to Figure 17-2. The net social benefit derived from the production and use of the last unit of disposable diapers is
+A) at a minimum at Q0, because MCS exceeds MCP.
+B) at a maximum at Q0, because that is where MCS equals MBS.
+C) at a maximum at Q1, because that is where MCS equals MBS.
+D) zero at Q0, because that is where MCS equals MBS.
+E) zero at Q2, because that is where the externality is fully maximized.
+Answer:  D
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+The figure below shows the demand and supply curves for pollution abatement.
+
+
+
+FIGURE 17-3
+
+43) Refer to Figure 17-3. The MB curve in this diagram is downward sloping because
+A) the marginal benefit from a given amount of abatement will be lower, the lower the level of pollution.
+B) the marginal cost of additional units of pollution abatement is decreasing.
+C) the marginal damage generated by additional units of pollution is decreasing.
+D) the marginal benefit from a given amount of abatement will be higher, the higher the level of pollution abated.
+E) the marginal cost of additional units of pollution abatement increases as pollution abatement increases.
+Answer:  A
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+44) Refer to Figure 17-3. The MC curve in this diagram is upward sloping because
+A) the marginal benefit from a given amount of abatement will be lower, the lower the level of pollution.
+B) the marginal cost of additional units of pollution abatement is decreasing.
+C) the marginal damage generated by additional units of pollution is decreasing.
+D) the marginal benefit from a given amount of abatement will be higher, the higher the level of pollution abated.
+E) the marginal cost of additional units of pollution abatement increases as the total amount of remaining pollution declines.
+Answer:  E
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+45) Refer to Figure 17-3. On the horizontal axis, the label "Qt(100% abatement)" refers to
+A) the maximum pollution abatement that is cost effective.
+B) the maximum pollution abatement attainable at the lowest cost.
+C) the maximum pollution abatement attainable with given technology.
+D) zero remaining pollution.
+E) zero pollution abatement.
+Answer:  D
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+46) Refer to Figure 17-3. The socially optimal amount of pollution is
+A)  + Qt.
+B) Qt - .
+C) .
+D) Qt.
+E) 0.
+Answer:  B
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+47) Refer to Figure 17-3. What area on the diagram represents the net total benefit of abating pollution by the optimal amount?
+A) the area under the MB curve, and above the MC curve, to the left of Q*
+B) the area above the MB curve, and below the MC curve, to the right of Q*
+C) the area that is below both the MB and MC curves
+D) the area that is above both the MB and MC curves
+E) the total area below the MB curve, to the left of Q*
+Answer:  A
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+48) The marginal benefit of reducing pollution and the marginal cost of reducing pollution are given by the following equations: MB = -2 + 18, and MC = 2 + 2, where U is the number of units of pollution abatement. What is the optimal number of units of pollution abatement? 
+A) 0 
+B) 1 
+C) 2 
+D) 3 
+E) 4 
+Answer:  C
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+49) The marginal benefit of reducing pollution and the marginal cost of reducing pollution are given by the following equations: MB = -2 + 18, and MC = 2 + 2, where U is the number of units of pollution abatement. What is the number of units of pollution abatement after which there is no further social benefit from reducing pollution? 
+A) 0 
+B) 1 
+C) 2 
+D) 3 
+E) 4 
+Answer:  D
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+50) The marginal benefit of reducing pollution and the marginal cost of reducing pollution are given by the following equations: MB = -2 + 18, and MC = 2 + 2, where U is the number of units of pollution abatement. What is the net marginal benefit (MB - MC) of abating the first unit of pollution (U = 1)?
+A) 10
+B) 12
+C) 14
+D) 16
+E) 18
+Answer:  B
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+The table below shows the marginal benefit and marginal cost of pollution abatement for an economy.
+ 
+Units of Pollution Abatement
+MB
+($)
+MC
+($)
+1
+120
+  5
+2
+115
+ 15
+3
+105
+ 30
+4
+ 90
+ 50
+5
+ 70
+ 70
+6
+ 45
+ 95
+7
+ 15
+125
+8
+ 0
+155
+ 
+TABLE 17-1
+
+51) Refer to Table 17-1. Suppose a public authority has the mandate to maximize social welfare by choosing the appropriate amount of pollution abatement. The optimal amount of pollution abatement is ________ units and implies a ________ amount of pollution remaining. 
+A) 8; 0 
+B) 120; negative 
+C) 5; positive 
+D) 70; positive 
+E) 5; negative 
+Answer:  C
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Table
+User2:  Quantitative
+52) Refer to Table 17-1. Suppose a public authority has the mandate to maximize social welfare by choosing the appropriate amount of pollution abatement. The marginal cost of reducing pollution by one unit is ________ at a(n) ________ rate. 
+A) increasing; constant 
+B) increasing; decreasing 
+C) increasing; increasing 
+D) decreasing; decreasing 
+E) decreasing; reduced 
+Answer:  C
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Table
+User2:  Quantitative
+
+53) Refer to Table 17-1. Suppose a public authority has the mandate to maximize social welfare by choosing the appropriate amount of pollution abatement. The total net benefit from the optimal amount of pollution abatement is 
+A) $0. 
+B) $120. 
+C) $155. 
+D) $275. 
+E) $330. 
+Answer:  E
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Table
+User2:  Quantitative
+
+54) Refer to Table 17-1. Suppose a public authority has the mandate to maximize social welfare by choosing the appropriate amount of pollution abatement. Compared to the optimal level of abatement, pollution abatement of 7 units would ________ total social welfare by ________.
+A) increase; $15 
+B) increase; $110 
+C) decrease; $110 
+D) decrease; $125 
+E) decrease; $160 
+Answer:  E
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User1:  Table
+User2:  Quantitative
+55) Suppose a farm that is polluting an underground water supply faces the following marginal costs for abating units of pollution:
+	1st unit abated, MC = $250
+	2nd unit abated, MC = $400
+	3rd unit abated, MC = $650
+	4th unit abated, MC = $950
+The marginal benefit to society from this farm abating units of pollution are as follows:
+	1st unit abated, MB = $1000
+	2nd unit abated, MB = $800
+	3rd unit abated, MB = $650
+	4th unit abated, MB = $300
+What is the socially optimal amount of pollution abatement for this farm? 
+A) 0 units
+B) 1 units
+C) 2 units
+D) 3 units
+E) 4 units
+Answer:  D
+Diff: 1
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+56) Suppose a farm that is polluting an underground water supply faces the following marginal costs for abating units of pollution:
+	1st unit abated, MC = $250
+	2nd unit abated, MC = $400
+	3rd unit abated, MC = $650
+	4th unit abated, MC = $950
+The marginal benefit to society from this farm abating units of pollution are as follows:
+	1st unit abated, MB = $1000
+	2nd unit abated, MB = $800
+	3rd unit abated, MB = $650
+	4th unit abated, MB = $300
+What is the total net benefit to society if this farm engages in the socially optimal amount of pollution abatement? 
+A) $0
+B) $650
+C) $1150
+D) $1300
+E) $2250
+Answer:  C
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+57) Suppose a farm that is polluting an underground water supply faces the following marginal costs for abating units of pollution:
+	1st unit abated, MC = $250
+	2nd unit abated, MC = $400
+	3rd unit abated, MC = $650
+	4th unit abated, MC = $950
+The marginal benefit to society from this farm abating units of pollution are as follows:
+	1st unit abated, MB = $1000
+	2nd unit abated, MB = $800
+	3rd unit abated, MB = $650
+	4th unit abated, MB = $300
+If this farm abates 4 units of pollution, what is the net benefit to society of the final unit of pollution abated? 
+A) $0
+B) -$650
+C) $1150
+D) $650
+E) -$1150
+Answer:  B
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+
+58) Suppose a farm that is polluting an underground water supply faces the following marginal costs for abating units of pollution:
+	1st unit abated, MC = $250
+	2nd unit abated, MC = $400
+	3rd unit abated, MC = $650
+	4th unit abated, MC = $950
+The marginal benefit to society from this farm abating units of pollution are as follows:
+	1st unit abated, MB = $1000
+	2nd unit abated, MB = $800
+	3rd unit abated, MB = $650
+	4th unit abated, MB = $300
+Why would it not be optimal for this farmer to abate four units of pollution? 
+A) because abating the 4th unit adds more to social costs than to social benefits
+B) because the total net benefit of abating the 4th unit is greater than the total cost
+C) because the total cost of abating 4 units is greater than the total benefits
+D) because it is not productively efficient
+E) because the farmer has no way to charge a price for the units of pollution abated
+Answer:  A
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+Learning Obj.:  17-1 Explain how an externality can be internalized, and how this can lead to allocative efficiency.
+User2:  Quantitative
+The table below shows the marginal costs and marginal benefits associated with cleaning up a polluted landfill site.
+
+Cleanliness of Land (%)
+Marginal
+ Cost 
+($ millions)
+Marginal Benefit 
+($ millions)
+0
+1.25
+12.0
+20
+1.5
+9.0
+40
+2.0
+7.0
+60
+3.0
+5.5
+80
+4.5
+4.5
+100
+20.0
+4.0
+
+TABLE 17-2
+
+59) Refer to Table 17-2. Would it be socially optimal to achieve 100% cleanliness of this landfill site?
+A) Yes, because 100% cleanliness of the land is the only socially optimal outcome.
+B) No, because the technology for 100% cleanliness is not available.
+C) No, because the net benefit to society at that level is not maximized.
+D) Yes, because the net benefit to society at that level is positive.
+E) Yes, because there is a $4.0 million marginal benefit of achieving 100% cleanliness.
+Answer:  C
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+60) Refer to Table 17-2. What is the net benefit to society of achieving the 20th percentage point of cleanliness of this land?
+A) $17.75 million
+B) $9.0 million
+C) $18.25 million
+D) $7.5 million
+E) -$7.5 million
+Answer:  D
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+61) Refer to Table 17-2. What is the maximum total net benefit to society that can be attained by cleaning this landfill site?
+A) $41.25 million
+B) $25.25 million
+C) $4.5 million
+D) $0
+E) It is not possible to determine without knowing the precise MB and MC curves.
+Answer:  E
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+62) Refer to Table 17-2. What is the net benefit to society of achieving the 100th percentage point of cleanliness of this land?
+A) $42 million
+B) $4 million
+C) -$4 million
+D) $0
+E) -$16 million
+Answer:  E
+Diff: 3
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+63) Refer to Table 17-2. What is a practical problem that is likely to face a government that is making decisions about cleaning up a landfill site such as this one?
+1) the science and technology of land cleanup is constantly changing, making it difficult to accurately estimate marginal costs
+2) the benefits to human and animal health are difficult to measure, making it difficult to accurately estimate marginal benefits
+3) governments cannot legally intervene to impose cleanup on privately owned land
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+E) 3 only
+Answer:  A
+Diff: 2
+Topic:  17.1b. optimal amount of pollution abatement
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+17.2  Pollution-Control Policies
+
+1) Direct pollution controls can be inefficient because, for any given amount of pollution reduction, they
+A) create new pollution as they eliminate existing pollution.
+B) take into account differing marginal costs among firms.
+C) do not minimize the total cost of pollution abatement.
+D) cost too much to enforce.
+E) are not complied with by firms.
+Answer:  C
+Diff: 1
+Topic:  17.2a. direct pollution controls
+Skill:  Recall
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+2) An important reason that direct controls are usually inefficient in reducing pollution is that 
+A) they create new pollution as they eliminate existing pollution.
+B) different firms have different marginal costs of pollution abatement.
+C) it costs too much to make sure that firms comply with the regulations.
+D) they generally garner little political support and thus eventually fail.
+E) firms have little incentive to comply with them.
+Answer:  B
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Recall
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+3) All of the following are examples of direct pollution controls EXCEPT
+A) auto emissions standards.
+B) legislation requiring scrubbers on coal-fired power stations.
+C) legislation imposing per-unit taxes on harmful emissions from a pulp and paper plant.
+D) a ban on wood stoves in some communities.
+E) a monetary fine in some communities for littering.
+Answer:  C
+Diff: 1
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+4) Federal regulation aimed at reducing greenhouse-gas emissions by setting some maximum level of emissions from each firm 
+A) is the best approach because the costs of reducing emissions are different for each firm.
+B) is the best approach because firms will quickly reduce air pollution.
+C) will usually not produce the desired reduction in emissions at the lowest possible cost.
+D) will achieve the largest but not the most efficient reduction in emissions.
+E) will achieve the least reduction in emissions but be the most efficient.
+Answer:  C
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+5) Direct controls for reducing pollution can be criticized from an economic viewpoint as
+A) being ultimately unsuccessful in reducing pollution.
+B) not being efficient in allocating the costs of pollution reduction among various firms and plants.
+C) being inequitable in their application.
+D) being easy to circumvent.
+E) still allowing firms to pollute when a policy of "zero tolerance" is more appropriate.
+Answer:  B
+Diff: 1
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+6) Why are direct controls for reducing pollution likely to be inefficient?
+A) The cost of reducing pollution is greater than the benefit.
+B) Direct controls are impossible to monitor.
+C) Firms with different pollution abatement costs are facing identical regulations.
+D) Firms are not likely to comply with this method of government intervention.
+E) Firms' output will rise above the socially optimal amount.
+Answer:  C
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Recall
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+7) Automobile emissions standards are an example of 
+A) direct pollution controls.
+B) emissions taxes.
+C) tradable emissions standards.
+D) market power.
+E) a market-based environmental policy.
+Answer:  A
+Diff: 1
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+8) The banning of wood-burning stoves and fireplaces is an example of 
+A) safety regulations.
+B) emissions taxes.
+C) tradable emissions standards.
+D) direct pollution controls.
+E) a market-based environmental policy.
+Answer:  D
+Diff: 1
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+9) Which of the following environmental problems would be best addressed through the use of direct controls?
+A) emissions from coal-fired electric generating stations that cause acid rain
+B)  emissions from ocean-going cruise ships
+C) sulfur dioxide discharged from pulp and paper mills
+D) the greenhouse gas emissions associated with residential home heating
+E) a chemical additive in animal feed that pollutes groundwater and is toxic to humans
+Answer:  E
+Diff: 3
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+10) Consider two firms, A and B, that must engage in pollution abatement. If Firm A has a lower marginal cost of pollution abatement than Firm B, then
+A) regardless of costs, it is equitable for both firms to face the same direct controls on their pollution.
+B) reallocating all abatement activity to Firm A will reduce pollution and reduce the total cost of abatement.
+C) reallocating some of Firm A's abatement activity to Firm B will keep total abatement constant but will reduce the total cost of abatement.
+D) reallocating some of Firm B's abatement activity to Firm A can keep total abatement constant but reduce the total cost of abatement.
+E) Firm B should lower its costs.
+Answer:  D
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+The diagram below shows the marginal cost of pollution abatement for two firms, Firm X and Firm Y.
+
+
+
+
+	FIGURE 17-4
+
+11) Refer to Figure 17-4. Suppose the government requires each firm to reduce pollution by the same amount, QR. The result will be 
+A) fair and just because both firms are facing the same requirements.
+B) economically inefficient because Firm X is not producing as much pollution as Firm Y and therefore should not be faced with the same requirements.
+C) economically efficient because even though their marginal costs of abatement differ, the marginal cost for the last unit of abatement is equal.
+D) economically inefficient because Firm Y is then abating pollution at a higher marginal cost than Firm X.
+E) economically efficient because the maximum amount of pollution will be abated.
+Answer:  D
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User1:  Graph
+User2:  Qualitative
+12) Refer to Figure 17-4. Suppose Firms X and Y are each abating QR units of pollution. If Firm X then reduces pollution by one unit and Firm Y increases pollution by one unit, then 
+A) total pollution remains the same but the total cost of abatement falls.
+B) total pollution remains the same but the total cost of abatement increases.
+C) the total cost of abatement remains the same but pollution falls.
+D) the total cost of abatement remains the same but pollution increases.
+E) the total costs of abatement and the amount of pollution do not change.
+Answer:  A
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 17-4. The optimal amount of pollution abatement for these two firms together is
+A) QR for X + QR for Y.
+B) QR for X + Qy for Y.
+C) Qx for X + QR for Y.
+D) Qx + Qy.
+E) impossible to tell without the marginal benefit of abatement curve.
+Answer:  E
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows the marginal costs of pollution abatement for two firms, Firm 1 and Firm 2.
+
+
+
+	FIGURE 17-5
+
+14) Refer to Figure 17-5. If the government requires each firm to abate Q3 units of pollution, the social costs of this abatement 
+A) would be minimized.
+B) could be reduced further if each firm was required to abate more.
+C) could be reduced further if Firm 1 increased its abatement and Firm 2 reduced its abatement by the same amount.
+D) could be reduced further if Firm 2 increased abatement and Firm 1 reduced its abatement by the same amount.
+E) could be reduced further if each firm was allowed to pollute more.
+Answer:  C
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 17-5. Suppose the government requires that each firm abate pollution to the level Q3. The outcome would be efficient because
+A) the marginal costs of abatement are equated for the two firms.
+B) the maximum amount of pollution is being abated at the lowest cost.
+C) the marginal cost and marginal benefit of pollution abatement are equated.
+D) all of the above.
+E) none of the above; the outcome would be inefficient.
+Answer:  E
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User1:  Graph
+User2:  Qualitative
+16) Refer to Figure 17-5. Suppose each firm is currently abating pollution to the level . Which of the following statements is true?  
+A) This outcome is efficient because both firms are abating the same amount.
+B) This outcome is not allocatively efficient because the marginal benefits and marginal costs of abatement are not equated.
+C) This outcome is not allocatively efficient because less than 100% abatement is being achieved.
+D) This outcome is not productively efficient because one firm is abating more pollution than the other.
+E) This outcome is not productively efficient because the total cost of achieving this level of abatement is not minimized.
+Answer:  E
+Diff: 3
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+17) Two firms, A and B, are legally required to reduce their toxic emissions. If Firm A's marginal cost of abatement is $5 and Firm B's marginal cost of abatement is $3,
+A) their joint total cost of abatement is at a minimum.
+B) their joint total cost of abatement is at a maximum.
+C) the socially optimal joint level of abatement is not being achieved.
+D) Firm A should abate more and Firm B should abate less in order to reduce total abatement costs.
+E) Firm B should abate more and Firm A should abate less in order to reduce total abatement costs.
+Answer:  E
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+18) Two firms, A and B, are legally required to reduce their toxic emissions. If Firm A's marginal cost of abatement is $5 and Firm B's marginal cost of abatement is $5,
+A) their joint total cost of abatement is at a minimum.
+B) their joint total cost of abatement is at a maximum.
+C) the socially optimal joint level of abatement is not being achieved.
+D) Firm A should abate more and Firm B should abate less.
+E) Firm B should abate more and Firm A should abate less.
+Answer:  A
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Applied
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+19) Direct pollution controls are usually inefficient because they 
+A) do not minimize the total cost of a given amount of abatement. 
+B) lead all firms to abate more pollution than the socially optimal amount. 
+C) lead all firms to abate less pollution than the socially optimal amount. 
+D) do not achieve the targeted amount of pollution abatement. 
+E) are controlling quantities of pollution abatement as opposed to prices. 
+Answer:  A
+Diff: 2
+Topic:  17.2a. direct pollution controls
+Skill:  Recall
+Learning Obj.:  17-2 Understand why direct pollution controls are often inefficient.
+User2:  Qualitative
+
+The diagram below shows the marginal cost of pollution abatement for two firms, Firm X and Firm Y.
+
+
+	FIGURE 17-6
+
+20) Refer to Figure 17-6. Ignore the horizontal line at t. If the government wanted to impose an emissions tax, efficiency requires that it 
+A) levy a tax at the same rate to both firms.
+B) choose a different tax rate for each firm so that each firm abates QR units of pollution.
+C) impose the same tax on both firms and also fix the amount of pollution abatement at QR for each firm.
+D) tax only the high-cost firm (Firm Y) and fix the amount of pollution abatement for the low-cost firm (Firm X).
+E) tax only the low-cost firm (Firm X) and fix the amount of pollution abatement for the high-cost firm (Firm Y).
+Answer:  A
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+21) Refer to Figure 17-6. Firms X and Y have an emissions tax of $t imposed on each unit of pollution they produce. Firm X will choose to abate pollution of ________ units and Firm Y will choose to abate pollution of ________ units. 
+A) QR; QR
+B) QX; QR
+C) QX; QY
+D) 0; 0
+E) QR; QY
+Answer:  C
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+22) Refer to Figure 17-6. Firms X and Y have an emissions tax of $t imposed on each unit of pollution they produce. If Firm X chooses to abate QX units of pollution, the total cost of its abatement is
+A) tax amount t multiplied by the maximum possible level of pollution abatement.
+B) area beneath the marginal cost of pollution abatement curve.
+C) area below the horizontal line at t and above the MC of pollution abatement curve.
+D) tax amount t multiplied by the level of pollution abatement, QX.
+E) area beneath the marginal cost of pollution abatement curve up to QX.
+Answer:  E
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 17-6. There is an emissions tax of $t per unit of pollution. Which of the following statements regarding the pollution abatement activities by the two firms is correct?
+A) It is not socially optimal to have Firm X doing pollution abatement of QX while Firm Y does the lesser amount, QY.
+B) It is efficient for Firm Y to do less pollution abatement than Firm X because Firm Y faces higher costs of abatement.
+C) The emissions tax causes no change in the firms' polluting activity.
+D) The shaded areas in the two graphs depict the social costs of pollution caused by Firms X and Y.
+E) The emissions tax causes an optimal level of pollution.
+Answer:  B
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+24) Refer to Figure 17-6. There is an emissions tax of $t per unit of pollution. The resulting amount of pollution abatement is socially optimal if 
+A) Firm X abates QX and Firm Y abates QY.
+B) each firm abates at QR.
+C) the emissions tax causes no change in firms' polluting activity.
+D) the emissions tax is equal to the marginal social cost of pollution.
+E) each firm pays the maximum amount of tax.
+Answer:  D
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+25) A pollution-control policy that, in principle, can perfectly internalize pollution externalities is
+A) emission limits.
+B) fines for firms that pollute over a certain amount.
+C) an emissions tax.
+D) moral suasion.
+E) None of the above can internalize the externality.
+Answer:  C
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+26) Suppose the government imposes a tax for each unit of pollution that a firm produces. The firm will
+A) stop producing altogether.
+B) reduce emissions until the marginal cost of any further reduction in pollution is equal to or greater than the tax.
+C) reduce emissions until the marginal cost of any further reduction in pollution is equal to the price of the firm's product.
+D) increase output such that the additional revenue can offset this additional tax payment.
+E) ignore the tax and continue to produce the same amount of output.
+Answer:  B
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+27) The use of emissions taxes as a method of reducing pollution
+1) is more efficient than direct controls;
+2) allows firms to select the most efficient abatement techniques;
+3) forces firms to internalize the pollution externality.
+A) 1 only
+B) 1 and 2 only
+C) 1 and 3 only
+D) 2 and 3 only
+E) 1, 2, and 3
+Answer:  E
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+28) Suppose a per-unit tax is imposed on a firm's output which makes the marginal private cost of production equal to the marginal social cost. In this case, we can then say that 
+A) the externality has been fully internalized for that firm.
+B) the firm will make losses as its costs have increased.
+C) the internality has been externalized for that firm.
+D) the firm will be forced by the extra cost burden to leave the industry.
+E) the firm will not make any changes to its output decision.
+Answer:  A
+Diff: 1
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+29) If residential garbage collection were financed by charging households a fee per unit of garbage collected, rather than through general property taxation or a flat fee, you would expect
+A) less concern about recycling and more concern about the high cost of garbage collection.
+B) more recycling as households seek to minimize their garbage-collection bill.
+C) higher costs for the municipality providing the garbage-collection service.
+D) the administration cost to outweigh any other savings, thus rendering this idea inefficient.
+E) inadequate revenue to pay for the garbage collection.
+Answer:  B
+Diff: 1
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+30) A potential disadvantage of emissions taxes versus direct pollution controls is that
+A) emissions taxes do not specify how the pollution is to be controlled, which leads to economic inefficiency in the implementation of the pollution restraint.
+B) pollution becomes a part of each firm's profit-maximizing calculations, encouraging firms to find more efficient ways to pollute.
+C) the authorities might have a better idea of the socially optimal level of pollution than of the optimal tax rate that would achieve it.
+D) emissions taxes introduce distortions to the price system, whereas direct controls do not.
+E) emissions taxes are more expensive to administer.
+Answer:  C
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+31) Private and competitive markets could produce efficient levels of pollution if
+A) left alone by government regulators.
+B) regulated by government through direct controls.
+C) the appropriate tax per unit of pollution were administered and enforced.
+D) the producers were made aware of the pollution externality.
+E) the worst polluting firms were closed down.
+Answer:  C
+Diff: 1
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+The diagram below shows the marginal costs of pollution abatement for two firms, Firm 1 and Firm 2.
+
+
+	FIGURE 17-5
+
+32) Refer to Figure 17-5. Suppose Firm 1 and Firm 2 are each abating Q3 units of pollution. If the government imposed an emissions tax of $40 per unit of emissions, 
+A) each firm would abate to Q3.
+B) each firm would abate to the same level.
+C) Firm 1 would increase abatement beyond Q3 and Firm 2 would abate less than Q3.
+D) Firm 2 would increase abatement beyond Q3 and Firm 1 would abate less than Q3.
+E) the level of pollution would be optimal. 
+Answer:  C
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+33) Refer to Figure 17-5. Suppose Firm 1 and Firm 2 are each abating Q3 units of pollution. If the government imposed an emissions tax of $40 per unit of emissions, and this tax rate was known to equal the social marginal cost of pollution, then we can predict with confidence that 
+A) each firm would abate to Q3.
+B) each firm would abate to the same level.
+C) the resulting level of pollution would be socially optimal. 
+D) Firm 2 would increase abatement beyond Q3 and Firm 1 would abate less than Q3.
+E) Firm 2 would increase its emissions and this would not be socially optimal.
+Answer:  C
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+34) Refer to Figure 17-5. Suppose Firm 1 and Firm 2 are each abating Q3 units of pollution. If the government imposes an emissions tax of $20 per unit of emissions,
+A) Firm 1 will abate less than Q3, and Firm 2 will not abate any pollution at all.
+B) neither firm will abate any pollution.
+C) the level of pollution abatement will be optimal.
+D) Firm 1 will increase abatement beyond Q3 and Firm 2 will abate less than Q3.
+E) Firm 1 and Firm 2 will each increase abatement beyond Q3.
+Answer:  A
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+35) Refer to Figure 17-5. How much pollution abatement would Firm 2 undertake if faced with an emissions tax of $20 per unit of emissions?
+A) 0
+B) 
+C) 
+D) 
+E) more than 
+Answer:  A
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+36) Suppose the government imposes an emissions tax of $t on each unit of pollution produced by a firm. Under which of the following circumstances would the tax rate be set too high to achieve allocative efficiency?
+A) the firm could not afford to pay the tax
+B) the tax rate causes the firm's ATC curve to shift up
+C) the tax rate is less than the marginal external cost of the pollution
+D) the tax rate is greater than the firm's private marginal cost of production
+E) the tax rate is greater than the marginal external cost of the pollution
+Answer:  E
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+37) An emissions tax (imposed on each unit of pollution produced) that is set too high to achieve allocative efficiency will cause
+A) too few resources to be devoted to pollution abatement and too little of the product to be produced.
+B) too few resources to be devoted to pollution abatement and too much of the product to be produced.
+C) no change in the polluting firm's behaviour.
+D) too many resources to be devoted to pollution abatement and too little of the product to be produced.
+E) new firms to enter the industry.
+Answer:  D
+Diff: 2
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+38) A paper mill discharges chemicals into a river which affect the shores of a downstream resort area. The private cost, social cost, and marginal benefit associated with the production of paper are given by the following equations: PMC = 5 + Q, SMC = 10 + 2Q, and MB = 35 - 0.5Q. What level of emissions tax (dollars per unit of output produced) would provide the paper mill with the incentive to produce at the allocatively efficient level of output? 
+A) $5 
+B) $10 
+C) $15 
+D) $20 
+E) $25 
+Answer:  C
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Quantitative
+39) Suppose a firm producing roof shingles imposes a negative externality on the surrounding area due to the noxious fumes emitted from the plant. The private marginal cost, social marginal cost and marginal benefit associated with the production of the shingles are given by the following equations:
+	 = 5 + 2Q
+	 = 10 + 3Q
+	MB = 50 - Q
+What level of emissions tax (dollars per unit of output produced) would provide this firm with the incentive to produce at the allocatively efficient level of output? 
+A) $15
+B) $25
+C) $10
+D) $40
+E) $30
+Answer:  A
+Diff: 3
+Topic:  17.2b. emissions taxes
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Quantitative
+
+40) Given that different firms typically have different costs of pollution reduction, 
+A) tradable pollution permits will help to reduce the total costs of pollution abatement.
+B) tradable pollution permits will help to reduce the marginal costs of pollution.
+C) it is clear that only a moral solution can actually achieve pollution reduction. 
+D) there is a role for government to establish absolute limits on pollution.
+E) the optimal emissions tax is thus easier to compute.
+Answer:  A
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+41) One possible strategy for efficiently addressing the market failure that leads to environmental pollution is 
+A) to develop widespread direct pollution controls.
+B) the introduction by government of tradable pollution permits.
+C) forcing polluters to clean up polluted water, earth, and air.
+D) government legislation banning pollution.
+E) the elimination of government involvement.
+Answer:  B
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+42) As a method of pollution control, tradable emissions permits, or "cap and trade," 
+A) are an example of paternalistic social regulation.
+B) allow pollution to continue unabated, but only at a huge price to polluting firms.
+C) are more effective than emissions taxes when pollution is hard to measure.
+D) have the advantage of decentralized decision making (like emissions taxes) while also setting the maximum permissible level of pollution (like direct controls).
+E) are not a morally acceptable method of pollution control.
+Answer:  D
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+43) If emissions permits are traded freely between profit-maximizing firms in the private market,
+A) there will be more than the optimal amount of pollution.
+B) the amount of pollution abatement will be identical to that which the firms would have willingly undertaken on their own.
+C) each firm will face identical costs of pollution abatement.
+D) all firms will use identical pollution abatement technologies.
+E) marginal abatement costs will be equalized across firms.
+Answer:  E
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+44) Economists often argue that a system of tradable pollution permits is cost-effective because
+A) firms facing a high marginal cost of abatement will not abate at all.
+B) firms facing a low marginal cost of abatement will not abate at all.
+C) firms facing a marginal cost of abatement lower than the permit price will not abate at all.
+D) firms with a marginal cost of abatement lower than the permit price will buy permits and abate less.
+E) firms will choose their abatement so that their marginal cost of abatement equals the price of a permit, which is the same for all firms.
+Answer:  E
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+45) Consider a coal-fired electric-power plant that is operating under a cap-and trade-system. If its marginal cost of pollution abatement is $5 per unit and the price of the permit is $3 per unit, this firm will
+A) not abate at all.
+B) not buy any permits, since that would push up its costs.
+C) buy permits and abate more pollution.
+D) buy permits and abate less pollution.
+E) sell permits and abate more pollution.
+Answer:  D
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Quantitative
+
+46) Consider a coal-fired electric-power plant that is operating under a system of tradable pollution permits (and the firm currently owns permits). If its marginal cost of pollution abatement is $100 per unit and the price of the permit is $150 per unit, this firm will
+A) not abate at all.
+B) not buy any permits, since that would push up its costs.
+C) buy more permits and abate more pollution.
+D) buy more permits and abate less pollution.
+E) sell permits and abate more pollution.
+Answer:  E
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Quantitative
+
+The diagram below shows the marginal cost of abatement for each of two firms, A and B. Each firm is initially abating Q0 units of pollution.
+
+
+FIGURE 17-7
+
+47) Refer to Figure 17-7. Suppose that a system of tradable pollution permits is introduced into this market and the equilibrium permit price is p*. The effect will be that
+A) there will be no change in the quantity of abatement by each firm.
+B) Firm A will abate less pollution—the amount Q2, and Firm B will abate more pollution—the amount Q1.
+C) Firm B will abate less pollution—the amount Q2, and Firm A will abate more pollution—the amount Q1.
+D) Firms A and B will each abate Q2 units of pollution.
+E) Firms A and B will each abate Q0 units of pollution.
+Answer:  C
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+48) Refer to Figure 17-7. Suppose that a system of tradable pollution permits is introduced into this market and the equilibrium permit price is p*. The effect will be that
+A) Firm B will sell permits to Firm A, pollute less, and reduce its costs by the area 1; Firm A will buy permits from Firm B, pollute more, and increase its costs by the area 4.
+B) Firm B will sell permits to Firm A, pollute more, and reduce its costs by the area 1; Firm A will buy permits from Firm B, pollute less, and increase its earnings by area 4.
+C) Firm B will buy permits from Firm A, pollute less, and increase its costs by the areas 2 + 3; Firm A will sell permits to Firm B, pollute more, and reduce its earnings by areas 4 + 5.
+D) Firm B will buy permits from Firm A, pollute more, and reduce its costs by the area 1; Firm A will sell permits to Firm B, pollute less, and increase its earnings by area 5.
+Answer:  D
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+49) Refer to Figure 17-7. Suppose that a system of tradable pollution permits is introduced into this market and the equilibrium permit price is p*. Firm B will buy permits from Firm A because
+A) its total cost of abating less (areas 1 + 2 + 3) exceeds the cost of buying the permits (areas 2 + 3).
+B) its total savings from abating less (areas 1 + 2 + 3) exceed the cost of buying the permits (areas 2 + 3).
+C) Firm B has lower costs of pollution abatement than Firm A.
+D) its total savings from abating less (areas 1 + 2 + 3) exceed the total costs of Firm A abating more (area 6).
+E) Firm B can buy the permits at a lower price than Firm A.
+Answer:  B
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+50) Refer to Figure 17-7. Suppose that a system of tradable pollution permits is introduced into this market and the equilibrium permit price is . Firm A will sell permits to Firm B because 
+A) Firm A's total cost of abating more pollution (areas 5 + 6) is less than the revenue it earns from selling the permits (areas 4 + 5 + 6).
+B) Firm B has lower costs of pollution abatement than Firm A.
+C) Firm A can buy the permits at a lower price than Firm B.
+D) the revenue Firm A earns from selling permits (areas 5 + 6) is greater than the cost it incurs from abating more pollution (area 6).
+E) Firm A's total cost of abating more pollution (area 6) is less than the revenue it earns from selling the permits (area 4 + 5).
+Answer:  D
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+51) In a competitive market for tradable pollution permits, the quantity of permits (for a given amount of pollution) is set by ________ and the equilibrium price is determined by ________.
+A) market forces; government policy
+B) government policy; the average cost of pollution abatement
+C) government policy; market forces
+D) market forces; market forces
+E) government policy; government policy
+Answer:  C
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+52) Suppose a competitive market for tradable pollution permits is in equilibrium at , with the quantity of permits being set by government policy at . If technological advances reduce the marginal cost of pollution abatement, then
+A) the equilibrium price of permits will fall below .
+B) the equilibrium price of permits will rise above .
+C) the equilibrium quantity of permits will fall below .
+D) the equilibrium quantity of permits will fall above .
+E) there will be no change in  or .
+Answer:  A
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+The diagram below shows a market for tradable pollution permits.
+
+
+
+FIGURE 17-8
+
+53) Refer to Figure 17-8, which depicts a market for tradable pollution permits. Improvements in firms' abatement technology will be expected to 
+A) shift the supply curve to the right. 
+B) shift the supply curve to the left. 
+C) shift the demand curve to the right. 
+D) shift the demand curve to the left. 
+E) not have any impact on the equilibrium. 
+Answer:  D
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 17-8, which depicts the market for tradable pollution permits. If there is an increase in firms' marginal cost of pollution abatement, 
+A) firms decide to abate more pollution. 
+B) the price of pollution permits will fall. 
+C) firms will demand more pollution permits. 
+D) firms will demand fewer pollution permits. 
+E) firms require exactly Q* permits. 
+Answer:  C
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+55) Refer to Figure 17-8, which depicts the market for tradable pollution permits. If the environmental organization called "Friends of the Earth" buys a large quantity of pollution permits and permanently decides not to use them, then 
+A) the demand curve shifts to the left, and the equilibrium price falls. 
+B) the supply curve shifts to the right, and the equilibrium price falls. 
+C) the supply curve shifts to the left, and the equilibrium price rises. 
+D) allocative efficiency is lost. 
+E) there is no impact on the equilibrium. 
+Answer:  C
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Applied
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+56) Refer to Figure 17-8, which depicts the market for tradable pollution permits. The amount of permits Q* is determined by 
+A)  market forces. 
+B) large corporations. 
+C) the level of abatement technology. 
+D) the World Environmental Organization. 
+E) the relevant government. 
+Answer:  E
+Diff: 1
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+
+57) Refer to Figure 17-8, which depicts the market for tradable pollution permits. The equilibrium price p* 
+A) equals the average abatement cost for firms. 
+B) equals the marginal abatement cost for each profit-maximizing firm. 
+C) is imposed by the government. 
+D) is not a function of the abatement technology. 
+E) is always equal to the subsidy provided by the government. 
+Answer:  B
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User1:  Graph
+User2:  Qualitative
+58) The main advantage of using market-based schemes for reducing pollution is that they 
+A) lead to greater fairness in the distribution of resources.
+B) improve the moral fibre of producers and consumers.
+C) lead to a more efficient use of scarce resources.
+D) maximize the difference between marginal cost and marginal benefit.
+E) minimize the difference between total cost and total benefit.
+Answer:  C
+Diff: 2
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+59) When comparing a system of emission taxes to a system of tradable pollution permits, the same amount of pollution could be abated in each as long as
+A) the marginal cost of abatement was equal across all firms.
+B) the marginal benefit of abatement curve was horizontal.
+C) the emission tax rate, t, was applied equally to all firms.
+D) the cap on emissions was chosen such that the equilibrium price of the permits, , could rise over time.
+E) the cap on emissions was chosen such that the equilibrium price of the permits, , was equal to the emissions tax rate, t.
+Answer:  E
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+60) When designing a policy to reduce polluting emissions, policymakers are unlikely to know with certainty what the marginal cost of abatement is for each firm. If an emissions tax ($t per unit of emissions) is imposed, then policymakers 
+A) know what the reduction in emissions will be but do not know at what cost.
+B) know with certainty what the reduction in emissions will be and at what cost.
+C) know the per-unit cost imposed on firms but do not know what the reduction in emissions will be.
+D) are uncertain about both the amount of emission reduction and the cost.
+E) know with certainty what their tax revenues will be from the emissions tax.
+Answer:  C
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+61) When designing a policy to reduce polluting emissions, policymakers are unlikely to know with certainty what the marginal cost of abatement is for each firm. If policymakers set an emissions cap of X units, and issue tradable permits for this amount, then they
+A) know what the reduction in emissions will be but not the per-unit cost to firms.
+B) know with certainty what the reduction in emissions will be and at what cost.
+C) know the per-unit cost imposed on firms but do not know what the reduction in emissions will be.
+D) are uncertain about both the amount of emission reduction and the cost.
+E) know with certainty what the equilibrium permit price will be.
+Answer:  A
+Diff: 3
+Topic:  17.2c. tradable emissions permits
+Skill:  Recall
+Learning Obj.:  17-3 Describe how market-based policies, such as emissions taxes and tradable pollution permits, can improve economic efficiency.
+User2:  Qualitative
+
+17.3  The Economic Challenge of Global Climate Change
+
+1) In 2006, Professor Nicolas Stern of the United Kingdom stated "Climate change is the greatest market failure the world has ever seen." Which of the following statements describes the biggest challenge to efforts to begin correcting this market failure?
+A) We do not have precise estimates of the costs of reducing greenhouse gas emissions.
+B) We do not have precise estimates of the costs of increased levels of e in the atmosphere.
+C) Policy design must be coordinated among all major governments of the world, as the problem is truly a global one.
+D) Each government around the world must choose its own level of emissions.
+E) Climate change is too large a problem to be compared to a market failure.
+Answer:  C
+Diff: 2
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+
+2) Between 1995 and 2011, Canada's greenhouse gas emissions ________ by ________%.
+A) decreased; 6
+B) decreased; 1
+C) increased; 6
+D) increased; close to 50
+E) increased; about 25
+Answer:  E
+Diff: 1
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+3) Consider the following equation:
+GHG =  ×  × GDP,
+where 	GHG = world annual emissions of greenhouse gases
+	Energy = world annual amount of energy consumed
+	GDP = world's annual gross domestic product
+The ratio GHG/Energy describes	
+A) the units of greenhouse gases emitted per unit of energy consumed.
+B) greenhouse gas emissions expressed as a percentage of carbon-based energy consumed.
+C) the total units of greenhouse gases emitted annually.
+D) the units of energy consumed per unit of greenhouse gases emitted.
+E) the energy efficiency of greenhouse gas emissions.
+Answer:  A
+Diff: 2
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+
+4) Consider the following equation:
+GHG =  ×  × GDP,
+where 	GHG = world annual emissions of greenhouse gases
+	Energy = world annual amount of energy consumed
+	GDP = world's annual gross domestic product
+The ratio Energy/GDP describes	
+A) the energy efficiency of greenhouse gas emissions.
+B) the number of units of carbon-based energy produced as a fraction of GDP.
+C) the amount of energy per unit of GDP required to stabilize greenhouse gas emissions.
+D) the number of units of energy used per dollar of GDP produced.
+E) the amount of energy used per unit of output in the energy-intensive sector of the economy.
+Answer:  D
+Diff: 2
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+5) Consider the following equation:
+GHG =  ×  × GDP,
+where 	GHG = world annual emissions of greenhouse gases
+	Energy = world annual amount of energy consumed
+	GDP = world's annual gross domestic product
+Suppose GHG emissions increased by 10% between 2011 and 2015, a period when GDP increased by 5% and Energy/GDP was constant. We can conclude that GHG/Energy over the same period 
+A) increased by 5%.
+B) decreased by 5%.
+C) was unchanged.
+D) increased by 10%.
+E) decreased by 10%.
+Answer:  A
+Diff: 3
+Topic:  17.3. global climate change
+Skill:  Applied
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+
+6) Consider the following equation:
+GHG =  ×  × GDP,
+where 	GHG = world annual emissions of greenhouse gases
+	Energy = world annual amount of energy consumed
+	GDP = world's annual gross domestic product
+Suppose GHG emissions decreased by 6% between 2012 and 2014, a period when GDP increased by 4% and Energy/GDP decreased by 2%. We can conclude that  over the same period
+A) remains unchanged.
+B) decreased by 4%.
+C) increased by 4%.
+D) decreased by 8%.
+E) decreased by 6%.
+Answer:  D
+Diff: 3
+Topic:  17.3. global climate change
+Skill:  Applied
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Quantitative
+7) A policy that puts a price on greenhouse-gas (GHG) emissions will help to reduce emissions because 
+A) it will shift firms' marginal cost of abatement curves upward.
+B) it will shift firms' marginal cost of abatement curves downward.
+C) world energy intensity will increase.
+D) it provides incentives for firms and consumers to switch to cleaner energy sources.
+E) energy intensity of GDP will increase.
+Answer:  D
+Diff: 2
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+
+8) Global greenhouse-gas (GHG) emission reductions are unlikely to be achieved through GDP reductions because
+A) GDP cannot be reduced.
+B) the rise in GDP in rich countries will be greater than the reductions in GDP in poor countries.
+C) ongoing population growth and per capita income growth are likely to drive GDP upward.
+D) the rise in GDP in poor countries will be greater than the reductions in GDP in rich countries.
+E) the growth rate of world GDP is negative.
+Answer:  C
+Diff: 2
+Topic:  17.3. global climate change
+Skill:  Recall
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Qualitative
+
+9) Consider global greenhouse-gas emissions. Suppose that in 2016, greenhouse gases emitted per unit of energy consumed decreased by 2%, energy use per unit of GDP decreased by 2%, and world GDP increased by 4%. What will be the approximate change in global greenhouse gas emissions in 2012? 
+A) increase by 4%
+B) increase by 16%
+C) decrease by 4%
+D) decrease by 16%
+E) no change
+Answer:  E
+Diff: 3
+Topic:  17.3. global climate change
+Skill:  Applied
+Learning Obj.:  17-4 Discuss some basic facts about global climate change and the associated economic challenges.
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 54
+Copyright © 2017 Pearson Education, Inc.
+
+
+

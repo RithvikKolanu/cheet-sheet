@@ -1,0 +1,2251 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 3   Demand, Supply, and Price
+
+3.1  Demand
+
+1) Which of the following best defines quantity demanded?
+A) The amount an individual purchases at its current price.
+B) The amount an individual purchases at his or her current income.
+C) The amount, per time period, that is desired at the most recent price.
+D) The amount, per time period, an individual desires to purchase at any given price.
+E) The various amounts that all individuals desire at all relevant prices.
+Answer:  D
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+2) The time period to which quantity demanded refers when constructing demand curves is
+A) a moment in time.
+B) a long period of time.
+C) one year.
+D) any specified time period.
+E) a period shorter than one year.
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+3) The term "quantity demanded" refers to the
+A) total amount of a good that is actually purchased during a given period of time. 
+B) entire relationship between desired purchases and possible prices.
+C) total amount of a good that purchasers wish to purchase at a given price during a given period of time.
+D) product of advertising, and is unrelated to price.
+E) total amount of a good that people wish to buy, regardless of price.
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+4) Four of the five statements below contain a stock and a flow. Which statement describes ONLY stock variables OR flow variables?
+A) Chris earns $1500 per month and has $4000 in his savings account at the bank.
+B) Nancy spends $400 per month on her credit card and has a balance owing of $2567.
+C) The Transit Authority of Mytown collects $22 000 in fares per day and has an operating budget of $2 million per year.
+D) Country X spends an average of $1 million per year for flood relief and has an emergency services fund of $20 million.
+E) The Canadian Federal government has a debt of approximately $450 billion and an annual deficit of over $25 billion dollars. 
+Answer:  C
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+5) A variable that is a "stock"
+A) is measured per unit of time.
+B) has meaning only at a point in time.
+C) has only to do with products where inventory is kept.
+D) has the same units as a flow variable.
+E) is used only in accounting.
+Answer:  B
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+6) Ceteris paribus means
+A) other things being equal.
+B) and so forth.
+C) knowledge gained before the study of evidence is made.
+D) among other things.
+E) in a historical context.
+Answer:  A
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+7) The "law of demand" hypothesizes that, other things being equal, 
+A) the lower the price, the greater the demand.
+B) price and demand vary inversely.
+C) the higher the price, the lower the quantity demanded.
+D) the higher the income, the higher the quantity demanded.
+E) price and quantity demanded are positively related.
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+8) In a market for a good or service, the quantities demanded and supplied are
+A) both stock variables.
+B) both flow variables.
+C) a flow variable and a stock variable, respectively.
+D) a stock variable and a flow variable, respectively.
+E) neither stock nor flow variables.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+9) For a given commodity, quantity demanded can be represented by
+A) a demand curve.
+B) a demand schedule.
+C) a point on a demand curve.
+D) the money value of the stock of the commodity held by households. 
+E) the price on the vertical axis.
+Answer:  C
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+10) A demand curve is a representation of the relationship, ceteris paribus, between quantity demanded and
+A) supply.
+B) wealth.
+C) price.
+D) income.
+E) preferences.
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+11) Which statement best describes the "law of demand"? Other things being equal, the quantity of tennis rackets demanded will be greater if the
+A) incomes of tennis players are higher.
+B) price of tennis rackets is lower.
+C) price of badminton rackets is higher.
+D) number of tennis players is higher.
+E) demand for tennis rackets rises.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+12) The "law of demand" describes
+A) an inverse relationship between the price of a good and the quantity of the good demanded per unit of time, other things being equal.
+B) a positive relationship between the price of a good and the quantity of the good demanded per unit of time, ceteris paribus.
+C) an inverse relationship between the price of a good and the demand for the good, per unit of time.
+D) a direct relationship between the price of a good and the demand for the good.
+E) any relationship between quantity demanded and demand for a good.
+Answer:  A
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+13) Which statement best describes a "demand schedule"? 
+A) a functional statement of the demand relationship
+B) a graph showing the inverse relationship between quantity demanded and price
+C) a numerical tabulation showing the quantities demanded at various prices
+D) a timetable showing the quantity demanded at different time periods
+E) an abstract concept underlying the graph of a demand curve
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+14) An important assumption underlying a demand schedule is that
+A) quantity demanded and demand mean the same thing.
+B) everything else except the product's price is being held constant.
+C) the numbers are not important; the general relationship between the variables is.
+D) household tastes rarely change.
+E) income has little significance to household demand.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+15) Which statement best describes a demand curve? 
+A) a functional statement of the demand relationship
+B) a numerical table showing the inverse relationship between quantity demanded and price, other things being equal
+C) a graph showing the relationship between quantity demanded and the price of a commodity, other things being equal
+D) a timetable showing the quantity demanded at different time periods
+E) an abstract concept underlying the graph of a demand curve
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+16) A demand curve represents graphically 
+A) a functional statement of the income-quantity relationship.
+B) the timeless relationship between quantity demanded and price.
+C) the quantity demanded per unit of time at various prices.
+D) the available quantities at all possible prices for the product.
+E) quantity demanded.
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+17) To say that the demand curve for movies is negatively sloped means that 
+A) less quantity will be demanded at lower prices.
+B) less quantity will be demanded as preferences change.
+C) less quantity will be demanded at higher prices.
+D) more quantity will be demanded as consumers' income increases.
+E) less quantity will be demanded at the same price.
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+18) A change in demand is said to take place when there is a
+A) movement along the demand curve.
+B) shift of the demand curve. 
+C) shift of the supply curve.
+D) price change.
+E) quantity change.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+19) A normal good is one 
+A) that everyone normally consumes.
+B) that normal people consume.
+C) for which demand varies directly with household income.
+D) for which demand varies inversely with household income.
+E) for which demand does not vary with household income.
+Answer:  C
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+20) What is an inferior good? 
+A) a good that everyone normally consumes
+B) a good that inferior people consume
+C) a good for which demand varies directly with household income
+D) a good for which demand varies inversely with household income
+E) a good for which demand does not vary with household income
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+21) Consider butter and margarine, which are substitutes. When the price of butter falls, the demand curve for margarine is likely to 
+A) shift to the right.
+B) shift to the left.
+C) remain stationary.
+D) remain stationary, although its price will fall.
+E) remain stationary, although its price will rise.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+22) Goods X and Y are defined to be substitutes in consumption if 
+A) the supply of Y varies inversely with the price of X.
+B) the two goods are virtually the same.
+C) the supply of Y varies directly with the price of X.
+D) the demand for Y varies directly with the price of X.
+E) the demand for Y varies inversely with the price of X.
+Answer:  D
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+23) If the price of tea falls and as a consequence the demand for sugar rises, then tea and sugar are 
+A) substitute goods.
+B) complementary goods.
+C) luxury goods.
+D) neutral goods.
+E) independent goods.
+Answer:  B
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+24) If goods X and Y are substitutes and the price of X falls, all other things being equal, the demand curve for Y will 
+A) shift to the left.
+B) shift to the right.
+C) not shift at all.
+D) be indeterminate.
+Answer:  A
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+25) Which of the following pairs of goods are likely to be substitutes for a large group of consumers? 
+A) eggs and toast 
+B) coffee and cream 
+C) green beans and peas 
+D) wieners and buns 
+E) pancakes and syrup
+Answer:  C
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+26) Which of the following pairs of goods are likely to be complements for a large group of consumers? 
+A) televisions and radios 
+B) cars and trucks 
+C) tea and coffee 
+D) e-readers and e-books 
+E) tents and tent-trailers
+Answer:  D
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+27) If tastes change so that a particular style of boots is now considered more appealing, the likely result is 
+A) a shift in the demand curve to the right.
+B) a shift in the demand curve to the left.
+C) a movement down the demand curve.
+D) a movement up the demand curve.
+E) no change in the demand curve.
+Answer:  A
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+28) Cars and gasoline are likely to be
+A) complementary goods.
+B) substitute goods.
+C) independent goods.
+D) inferior goods.
+E) luxury goods.
+Answer:  A
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+29) Consider cars and gasoline. Other things being equal, when the price of cars decreases, the demand for gasoline is likely to 
+A) remain unchanged because cars and gasoline are produced independently of one another.
+B) decrease because the two goods are complements.
+C) remain unchanged.
+D) increase because the two goods are complements.
+E) remain unchanged because cars and gasoline are two distinct markets. 
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+30) If goods X and Y are complements and the price of X falls, all other things being equal, the demand curve for Y will 
+A) shift to the left.
+B) shift to the right.
+C) not shift at all.
+D) unable to determine.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+31) Ceteris paribus, the position of the demand curve for apples will remain unchanged if there is a change in the 
+A) income of apple eaters.
+B) price of apples.
+C) hourly wage rate of most workers.
+D) price of pears.
+E) knowledge regarding the health benefits of eating fresh fruit.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+32) A variable that is assumed to be constant along an individual's demand curve for good X is the
+A) price of good X.
+B) quantity of X demanded per unit of time.
+C) price of a substitute good, Y.
+D) amount of X the individual wishes to purchase.
+E) consumer's real purchasing power.
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+33) "Demand" in a particular market refers to 
+A) only the quantity demanded by households at current market prices.
+B) the quantity purchased at the current market price.
+C) the quantity that is desired but not satisfied by current supply.
+D) the entire relationship between quantity demanded and price.
+E) the relationship between demand and supply.
+Answer:  D
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+34) A change in which of the following variables will result in NO change in the demand for a given commodity?
+A) average household income
+B) the distribution of income
+C) population
+D) tastes in favour of the commodity
+E) the price of the commodity
+Answer:  E
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+35) When deriving the market demand curve for a commodity, the only variable(s) that can change is (are) the
+A) price of a related commodity.
+B) income of consumers.
+C) quantity of the commodity demanded.
+D) price of the commodity.
+E) both C and D.
+Answer:  E
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+36) Which of the following would cause a movement along the demand curve for ski-lift tickets, other things being equal?
+A) a change in tastes in favour of skiing
+B) an increase in price as the supply curve for lift tickets shifts to the left
+C) a rise in the price of ski boots and skis
+D) a rise in average household income 
+E) an increase in population
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+37) In which statement is the term "demand" used correctly? (1) An increase in the price of eggs will lead to a decrease in the demand for eggs. (2) An increase in the price of eggs will lead to a decrease in the demand for bacon.
+A) neither statement 
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+38) In which statement is the term "demand" used correctly? (1) An increase in the price of copper will lead to a decrease in the demand for copper. (2) An increase in the price of copper will lead to an increase in the demand for aluminum (a substitute for copper).
+A) neither statement
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+User2:  Qualitative
+
+39) In which statement is the term "demand" used correctly? (1) A decrease in the price of airline tickets led to an increase in quantity demanded for airline tickets. (2) A decrease in the price of airline tickets led to an increase in the demand for airline tickets.
+A) neither statement
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+User2:  Qualitative
+40) In which statement is the term "demand" used correctly? (1) An increase in the price of copper will lead to an increase in the demand for aluminum (a substitute for copper). (2) An increase in the price of aluminum will lead to a decrease in quantity demanded of aluminum.
+A) neither statement
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+User2:  Qualitative
+
+41) Suppose new medical research suggests that consuming 200 grams of tofu everyday helps to prevent heart disease. Widespread knowledge of this research, other things being equal, is likely to have what impact on the market for tofu?
+A) shift the whole demand curve to the right 
+B) shift the whole demand curve to the left 
+C) movement along the demand curve to the right
+D) movement along the demand curve to the left
+E) there would likely be no effect
+Answer:  A
+Diff: 1
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+42) Economists say there has been a change in demand when there is
+A) a movement along the demand curve.
+B) a shift of the demand curve.
+C) a shift of the supply curve.
+D) a price change.
+E) a quantity change.
+Answer:  B
+Diff: 1
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+43) Which of the following events would result in a change in the quantity demanded for some commodity but NOT a change in the demand for that commodity? 
+A) a change in average household income
+B) a change in the distribution of income
+C) a change in population
+D) a change in tastes in favour of the commodity
+E) a change in the price of the commodity
+Answer:  E
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+44) Quantity demanded is a flow variable, which means that it must be expressed
+A) as so much at a specific moment in time.
+B) in units of the good per day.
+C) in units of the good per week.
+D) in units of the good per year.
+E) in units of the good per period of time.
+Answer:  E
+Diff: 2
+Topic:  3.1. demand
+Skill:  Recall
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Qualitative
+
+
+FIGURE 3-1
+
+45) Refer to Figure 3-1. If demand is given by the curve D, the ________ energy-efficient light bulbs is  at a price of $9.
+A) demand for
+B) quantity purchased of
+C) demand schedule for
+D) quantity demanded of
+E) quantity sold of
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User1:  Graph
+User2:  Qualitative
+46) Refer to Figure 3-1. The movement along the demand curve, D, from point v to point x, could be caused by
+A) a change in preferences away from ordinary light bulbs to energy-efficient light bulbs.
+B) a change in the price of energy-efficient light bulbs.
+C) an increase in household income, which allows consumers to purchase more light bulbs.
+D) a change in the price of ordinary light bulbs.
+E) an expectation that new, government regulations will require the use of energy-efficient light bulbs only.
+Answer:  B
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User1:  Graph
+User2:  Qualitative
+
+47) Refer to Figure 3-1. A shift of the demand curve for energy-efficient light bulbs from D to D2 could be caused by
+A) an increase in the price of ordinary light bulbs.
+B) a change in preferences away from ordinary bulbs to energy-efficient bulbs.
+C) an expectation that new government regulation will require the use of energy-efficient light bulbs only.
+D) a decrease in the price of energy-efficient light bulbs.
+E) a news bulletin stating that energy-efficient light bulbs emit a harmful gas.
+Answer:  E
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User1:  Graph
+User2:  Qualitative
+
+48) Refer to Figure 3-1.  A shift of the demand curve for energy-efficient light bulbs from D to D1 could be caused by
+A) a decrease in the price of ordinary light bulbs.
+B) a news bulletin stating that energy-efficient light bulbs emit a harmful gas.
+C) a decrease in the price of energy-efficient light bulbs.
+D) an expectation that government regulation will soon prohibit the use of ordinary light bulbs.
+E) a change in preferences toward ordinary light bulbs.
+Answer:  D
+Diff: 2
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User1:  Graph
+User2:  Qualitative
+49) Suppose that the demand curves for goods A, B, and C have the following functional forms:, where Q denotes quantity demanded and P denotes price:
+	QA = 120 - 3.5 PA - 6PB
+	QB = 100 - 2PB + 3PC
+	QC = 1500 - 0.5PC.
+Based on these demand curves, which of the following pairs of goods are known to be complements? 
+A) B and C 
+B) A and C 
+C) A and B 
+D) A and C, and B and C 
+E) none of the pairs are complements 
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Quantitative
+
+50) Suppose that the demand curves for goods A, B, and C have the following functional forms:, where Q denotes quantity demanded and P denotes price:
+	QA = 120 - 3.5PA - 6PB 
+	QB = 100 - 2PB + 3PC 
+	QC = 1500 - 0.5PC. 
+Based on these demand curves, which of the following pairs of goods are known to be substitutes? 
+A) A and C 
+B) A and B 
+C) B and C 
+D) A and C, and B and C 
+E) none of the pairs are substitutes 
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Quantitative
+51) Suppose the demand curves for goods A, B, and C have the following functional forms, where Q denotes quantity demanded, P denotes price, and M denotes income:
+	QA = 120 - 3.5PA - 6PB + 14M
+	QB = 100 - 2PB + 3PC + 1.1M
+	QC = 1500 - 0.5PC - 300M. 
+Based on these demand curves, which of the following goods are known to be normal goods? 
+A) A 
+B) B 
+C) C 
+D) A and B only
+E) A, B and C
+Answer:  D
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Quantitative
+
+52) Suppose the demand curves for goods A, B, and C have the following functional forms, where Q denotes quantity demanded, P denotes price, and M denotes income: 
+	QA = 120 - 3.5PA - 6PB + 14M 
+	QB = 100 - 2PB + 3PC + 1.1M 
+	QC = 1500 - 0.5PC - 300M. 
+Based on these demand curves, which of the following goods are known to be inferior goods? 
+A) A 
+B) B 
+C) C 
+D) A and B only 
+E) A, B and C
+Answer:  C
+Diff: 3
+Topic:  3.1. demand
+Skill:  Applied
+Learning Obj.:  3-2 Distinguish between a shift of the demand curve and a movement along the demand curve.
+User2:  Quantitative
+
+3.2  Supply
+
+1) The positive slope of a supply curve indicates that
+A) as price goes up, quantity supplied will decrease.
+B) consumers will want to buy less at higher prices.
+C) as price goes up, quantity supplied will increase.
+D) if the costs of production increase, the quantity supplied will increase.
+E) as price goes up, quantity supplied will remain constant.
+Answer:  C
+Diff: 2
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+2) Which of the following events would cause a change in the quantity supplied of some agricultural commodity but would not cause a change in the supply of that same commodity?
+A) a change in factor costs
+B) a technological change
+C) a change in the price of the commodity
+D) a change in the number of suppliers of the commodity
+E) a change in the price of substitute goods
+Answer:  C
+Diff: 3
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+3) Suppose that many coal mines are shut for environmental reasons. This will cause
+A) an increase in the supply of coal (a rightward shift of the supply curve).
+B) a decrease in the supply of coal (a leftward shift of the supply curve).
+C) a movement up the supply curve.
+D) a movement down the supply curve.
+E) no change in the supply curve, only a change in price.
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+4) The market supply curve for wooden shipping crates would shift to the right
+A) if a government subsidy for shipping crates is withdrawn.
+B) if the prices of inputs fall.
+C) if a tax is applied to shipping crates.
+D) if suppliers leave the industry.
+E) if technological conditions for the production of crates deteriorates.
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+5) The term "quantity supplied" is the amount of a commodity that
+A) firms wish to sell at a given price during a given period of time. 
+B) firms actually sell during a given period of time at a given price.
+C) households wish firms would sell during a given period of time at a given price.
+D) is exchanged between firms and consumers during a given period of time at a given price.
+E) is supplied at a fair market price.
+Answer:  A
+Diff: 1
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+6) Suppose there is a decrease in the quantity supplied of copper at each price.  This change would imply
+A) a shift to the left of the supply curve.
+B) a shift to the right of the supply curve.
+C) a movement up the supply curve.
+D) a movement down the supply curve.
+Answer:  A
+Diff: 1
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+7) The term "supply" in a particular market refers to
+A) the particular quantity supplied at the moment.
+B) only one point on the supply curve.
+C) only one entry in a supply schedule.
+D) the entire relationship between quantity supplied and price.
+E) the quantity actually sold to consumers.
+Answer:  D
+Diff: 1
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+8) A fall in the price of raw milk (which is used in the production of ice cream) will
+A) decrease the supply of ice cream, causing the supply curve of ice cream to shift to the left.
+B) increase the supply of ice cream, causing the supply curve of ice cream to shift to the right.
+C) decrease the supply of ice cream, causing the supply curve to shift to the right.
+D) have no effect on the supply curve of ice cream but cause a downward movement along the supply curve of ice cream.
+E) increase the supply of ice cream, causing the supply curve to shift to the left.
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+9) To say that the supply curve is positively sloped means that
+A) as price goes up, quantity supplied will decrease.
+B) households will want to buy less at higher prices.
+C) as price goes up, quantity supplied will increase.
+D) if the costs of production increase, the quantity supplied will have to increase also. 
+E) as price goes up, quantity supplied will remain constant.
+Answer:  C
+Diff: 1
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+10) A rightward shift in the supply curve indicates
+A) a decrease in the quantity supplied at each price.
+B) that an increase in income results in an increase in the quantity demanded at each price.
+C) that more is demanded at each price. 
+D) an increase in the quantity supplied at each price.
+E) a shift in the demand curve also (because demand must equal supply).
+Answer:  D
+Diff: 1
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+11) A "decrease in supply" refers to which of the following?
+A) the likely result from a decrease in the price of a factor of production
+B) a downward movement along a supply curve
+C) a decrease in quantity supplied
+D) a leftward shift in the supply curve
+E) a drop in the quantity actually exchanged
+Answer:  D
+Diff: 1
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+12) Suppose that a newer way to produce a good is discovered, which reduces production costs for the good. This will cause
+A) no change in the supply curve, only a change in price.
+B) a decrease in supply (a leftward shift of the supply curve).
+C) a movement up the supply curve.
+D) a movement down the supply curve.
+E) an increase in supply (a rightward shift of the supply curve). 
+Answer:  E
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+13) Suppose that some resource X is necessary to produce some good Y. If the price of X falls
+A) the supply curve of resource X shifts to the left.
+B) the supply curve of good Y shifts to the right.
+C) the supply curve of good Y is unaffected.
+D) there is a movement along the supply curve of good Y.
+E) the demand curve for X shifts to the right.
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+14) An improvement in the technology used to produce solar panels will
+A) lead to a leftward shift in the supply curve.
+B) lead to a leftward shift of the demand curve.
+C) lead to a rightward shift of the demand curve.
+D) have no effect on the supply curve for solar panels.
+E) lead to a rightward shift in the supply curve.
+Answer:  E
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+15) An increase in the number of firms wanting to provide accounting services will cause a ________ for accounting services.
+A) leftward shift in the supply curve 
+B) rightward shift in the demand curve 
+C) leftward shift in the demand curve 
+D) rightward shift in the supply curve 
+E) simultaneous shift of both the demand and supply curves
+Answer:  D
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+16) The supply for some good or service will decrease if
+A) technology improves.
+B) the prices of inputs fall.
+C) the prices of inputs increase.
+D) technology improves and the price of inputs falls.
+E) more suppliers enter the industry.
+Answer:  C
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+17) In which statement is the term "supply" used correctly? (1) An increase in the price of leather will cause a decrease in the supply of leather. (2) An increase in the price of leather will cause a decrease in the supply of leather boots.
+A) the second statement only
+B) neither statement 
+C) the first statement only
+D) both statements
+E) not enough information to tell
+Answer:  A
+Diff: 3
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+18) In which statement is the term "supply" used correctly? (1) An increase in the price of copper will lead to an increase in the quantity supplied of copper. (2) An increase in the price of copper will lead to an increase in the supply of copper.
+A) neither statement
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+User2:  Qualitative
+
+19) In which statement is the term "supply" used correctly? (1)An increase in the number of suppliers of copper will lead to an increase in the supply of copper. (2) An increase in the number of suppliers of copper will likely lead to a decrease in the quantity supplied of copper. 
+A) neither statement
+B) the first statement only
+C) the second statement only
+D) both statements
+E) more information is needed
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+User2:  Qualitative
+20) A fall in the price of potatoes, which are used in the production of french fries, will
+A) lead to a decrease in the supply of french fries, causing the supply curve of french fries to shift to the left.
+B) lead to an increase in the supply of french fries, causing the supply curve of french fries to shift to the right.
+C) have no effect on the supply of french fries.
+D) have no effect on the supply of french fries but cause a movement along the supply curve of french fries.
+E) lead to a decrease in the demand for french fries.
+Answer:  B
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+21) A leftward shift in the supply curve indicates
+A) a decrease in the quantity supplied at each price.
+B) that an increase in income results in an increase in the quantity demanded at each price.
+C) that more is demanded at each price.
+D) an increase in the quantity supplied at each price.
+E) that more suppliers have entered the industry.
+Answer:  A
+Diff: 2
+Topic:  3.2. supply
+Skill:  Recall
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User2:  Qualitative
+
+
+FIGURE 3-2
+
+22) Refer to Figure 3-2. If the supply curve is given by S, the ________ energy-efficient light bulbs is 175 000 when the price is $9.
+A) quantity supplied of
+B) quantity purchased of
+C) quantity sold of
+D) supply schedule for
+E) supply of
+Answer:  A
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 3-2. The movement along the supply curve, S, from point a to point c, could be caused by
+A) a decrease in the price of energy-efficient light bulbs.
+B) a decrease in the price of glass, a major input in the production of energy-efficient light bulbs.
+C) an increase in the number of suppliers of energy-efficient light bulbs.
+D) an increase in the price of energy-efficient light bulbs.
+E) a decrease in the price of ordinary light bulbs.
+Answer:  D
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User1:  Graph
+User2:  Qualitative
+24) Refer to Figure 3-2. A shift of the supply curve from S to S1 could be caused by
+A) an increase in the price of energy-efficient light bulbs.
+B) a decrease in the price of energy-efficient light bulbs.
+C) an expectation that new government regulations will ban the use of energy-efficient light bulbs.
+D) a change in consumers' preferences away from ordinary light bulbs toward energy-efficient light bulbs.
+E) a decrease in the price of glass, a major input in the production of energy-efficient light bulbs.
+Answer:  E
+Diff: 2
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 3-2.  A shift of the supply curve for energy-efficient light bulbs from S to S2 could be caused by
+A) an increase in the price of energy-efficient light bulbs.
+B) a decrease in the price of energy-efficient light bulbs.
+C) an increase in the number of suppliers.
+D) the elimination of existing government subsidies to suppliers of energy-efficient light bulbs.
+E) a change in consumers' preferences away from ordinary light bulbs.
+Answer:  D
+Diff: 3
+Topic:  3.2. supply
+Skill:  Applied
+Learning Obj.:  3-3 List the factors that determine the quantity supplied of a good.
+User1:  Graph
+User2:  Qualitative
+
+3.3  The Determination of Price
+
+1) Choose the best description of an "equilibrium price."
+A) The price in the middle of supply and demand. 
+B) The price at which quantity demanded of the commodity is equal to the quantity supplied.
+C) The price that consumers are willing to pay.
+D) The price that producers want to charge.
+E) The price at which demand for the commodity is equal to supply.
+Answer:  B
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+2) An equilibrium price can be described as
+A) the price at which excess demand equals excess supply.
+B) an aggregate price.
+C) the final price.
+D) one at which there is neither excess demand nor excess supply.
+E)  a regulated price.
+Answer:  D
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Recall
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+3) "Excess demand" can also be described as
+A) excess supply.
+B) the area to the left of the equilibrium price on a supply and demand diagram.
+C) quantity demanded exceeding quantity supplied.
+D) quantity supplied exceeding quantity demanded.
+E) the area to the right of the equilibrium price on a supply and demand diagram.
+Answer:  C
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Recall
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+4) A surplus exists in the market when
+A) the quantity demanded exceeds the quantity supplied.
+B) supply and demand are equal.
+C) the quantity demanded is less than the quantity supplied.
+D) the equilibrium price is too low.
+E) the supply curve has shifted to the left.
+Answer:  C
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+5) At the market-clearing price for a commodity
+A) prices will remain unchanged, even if there is excess demand.
+B) there may be excess demand for a product but not excess supply.
+C) shifts in the supply or demand curves will not cause price changes.
+D) the quantity supplied of the commodity equals quantity demanded.
+E) there will never again be any pressure for prices to change, independent of what happens to demand or supply.
+Answer:  D
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Recall
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+The supply and demand schedules for dozens of roses are given below:
+
+Price
+Quantity Supplied 
+per period
+Quantity Demanded per period
+$10
+200
+500
+$20
+300
+450
+$30
+400
+400
+$40
+500
+350
+$50
+600
+300
+
+TABLE 3-1
+
+6) Refer to Table 3-1. The equilibrium price for a dozen roses is
+A) $10.
+B) $20.
+C) $30.
+D) $40.
+E) $50.
+Answer:  C
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+7) Refer to Table 3-1. How many dozens of roses would actually be purchased if the price in this market were $10?
+A) 200
+B) 300
+C) 350
+D) 400
+E) 500
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+8) Refer to Table 3-1. At a price of ________ there would be an excess ________ of 300 dozen roses.
+A) $10; supply
+B) $30; supply
+C) $10; demand
+D) $50; demand
+E) $30; demand
+Answer:  C
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+9) Refer to Table 3-1. At a price of ________ there would be an excess ________ of 300 dozen roses.
+A) $30; supply
+B) $50; demand
+C) $10; demand
+D) $50; supply
+E) both C and D are correct
+Answer:  E
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+10) Refer to Table 3-1.  How many dozen of roses would actually be purchased if the price in this market were $40?
+A) 150
+B) 350
+C) 200
+D) 500
+E) 850
+Answer:  B
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+The supply and demand schedules for the umbrella market are given below:
+
+Price
+Quantity Supplied
+  Quantity Demanded
+ $10
+400 
+700
+ $15
+500
+650
+ $20
+600
+600
+ $25
+700
+550
+ $30
+800
+500
+
+TABLE 3-2
+
+11) Refer to Table 3-2. The equilibrium price for umbrellas is
+A) $10.
+B) $15.
+C) $20. 
+D) $25. 
+E) $30.
+Answer:  C
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+12) Refer to Table 3-2. What number of umbrellas would actually be purchased if the price in this market were $10? 
+A) 400 
+B) 500 
+C) 550 
+D) 650 
+E) 700
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+13) Refer to Table 3-2. At a price of ________ there would be an excess ________ of umbrellas. 
+A) $10; supply 
+B) $20; supply
+C) $10; demand 
+D) $30; demand 
+E) $20; demand
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+14) Refer to Table 3-2. At a price of ________ there would be an excess ________ of umbrellas.
+A) $10; supply
+B) $15; supply
+C) $20; supply
+D) $25; supply
+E) $30; demand
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+15) Refer to Table 3-2.  At a price of ________ there would be an excess ________of 150 umbrellas.
+A) $10; demand
+B) $15; demand
+C) $20; supply
+D) $25; demand
+E) $30; supply
+Answer:  B
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+The demand and supply schedules for a hypothetical Canadian market for barley are given below:
+
+Price 
+($ per tonne)
+Quantity Demanded
+(million tonnes)
+Quantity Supplied
+(million tonnes)
+100
+370
+300
+125
+360
+325
+150
+350
+350
+175
+340
+375
+200
+330
+400
+225
+320
+425
+
+TABLE 3-3
+
+16) Refer to Table 3-3. The equilibrium price of barley is
+A) $125.
+B) $150.
+C) $175.
+D) $200.
+E) $225.
+Answer:  B
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 3-3. If the price in this market was $100 per tonne, then the amount of barley actually purchased would be ________ million tonnes.
+A) 70
+B) -70
+C) 670
+D) 300
+E) 370
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 3-3. If the price in this market was $200 per tonne, then the amount of barley actually purchased would be ________ million tonnes. 
+A) 70
+B) -70
+C) 330
+D) 400
+E) 730
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 3-3. At a price of $125 per tonne there would be an excess ________ million tonnes of barley.
+A) supply of 325
+B) demand of 360
+C) supply of 35
+D) demand of 35
+E) supply of 125
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 3-3. At a price of $200 per tonne there would be an excess ________ million tonnes of barley.
+A) supply of 200
+B) demand of 330
+C) supply of 400
+D) demand of 70
+E) supply of 70
+Answer:  E
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The table below displays hypothetical demand and supply schedules for the market for overnight parcel deliveries in Canada.
+
+
+Quantity Demanded (millions)
+
+
+Quantity Supplied (millions)
+
+Price ($)
+Year 1
+Year 2
+
+Year 1
+Year 2
+
+
+
+
+
+
+30
+ 80
+ 95
+
+140
+125
+26
+ 90
+105
+
+135
+120
+22
+100
+115
+
+130
+115
+18
+110
+125
+
+125
+110
+14
+120
+135
+
+120
+105
+10
+130
+145
+
+115
+100
+
+TABLE 3-4
+
+21) Refer to Table 3-4.  The equilibrium price and quantity for overnight parcel delivery in Year 1 is ________ and ________ million parcels.
+A) $30; 80
+B) $14; 120
+C) $22; 115
+D) $10; 115
+E) $22; 130
+Answer:  B
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+22) Refer to Table 3-4.  The equilibrium price and quantity for overnight parcel delivery in Year 2 is ________ and ________ million parcels.
+A) $10; 100
+B) $18; 110
+C) $18; 125
+D) $22; 115
+E) $14; 120
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+23) Refer to Table 3-4.  Which of the following statements describes a likely event in the market for overnight parcel delivery?  From Year 1 to Year 2, 
+A) there was a rise in the price of jet fuel.
+B) there was a decrease in consumers' income.
+C) there was an improvement in technology for tracking overnight parcels.
+D) the price of regular parcel delivery decreased.
+E) the number of suppliers of overnight parcel delivery service increased.
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 3-4.  If the price of overnight parcel delivery in Year 2 is $10, how many parcels will actually be delivered?
+A) 100
+B) 115
+C) 130
+D) 145
+E) 45
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 3-4.  Suppose the price of overnight parcel delivery in Year 1 is $22.  Which of the following statements is correct?  In Year 1
+A) there is an excess demand of 15 million deliveries.
+B) there is an excess demand of 30 million deliveries.
+C) 115 million parcels will be delivered.
+D) there is an excess supply of 15 million deliveries.
+E) there is an excess supply of 30 million deliveries.
+Answer:  E
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+26) Refer to Table 3-4.  Which of the following events could explain the change in the market for overnight parcel delivery between Year 1 And Year 2?
+A) there was a decrease in the price of jet fuel
+B) the price of regular parcel delivery decreased
+C) consumer preferences changed toward a desire for overnight delivery
+D) the number of suppliers of overnight parcel delivery service increased
+E) the government introduced a subsidy for overnight parcel delivery
+Answer:  C
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+27) Refer to Table 3-4. Which of the following statements best describes the change in equilibrium price and quantity in this market between Year 1 and Year 2?
+A) The demand curve has shifted to the left, the supply curve has shifted to the right; as a result equilibrium price is lower and equilibrium quantity is higher.
+B) The demand curve has shifted to the left, the supply curve has shifted to the left; as a result equilibrium price is higher and equilibrium quantity is lower.
+C) The demand curve has shifted to the right, the supply curve has shifted to the left; as a result equilibrium price is higher and equilibrium quantity is lower.
+D) The demand curve has shifted to the left, the supply curve has shifted to the right; as a result equilibrium price is higher and equilibrium quantity is lower.
+E) There is no change in equilibrium price or quantity from Year 1 to Year 2. 
+Answer:  C
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Quantitative
+
+
+FIGURE 3-3
+
+28) Refer to Figure 3-3. At a price of P2 there would be excess demand equal to
+A) 0.
+B) Q1 Q5.
+C) Q2 Q4.
+D) Q1 Q3.
+E) Q3 Q5.
+Answer:  A
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 3-3. At a price of P1 there would be excess supply equal to
+A) 0.
+B) Q1 Q5.
+C) Q2 Q4.
+D) Q1 Q2.
+E) Q4 Q5.
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+30) Refer to Figure 3-3. At a price of P1 there would be excess demand equal to
+A) Q1Q5.
+B) Q2Q4.
+C) Q1Q2.
+D) Q4Q5.
+E) There is no excess demand at P1.
+Answer:  E
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Quantitative
+
+31) Refer to Figure 3-3. At a price of P3 there is excess ________ in the market for X and pressure for the price to ________.
+A) supply; fall
+B) supply; rise
+C) demand; fall
+D) demand; rise
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 3-3. At a price of P1 there is excess ________ in the market for X and pressure for the price to ________.
+A) supply; fall
+B) supply; rise
+C) demand; fall
+D) demand; rise
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+FIGURE 3-4
+
+33) Refer to Figure 3-4. The market for 1-bedroom apartments in Collegetown will be in equilibrium at a price and quantity combination of
+A) $500; 300 apartments.
+B) $700; 450 apartments.
+C) $500; 350 apartments.
+D) $300; 250 apartments.
+E) $400; 300 apartments.
+Answer:  E
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Quantitative
+
+34) Refer to Figure 3-4. If the price of 1-bedroom apartments in Collegetown were $300, there would be a ________ of ________ apartments.
+A) surplus; 100
+B) shortage; 50
+C) shortage; 100
+D) surplus; 50
+E) surplus; 150 
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Quantitative
+35) Refer to Figure 3-4. If the price of 1-bedroom apartments in Collegetown were $700, there would be a ________ of ________ apartments.
+A) surplus; 150
+B) shortage; 300
+C) shortage; 150
+D) surplus; 300
+E) surplus; 100
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Quantitative
+
+
+FIGURE 3-5
+
+36) Refer to Figure 3-5. The price at which there would be a shortage in this market is
+A) P1.
+B) P2.
+C) P3.
+D) both P1 and P3.
+E) both P2 and P3.
+Answer:  C
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+37) Refer to Figure 3-5. A price at which there would be a surplus in this market is
+A) P1.
+B) P2.
+C) P3.
+D) both P1 and P2.
+E) both P1 and P3.
+Answer:  A
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+38) Refer to Figure 3-5. Ceteris paribus, if supply were to increase, this would lead to 
+A) an increase in both equilibrium price and quantity.
+B) a decrease in both equilibrium price and quantity.
+C) an increase in equilibrium price and a decrease in equilibrium quantity.
+D) a decrease in equilibrium price and an increase in equilibrium quantity.
+E) no change in equilibrium price or quantity.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+39) Refer to Figure 3-5. Ceteris paribus, if demand were to decrease, this would lead to
+A) an increase in equilibrium price and an increase in equilibrium quantity.
+B) a decrease in equilibrium price and a decrease in equilibrium quantity.
+C) an increase in equilibrium price and a decrease in equilibrium quantity.
+D) a decrease in equilibrium price and an increase in equilibrium quantity.
+E) no change in equilibrium price or quantity.
+Answer:  B
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+40) Refer to Figure 3-5. If supply and demand were to increase simultaneously, this would lead to
+A) an increase in both equilibrium price and quantity.
+B) a decrease in both equilibrium price and quantity.
+C) an increase in equilibrium quantity and an indeterminate change in price. 
+D) an increase in equilibrium price and an indeterminate change in equilibrium quantity.
+E) no change in equilibrium price or quantity.
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+41) Refer to Figure 3-5. If supply were to increase and demand were to decrease simultaneously, this would lead to
+A) a decrease in equilibrium price and an indeterminate change in quantity.
+B) a decrease in equilibrium quantity and an indeterminate change in price.
+C) an increase in equilibrium quantity and a decrease in equilibrium price.
+D) an increase in equilibrium quantity and an increase in equilibrium price.
+E) no change in equilibrium price or quantity.
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+42) Tickets for music concerts that are sold on the Internet are often sold out within minutes and many unsatisfied customers are unable to get tickets (in the legitimate market).  One explanation for this is that 
+A) concert goers are not rational. 
+B) prices for purchasing digital music have increased.
+C) the market price for concert tickets may be set above its equilibrium price. 
+D) the market price for concert tickets may be set below its equilibrium price. 
+E) the market price for concert tickets is at its equilibrium level.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+43) The quantity exchanged in the market will be below the equilibrium quantity 
+A) only if there is excess supply. 
+B) only if there is excess demand. 
+C) if there is either excess supply or demand. 
+D) in no imaginable situation. 
+E) only if price is below the equilibrium price.
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+44) The term "comparative statics" describes the
+A) analysis of the path from one equilibrium to another.
+B) comparison of one equilibrium point with another.
+C) comparison of a demand curve with a supply curve.
+D) analysis of the process of price and quantity adjustments that leads to an equilibrium.
+E) analysis of excess demand and excess supply.
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+45) Given a positively sloped supply curve, a rise in the demand for that commodity causes
+A) a shortage of other goods.
+B) a fall in sales of that commodity.
+C) an increase in both the equilibrium price and the equilibrium quantity exchanged.
+D) a decrease in the equilibrium price and an increase in the equilibrium quantity exchanged. 
+E) a decrease in both the equilibrium price and the equilibrium quantity exchanged.
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+46) Which of the following could lead to a rise in the quantity demanded of lemons?
+A) a leftward shift in the supply curve of lemons
+B) a rightward shift in the supply curve of lemons
+C) a decline in the number of people drinking lemonade
+D) a decrease in the price of artificial lemon flavouring
+E) a cold spell which makes people want less lemonade
+Answer:  B
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+47) Weekend train travel costs less than weekday train travel. If the supply of train service remains the same between weekdays and weekends, then the most likely explanation for this difference in price is that the weekend
+A) demand curve is to the left of the weekday demand curve. 
+B) demand curve is to the right of the weekday demand curve. 
+C) demand curve is random.
+D) supply curve is to the right of the weekday supply curve.
+E) supply curve is to the left of the weekday supply curve.
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+48) Suppose that in Montreal in December, 2015, 10 000 ski helmets were sold at a price of $60 each. And in Montreal in December, 2016, 20 000 ski helmets were sold at a price of $80 each. One possible explanation for the change is that from 2015 to 2016 the ________ curve for ski helmets shifted to the ________. 
+A) supply; left 
+B) supply; right 
+C) demand; left 
+D) demand; right
+E) supply or demand; right
+Answer:  D
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+49) Consider a local market for 4-litre containers of windshield-wiper fluid. In January 2015, 100 000 containers were sold at a price of $3 each. In March 2015, 120 000 containers are sold at a price of $8 each. Does this change in equilibrium price and quantity violate the "law of demand"?
+A) Not necessarily, because the supply curve could have shifted to the right, leading to an increase in equilibrium price and quantity. 
+B) Not necessarily, because the demand curve could have shifted to the right, leading to an increase in equilibrium price and quantity. 
+C) Not necessarily, because the demand curve could have shifted to the left, leading to an increase in equilibrium price and quantity. 
+D) Not necessarily, because the supply curve could have shifted to the left, leading to an increase in equilibrium price and quantity. 
+E) No, because the "law of demand" is not valid. 
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+50) Suppose we observe an increase in the price of good A and an increase in the quantity of good A exchanged. Which of the following is a likely explanation? 
+A) The "law of demand" is violated. 
+B) The "law of supply" is violated. 
+C) The supply of good A has increased. 
+D) There is an excess supply of good A.
+E) The demand for good A has increased.
+Answer:  E
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+51) Consider a negatively sloped demand curve for natural gas. If the supply of natural gas increases, the new equilibrium will have
+A) a lower price and a greater quantity.
+B) a lower price and a smaller quantity.
+C) a higher price and a smaller quantity.
+D) a higher price and a larger quantity.
+E) the same price and larger quantity.
+Answer:  A
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+52) Which of the following statements is correct for a market with an upward-sloping supply curve and a downward-sloping demand curve?
+A) If the supply curve shifts left and demand remains constant, equilibrium quantity will rise.
+B) If the supply curve shifts right and the demand curve remains constant, equilibrium price will rise.
+C) If the demand curve shifts left and the supply curve shifts right, equilibrium price will rise. 
+D) If the demand curve shifts right and the supply curve shifts left, equilibrium price will rise. 
+E) If the demand curve shifts left and the supply curve shifts left, equilibrium quantity will rise. 
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+
+
+FIGURE 3-6
+
+53) Refer to Figure 3-6. If the initial demand and supply curves are D1 and S1, equilibrium price and quantity are represented by point
+A) A.
+B) B.
+C) C.
+D) D.
+E) Not shown in the figure.
+Answer:  A
+Diff: 1
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 3-6. If the demand curve shifts from D1 to D2, while supply remains at S1, one could say that 
+A) the quantity demanded has decreased to Q1 and price has fallen to P2.
+B) there has been an increase in demand for X.
+C) the price of a good which is a substitute for X must have fallen.
+D) the price increase has caused an increase in quantity demanded.
+E) there is now an excess demand at the new price of P1.
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 3-6. If the initial demand and supply curves are D1 and S1, and demand shifts to D2, then 
+A) a permanent shortage of X will result.
+B) a surplus of Q1Q3 will occur.
+C) a shortage will occur at any price above P3.
+D) if price remained at P2, a shortage of Q1Q3 would exist. 
+E) all of the above
+Answer:  D
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+56) Refer to Figure 3-6. A shift in the supply curve from S2 to S1 might be caused by
+A) a rise in the costs of producing good X.
+B) a decrease in the price of X.
+C) a decrease in demand for X.
+D) an improvement in the technology of producing good X.
+E) additional suppliers entering the industry.
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Graph
+User2:  Qualitative
+
+57) With a given upward-sloping supply curve for sirloin steak (a normal good), a rise in household income will cause the
+A) equilibrium price and equilibrium quantity to both increase.
+B) equilibrium price to increase and equilibrium quantity to decrease.
+C) equilibrium price and equilibrium quantity to both decrease.
+D) equilibrium price to decrease and equilibrium quantity to increase.
+E) equilibrium price to increase and equilibrium quantity to remain constant.
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+58) If the legal beer-drinking age is raised from 18 to 21, the changes to the equilibrium price and quantity of beer are likely to be that 
+A) price rises and quantity rises.
+B) price falls and quantity rises.
+C) price rises and quantity falls.
+D) price falls and quantity falls.
+E) no change in price or quantity occurs.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+59) Steel is an important input to the production of cars. Tires and cars are used together by consumers. What will occur in the market for tires when there is an increase in the price of steel? 
+A) price rises, quantity rises
+B) price falls, quantity rises
+C) price rises, quantity falls
+D) price falls, quantity falls
+E) no change in price or quantity occurs
+Answer:  D
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+60) Aeronautical engineers are a factor of production for airplanes.  What will happen in the world market for airplanes when there is a worldwide shortage of aeronautical engineers?
+A) price will increase, quantity exchanged will decrease
+B) price will increase, quantity exchanged will increase
+C) price will decrease, quantity exchanged will decrease
+D) price will decrease, quantity exchanged will increase
+E) there will be no change in price or quantity exchanged
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User1:  Table
+User2:  Qualitative
+
+61) Assume that apples and oranges are substitute goods. Given the initial supply and demand curves for apples, a reduction in the price of oranges will tend to
+A) increase the price of apples.
+B) increase the demand for apples.
+C) increase the demand for oranges.
+D) decrease the demand for oranges.
+E) decrease the price of apples.
+Answer:  E
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+62) Suppose that supply for some good increases and that simultaneously the demand for the same good decreases. The result would be
+A) a decrease in P and an indeterminate change in Q.
+B) a decrease in Q and an indeterminate change in P.
+C) an increase in Q and a decrease in P.
+D) an increase in Q and an increase in P.
+E) no change in either P or Q.
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+63) Given a positively sloped supply curve, when market demand increases
+A) the new equilibrium will have a lower price and a greater quantity.
+B) the new equilibrium will have a lower price and a smaller quantity.
+C) the new equilibrium will have a higher price and a smaller quantity.
+D) the new equilibrium will have a higher price and a larger quantity.
+E) the new equilibrium will have the same price and larger quantity.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+64) Suppose we observe that movie theatre prices are less during the daytime than in the evening. If the supply of movies does not change between daytime and evening, then the most likely explanation for this difference in price is
+A) the evening demand curve is to the left of the daytime demand curve.
+B) the evening demand curve is to the right of the daytime demand curve.
+C) the evening supply curve is to the left of the daytime supply curve.
+D) the evening supply curve is to the right of the daytime supply curve.
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+65) Consider the global market for some mineral, X. In January, 2014, the equilibrium price and quantity were P = $27 per unit and Q = 140 million units. In January, 2016, the equilibrium price and quantity were P = $45 per unit and Q = 175 million units. Which of the following is the best possible explanation for this change in market equilibrium? 
+A) There has been a decrease in supply of mineral X. 
+B) There has been an increase in demand for mineral X.
+C) There has been an increase in supply of mineral X. 
+D) There has been a decrease in demand for mineral X. 
+E) There has been a simultaneous decrease in demand for, and increase in supply of, mineral X. 
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+66) Consider the global market for some mineral, X.  In January, 2014, the equilibrium price and quantity were P = $27 per unit and Q = 140 million units. In January, 2016, the equilibrium price and quantity were P = $27 per unit and Q = 175 million units. Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been a simultaneous increase in demand for, and increase in supply of, mineral X. 
+B) There has been an increase in demand for mineral X. 
+C) There has been an increase in quantity demanded for mineral X. 
+D) There has been an increase in supply of mineral X. 
+E) There has been an increase in quantity supplied of mineral X. 
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+67) Consider the global market for some mineral, X.  In January, 2014, the equilibrium price and quantity were P = $27 per unit and Q = 140 million units. In January, 2016, the equilibrium price and quantity were P = $35 per unit and Q = 110 million units. Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in demand for mineral X. 
+B) There has been a decrease in supply of mineral X. 
+C) There has been a decrease in global demand for mineral X.
+D) There has been a simultaneous increase in demand and increase in supply for mineral X. 
+E) there has been a simultaneous increase in supply and decrease in demand for mineral X. 
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+68) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $168 per tonne and Q = 350 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in demand for barley.
+B) There has been a decrease in supply of barley.
+C) There has been a decrease in demand for barley.
+D) There has been a simultaneous decrease in demand and increase in supply of barley.
+E) There has been a simultaneous increase in demand and decrease in supply of barley.
+Answer:  E
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+
+69) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $150 per tonne and Q = 410 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been a decrease in supply of barley.
+B) There has been an increase in demand for barley.
+C) There has been a simultaneous increase in demand and increase in supply of barley.
+D) There has been a simultaneous increase in demand and decrease in supply of barley.
+E) There has been a decrease in demand for barley.
+Answer:  C
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+
+70) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $159 per tonne and Q = 372 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in demand for barley.
+B) There has been an increase in supply of barley.
+C) There has been a simultaneous decrease in demand and increase in supply of barley.
+D) There has been a decrease in supply of barley.
+Answer:  A
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+71) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $168 per tonne and Q = 290 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in demand for barley.
+B) There has been an increase in supply of barley.
+C) There has been a simultaneous increase in demand and increase in supply of barley.
+D) There has been a decrease in supply of barley.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+
+72) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $140 per tonne and Q = 325 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in supply of barley.
+B) There has been a decrease in supply of barley.
+C) There has been a simultaneous increase in demand and increase in supply of barley.
+D) There has been a decrease in demand for barley.
+E) There has been an increase in demand for barley.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+
+73) Consider the global market for barley, an agricultural commodity. Suppose that in August, 2014, the equilibrium price and quantity were P = $150 per tonne and Q = 350 million tonnes.  In August, 2015, the equilibrium price and quantity were P = $142 per tonne and Q = 335 million tonnes.  Which of the following is the best possible explanation for this change in market equilibrium?
+A) There has been an increase in supply of barley.
+B) There has been a decrease in supply of barley.
+C) There has been a simultaneous increase in demand and increase in supply of barley.
+D) There has been a decrease in demand for barley.
+E) There has been an increase in demand for barley.
+Answer:  D
+Diff: 2
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+User2:  Quantitative
+74) If a demand curve and a supply curve can be stated functionally as Qd = 100 - 5P; and Qs = 90 + 5P, respectively, then the equilibrium quantity and price (Q, P) would be 
+A) 95; 1.
+B) 1; 95.
+C) 190; 1. 
+D) 95; 10.
+E) 190; 10.
+Answer:  A
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+75) If a demand curve and a supply curve can be stated functionally as Qd = 500 - 0.1P and Qs = 440 + 0.4P, respectively, then the equilibrium quantity and price (Q, P) would be 
+A) 150; 150.
+B) 50; 176.
+C) 150; 485. 
+D) 488; 120.
+E) 940; 0.4.
+Answer:  D
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+76) Suppose that the demand and supply curves in the market for apples have the following functional forms: QD = 250 - 4p and QS = 10 + p. The equilibrium quantity and price would then be 
+A) Q = 48, p = 58. 
+B) Q = 58, p = 48. 
+C) Q = 68, p = 98. 
+D) Q = 68, p = 108. 
+E) Q = 92, p = 48. 
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+77) Suppose that the demand and supply curves in the market for apples have the following functional form: QD = 250 - 4p and QS = 10 + p. If the prevailing price on the market is 50, then 
+A) the market is clearing. 
+B) the market exhibits an excess supply of 10 units. 
+C) the market exhibits an excess supply of 240 units. 
+D) the market exhibits an excess demand of 10 units. 
+E) the market exhibits an excess demand of 240 units. 
+Answer:  B
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+78) Suppose the demand and supply curves in the market for apples have the following functional form: QD = 250 - 4p and QS = 10 + p. If the prevailing market price is 40, then 
+A) the market is clearing.
+B) the market exhibits an excess supply of 50 units.
+C) the market exhibits an excess supply of 40 units.
+D) the market exhibits an excess demand of 50 units.
+E) the market exhibits an excess demand of 40 units.
+Answer:  E
+Diff: 3
+Topic:  3.3a. equilibrium price and quantity
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+79) The price of one good divided by the price of another good is called a
+A) marginal price. 
+B) money price. 
+C) absolute price. 
+D) relative price. 
+E) ceteris paribus price.
+Answer:  D
+Diff: 1
+Topic:  3.3b. relative prices
+Skill:  Recall
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+80) The relative price of a good
+A) is always measured in current dollars.
+B) is a measure of the relative share of the consumer's income devoted to its purchase.
+C) is its price in terms of money.
+D) is equal to the average price of the good over the last 5 years.
+E) reflects its price in terms of units of other goods.
+Answer:  E
+Diff: 1
+Topic:  3.3b. relative prices
+Skill:  Recall
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Qualitative
+
+81) Suppose that the price of wheat has fallen from $3 to $2 per bushel and that the price of newsprint has fallen from $200 to $100 per tonne. The relative price of wheat in terms of newsprint
+A) has fallen.
+B) has risen.
+C) remained constant.
+D) cannot be determined from the above data.
+E) is completely unrelated.
+Answer:  B
+Diff: 3
+Topic:  3.3b. relative prices
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+82) Suppose that the price of good X increases from $3.00 to $4.00 while the price of good Y increases from $150 to $200. The relative price of X (in terms of Y) 
+A) has fallen.
+B) has risen.
+C) remained constant.
+D) cannot be determined from the above data.
+E) is completely unrelated to the price of good Y.
+Answer:  C
+Diff: 3
+Topic:  3.3b. relative prices
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+83) Suppose an index of average prices of imported goods in Canada indicates an increase in price of 2.3% over a 12-month period. Over the same period the Consumer Price Index indicates an increase in the general price level of 2.3%. What is the change in the price of imports relative to the change in the overall price level? 
+A) an increase of 2.3%
+B) an increase of 4.6%
+C) a decrease of 2.3%
+D) a decrease of 4.6%
+E) no change
+Answer:  E
+Diff: 2
+Topic:  3.3b. relative prices
+Skill:  Applied
+Learning Obj.:  3-5 Explain the forces that drive market price to equilibrium, and how equilibrium price is affected by changes in demand and supply.
+User2:  Quantitative
+
+84) Suppose the world price of oil rises by 25% over a 12-month period; over the same period the average price level in Canada rises by 1.6%. What is the change in the price of oil relative to the change in the average price level?
+A) an increase of 23.4%
+B) a decrease of 23.4 %
+C) an increase of 26.6%
+D) a decrease of 26.6%
+E) an increase of 25%
+Answer:  A
+Diff: 2
+Topic:  3.3b. relative prices
+Skill:  Applied
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 58
+Copyright © 2017 Pearson Education, Inc.
+
+
+

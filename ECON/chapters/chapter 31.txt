@@ -1,0 +1,1817 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 31   Government Debt and Deficits
+
+31.1  Facts and Definitions
+
+1) What is the difference between the government's debt and the government's deficit?
+A) The debt is the annual shortfall of revenues minus disbursements whereas the deficit is the accumulation of past debts.
+B) The debt is the amount the government pays in interest payments whereas the deficit has not yet incurred interest charges.
+C) The debt is the amount payable to the Bank of Canada whereas the deficit is the annual shortfall of revenue minus disbursements.
+D) The debt is the accumulation of past deficits whereas the deficit is the annual shortfall between revenues and disbursements.
+E) The debt is the difference between tax revenues and government expenditures whereas the deficit is the difference between tax revenues and borrowing.
+Answer:  D
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+2) A simple equation describing the government's budget constraint is
+A) government expenditure = tax revenue - borrowing.
+B) government expenditure = tax revenue + borrowing.
+C) government expenditure = tax revenue + debt-service payments.
+D) tax revenue = government expenditure + borrowing.
+E) tax revenue = borrowing - government expenditure.
+Answer:  B
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+3) Consider the following variables:
+	G = government purchases
+	i = interest rate on government debt
+	D = stock of government debt
+	T = net tax revenue
+The government's budget constraint can be expressed as 
+A) (G + iD) = borrowing - T.
+B) (G + iD) - T = borrowing.
+C) (G + iD) + T = borrowing.
+D) G - T - (iD) = borrowing.
+E) (G - iD) = borrowing + T.
+Answer:  B
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+4) Consider the following variables:
+	G = government purchases
+	i = interest rate on government debt
+	D = stock of government debt
+	T = net tax revenue
+The government's budget deficit can be expressed as 
+A) ΔD = (G + iD) - T.
+B) ΔD = (G - iD) + T.
+C) deficit = D - (G + iD) + T.
+D) deficit = D - T + (G + iD).
+E) T = ΔD - (G + iD).
+Answer:  A
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+5) In any given year, the government's debt-service payments are
+A) equal to the annual budget deficit.
+B) equal to the annual primary budget deficit.
+C) the interest payments on the outstanding stock of government debt.
+D) not related to the government deficit.
+E) not required unless the debt is held by foreigners.
+Answer:  C
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+6) In any given year, the government's debt-service payments are equal to 
+A) (fiscal borrowing) × (the interest rate).
+B) (government spending) × (the interest rate).
+C) (government spending - tax revenue) × (the interest rate).
+D) (total outstanding government debt) × (the interest rate).
+E) (government spending + tax revenue) × (the interest rate).
+Answer:  D
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+7) Consider the government's budget constraint. The accumulated stock of government debt will begin to fall 
+A) if the government's debt-service payments are zero.
+B) if the government does not borrow money.
+C) if the growth rate of real GDP is higher than the real interest rate.
+D) when the government's annual budget is in deficit.
+E) when the government's annual budget is in surplus.
+Answer:  E
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+8) The federal government's "primary budget deficit"
+A) includes domestic borrowing but excludes foreign borrowing.
+B) excludes debt-service payments.
+C) is the amount of government borrowing in a fiscal year.
+D) is the amount of tax revenue minus the amount of interest paid on the public debt.
+E) is the most important indicator of the level of government spending.
+Answer:  B
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+9) The government's annual primary budget deficit is equal to the
+A) accumulation of government borrowing.
+B) decrease in the stock of government debt during the course of a year.
+C) excess of government's program expenditures over tax revenues in a given fiscal year.
+D) total amount of government spending on program expenses, personnel, and capital outlays.
+E) excess of current revenue over current expenditure.
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+10) Do we get a useful and meaningful statistic by dividing the national debt by the GDP?
+A) No — we are essentially "dividing apples by oranges," which is unhelpful.
+B) No — the GDP is not a meaningful measure of the well-being of the economy.
+C) Yes — we can then see how much of the national debt is owed by each individual citizen.
+D) Yes — we can see the burden of the debt in relation to the size of the economy.
+E) No — dividing a stock by a flow can never be sensible.
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+11) The government's primary budget deficit (or surplus) is the
+A) non-interest expenditures and interest payments.
+B) sum of total government expenditures and revenues.
+C) sum of interest payments and revenues.
+D) total budget deficit between two fiscal years.
+E) total budget deficit (or surplus) excluding debt-service payments.
+Answer:  E
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+12) The government's primary budget deficit (or surplus) is the difference between the 
+A) non-interest expenditures and interest payments.
+B) interest payments and revenues.
+C) total budget deficit (or surplus) and debt-service payments.
+D) total budget deficit (or surplus) between one year and the next.
+E) total government expenditures and revenues.
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+13) Consider the federal government's budget constraint. If the government's total budget deficit is $27 billion and its debt-service payments are $29 billion, then its
+A) primary budget deficit is $2 billion.
+B) primary budget deficit is $56 billion.
+C) primary budget surplus is $2 billion.
+D) primary budget surplus is $56 billion. 
+E) Not enough information to determine. 
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+14) Suppose that in Year 2 there was a higher federal budget deficit than in Year 1. This could be explained by ________ in Year 2.
+A) lower real interest rates
+B) higher real GDP (with fiscal policy constant)
+C) lower real GDP (with fiscal policy constant)
+D) lower government expenditure (with real GDP constant)
+E) a lower primary budget surplus
+Answer:  C
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+15) The extent to which tax revenues are able to finance the discretionary part of total government expenditure is best measured by the 
+A) cyclically adjusted deficit/surplus. 
+B) government's current fiscal policy.
+C) debt-to-GDP ratio. 
+D) government's primary budget deficit or surplus. 
+E) tax-to-GDP ratio.
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+16) When a government changes its fiscal policy, it is 
+A) changing the exchange rates to change national income.
+B) increasing the money supply to increase national income.
+C) changing government spending and/or tax rates to achieve some objective.
+D) using government spending and taxes together with changing the money supply in order to achieve full employment.
+E) buying and selling private bonds to increase or decrease the overnight lending rate.
+Answer:  C
+Diff: 1
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+17) If we want to know whether tax revenues are sufficient to finance the discretionary part of government expenditure, which of the following measures should we analyze?
+A) the cyclically adjusted deficit/surplus
+B) the government's budget constraint
+C) the debt-to-GDP ratio
+D) the government's primary deficit/surplus
+E) the interest rate on government bonds compared to the growth rate of real GDP
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+18) If voters want to know how their tax dollars are being spent and how the federal government is managing its current spending, they should look at
+A) federal/provincial tax transfers.
+B) changes in the money supply.
+C) the primary budget balance.
+D) the overall budget balance.
+E) the inflation adjusted deficit.
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+19) Suppose the stock of government debt in Canada at the end of one fiscal year is $475 billion. If the stock of debt falls to $461 billion by the end of the next fiscal year, then we know that in that year
+A) the government had a primary budget surplus of $14 billion.
+B) the government had a primary budget deficit of $14 billion.
+C) tax revenues increased by $14 billion.
+D) the government had an annual budget surplus of $14 billion.
+E) debt-service payments fell by $14 billion.
+Answer:  D
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+20) Suppose the stock of government debt in Canada at the end of one fiscal year is $475 billion. If the stock of debt falls to $461 billion by the end of the next fiscal year, and debt-service payments during that year were $38 billion, then we know that the government had
+A) a primary budget surplus of $52 billion.
+B) a primary budget surplus of $14 billion.
+C) a primary budget surplus of $24 billion.
+D) an annual budget surplus of $38 billion.
+E) an annual budget deficit of $14 billion.
+Answer:  A
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+21) Suppose the stock of government debt in Canada at the end of one fiscal year is $475 billion. If the stock of debt rises to $482 billion by the end of the next fiscal year, then we know that in that year
+A) debt-service payments rose by $7 billion.
+B) the government had a primary budget surplus of $7 billion.
+C) the government had an annual budget deficit of $7 billion.
+D) the government had a primary budget deficit of $7 billion.
+E) tax revenues decreased by $7 billion.
+Answer:  C
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+22) Suppose the stock of government debt in Canada at the end of one fiscal year (Year 1) is $475 billion. During the following year (Year 2), government purchases were $180 billion, debt-service payments were $25 billion, and net tax revenues were $208 billion. What is the stock of debt at the end of Year 2?
+A) $422 billion
+B) $457 billion
+C) $472 billion
+D) $475 billion
+E) $478 billion
+Answer:  C
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+23) Suppose during one fiscal year, government purchases are $195 billion, debt-service payments are $22 billion and net tax revenues are $208 billion. What is the annual budget deficit/surplus?
+A) budget surplus of $22 billion
+B) budget deficit of $13 billion
+C) budget surplus of $13 billion
+D) budget deficit of $9 billion
+E) budget surplus of $9 billion
+Answer:  D
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+24) Suppose during one fiscal year, government purchases are $195 billion, debt-service payments are $22 billion and net tax revenues are $208 billion. What is the government's primary budget deficit/surplus?
+A) primary budget surplus of $22 billion
+B) primary budget deficit of $13 billion
+C) primary budget surplus of $13 billion
+D) primary budget deficit of $9 billion
+E) primary budget surplus of $9 billion
+Answer:  C
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+25) If the government's tax revenues are less than its total spending (including debt-service payments), then we know
+1) the government has an annual budget deficit;
+2) the government has a primary budget deficit;
+3) the stock of government debt is increasing.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+26) If the government's total budget deficit is $24 billion and its debt-service payments are $20 billion, then its ________ is $4 billion.
+A) cyclically adjusted deficit
+B) primary budget deficit
+C) primary budget surplus
+D) government expenditure
+E) total tax revenue
+Answer:  B
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+27) If the government's total budget surplus is $10 billion and its debt-service payments are $8 billion, then its primary budget surplus is
+A) $2 billion.
+B) $8 billion.
+C) $10 billion.
+D) $18 billion.
+E) -$2 billion.
+Answer:  D
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+28) Consider the federal government's budget constraint. Suppose total government expenditure (government purchases, G, plus debt-service payments, i × D) is $500 billion and net tax revenues, T, is $481 billion. In this case, 
+A) the annual budget surplus is $19 billion and the debt can be reduced by this amount. 
+B) the primary budget surplus is $19 billion and the debt can be reduced by this amount. 
+C) it is not possible to determine the deficit or surplus situation of the government because we do not know the value of the debt-service payments.
+D) the primary budget deficit is $19 billion and the government must borrow this amount. 
+E) the annual budget deficit is $19 billion and the government must borrow this amount. 
+Answer:  E
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+29) The stock of government debt will continue to rise unless the government 
+A) increases its taxes. 
+B) decreases its expenditures. 
+C) decreases the size of its transfers. 
+D) runs a budget surplus. 
+E) runs a budget deficit. 
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+30) The government's current spending and taxation policies cannot affect the 
+A) primary budget deficit. 
+B) annual budget deficit. 
+C) size of its transfers. 
+D) change in the stock of government debt. 
+E) existing stock of government debt. 
+Answer:  E
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+31) Consider two economies, A and B. Economy A has a stock of government debt equal to $800 billion, while Economy B has a stock of government debt equal to $22 billion. In order to determine the economic importance of these government debt loads in the respective economies, it is necessary to know ________ for each economy. 
+A) the level of government expenditures
+B) the net tax rate
+C) the primary budget deficit
+D) the GDP
+E) the stance of monetary policy
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+The table below shows government purchases (G), net tax revenues (T), and debt-service payments (iD) over a 4-year period for a hypothetical economy. All figures are in billions of dollars. Assume the stock of debt at the end of 2012 is $500 billion.
+
+Year
+G
+T
+iD
+Stock of Debt
+2012
+250
+260
+18
+500
+2013
+250
+262
+18
+
+2014
+265
+263
+20
+
+2015
+270
+267
+21
+
+
+TABLE 31-1
+
+32) Refer to Table 31.1.  What is the primary budget deficit in 2014?
+A) $22 billion
+B) -$22 billion
+C) $21 billion
+D) $2 billion
+E) -$2 billion
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+33) Refer to Table 31.1.  What is the budget deficit in 2012?
+A) $18 billion
+B) -$8 billion
+C) $8 billion.
+D) -$10 billion
+E) $10 billion
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+34) Refer to Table 31.1.  What is the primary budget deficit in 2013?
+A) -$12 billion
+B) $12 billion
+C) -$6 billion
+D) $6 billion
+E) There is no primary budget deficit.
+Answer:  A
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+35) Refer to Table 31.1.  What is the stock of debt at the end of 2013?
+A) $488 billion
+B) $494 billion
+C) $500 billion
+D) $506 billion
+E) $512 billion
+Answer:  D
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+36) Refer to Table 31.1.  What is the budget deficit in 2015?
+A) -$24 billion
+B) $24 billion
+C) -$3 billion
+D) $3 billion
+E) $21 billion
+Answer:  B
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+37) Refer to Table 31.1.  What is the stock of debt at the end of 2015?
+A) $494 billion
+B) $500 billion
+C) $506 billion
+D) $528 billion
+E) $552 billion
+Answer:  E
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+38) The Canadian federal debt-to-GDP ratio reached a post Second World War high of about ________% in 1996. By 2015/2016, the debt-to GDP ratio was forecast to be about ________%.
+A) 80; 110
+B) 50; 0
+C) 40; 10
+D) 110; 50
+E) 70; 30
+Answer:  E
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+39) The Canadian federal government's net debt as a percentage of GDP reached a historic high of
+A) 70% in 1996 due to large and persistent deficits throughout the 1970s.
+B) 70% in 1982 due to the OPEC oil shock in the mid 1970s and the severe inflation that followed. 
+C) 110% in 1946 as a result of Canada's participation in the Second World War.
+D) 52% in 2012 due to the fiscal expansion following the global financial crisis. 
+E) 90% in the late 1960s due to massive infrastructure projects in progress across Canada.
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+40) Consider two economies, A and B. Economy A has a stock of government debt equal to $800 billion and a debt-to-GDP ratio of 10%. Economy B has a stock of government debt equal to $22 billion and a debt-to-GDP ratio of 80%. What is the GDP for each economy?
+A) Economy A: GDP = $8 trillion
+Economy B: GDP = $27.5 billion
+B) Economy A: GDP = $80 billion
+Economy B: GDP = $18.7 billion
+C) Economy A: GDP = $80 trillion
+Economy B: GDP = $275 billion
+D) Economy A: GDP = $800 billion
+Economy B: GDP = $22 billion
+E) Economy A: GDP = $8 trillion
+Economy B: GDP = $2.75 billion
+Answer:  A
+Diff: 3
+Topic:  31.1. government budget constraint
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+41) The Canadian federal government's debt-to-GDP ratio climbed steadily from
+A) 1939 to the late 1980s.
+B) 1960 to the late 1990s.
+C) 1975 to the mid 1990s.
+D) 1995 to 2009.
+E) 2000 to 2015.
+Answer:  C
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+42) In every year between 1998 and 2008, the Canadian federal government had a
+A) budget deficit, indicating that even deep cuts in government spending were not sufficient to alleviate the problem. 
+B) primary deficit, indicating that tax revenues were insufficient to cover discretionary government expenditures. 
+C) budget deficit, which contributed to a growing stock of government debt. 
+D) primary surplus but overall deficit, indicating that tax revenues were more than sufficient to cover discretionary government expenditures. 
+E) budget surplus, indicating that tax revenues were more than sufficient to cover total government expenditures.
+Answer:  E
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+43) The Canadian federal government had a budget surplus each year from ________ until 2008. 
+A) 1945
+B) 1967
+C) 1987
+D) 1998
+E) 2000
+Answer:  D
+Diff: 2
+Topic:  31.1. government budget constraint
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+31.2  Two Analytical Issues
+
+1) The budget deficit function is graphed with the budget deficit on the vertical axis and ________ on the horizontal axis, and is ________.
+A) real GDP; downward sloping
+B) real GDP; upward sloping
+C) the interest rate; downward sloping
+D) the interest rate; upward sloping
+E) the interest rate; horizontal
+Answer:  A
+Diff: 1
+Topic:  31.2a. budget deficit function
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+2) Consider the government's budget deficit function. With an unchanged fiscal policy by government, an increase in GDP tends to ________ net tax revenues and thus ________ the budget deficit.
+A) raise; raise
+B) raise; lower
+C) lower; raise
+D) lower; lower
+E) lower; leave unchanged
+Answer:  B
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+
+3) Consider the budget deficit function. With an unchanged fiscal policy by government, an increase in national income causes ________ the budget deficit function.
+A) an upward movement along
+B) a downward movement along
+C) an upward shift of
+D) a downward shift of
+E) a downward rotation in
+Answer:  B
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+4) Consider the government's budget deficit function over a two-year time span - Years 1 and 2. Suppose in Year 2 there was a lower federal budget deficit than in Year 1. This could be explained by ________ in Year 2.
+A) higher government expenditures (with constant real GDP)
+B) higher real GDP (with constant fiscal policy)
+C) lower real GDP (with constant fiscal policy)
+D) a higher stock of government debt
+E) an upward shift of the budget deficit function
+Answer:  B
+Diff: 3
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+5) Consider the government's budget deficit function. Other things being equal, an autonomous increase in government purchases causes ________ the budget deficit function.
+A) an upward movement along
+B) a downward movement along
+C) an upward shift of
+D) a downward shift of
+E) no change in
+Answer:  C
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+6) Consider the government's budget deficit function, graphed with the budget deficit on the vertical axis and real GDP on the horizontal axis. The vertical position (or height) of the budget deficit function is determined by
+A) the government's fiscal policies.
+B) nominal GDP.
+C) the interest rate times taxes.
+D) the purchase and sale of government securities on the open market.
+E) the stock of government debt minus government spending.
+Answer:  A
+Diff: 3
+Topic:  31.2a. budget deficit function
+Skill:  Recall
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+7) Consider the government's budget deficit function, graphed with dollars on the vertical axis and real GDP on the horizontal axis. This function is downward sloping because as real GDP 
+A) falls, the budget deficit function shifts down.
+B) falls, tax revenues rise, decreasing the deficit or increasing the surplus.
+C) rises, tax revenues rise, decreasing the deficit or increasing the surplus.
+D) rises, tax revenues fall, decreasing the deficit or increasing the surplus.
+E) rises, it leads to increasing debt-service payments.
+Answer:  C
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+8) Consider the government's budget deficit function. If the economy goes into a recession, a government budget deficit is most likely to
+A) increase, because government expenditures and tax revenues will both rise.
+B) increase, because government expenditures will rise and tax revenues will decline.
+C) remain unchanged, although there will be a primary budget surplus.
+D) remain unchanged, because changes in government expenditures and tax revenues will balance each other out.
+E) decrease, because government expenditures will decrease and tax revenues will rise.
+Answer:  B
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+9) Suppose the government's budget deficit falls from one year to the next, but there has been no change in the government's fiscal policy. The change in the budget deficit can be explained by
+A) a rising real interest rate.
+B) a change in the stance of fiscal policy.
+C) a rising real GDP.
+D) a rise in the cyclically adjusted deficit.
+E) a rise in the primary budget deficit.
+Answer:  C
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Qualitative
+
+The diagram below shows the budget deficit function for a government in a hypothetical economy.
+
+
+
+FIGURE 31-1
+
+10) Refer to Figure 31-1. Initially, suppose real GDP is $100 million and the budget deficit is $4 million, as shown by point A on the graph. Which of the following is consistent with a move from point A to point B? 
+A) implementation of an expansionary fiscal policy 
+B) implementation of a contractionary fiscal policy 
+C) implementation of a contractionary monetary policy 
+D) the economy entering into a recession 
+E) the economy entering into a boom 
+Answer:  E
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+
+11) Refer to Figure 31-1. Initially, suppose real GDP is $100 million and the budget deficit is $4 million, as shown by point A. If the government implements an expansionary fiscal policy by decreasing lump-sum taxes, then 
+A) the budget deficit function would shift up. 
+B) the budget deficit function would shift down. 
+C) the budget deficit function would become steeper. 
+D) the budget deficit function would become flatter. 
+E) the size of the budget deficit would decrease as we move from point A to point B. 
+Answer:  A
+Diff: 3
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+
+12) Refer to Figure 31-1. Initially, suppose real GDP is $100 million and the budget deficit is $4 million, as shown by point A. If the government implements an expansionary fiscal policy by increasing its purchases of goods and services, then 
+A) the budget deficit function would shift down. 
+B) the budget deficit function would become steeper. 
+C) the budget deficit function would become flatter. 
+D) the budget deficit function would shift up. 
+E) the size of the budget deficit would decrease as we move from point A to point B. 
+Answer:  D
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+13) Refer to Figure 31-1. Initially, suppose real GDP is $100 million and the budget deficit is $4 million, as shown by point A. If the government implements a contractionary fiscal policy by decreasing its purchases of goods and services, then 
+A) the budget deficit function would shift up. 
+B) the budget deficit function would shift down. 
+C) the budget deficit function would become steeper. 
+D) the budget deficit function would become flatter. 
+E) the size of the budget deficit would decrease as we move from point A to point B. 
+Answer:  B
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+
+14) Refer to Figure 31-1. For the given budget deficit function in the diagram, the government will have a budget surplus if
+	1) real GDP increases beyond $X million
+	2) the interest rate on government debt decreases
+	3) government expenditure decreases
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 or 2 or 3
+E) 2 or 3 only
+Answer:  A
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User2:  Quantitative
+The diagram below shows two budget deficit functions for a hypothetical economy.
+
+
+
+FIGURE 31-2
+
+15) Refer to Figure 31-2. Initially, suppose real GDP is $100 million and the budget deficit is $14 million, as shown by point A. Which of the following events could result in a move from point A to point B?
+A) the implementation of an expansionary fiscal policy 
+B) the implementation of a contractionary fiscal policy 
+C) the implementation of an expansionary monetary policy 
+D) the implementation of a contractionary monetary policy
+E) the economy entering into a boom 
+Answer:  B
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+16) Refer to Figure 31-2. Initially, suppose real GDP is $100 million and the budget deficit is $14 million, as shown by point A. Which of the following events could result in a move from point A to point C? 
+A) a fiscal expansion and an increase in GDP 
+B) a fiscal contraction and an increase in GDP 
+C) a fiscal expansion and a decrease in GDP 
+D) a fiscal contraction and a decrease in GDP 
+E) an increase in GDP with no change in fiscal policy
+Answer:  E
+Diff: 2
+Topic:  31.2a. budget deficit function
+Skill:  Applied
+Learning Obj.:  31-1 Explain how the government's annual budget deficit (or surplus) is related to its stock of debt.
+User1:  Graph
+User2:  Qualitative
+
+17) Refer to Figure 31-2. Initially, suppose the economy is at point A. If the government were to then implement a fiscal expansion, the structural budget deficit would be 
+A) $4 million. 
+B) $6 million. 
+C) $7 million. 
+D) $10 million.
+E) Insufficient information to know. 
+Answer:  E
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Graph
+User2:  Quantitative
+
+18) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the level of potential output (Y*)were $300 million, the structural budget deficit would be 
+A) $2 million. 
+B) $14 million. 
+C) measured by the vertical distance between the horizontal axis and  (at real GDP = 300).
+D) measured by the vertical distance between point A and the budget deficit that would exist at real GDP = 300 million.
+E) Insufficient information to know. 
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Graph
+User2:  Quantitative
+19) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the level of potential output (Y*) were $300 million, the cyclical component of the actual budget deficit would be 
+A) $4 million. 
+B) $6.5 million. 
+C) $7.5 million. 
+D) $14 million.
+E) Insufficient information to know. 
+Answer:  B
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+20) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the level of potential output (Y*) were $300 million, the structural budget deficit would be 
+A) $4 million. 
+B) $6.5 million. 
+C) $7.5 million. 
+D) $14 million.
+E) Insufficient information to know. 
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+21) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the level of potential output (Y*) were $300 million, how much of the actual budget deficit is due to the underlying structure of fiscal policy and is therefore independent of the current level of GDP?
+A) $4 million. 
+B) $6.5 million. 
+C) $7.5 million. 
+D) $14 million.
+E) Insufficient information to know. 
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+22) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the government implements a fiscal policy that causes the budget deficit function to shift to , we can conclude that the policy was ________ and the structural deficit will be ________ than previously.
+A)  expansionary; smaller
+B) expansionary; larger
+C) contractionary; larger
+D) contractionary; smaller
+Answer:  D
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+23) Refer to Figure 31-2. Initially, suppose the economy is at point A on budget deficit function . Real GDP (Y) is $100 million. If the level of potential output (Y*) were $400 million, the structural budget deficit would be 
+A) $14 million. 
+B) $4 million. 
+C) negative.
+D) -$10 million.
+E) $0.
+Answer:  B
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Graph
+User2:  Quantitative
+
+24) The government's structural budget deficit is the budget deficit that would exist 
+A) if real GDP were equal to potential GDP. 
+B) with taxes and expenditures measured at the equilibrium level of GDP. 
+C) if policy were changed to eliminate the business cycle. 
+D) if tax rates were set to maximize tax revenues. 
+E) if there were no discretionary fiscal interventions in the economy.
+Answer:  A
+Diff: 2
+Topic:  31.2b. structural budget deficit
+Skill:  Recall
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User2:  Qualitative
+25) The best measure of the change in the stance of a government's fiscal policy is 
+A) the actual budget deficit. 
+B) the cyclically adjusted deficit. 
+C) the change in the structural budget deficit.
+D) the change in the actual budget deficit.
+E) the change in the primary budget deficit.
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Recall
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User2:  Qualitative
+
+26) The government's structural budget deficit adjusts for 
+A) any primary budget surplus or deficit incurred by the federal government. 
+B) changes in investment to smooth fluctuations in national income. 
+C) changes in spending or tax revenues caused by deviations in national income from potential output. 
+D) increases in the money supply in excess of the real growth in the economy. 
+E) interest rate changes that affect the absolute amount of debt-service payments.
+Answer:  C
+Diff: 2
+Topic:  31.2b. structural budget deficit
+Skill:  Recall
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User2:  Qualitative
+
+27) Suppose the government's actual budget deficit is equal to the structural budget deficit. Then it must be the case that
+A) the primary budget deficit is zero.
+B) the overall government budget is balanced.
+C) the debt-to-GDP ratio is stable.
+D) real GDP is equal to potential GDP.
+E) the government is not reporting all of its expenses.
+Answer:  D
+Diff: 2
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User2:  Qualitative
+28) If the economy goes into a recession, the structural budget deficit is most likely to
+A) increase, because government expenditures and tax revenues will both rise.
+B) increase, because government expenditures will rise and tax revenues will decline.
+C) remain unchanged, although there will be a primary budget surplus.
+D) remain unchanged, unless government actively changes its fiscal policy.
+E) decrease, because government expenditures will decrease and tax revenues will rise.
+Answer:  D
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User2:  Qualitative
+
+The data below provides the Actual and Structural Budget Deficits, as a percentage of real GDP, for Canada between 1999 and 2010. Note that a negative value in the table indicates a budget surplus.
+
+Year
+Actual
+Structural
+1999
+-1.6
+-2.0
+2000
+-3.0
+-1.9
+2001
+-0.7
+-0.9
+2002
+  0.1
+-0.8
+2003
+  0.1
+-0.7
+2004
+-1.0
+-1.0
+2005
+-1.5
+-1.0
+2006
+-1.6
+-1.0
+2007
+-1.4
+-0.9
+2008
+  0.4
+  0.1
+2009
+  4.6
+-1.0
+2010
+  5.3
+  0.2
+
+TABLE 31-2
+		
+29) Refer to Table 31-2. Consider the years 2008-2010. The fact that the actual budget deficit in each year was greater than the structural budget deficit reflects the fact that
+A) output was equal to potential.
+B) fiscal policy was contractionary over that time.
+C) fiscal policy was expansionary over that time.
+D) actual GDP was less than potential in each of those years.
+E) actual GDP was greater than potential in each of those years.
+Answer:  D
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Table
+User2:  Quantitative
+30) Refer to Table 31-2. Consider the year 2004. Based on the data in the table we can conclude that 
+A) fiscal policy was expansionary in that year.
+B) real output was less than potential in that year.
+C) real output was equal to potential in that year.
+D) real output was greater than potential in that year.
+E) monetary policy was expansionary in that year.
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Table
+User2:  Quantitative
+
+31) Refer to Table 31-2. Based on the data in the table, in which of the following years was output greater than potential?
+A) 1999
+B) 2004
+C) 2000
+D) 2008
+E) 2010
+Answer:  C
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Table
+User2:  Quantitative
+
+32) Refer to Table 31-2. Based on the data in the table, over which of the following intervals was fiscal policy expansionary?
+A) 1999-2003 because the structural budget deficit is falling
+B) 1999-2003 because the structural budget deficit is rising
+C) 2008-2010 because the actual deficit is greater than zero
+D) 2004-2007 because the structural budget deficit is fairly stable
+Answer:  B
+Diff: 3
+Topic:  31.2b. structural budget deficit
+Skill:  Applied
+Learning Obj.:  31-2 Describe the structural deficit and how it can be used to measure the stance of fiscal policy.
+User1:  Table
+User2:  Quantitative
+33) Consider the following variables, defined as follows:
+	d = debt-to-GDP ratio
+	x = primary budget deficit as a percentage of GDP
+	r = real interest rate on government bonds
+	g = growth rate of real GDP
+Which of the following expressions correctly describes the change in the debt-to-GDP ratio?
+A) Δd = x + (r - g) + d
+B) Δd = x + (r - g) × d
+C) Δd = x(r - g) + d
+D) Δd = x(g - r) - d
+E) Δd = x + (g - r) × d
+Answer:  B
+Diff: 2
+Topic:  31.2c. debt dynamics
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+34) Consider a government with a positive stock of debt. If the growth rate of real GDP exceeds the real rate of interest on government bonds, then to keep the debt-to-GDP ratio constant the
+A) government must have a primary budget deficit. 
+B) government must have a primary budget surplus. 
+C) government must implement an expansionary fiscal policy. 
+D) money supply should be increased at a constant rate. 
+E) nominal interest rate must be constant.
+Answer:  A
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+35) Consider a government with a positive stock of debt, and suppose the real interest rate on government bonds equals the rate of growth of real GDP. In this case, the government's debt-to-GDP ratio will rise only if 
+A) the debt-to-GDP ratio is already high. 
+B) the primary budget surplus exceeds the overall budget surplus. 
+C) the real interest rate is high. 
+D) there is an overall budget deficit. 
+E) there is a primary budget deficit.
+Answer:  E
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+36) Consider changes in the government's debt-to-GDP ratio. Suppose that over a one year period the government has a primary budget surplus, and the real interest rate on government bonds is higher than the growth rate of real GDP. What is the effect on the debt-to-GDP ratio? 
+A) it will rise
+B) it will fall
+C) uncertain - it is necessary to know the relative size of the different effects
+D) it will remain stable - the two effects cancel each other out
+Answer:  C
+Diff: 2
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+37) Suppose the real interest rate on government bonds is 5% while the growth rate of real GDP is 4%, and that the government's current debt-to-GDP ratio is 30%. If the government has a primary budget balance of zero in the current year, the debt-to-GDP ratio will 
+A) rise by 3.0 percentage points. 
+B) rise by 0.3 percentage points. 
+C) remain unchanged.
+D) fall by 3.0 percentage points.
+E) fall by 0.3 percentage points.
+Answer:  B
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+38) Suppose the change in the government's debt-to-GDP ratio in a given year is 0.026. This figure tells us that the government's debt-to-GDP ratio has
+A) fallen by 0.026%.
+B) risen by 0.026%.
+C) risen by 2.6 percentage points.
+D) fallen by 2.6 percentage points.
+E) risen by 0.026 percentage points.
+Answer:  C
+Diff: 2
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+39) Suppose the change in the government's debt-to-GDP ratio in a given year is -0.018. This figure tells us that the government's debt-to-GDP ratio has
+A) fallen by 0.018%.
+B) risen by 0.018%.
+C) risen by 1.8 percentage points.
+D) fallen by 1.8 percentage points.
+E) risen by 0.018 percentage points.
+Answer:  D
+Diff: 2
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+User2:  Quantitative
+
+40) Suppose the government's debt-to-GDP ratio on January 1 of Year 1 is 32%. The change in the debt-to-GDP ratio during Year 1 is -0.037. On January 1 of Year 2 the government's debt-to-GDP ratio is 
+A) 31.963%.
+B) 32. 037%.
+C) 28.3%. 
+D) 35.7%.
+E) Not enough information to determine. 
+Answer:  C
+Diff: 2
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+41) Consider the following data about government debt and deficit in a given year:
+- real interest rate on government bonds = 2%
+- growth rate of real GDP = 3%
+- current debt-to-GDP ratio = 50%
+- primary budget deficit = 0
+Over this one-year period the debt-to-GDP ratio will have
+A) remained unchanged.
+B) risen by 50%.
+C) fallen by 50%.
+D) risen by 0.5 percentage points.
+E) fallen by 0.5 percentage points.
+Answer:  E
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+42) Consider the following data about government debt and deficit in a given year:
+- real interest rate on government bonds = 3%
+- growth rate of real GDP = 1%
+- current debt-to-GDP ratio = 40%
+- primary budget deficit as a percentage of GDP = 2%
+Over this one-year period the debt-to-GDP ratio will have risen by
+A) 82 percentage points.
+B) 8.2 percentage points.
+C) 0.82 percentage points.
+D) 2.8 percentage points.
+E) 0.28 percentage points.
+Answer:  D
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+43) Consider the following data about government debt and deficit in a given year:
+- real interest rate on government bonds = 3%
+- growth rate of real GDP = 3%
+- current debt-to-GDP ratio = 25%
+- primary budget surplus as a percentage of GDP = 2%
+Over this one-year period the debt-to-GDP ratio will have
+A) remained unchanged.
+B) risen by 0.2 percentage points.
+C) fallen by 0.2 percentage points.
+D) risen by 2 percentage points.
+E) fallen by 2 percentage points.
+Answer:  E
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+44) Suppose the real rate of interest on government bonds is 4% and the growth rate of real GDP is 2%. If the government has a positive stock of outstanding debt and its policy objective is to hold the debt-to-GDP ratio constant at its current level, it must
+A) eliminate the overall deficit. 
+B) run an annually balanced budget. 
+C) run a cyclically balanced budget. 
+D) run a primary budget deficit. 
+E) run a primary budget surplus.
+Answer:  E
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+45) Suppose the government's objective is to hold its debt-to-GDP ratio constant at its current level of 30%. If the real interest rate on government bonds is 4% and the growth rate of real GDP is 2%, the government must 
+A) run a primary budget deficit of 0.6% of GDP. 
+B) run an overall budget deficit of 6.0% of GDP. 
+C) run an overall budget surplus of 6.0% of GDP. 
+D) run a primary budget surplus of 0.6% of GDP.
+E) balance the overall budget.
+Answer:  D
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+46) Suppose that the real rate of interest is 3% and the growth rate of real GDP is 1%. If the government has a positive stock of outstanding debt and its goal is to hold the debt-to-GDP ratio constant at its current level, then it
+A) must run a cyclically balanced budget.
+B) must run an annually balanced budget.
+C) must run a primary budget deficit.
+D) must run a primary budget surplus.
+E) must eliminate the overall deficit.
+Answer:  D
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Quantitative
+
+47) Consider a government with an outstanding stock of public debt. If, in any given year, the government has a primary budget surplus and the real interest rate on government bonds is less than the growth rate of real GDP, then
+A) debt-service payments will be eliminated.
+B) the debt-to-GDP ratio is certainly negative.
+C) the debt-to-GDP ratio will certainly rise.
+D) the debt-to-GDP ratio will certainly fall.
+E) real GDP will certainly rise.
+Answer:  D
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+48) Consider a government with an outstanding stock of public debt. If, in any given year, the government has a primary budget surplus and the real interest rate on government bonds is more than the growth rate of real GDP, then
+A) the debt-to-GDP ratio will certainly fall.
+B) debt-service payments will be eliminated.
+C) the debt-to-GDP ratio is certainly negative.
+D) the debt-to-GDP ratio will certainly rise.
+E) the effect on the debt-to-GDP ratio is uncertain.
+Answer:  E
+Diff: 3
+Topic:  31.2c. debt dynamics
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+31.3  The Effects of Government Debt and Deficits
+
+1) The concept of "national saving" refers to the 
+A) difference between private saving and government saving.
+B) sum of private saving and government saving.
+C) money supply measure, M3.
+D) difference between the two measurements of the money supply, M3 - M2.
+E) total saving of the private sector.
+Answer:  B
+Diff: 1
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+2) What economists call "government saving", or "public saving" is the same as the
+A) government's actual budget surplus.
+B) difference between household saving and business saving.
+C) difference between household saving and private saving.
+D) dollar amount of bonds that the government holds at any given time.
+E) sum of the budget surplus and national saving.
+Answer:  A
+Diff: 1
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+3) An illustration of "crowding out" in macroeconomics is best provided by
+A) a decrease in government subsidies for low-cost housing causes an increase in private spending on housing.
+B) a decrease in the money supply decreases nominal GDP.
+C) an increase in tariffs causes a decrease in imports.
+D) an increase in the money supply crowds out the issuance of privately held debt.
+E) a fiscal expansion raises interest rates and thereby lowers private investment.
+Answer:  E
+Diff: 2
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+4) Consider a closed-economy AD/AS macro model. A policy-induced increase in the government's budget deficit is most likely to crowd-out private investment if 
+A) interest rates decrease sharply as a result of the deficit.
+B) interest rates rise sharply as a result of the deficit. 
+C) rising income increases the volume of saving and interest rates rise very little. 
+D) there is a very large output gap. 
+E) consumers reduce consumption as a result of the deficit. 
+Answer:  B
+Diff: 2
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+5) Consider an open-economy AD/AS macro model. An expansionary fiscal policy will generally increase the government's budget ________ and also tends to ________ and thus ________ net exports.
+A) deficit; appreciate the currency; decrease 
+B) surplus; depreciate the currency; increase
+C) deficit; appreciate the currency; increase
+D) surplus; appreciate the currency; decrease
+E) deficit; depreciate the currency; decrease
+Answer:  A
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+6) Consider a closed-economy AD/AS macro model. An expansionary fiscal policy will generally increase the government's budget ________ and also tends to ________ and thus ________ private investment.
+A) deficit; raise interest rates; decrease 
+B) surplus; reduce interest rates; increase
+C) deficit; raise interest rates; increase
+D) surplus; reduce interest rates; decrease
+E) deficit; reduce interest rates; increase
+Answer:  A
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+7) Consider a closed-economy AD/AS model. If an increase in the government's budget deficit drives up market interest rates,
+A) credit will become less expensive.
+B) nothing — government borrowing cannot push up interest rates.
+C) private expenditure will likely increase.
+D) some private investment expenditure will probably be crowded out.
+E) the money supply will increase.
+Answer:  D
+Diff: 2
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+8) In an open economy like Canada's, a policy-induced increase in the government's budget deficit tends to
+A) attract foreign capital and reduce interest rates.
+B) crowd out public consumption.
+C) crowd out net exports and reduce interest rates.
+D) attract foreign capital and crowd out net exports.
+E) depreciate the domestic currency.
+Answer:  D
+Diff: 2
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+9) In an open economy like Canada's, a fiscal expansion by the government tends to
+A) reduce capital inflow, depreciate the currency, and increase net exports.
+B) attract foreign capital and encourage increased investment.
+C) crowd out net exports and encourage private investment.
+D) attract foreign capital, appreciate the currency, and crowd out net exports.
+E) attract foreign capital, depreciate the currency, and crowd out net exports.
+Answer:  D
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+10) In an open economy with internationally mobile financial capital, we would expect a policy-induced increase in the government's budget deficit to crowd out
+A) consumption more than investment.
+B) consumption more than net exports.
+C) investment more than net exports.
+D) government purchases more than net exports.
+E) net exports more than investment.
+Answer:  E
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+11) The proposition that increases in government budget deficits in an open economy tend to crowd out net exports relies on the idea that
+A) government demand for labour tends to create manpower shortages in export industries.
+B) much government expenditure is typically directed towards imported goods and services.
+C) the resulting increase in interest rates attracts an inflow of financial capital that causes the currency to appreciate.
+D) the rise in private-sector wealth associated with the rising stock of bonds leads to a fall in the saving rate and therefore a current account deficit.
+E) there is downward pressure on interest rates that causes the currency to depreciate.
+Answer:  C
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+The diagram below is for a closed economy which begins in long-run equilibrium at Y* and .
+
+
+
+FIGURE 31-3
+
+12) Refer to Figure 31-3. Suppose the government implements an expansionary fiscal policy which increases the budget deficit. The initial effect of this policy is the opening of a(n) ________ gap, and a new short-run equilibrium with a price level of ________ and real GDP of ________.
+A) recessionary; P1; Y2
+B) inflationary; P1; Y*
+C) inflationary; P2; Y*
+D) inflationary; P1; Y1
+E) recessionary; P0; Y*
+Answer:  D
+Diff: 2
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 31-3. Suppose the government in this closed economy implements an expansionary fiscal policy, which increases the budget deficit. When the economy reaches its new long-run equilibrium, how has the composition of national income changed?
+A) net exports have fallen
+B) investment has fallen
+C) consumption has increased
+D) net exports have risen
+E) the composition of national income at Y* is unchanged
+Answer:  B
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 31-3. Suppose the government implements an expansionary fiscal policy, which increases the budget deficit. The economy's adjustment process returns real GDP to Y* in the long run. Since real GDP is not affected in the long run, how are future generations likely to be harmed by this government policy?
+A) Investment in public infrastructure has been crowded out, which will harm future generations.
+B) Private investment has been crowded out, which may lead to a lower future growth rate of potential GDP.
+C) The inflationary gap is harmful to the economy and reduces real GDP in the future.
+D) The budget deficit causes an appreciation in the domestic currency which reduces the income of future generations.
+E) Future generations are definitely not harmed by this policy.
+Answer:  B
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User1:  Graph
+User2:  Qualitative
+
+15) Until the onset of the most recent recession in 2009, Canadian governments (federal and provincial) had been running budget surpluses for about 10 years. Economic theory suggests that, other things being equal, these budget surpluses will lead to
+A) a rise in national saving, a fall in interest rates and a "crowding in" of investment and net exports.
+B) a fall in national saving, a rise in interest rates and a "crowding out" of investment and net exports.
+C) an appreciation of the domestic currency and a fall in Canada's net exports.
+D) a depreciation of the domestic currency and a fall in Canada's net exports.
+E) a rise in national saving, a rise in interest rates and a "crowding out" of investment and net exports.
+Answer:  A
+Diff: 3
+Topic:  31.3a. deficits and crowding out
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+16) Many economists argue that the long-term burden of government debt will include:
+1) a redistribution of resources away from future generations toward the current generation;
+2) reduced investment and as a result a lower long-run rate of economic growth;
+3) a burden on future generations who will have to pay interest to the owners of government bonds. 
+A) 1 and 2
+B) 2 and 3
+C) 1, 2, and 3
+D) 2 only
+E) 3 only
+Answer:  C
+Diff: 3
+Topic:  31.3b. long-term burden of debt
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+17) There is a long-term burden of government debt in a closed economy when 
+A) foreign owners of Canadian debt demand repayment. 
+B) it is no longer possible to find individuals in the private sector willing to finance the debt. 
+C) the burden of the debt is being borne by the current generation rather than future generations. 
+D) present consumption and government expenditure are not reduced because of future crowding-out. 
+E) the stock of physical productive capital is reduced because of crowding out. 
+Answer:  E
+Diff: 3
+Topic:  31.3b. long-term burden of debt
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+18) It can be argued that a government budget deficit, rather than being a burden for future generations, may provide net benefits to future generations. This view is correct if the current budget deficit is used to 
+A) pay transfers such as welfare and old age pensions in the present period.
+B) finance projects that deliver long-term benefits to society.
+C) invest in the purchasing of goods not available in the local economy.
+D) ensure that all interest paid goes to residents rather than foreigners.
+E) pay subsidies to Canadian firms to offset rising energy costs.
+Answer:  B
+Diff: 2
+Topic:  31.3b. long-term burden of debt
+Skill:  Applied
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+19) The concept of capital budgeting refers to the idea that 
+A) government budgets should be designed to be balanced, while fully recognizing that changing economic circumstances may prevent such balance.
+B) if the debt-to-GDP ratio rises to unacceptable levels, the central bank can monetize portions of the government debt.
+C) counter-cyclical fiscal policy is included in the government budget.
+D) the government would classify all expenditures as either consumption (benefiting current generations) or investment (benefiting future generations).
+E) the government would direct a fixed percentage of its budget toward investment expenditure that would benefit future generations.
+Answer:  D
+Diff: 2
+Topic:  31.3b. long-term burden of debt
+Skill:  Recall
+Learning Obj.:  31-3 Understand how budget deficits may crowd out investment and net exports.
+User2:  Qualitative
+
+20) Decreasing government expenditures in order to reduce the government's budget deficit can involve certain costs. An example of such a cost could be
+A) larger school facilities to accommodate a growing population.
+B) longer queues for essential government services such as health-care.
+C) encouraging future generations to be more self-sufficient and less reliant on government to provide for them. 
+D) a lower portion of taxes being used to pay interest.
+E) improving the flexibility to practice counter-cyclical fiscal policy.
+Answer:  B
+Diff: 2
+Topic:  31.3c. how debt hampers economic policy
+Skill:  Applied
+Learning Obj.:  31-4 Describe why a high stock of government debt may hamper the conduct of monetary and fiscal policies.
+User2:  Qualitative
+
+21) Financing a budget deficit by increasing the money supply will
+A) allow more flexibility in the design of monetary policy. 
+B) increase investment over time. 
+C) create greater inflationary pressure. 
+D) have no short-run monetary effects on the economy. 
+E) reduce the burden of government debt.
+Answer:  C
+Diff: 2
+Topic:  31.3c. how debt hampers economic policy
+Skill:  Applied
+Learning Obj.:  31-4 Describe why a high stock of government debt may hamper the conduct of monetary and fiscal policies.
+User2:  Qualitative
+22) In the long run, the government budget will add to sustained inflation if
+A) they require decreases in the money supply.
+B) continual deficits are financed by the continual creation of new money.
+C) deficits are always accompanied by decreases in the money supply.
+D) government borrowing lowers interest rates.
+E) the government finances the deficit by borrowing from the private sector.
+Answer:  B
+Diff: 3
+Topic:  31.3c. how debt hampers economic policy
+Skill:  Applied
+Learning Obj.:  31-4 Describe why a high stock of government debt may hamper the conduct of monetary and fiscal policies.
+User2:  Qualitative
+
+23) In general, the government will have ________ flexibility in implementing counter-cyclical fiscal policy when the outstanding stock of government debt is ________ relative to the size of GDP.
+A) more; large
+B) more; small
+C) total; large
+D) less; small
+E) less; insignificant
+Answer:  B
+Diff: 2
+Topic:  31.3c. how debt hampers economic policy
+Skill:  Recall
+Learning Obj.:  31-4 Describe why a high stock of government debt may hamper the conduct of monetary and fiscal policies.
+User2:  Qualitative
+
+24) Consider the government's debt-to-GDP ratio. A significant reason for a government to maintain a low debt-to-GDP ratio is so that
+A) the real interest rate remains high, which leads to increased investment.
+B) the Canadian dollar will appreciate and net exports will increase.
+C) the government has the flexibility to use expansionary fiscal policy if the economy enters a recession.
+D) the Bank of Canada has the flexibility to use contractionary policy.
+E) there is no "crowding in" of investment or net exports.
+Answer:  C
+Diff: 2
+Topic:  31.3c. how debt hampers economic policy
+Skill:  Recall
+Learning Obj.:  31-4 Describe why a high stock of government debt may hamper the conduct of monetary and fiscal policies.
+User2:  Qualitative
+31.4  Formal Fiscal Rules
+
+1) An annually balanced government budget is a
+A) destabilizer because fiscal policy is then pro-cyclical.
+B) destabilizer because the fiscal year is longer than the business cycle.
+C) stabilizer because it smooths out the peaks and troughs of the business cycle.
+D) stabilizer because it allows greater flexibility in the design of fiscal policy.
+E) stabilizer in most circumstances.
+Answer:  A
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+2) The policy objective of an annually balanced government budget
+A) is feasible and would be stabilizing. 
+B) is easy to achieve but would be destabilizing. 
+C) would be stabilizing, but is difficult to achieve.
+D) is difficult to achieve and would be destabilizing. 
+E) would eliminate the swings in real GDP.
+Answer:  D
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+3) An annually balanced government budget is a difficult policy goal to achieve because 
+A) a significant portion of the government's budget is beyond the short-term discretion of the federal government.
+B) government has little control over interest-rate charges on its debt during a fiscal year.
+C) tax revenues automatically rise during economic booms and fall during recessions.
+D) transfer payments rise during recessions and fall during economic booms.
+E) all of the above are reasons why a balanced budget is difficult to achieve.
+Answer:  E
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+4) If the Canadian federal government adopted a formal balanced budget rule, during times that GDP was rising it would have to
+A) increase tax rates and/or increase spending which would destabilize the economy.
+B) decrease spending and transfer payments while holding tax rates constant.
+C) decrease tax rates and/or increase spending which would destabilize the economy.
+D) decrease interest payments on the debt.
+E) decrease tax rates and/or decrease spending which would destabilize the economy.
+Answer:  C
+Diff: 3
+Topic:  31.4. formal fiscal rules
+Skill:  Applied
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+5) If the Canadian federal government adopted a formal balanced budget rule, during times that GDP was falling it would have to
+A) increase tax rates and/or increase spending which would destabilize the economy.
+B) decrease spending and transfer payments while holding tax rates constant.
+C) decrease tax rates and/or increase spending which would destabilize the economy.
+D) decrease interest payments on the debt.
+E) increase tax rates and/or decrease spending which would destabilize the economy.
+Answer:  E
+Diff: 3
+Topic:  31.4. formal fiscal rules
+Skill:  Applied
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+6) An annually balanced government budget would tend to 
+A) accentuate the swings in national income that accompany changes in autonomous expenditure flows.
+B) increase national income in response to changes in autonomous expenditure flows.
+C) reduce national income in all circumstances.
+D) reduce national income in response to changes in autonomous expenditure flows.
+E) reduce the swings in national income that accompany changes in autonomous expenditure flows.
+Answer:  A
+Diff: 3
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+7) Most economists believe that balancing the government budget over the business cycle, rather than for each fiscal year, 
+A) is absolutely necessary for prudent management of the economy.
+B) is the same as an annually balanced budget.
+C) is a worthy idea but requires accurate forecasting and definition of the business cycle.
+D) would be pro-cyclical.
+E) would stabilize the economy and produce an annual budget balance of zero.
+Answer:  C
+Diff: 3
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+8) If the government were able to operate a "cyclically balanced budget," then the actual budget would 
+A) be balanced every year. 
+B) be balanced every four years. 
+C) have surpluses during inflationary gaps. 
+D) have surpluses during recessionary gaps. 
+E) have deficits during inflationary gaps.
+Answer:  C
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+9) The Canadian tax and transfer system acts as an automatic stabilizer because 
+A) net tax revenues decrease during economic booms and decrease during economic recessions.
+B) net tax revenues increase during economic booms and decrease during economic recessions. 
+C) tax rates will automatically decrease to stimulate the economy during economic booms.
+D) tax rates will automatically increase if the government is running deficits. 
+E) tax rates will automatically increase to stimulate the economy during economic recessions.
+Answer:  B
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+10) Suppose the government decided to ensure that its structural budget deficit was always zero. This policy would be problematic because
+A) it would act as a built-in destabilizer.
+B) it would entail a rising debt-to-GDP ratio.
+C) it would tend to mean that net exports would be crowded out.
+D) it would require continual fiscal expansion.
+E) it would require continual fiscal contraction.
+Answer:  A
+Diff: 3
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+11) Transfer payments (such as welfare payments and employment-insurance benefits) act as automatic stabilizers because they 
+A) decrease the swings of the business cycle.
+B) increase the swings of the business cycle.
+C) increase the swings of the business cycle and make an annually balanced budget much harder to achieve.
+D) increase the government surplus during the expansionary phase of the business cycle. 
+E) increase the debt-to-GDP ratio during the expansionary phase of the business cycle. 
+Answer:  A
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+12) Suppose legislation in Canada required annually balanced government budgets. This legislation would 
+A) require the Bank of Canada to expand and contract the money supply according to an annual timetable.
+B) force a balanced budget that could turn a minor downturn in the economy into a serious and prolonged recession.
+C) force increased levels of government spending automatically increasing the size of the government debt.
+D) allow deficits but prevent the government from running surpluses.
+E) require the Bank of Canada to lower interest rates during periods of inflation.
+Answer:  B
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Applied
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+13) Annually balanced government budgets 
+A) are easy to implement due to the total control of government over its budget components in the short run. 
+B) would allow the level of government expenditures to be independent of the changes in real GDP. 
+C) would reduce the size of output gaps. 
+D) would undermine the success of stabilization policies implemented by the government. 
+E) would require the federal government to control both fiscal and monetary policy. 
+Answer:  D
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+14) Implementation of cyclically balanced government budgets 
+A) result in larger output gaps than with annually balanced budgets. 
+B) requires precise prediction of potential GDP to pinpoint the stages of the business cycle.
+C) eliminates the need for built-in fiscal stabilizers. 
+D) is easier with frequent changes in political power. 
+E) is successfully practiced in Canada. 
+Answer:  B
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+15) The 2008-2009 global recession had an effect on Canadian federal and provincial budgets. In general, government debt-to-GDP ratios rose in Canada because of 
+A) contractionary monetary policy and expansionary fiscal policy. 
+B) an increased burden of debt-service payments due to the necessary reduction in the target overnight interest rate by the central bank. 
+C) the decline in net tax revenues due to the recession, as well an expansionary fiscal policy.
+D) the necessity to balance the primary budget at the same time that the interest rate on government debt was rising. 
+E) the necessity to balance the cyclically adjusted budget at the same time that the interest rate on government debt was rising. 
+Answer:  C
+Diff: 2
+Topic:  31.4. formal fiscal rules
+Skill:  Recall
+Learning Obj.:  31-5 Explain why legislation requiring balanced budgets may be undesirable.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 45
+Copyright © 2017 Pearson Education, Inc.
+
+
+

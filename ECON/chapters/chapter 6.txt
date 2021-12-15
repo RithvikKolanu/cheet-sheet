@@ -1,0 +1,2006 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 6   Consumer Behaviour
+
+6.1  Marginal Utility and Consumer Choice
+
+1) In economics, the term "utility" is defined as the
+A) system of basing the price of a good on its usefulness to society.
+B) usefulness of a good.
+C) total consumer satisfaction received from consumption of a good.
+D) usefulness of a theory to explain price determination.
+E) a service such as sewer and water or electricity.
+Answer:  C
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+2) Economists usually assume that consumers 
+A) are motivated to maximize their profit.
+B) are poor judges of what is best for them.
+C) spend all of their current income.
+D) usually save as much as possible of their income.
+E) are motivated to maximize their utility.
+Answer:  E
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+3) Economists use the term "marginal utility" to describe the 
+A) change in total satisfaction caused by consumption of an additional unit of a good.
+B) average utility of each unit of a good consumed.
+C) inverse of the measure of total utility.
+D) total satisfaction received from consumption of a good.
+E) price paid for every unit consumed.
+Answer:  A
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+4) The idea that the utility a consumer derives from successive units of a good diminishes as total consumption of the good increases is known as
+A) the paradox of value.
+B) the utility theory of demand.
+C) utility maximization.
+D) diminishing marginal utility.
+E) diminishing total utility.
+Answer:  D
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+5) The "law" of diminishing marginal utility implies that the
+A) first unit of a good consumed will contribute most to the consumer's satisfaction.
+B) last unit of a good consumed will contribute most to the consumer's satisfaction.
+C) total utility is negative.
+D) total utility is constant as more units are consumed.
+E) marginal utility of a good diminishes over time.
+Answer:  A
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+6) If consumption of an extra unit of some good generates a marginal utility of zero, then consumption of that additional unit would mean that total utility would
+A) also be zero.
+B) not change.
+C) be increasing.
+D) be decreasing.
+E) be negative.
+Answer:  B
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+7) If total utility from the consumption of some product is increasing as more units are consumed, then marginal utility must be
+A) decreasing at an increasing rate.
+B) negative.
+C) increasing.
+D) increasing at an increasing rate.
+E) positive.
+Answer:  E
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+8) If total utility from the consumption of some product is decreasing as more units are consumed, then marginal utility must be
+A) positive.
+B) negative.
+C) decreasing.
+D) decreasing at an increasing rate.
+E) increasing at a decreasing rate.
+Answer:  B
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+
+FIGURE 6-1
+
+9) Refer to Figure 6-1. The marginal utility of the second unit of the good consumed is
+A) 10.
+B) 20.
+C) 30.
+D) 40.
+E) 50.
+Answer:  B
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Quantitative
+10) Refer to Figure 6-1. The total utility from consuming two units of the good is
+A) 20.
+B) 40.
+C) 60.
+D) 80.
+E) 140.
+Answer:  D
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Quantitative
+
+11) Refer to Figure 6-1. The consumer's total utility is
+A) increasing at an increasing rate.
+B) increasing at a decreasing rate.
+C) decreasing at an increasing rate.
+D) decreasing at a decreasing rate.
+E) constant.
+Answer:  B
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Quantitative
+
+12) Refer to Figure 6-1. If this figure represents the utility obtained from consuming units of a good, how many units would this consumer consume if the good were free?
+A) 1
+B) 2
+C) 3
+D) 4
+E) at least 5
+Answer:  E
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Qualitative
+13) Refer to Figure 6-1. This figure illustrates the law of
+A) maximizing utility.
+B) increasing total utility.
+C) diminishing total utility.
+D) diminishing marginal utility.
+E) increasing marginal utility.
+Answer:  D
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Qualitative
+
+14) Refer to Figure 6-1. Marginal utility is zero when total utility is
+A) equal to zero.
+B) is decreasing.
+C) is increasing.
+D) equal to marginal utility.
+E) at its maximum.
+Answer:  E
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 6-1. Total utility is at its maximum when marginal utility is
+A) equal to zero.
+B) negative.
+C) positive.
+D) equal to total utility.
+E) at the maximum.
+Answer:  A
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Graph
+User2:  Qualitative
+16) If consumption of an extra unit of a product delivers a positive marginal utility, then consumption of that additional unit would mean
+A) that total utility is also zero.
+B) that total utility would not change.
+C) that total utility would be increasing.
+D) that total utility would be decreasing.
+E) that the consumer would no longer receive any satisfaction from any consumption of this good.
+Answer:  C
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+17) A basic hypothesis of marginal utility theory is that the utility a consumer derives from successive units of a good diminishes as total consumption of the good increases. This hypothesis is known as
+A) the paradox of value.
+B) the utility theory of demand.
+C) utility maximization.
+D) the law of diminishing marginal utility.
+E) the law of diminishing total utility.
+Answer:  D
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+
+18) Marginal utility theory is about
+A) the consumer behaviour that underlies the theory of demand.
+B) proving that demand curves are always downward sloping.
+C) the total satisfaction resulting from the consumption of some good by the consumer.
+D) how producers allocate their scarce resources.
+E) calculating consumer surplus.
+Answer:  A
+Diff: 1
+Topic:  6.1a. total utility and marginal utility
+Skill:  Recall
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User2:  Qualitative
+The table below shows the quantities of toffee bars and bags of cashews that a consumer could consume over a 1-week period.
+
+	          Toffee (bars)		             Cashews (bags)
+Units
+Marginal Utility
+Total 
+Utility
+Marginal Utility
+Total 
+Utility
+1
+10
+10
+12
+12
+2
+8
+18
+10
+22
+3
+5
+23
+ 7
+29
+4
+3
+26
+ 5
+34
+5
+1
+27
+ 2
+36
+6
+0
+27
+ 1
+37
+7
+0
+27
+ 0
+27
+
+TABLE 6-1
+
+19) Refer to Table 6-1. If this consumer purchases 3 toffee bars and 4 bags of cashews per week, his/her total utility will be
+A) 7.
+B) 23.
+C) 31.
+D) 54.
+E) 57.
+Answer:  E
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 6-1. The maximum utility that a consumer can obtain from toffee bars and bags of cashews per week is
+A) 22.
+B) 54.
+C) 56.
+D) 64.
+E) 74.
+Answer:  D
+Diff: 2
+Topic:  6.1a. total utility and marginal utility
+Skill:  Applied
+Learning Obj.:  6-1 Describe the difference between marginal and total utility.
+User1:  Table
+User2:  Quantitative
+21) Refer to Table 6-1. If the prices of toffee bars and bags of cashews are both $1 and this consumer has $7 per week to spend on these two snacks, how many of each will he/she purchase to maximize utility?
+A) 2 toffee bars and 5 bags of cashews
+B) 3 toffee bars and 4 bags of cashews
+C) 4 toffee bars and 3 bags of cashews
+D) 5 toffee bars and 2 bags of cashews
+E) 6 toffee bars and 1 bag of cashews
+Answer:  B
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Table
+User2:  Quantitative
+
+22) Refer to Table 6-1. If the price of toffee bars is $1 each, bags of cashews are $2 each, and this consumer has $7 per week to spend on these two snacks, how many of each will he/she purchase to maximize utility?
+A) 0 toffee bars and 3 bags of cashews
+B) 1 toffee bars and 3 bags of cashews
+C) 2 toffee bars and 2 bags of cashews
+D) 3 toffee bars and 2 bags of cashews
+E) 7 toffee bars and 0 bags of cashews
+Answer:  D
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Table
+User2:  Quantitative
+
+23) Refer to Table 6-1. If the prices of toffee bars and bags of cashews are both $1 and this consumer has $11 per week to spend on snacks, how many of each will he/she purchase?
+A) 3 toffee bars and 8 bags of cashews
+B) 4 toffee bars and 7 bags of cashews
+C) 5 toffee bars and 5 bags of cashews
+D) 5 toffee bars and 6 bags of cashews
+E) 6 toffee bars and 5 bags of cashews
+Answer:  D
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Table
+User2:  Quantitative
+24) Refer to Table 6-1. If the prices of both toffee bars and bags of cashews are $2 and this consumer has $14 per week to spend on these two snacks, what is the maximum total utility achievable?
+A) 10
+B) 15
+C) 33
+D) 45
+E) 57
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Table
+User2:  Quantitative
+
+25) A consumer maximizes his or her utility when expenditures are allocated such that
+A) the total utility from each good is equal.
+B) the total number of dollars spent on each good is equal.
+C) the utility received from the last unit of each good is equal.
+D) the utility received per dollar spent on the last unit of each good is equal.
+E) the marginal utility is zero for each good consumed utility. 
+Answer:  D
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Recall
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+26) The condition required for a consumer to be maximizing utility, for any pair of products, X and Y, is
+A) PX(MUX) = PY(MUY).
+B) MUX = MUY.
+C) MUX/PX = MUY/PY.
+D) MUX/PY = MUY/PX.
+E) PX = PY.
+Answer:  C
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Recall
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+27) If a consumer is faced with a choice of products A, B, C, ..., and has a given money income, the consumer's utility will be maximized when
+A) MUA/PA = MUB/PB = MUC/PC = ...
+B) PA = PB = PC = ...
+C) MUA = MUB = MUC = ...
+D) TUA = TUB = TUC = ...
+E) MUA = PA; MUB = PB; MUC = PC; ...
+Answer:  A
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+28) If all consumers in an economy have maximized their utility, and they face a given set of market prices, then each consumer will have identical
+A) total utilities for each good.
+B) marginal utilities for each good.
+C) marginal utilities per unit of each good.
+D) ratios of marginal utility to price for each good.
+E) consumption of each good.
+Answer:  D
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+
+	FIGURE 6-2
+
+29) Refer to Figure 6-2. If the price of X is $2 and the price of Y is $1 and the consumer is buying 4 units of X and 2 units of Y, the consumer's total utility is 
+A) 8.
+B) 10.
+C) 52.
+D) 56.
+E) 69.
+Answer:  E
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+30) Refer to Figure 6-2. Suppose the price of X is $2, the price of Y is $1, and the consumer's income is $10. The consumer is currently buying 4 units of good X and 2 units of good Y. In order to maximize his utility, he should 
+A) make no changes — he is already maximizing his total utility. 
+B) buy the same amount of X but less Y.
+C) buy more of X but the same amount Y.
+D) buy more of X and less Y.
+E) buy more Y and less X.
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+31) Refer to Figure 6-2. Suppose the price of Y is $1, the consumer's income is $10, and the consumer is currently buying 3 units of good X and 4 units of good Y. If this consumer is maximizing her utility, then the price of X must be 
+A) $1.
+B) $2.
+C) $3.
+D) $4.
+E) Impossible to tell with the given information.
+Answer:  B
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+32) Refer to Figure 6-2. Suppose that the price of X is $2, the price of Y is $1, the consumer's income is $10, and the consumer is buying 3 units of good X and 4 units of good Y. What is the total utility the consumer obtains from this combination of X and Y?
+A) 18
+B) 30
+C) 40
+D) 60
+E) 72
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+33) Refer to Figure 6-2. Suppose that the price of X is $2, the price of Y is $1, and the consumer's income is $10. The consumer is currently buying 3 units of good X and 4 units of good Y. In order to maximize his/her utility, the consumer should 
+A) not change his/her behaviour.
+B) buy the same amount of X but less Y.
+C) buy more of X but the same amount Y.
+D) buy more of X and less Y.
+E) buy less of X and more Y.
+Answer:  A
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+34) Refer to Figure 6-2. Suppose the price of Y is $1 and the consumer's income is $10. Initially, the price of X is $2 and the consumer is buying 3 units of good X and 4 units of good Y. If the price of X then falls to $1, what quantities of X and Y will he/she now purchase in order to maximize total utility?
+A) 2 X and 8 Y.
+B) 3 X and 7 Y.
+C) 4 X and 6 Y.
+D) 5 X and 5 Y.
+E) 6 X and 4 Y.
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+35) Refer to Figure 6-2. Suppose that the price of Y is $1 and the consumer's income is $10. Initially, the price of X is $2 and the consumer is buying 4 units of good Y. If the price of X then falls to $1, which of the following pairs of quantities of X correctly completes the demand schedule below?
+
+ Price of X:	$1	$2
+Quantity Demanded of X:	________	________
+
+A) 2; 4
+B) 4; 4
+C) 4; 3
+D) 6; 3
+E) 6; 4
+Answer:  D
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+36) Christine is allocating her household expenditure between cleaning services and gardening services in order to maximize the household's total utility. For the quantities of cleaning and gardening services she has chosen, an increase in the price of cleaning service will, ceteris paribus,
+A) increase the marginal utility of a unit of cleaning service.
+B) reduce the marginal utility per dollar spent on cleaning service.
+C) reduce the marginal utility of a unit of cleaning service.
+D) increase the marginal utility per dollar spent on cleaning service.
+E) have no effect on the marginal utility per dollar spent on cleaning service.
+Answer:  B
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+37) John is allocating his household expenditure between groceries and housing in order to maximize total utility. For the quantities of groceries and housing he has chosen, an increase in the price of housing will, ceteris paribus, 
+A) increase the marginal utility of a unit of housing.
+B) increase the marginal utility per dollar spent on housing.
+C) reduce the marginal utility of a unit of housing.
+D) reduce the marginal utility per dollar spent on housing.
+E) have no effect on the marginal utility per dollar spent on housing.
+Answer:  D
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+User2:  Quantitative
+38) Consider a consumer who divides his income between spending on good X and good Y. The opportunity cost of good X in terms of good Y is reflected by the
+A) absolute price of good X.
+B) absolute price of good Y.
+C) ratio of the price of X to the price of Y.
+D) ratio of the price of Y to the price of X.
+E) price of good X relative to the prices of all other goods.
+Answer:  C
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Recall
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+39) The Smith family is allocating its monthly household expenditure between only two goods, food and clothing. Suppose that the price of food is $5 per unit, and the price of clothing is $10 per unit and that the marginal utility that the family is receiving from its consumption of food is currently 25. What is the family's marginal utility from its consumption of clothing if it is maximizing its utility?
+A) 5
+B) 10
+C) 12.5
+D) 25
+E) 50
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Quantitative
+
+40) The Smith family is allocating its monthly household expenditure between only two goods, food and 
+clothing. Suppose that the price of food is $12 per unit, and the price of clothing is $16 per unit and that the marginal utility that the family is receiving from its consumption of clothing is currently 200. What is the family's marginal utility from its consumption of food if it is maximizing its utility?
+A) 200
+B) 150
+C) 75
+D) 16
+E) 12
+Answer:  B
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Quantitative
+41) Bjorn is a student with a monthly budget of $500, which he allocates between transportation services and "all other goods." Suppose the price of transportation is $5 per unit, and the price of "all other goods" is $20 per unit. The marginal utility he currently receives from his consumption of transportation services is 60. What is his marginal utility from the consumption of "all other goods" if he is maximizing his utility?
+A) 5
+B) 20
+C) 25
+D) 200
+E) 240
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Quantitative
+
+42) Bjorn is a student with a monthly budget of $500, which he allocates between transportation services and "all other goods." Suppose the price of transportation is $5 per unit, and the price of "all other goods" is $20 per unit. The marginal utility he currently receives from his consumption of transportation services is 60. How many units of "all other goods" is he consuming if he is maximizing his utility?
+A) 25
+B) 60
+C) 200
+D) 240
+E) There is not enough information to determine.
+Answer:  E
+Diff: 3
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Quantitative
+
+43) Laurie spends all of her money buying bread and cheese. The marginal utility she receives from the last loaf of bread is 60 and from the last block of cheese is 30. The price of bread is $3 and the price of cheese is $2. Laurie
+A) is buying bread and cheese in utility-maximizing amounts.
+B) should buy more bread and less cheese in order to maximize her utility.
+C) should buy more cheese and less bread in order to maximize her utility.
+D) is spending too much money on bread and cheese. 
+E) should buy more bread and more cheese in order to maximize her utility.
+Answer:  B
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+44) Marginal utility analysis predicts a downward-sloping demand curve for good X because
+A) as PX falls, the ratio MUX/PX becomes smaller, causing the consumer to purchase more of good X.
+B) as PX rises, the consumer increases purchases of X such that MUX/PX is equal to MU/P for all other products.
+C) utility-maximizing consumers equate marginal utility received for each product consumed.
+D) all demand curves are downward sloping, regardless of the behaviour of consumers.
+E) as PX falls, the consumer increases purchases of X until MUX/PX is equal to MU/P for all other products.
+Answer:  E
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Recall
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+45) If John consumes only two goods, A and B, and he is maximizing his utility subject to his budget constraint,
+A) MUA/MUB is at a maximum.
+B) MUA/MUB equals the ratio of the total utility of A to the total utility of B.
+C) MUA/MUB equals 1.
+D) MUA/MUB equals zero.
+E) MUA/MUB equals the ratio of the price of A to the price of B.
+Answer:  E
+Diff: 2
+Topic:  6.1b. utility maximization
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+
+46) The market demand curve is derived from 
+A) the vertical summation of individual demand curves.
+B) the average quantity demanded of all individuals in the economy.
+C) a weighted average of the quantity demanded of all individuals in the economy at each price.
+D) the horizontal summation of individual demand curves.
+E) market data provided by Statistics Canada.
+Answer:  D
+Diff: 1
+Topic:  6.1c. market demand curve
+Skill:  Recall
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User2:  Qualitative
+Diagrams A, B, and C show 3 individual consumers' demand curves for cement. Consumers A, B, and C constitute the entire monthly cement market in this region.
+
+
+
+	FIGURE 6-3
+
+47) Refer to Figure 6-3. What is the market demand (in cubic metres per month) for cement at a price of $80 per cubic metre? 
+A) 0
+B) 1000
+C) 2000
+D) 3000
+E) 4000
+Answer:  B
+Diff: 2
+Topic:  6.1c. market demand curve
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+48) Refer to Figure 6-3. What is the market demand (in cubic metres per month) for cement at a price of $60 per cubic metre?
+A) 0
+B) 1000
+C) 2000
+D) 3000
+E) 4000
+Answer:  D
+Diff: 2
+Topic:  6.1c. market demand curve
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+49) Refer to Figure 6-3. What is the market demand (in cubic metres per month) for cement at a price of $20 per cubic metre?
+A) 0
+B) 4000
+C) 5000
+D) 10 000
+E) 14 000
+Answer:  E
+Diff: 2
+Topic:  6.1c. market demand curve
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Quantitative
+
+50) Refer to Figure 6-3. On the regional market demand curve for cement (not shown), at which price level(s) is there a "kink" in the demand curve?
+A) $10
+B) $20 and $30
+C) $30 and $70
+D) $40 and $70
+E) $80
+Answer:  C
+Diff: 3
+Topic:  6.1c. market demand curve
+Skill:  Applied
+Learning Obj.:  6-2 Explain how utility‐maximizing consumers adjust their expenditure until the marginal utility per dollar spent is equalized across products.
+User1:  Graph
+User2:  Qualitative
+
+6.2  Income and Substitution Effects of Price Changes
+
+1) Consider the income and substitution effects of price changes. The substitution effect is the change in quantity demanded that occurs
+A) as a result of a change in absolute prices, with real income held constant.
+B) as a result of a change in relative prices with money income held constant.
+C) as a result of a change in relative prices, with real income held constant.
+D) when one good is substituted for another.
+E) with a change in the relative prices of two or more goods.
+Answer:  C
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+2) Consider the income and substitution effects of price changes. The income effect refers to the change in quantity demanded that occurs as a result of a change in
+A) money income, with relative prices held constant.
+B) real income, with relative prices held constant.
+C) relative prices, with real income held constant.
+D) marginal utility, with real income held constant.
+E) preferences, with real income held constant.
+Answer:  B
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+3) Consider the income and substitution effects of price changes. If the price of a normal good changes, the income effect of the price change will
+A) always be larger than the substitution effect.
+B) always be to increase quantity demanded.
+C) reinforce the substitution effect.
+D) produce a positively sloped demand curve.
+E) oppose the substitution effect.
+Answer:  C
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+4) Suppose a consumer can purchase only two goods, soap and apples. If the price of soap falls and the consumption of apples increases, we can conclude that the increased consumption of apples is due to
+A) neither the income effect nor the substitution effect.
+B) both the income effect and the substitution effect.
+C) the income effect only.
+D) the substitution effect only.
+E) the deflation effect.
+Answer:  C
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+5) Suppose there are only two goods, A and B, and that consumer income is constant. If the price of good A falls and the consumption of good B rises, we can conclude that
+A) A is a normal good.
+B) B is a normal good.
+C) A is an inferior good.
+D) B is an inferior good.
+E) both A and B are normal goods.
+Answer:  B
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+6) A demand curve for a normal good is downward sloping due to
+A) the income effect.
+B) the substitution effect.
+C) the combination of income and substitution effects.
+D) neither the substitution effect nor the income effect.
+E) the Giffen effect.
+Answer:  C
+Diff: 1
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+7) Consider the income and substitution effects of price changes. For a product with an income elasticity greater than one, a price increase will cause the consumer's real income to
+A) rise and the quantity purchased to fall.
+B) fall and the quantity purchased to fall.
+C) rise and the quantity purchased to rise.
+D) fall and the quantity purchased to rise.
+E) remain constant.
+Answer:  B
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+8) Suppose the price of potatoes falls and we observe a decrease in an individual's purchases of potatoes. Which of the following can we infer?
+A) The income effect is negative and outweighs the substitution effect.
+B) The income effect is negative and reinforces the substitution effect.
+C) The income effect just offsets the substitution effect.
+D) The income effect is positive and exceeds the substitution effect.
+E) The substitution effect outweighs the income effect.
+Answer:  A
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+9) The substitution effect of a price change
+A) will result in the consumer buying less of a good at a lower price.
+B) will result in the consumer buying less of a good at a higher price.
+C) outweighs the income effect for Giffen goods.
+D) is equal to the income effect for normal goods.
+E) is equal to the income effect for inferior goods.
+Answer:  B
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+10) If the income effect of a price change is negative and larger in absolute terms than the substitution effect, then the demand curve will be
+A) upward sloping.
+B) downward sloping.
+C) vertical.
+D) horizontal.
+E) of indeterminate slope.
+Answer:  A
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+11) The demand curve for a good with an income elasticity of less than one
+A) must be downward sloping.
+B) must be upward sloping.
+C) will be upward sloping only if the substitution effect outweighs the income effect.
+D) will be upward sloping only if the income effect outweighs the substitution effect.
+E) indicates a normal good.
+Answer:  D
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+12) The substitution effect is
+A) the change in quantity demanded that occurs as a result of a change in absolute prices, with real income held constant.
+B) the change in quantity demanded that occurs as a result of a change in relative prices with money income held constant.
+C) the change in quantity demanded that occurs as a result of a change in relative prices with real income held constant.
+D) the change in quantity demanded that occurs when one good is substituted for another.
+E) the change in the relative prices of two or more goods.
+Answer:  C
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+13) In which of the following situations will an individual's purchasing power be unaffected?
+A) money income is cut in half and the prices of all goods and services fall by 50%
+B) money income falls and the price of one good falls
+C) money income doubles and the prices of all goods and services are cut in half
+D) money income doubles and the prices of all goods and services remain constant
+E) money income is cut in half and prices of all goods and services remain constant
+Answer:  A
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Quantitative
+14) In which of the following situations will an individual's purchasing power be unaffected?
+A) money income doubles and the prices of all goods and services are cut in half
+B) money income remains constant and the prices of all goods and services double
+C) money income is cut in half and the prices of all goods and services double
+D) money income is cut in half and the prices of all goods and services remains constant
+E) money income doubles and the prices of all goods and services double
+Answer:  E
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+User2:  Quantitative
+
+15) In which of the following situations will an individual's purchasing power be unaffected?
+A) all absolute prices fall by 15% and money income falls by 15%
+B) all relative prices fall by 15% and money income falls by 15%
+C) all relative prices rise by 15% and money income falls by 15%
+D) all absolute prices remain constant and money income falls by 15%
+E) all relative prices remain constant and money income rises by 15%
+Answer:  A
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+User2:  Quantitative
+
+16) Suppose a consumer can purchase only two goods, beef and chicken. If the price of beef falls (with all other variables held constant), and the consumption of chicken increases, we can conclude that the increased consumption of chicken is due to
+A) neither the income effect nor the substitution effect.
+B) both the income effect and the substitution effect.
+C) the income effect only.
+D) the substitution effect only.
+E) a change in the consumer's preference toward chicken.
+Answer:  C
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+	FIGURE 6-4
+
+17) Refer to Figure 6-4.  For both goods, the price falls from P0 to P1. The substitution effect is illustrated by the change in quantity demanded from A to B; the income effect is illustrated by the change in quantity demanded from B to C. Good X is certainly a(n) ________ good.
+A) normal
+B) inferior
+C) luxury
+D) necessity
+E) Giffen 
+Answer:  B
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User1:  Graph
+User2:  Qualitative
+
+18) Refer to Figure 6-4.  For both goods, the price falls from P0 to P1. The substitution effect is illustrated by the change in quantity demanded from A to B; the income effect is illustrated by the change in quantity demanded from B to C. Good Y is certainly a(n) ________ good.
+A) normal
+B) inferior
+C) luxury
+D) necessity
+E) Giffen
+Answer:  A
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User1:  Graph
+User2:  Qualitative
+
+	FIGURE 6-5
+
+19) Refer to Figure 6-5. For both goods, the price increases from P0 to P1. The substitution effect is illustrated by the change in quantity demanded from A to B; the income effect is illustrated by the change in quantity demanded from B to C. Good X is certainly a(n) ________ good.
+A) normal
+B) inferior
+C) luxury
+D) necessity
+E) Giffen
+Answer:  B
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User1:  Graph
+User2:  Qualitative
+
+20) Refer to Figure 6-5. For both goods, the price increases from P0 to P1. The substitution effect is illustrated by the change in quantity demanded from A to B; the income effect is illustrated by the change in quantity demanded from B to C. Good Y is certainly a(n) ________ good.
+A) inferior
+B) normal
+C) luxury
+D) necessity
+E) Giffen
+Answer:  B
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User1:  Graph
+User2:  Qualitative
+21) Assume you are consuming two goods, X and Y. X and Y are both normal goods but they are not close complements. The price of good X increases but the price of Y remains unchanged. However, you are given enough additional income to ensure that your utility remains unchanged. What happens to your consumption of good X?
+A) it increases
+B) it stays the same
+C) it increases or decreases
+D) it decreases
+E) it increases over the long run
+Answer:  D
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+22) Assume you are consuming two goods, X and Y. Suppose that the money prices for X and Y remain unchanged, but your income increases by 20%. What happens to your consumption of good X? 
+A) it increases
+B) it stays the same
+C) it increases or decreases, depending on whether it is normal or inferior
+D) it decreases
+E) it increases by 20%
+Answer:  C
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Quantitative
+
+23) Assume you are consuming two goods, X and Y. Suppose the absolute prices for X and Y remain unchanged, but your money income falls by 50%. What happens to your consumption of good X? 
+A) it increases
+B) it stays the same
+C) it increases or decreases, depending on whether it is normal or inferior
+D) it decreases
+E) it decreases by 50%
+Answer:  C
+Diff: 3
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Quantitative
+24) The substitution effect of a price change leads consumers to ________ their demand for goods whose prices have risen. The income effect leads consumers to buy less of all ________ goods whose prices have risen.
+A) reduce; normal
+B) increase; inferior
+C) increase; normal
+D) reduce; Giffen
+E) reduce; complement
+Answer:  A
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Recall
+Learning Obj.:  6-3 Understand how the slope of any demand curve is determined by the income and substitution effects of price changes.
+User2:  Qualitative
+
+25) Consider the substitution and income effects of a 15% increase in the price of a good. Of the goods listed below, which is most likely to have the smallest income effect?
+A) groceries
+B) restaurant meals
+C) gasoline
+D) paperclips
+E) dishwashers
+Answer:  D
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+User2:  Qualitative
+
+26) Consider the substitution and income effects of a 15% increase in the price of a good. Of the goods listed below, which is most likely to have the largest income effect?
+A) salt
+B) paperclips
+C) socks
+D) tennis balls
+E) electricity
+Answer:  E
+Diff: 2
+Topic:  6.2. income and substitution effects
+Skill:  Applied
+User2:  Qualitative
+6.3  Consumer Surplus
+
+1) Consumer surplus is
+A) the sum of the marginal values to the consumer.
+B) the total value that a consumer receives from the purchase of a particular good.
+C) a measure of the gains that a consumer forgoes by buying this product rather than another.
+D) the difference between what the consumer is willing to pay for all the units consumed and what he or she actually paid.
+E) the consumption of a commodity above and beyond the amount required by the consumer.
+Answer:  D
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Recall
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+2) Consumer surplus is 
+A) the same as Karl Marx's notion of surplus value.
+B) the same as total utility.
+C) the sum of the extra value placed on each unit of a commodity above the market price paid for each.
+D) the total value that consumers place on their purchases.
+E) the marginal value that consumers place on their purchases.
+Answer:  C
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Recall
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+3) Consider the pizza market, with a downward-sloping demand curve and an upward-sloping supply curve. Suppose 100 pizzas are purchased at the free-market equilibrium price. The consumer surplus on the 100th pizza is 
+A) positive.
+B) negative.
+C) non-negative.
+D) unknown.
+E) zero.
+Answer:  E
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+4) Given a typical downward-sloping demand curve in a market that has reached its equilibrium, the consumer surplus
+A) is measured by the area above the market price and under the demand curve.
+B) is measured by the area below the market price and under the demand curve.
+C) is measured by the area immediately above the demand curve.
+D) is calculated as the product of market price and quantity consumed.
+E) cannot be measured given the information.
+Answer:  A
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Recall
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+5) Given a particular market demand curve, consumer surplus is
+A) less the lower the price and the smaller the output.
+B) less the lower the price and the larger the output.
+C) greater the higher the price and the smaller the output.
+D) greater the lower the price and the smaller the output.
+E) greater the lower the price and the larger the output.
+Answer:  E
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+6) Assume a person reveals the following demand conditions. At a price of $10, quantity demanded is zero; and at a price of $1, quantity demanded is 10 units.
+A) The consumer surplus will be zero at a price of $10.
+B) The consumer surplus will be the area under the entire demand curve.
+C) The consumer surplus is zero at a price of $1.
+D) Demand decreases as the price decreases.
+E) The lower the price the smaller the consumer surplus.
+Answer:  A
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+7) An individual's consumer surplus from some product can be eliminated entirely by:
+1. raising the price until very few units are bought.
+2. charging a price for each unit that is equal to the individual's marginal value for each unit.
+3. raising the price until zero units are purchased.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 or 3
+E) 1 or 2, but not 3.
+Answer:  D
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+8) Assume an individual with a downward-sloping demand curve is paying a single price for each unit of some commodity. He will experience consumer surplus on
+A) all units that were not bought at that particular price.
+B) all of the units bought.
+C) all units bought with the possible exception of the last unit.
+D) the first unit only.
+E) none of the units.
+Answer:  C
+Diff: 3
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+9) At a garage sale, Ken purchases a used bicycle for $8 when he was willing to pay $25. If the bicycle costs $75 new, Ken's consumer surplus is 
+A) $0.
+B) $17.
+C) $33.
+D) $50.
+E) $67.
+Answer:  B
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Quantitative
+10) At a garage sale, Dominique purchases a sewing machine for $30 when she was willing to pay $55. If the sewing machine costs $200 new, Dominique's consumer surplus would be 
+A) $0.
+B) $25.
+C) $120.
+D) $145.
+E) $170.
+Answer:  B
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Quantitative
+
+11) The total value that Doug places on his consumption of computer games equals
+A) the price multiplied by quantity demanded.
+B) his marginal utility multiplied by quantity demanded.
+C) price times marginal value.
+D) the total amount he pays for all the games he purchases.
+E) his total expenditure on computer games plus his consumer surplus.
+Answer:  E
+Diff: 3
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User2:  Qualitative
+
+
+FIGURE 6-6
+
+12) Refer to Figure 6-6. Suppose the market price is p*. In this case, consumer surplus is outlined by the area
+A) ACDE.
+B) ABDF.
+C) ACF.
+D) BCD.
+E) ADE.
+Answer:  D
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 6-6. Suppose the market price is p*. In this case, the total value consumers place on consuming Q* units is outlined by the area
+A) BCD.
+B) ABD.
+C) ADE.
+D) ACDE.
+E) ABDF.
+Answer:  D
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+
+FIGURE 6-7
+
+14) Refer to Figure 6-7.  Suppose that price is P0.  Total consumer surplus is then given by the area
+A) under the demand curve to the left of Q0.
+B) below P0 and to the left of Q0.
+C) under the demand curve to the left of Q0, but above P0.
+D) under the entire demand curve.
+E) above the market price.
+Answer:  C
+Diff: 1
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 6-7.  Suppose that price is P0. The total value placed on all units of the commodity consumed is given by the area
+A) under the demand curve to the left of Q0.
+B) under the demand curve to the left of Q0, but above P0.
+C) below P0 and to the left of Q0.
+D) under the demand curve and above P0.
+E) under the demand curve and to the right of Q0.
+Answer:  A
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Recall
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Graph
+User2:  Qualitative
+16) Refer to Figure 6-7.  Suppose that price is P0. The market value of the quantity purchased is given by the area
+A) under the demand curve to the left of Q0.
+B) under the demand curve.
+C) below P0 and to the left of Q0.
+D) under the demand curve and above P0.
+E) under the demand curve and to the right of Q0.
+Answer:  C
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Graph
+User2:  Qualitative
+
+	Dave's Consumer Surplus on Movie Rentals per Week
+	(yes, we know no one rents movies anymore, but it makes a good example!)
+
+Number of movies rented per week
+Amount Dave is willing to pay to rent this movie ($)
+Dave's consumer surplus on each movie rental if price is $5 each
+1st
+10.00
+
+2nd
+ 8.00
+
+3rd
+ 6.50
+
+4th
+ 5.50
+
+5th
+ 5.00
+
+6th
+ 4.50
+
+7th
+ 4.25
+
+
+TABLE 6-2
+
+17) Refer to Table 6-2. If Dave rents 3 movies in one week, his total consumer surplus is ________ and the total amount he pays is ________.
+A) $24.50; $24.50
+B) $19.50; $15.00
+C) $9.50; $15.00
+D) $6.50; $5.00
+E) $5.50; $5.00
+Answer:  C
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 6-2. If Dave rents 5 movies in one week, his total consumer surplus is ________ and the total amount he pays is ________.
+A) $5; $25
+B) $0; $25
+C) $9.50; $5
+D) $9.50; $25
+E) $10; $25
+Answer:  E
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 6-2. How many movies will Dave rent per week such that the consumer surplus on the last unit is zero?
+A) 1
+B) 3
+C) 5
+D) 6
+E) 7
+Answer:  C
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 6-2. Assuming Dave maximizes his utility when the price is $5, his consumer surplus (in dollars) on each movie rental in order from 1 through 7 is as follows:
+A) 10.00, 18.00, 24.50, 30.00, 35.00, 39.50, 43.75.
+B) 5.00, 3.00, 1.50, 0.50, 0, 0, 0.
+C) 10.00, 8.00, 6.50, 5.50, 5.00, 4.50, 4.25.
+D) 5.00 on all units.
+E) 0 on all units.
+Answer:  B
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+The table below shows the total value (in dollars) that Andrew gets from playing 9-hole rounds of golf.
+
+Rounds of Golf per Month
+Total 
+Value 
+($)
+0
+   0
+1
+ 40
+2
+ 70
+3
+  92
+4
+108
+5
+120
+6
+130
+7
+130
+
+TABLE 6-3
+
+21) Refer to Table 6-3.  Andrew values the 4th round of golf at a marginal value of 
+A) $16.
+B) $92.
+C) $108.
+D) $310.
+E) $430.
+Answer:  A
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+
+22) Refer to Table 6-3.  If the price of a 9-hole round of golf is $19, then Andrew will play ________ rounds per month.
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6 or more
+Answer:  B
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+23) Refer to Table 6-3.  If the price of a 9-hole round of golf is $9, then Andrew will play ________ rounds per month.
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6 
+Answer:  E
+Diff: 2
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 6-3.  If the price of a 9-hole round of golf is $16, and Andrew is maximizing his utility, then his consumer surplus will be
+A) $310.
+B) $108.
+C) $92.
+D) $44.
+E) $16.
+Answer:  D
+Diff: 3
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 6-3.  If the price of a 9-hole round of golf is $22, and Andrew is maximizing his utility, then his consumer surplus will be
+A) $202.
+B) $108.
+C) $92.
+D) $26.
+E) $22.
+Answer:  D
+Diff: 3
+Topic:  6.3a. consumer surplus
+Skill:  Applied
+Learning Obj.:  6-4 See that consumer surplus is the "bargain" the consumer gets by paying less for the product than the maximum price he or she is willing to pay.
+User1:  Table
+User2:  Quantitative
+26) Since there is a limited supply of diamonds in the world, the consumption of diamonds
+A) takes place at relatively low marginal value.
+B) takes priority over some other good.
+C) is no less important than consumption of water.
+D) takes place at relatively high marginal value.
+E) should be regulated by the government.
+Answer:  D
+Diff: 1
+Topic:  6.3b. paradox of value
+Skill:  Applied
+Learning Obj.:  6-5 Explain the "paradox of value."
+User2:  Qualitative
+
+27) Since there is a relatively plentiful supply of water in Canada (this is not true in many parts of the world), the consumption of water in Canada
+A) takes place at a relatively low marginal value.
+B) takes priority over all other goods.
+C) takes place at a relatively high marginal value.
+D) should be regulated by the government.
+E) should be unlimited at a price of $0.
+Answer:  A
+Diff: 1
+Topic:  6.3b. paradox of value
+Skill:  Applied
+Learning Obj.:  6-5 Explain the "paradox of value."
+User2:  Qualitative
+
+28) The paradox in "the paradox of value" refers to the
+A) confusion between supply curves and demand curves.
+B) fact that goods with high total values command high prices.
+C) fact that goods with low total values command low prices.
+D) situation where a good that is necessary to sustain life is "more valuable" than a decorative, luxury item.
+E) situation where a good with a low total value can command a high price, while a good with a high total value can command a low price.
+Answer:  E
+Diff: 1
+Topic:  6.3b. paradox of value
+Skill:  Recall
+Learning Obj.:  6-5 Explain the "paradox of value."
+User2:  Qualitative
+29) For your typical consumption levels of water and diamonds, the good with the higher marginal utility is ________; the good with the higher total utility is ________; and the good with the greatest consumer surplus is ________.
+A) water; diamonds; water
+B) water; water; water
+C) water; water; diamonds
+D) diamonds; water; water
+E) diamonds; water; diamonds
+Answer:  D
+Diff: 2
+Topic:  6.3b. paradox of value
+Skill:  Applied
+Learning Obj.:  6-5 Explain the "paradox of value."
+User2:  Qualitative
+
+6A-1  Indifference Curves
+
+1) An indifference curve plotted for two different goods on the axes
+A) shifts when real income changes.
+B) shows all combinations of the two goods that give the same level of utility.
+C) changes its slope as the relative prices of the two goods change.
+D) shows the combinations of the two goods that will just use up a consumer's income.
+E) shows the different combinations of two goods that the same income can purchase.
+Answer:  B
+Diff: 1
+Topic:  6-appendix.1. indifference curves
+Skill:  Applied
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+
+2) As a consumer moves along an indifference curve
+A) the combination of goods will vary but the level of utility remains constant.
+B) the combination of goods he prefers will remain constant, but the level of satisfaction will vary.
+C) the combination of goods and the consumer's income level will remain constant.
+D) his level of utility will vary as the combinations of goods varies.
+E) the combination of goods will vary, but the level of money income remains constant.
+Answer:  A
+Diff: 1
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+3) Given a particular consumer's indifference map, the further the indifference curve is from the origin
+A) the lower the marginal rate of substitution.
+B) the higher the marginal rate of substitution.
+C) the lower the level of satisfaction.
+D) the higher the level of satisfaction.
+E) the more goods are included.
+Answer:  D
+Diff: 1
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+
+4) The marginal rate of substitution
+A) always has a positive algebraic value.
+B) is constant as one moves along a particular indifference curve.
+C) is the amount of one good the consumer is willing to give up in exchange for another so as to keep total satisfaction unchanged.
+D) is the amount of one good the consumer is willing to give up in exchange for another so as to keep total expenditure unchanged.
+E) is equal to the price ratio on the budget line.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+
+5) The marginal rate of substitution measures the tradeoff between the
+A) prices of two goods along a budget line.
+B) different values that two consumers place on a good.
+C) amount of one good the consumer is willing to give up in exchange for another good along an indifference curve.
+D) different indifference curves.
+E) amount of one good the consumer is willing to purchase and its own price.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+6) Suppose Arun consumes only 2 goods — books and CDs — and has a set of downward sloping indifference curves.  As Arun moves from one point to another on a particular indifference curve, 
+A) the combination of books and CDs will vary, but the level of utility remains constant.
+B) the combination of books and CDs that Arun prefers will remain constant, but the level of satisfaction will vary.
+C) the combination of books and CDs and Arun's income level will remain constant.
+D) Arun's level of satisfaction will vary as the combinations of books and CDs varies.
+E) Arun is consuming the same combination of goods, but with varying levels of income.
+Answer:  A
+Diff: 2
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+
+7) Indifference theory is based on the assumption that
+A) consumers are not able to rank consumption bundles in order of preference.
+B) consumers can always say which of two consumption bundles they prefer without having to say by how much they prefer it.
+C) the consumer has equated the marginal utilities of all products, and is therefore indifferent between consumption bundles.
+D) the consumer is able to quantify the difference in total utility received from two different consumption bundles.
+E) the consumer receives the same utility and is therefore indifferent between any two consumption bundles.
+Answer:  B
+Diff: 1
+Topic:  6-appendix.1. indifference curves
+Skill:  Recall
+Learning Obj.:  6-6A-1 Indifference curves
+User2:  Qualitative
+
+6A-2  The Budget Line
+
+1) If money income is reduced by half, and the prices of all goods consumed by the household are reduced by half, the household's budget line will
+A) not change.
+B) shift inward.
+C) shift outward.
+D) become steeper.
+E) become flatter.
+Answer:  A
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+2) An equal proportional increase in money income and all money prices will
+A) shift the budget line to the left parallel to the original budget line.
+B) shift the budget line to the right parallel to the original budget line.
+C) leave the position of the budget line unchanged.
+D) rotate the budget line inward from the vertical axis.
+E) rotate the budget line inward from the horizontal axis.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+
+The diagram below shows a set of budget lines facing a household.
+
+
+
+FIGURE 6-8
+
+3) Refer to Figure 6-8. The movement of the budget line from ab to ac could be caused by
+A) an increase in money income.
+B) an increase in the price of food.
+C) an increase in the price of housing.
+D) a decrease in the price of food.
+E) a decrease in the price of housing.
+Answer:  D
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User1:  Graph
+User2:  Qualitative
+
+4) Refer to Figure 6-8. The movement of the budget line from ab to db could be caused by
+A) a decrease in money income.
+B) an increase in the price of housing.
+C) a decrease in the price of housing.
+D) an increase in the price of food.
+E) a decrease in the price of food.
+Answer:  B
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User1:  Graph
+User2:  Qualitative
+
+5) Refer to Figure 6-8. The movement of the budget line from ab to ef could be caused by
+A) a decrease in money income.
+B) a decrease in the price of either food or housing.
+C) an equal percentage decrease in the price of both food and housing.
+D) an equal percentage increase in the price of both food and housing.
+E) an increase in the price of either food or housing.
+Answer:  C
+Diff: 3
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User1:  Graph
+User2:  Qualitative
+
+6) Refer to Figure 6-8. The movement of the budget line from ab to ef could be caused by
+A) a decrease in real income.
+B) an increase in money income.
+C) an equal percentage increase in the price of both food and housing.
+D) a decrease in the price of either food or housing.
+E) an increase in the price of either food or housing.
+Answer:  B
+Diff: 3
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+7) A parallel shift in the consumer's budget line must indicate a change in
+A) at least one money price.
+B) money income.
+C) real income.
+D) tastes.
+E) both prices.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+
+8) In indifference curve analysis, a point to the left of the consumer's budget line
+A) indicates consumption spending beyond current income.
+B) implies the household is paying above-market prices for the goods in question.
+C) implies the household is paying below-market prices for the goods in question.
+D) implies that the household is not spending all of its income on the goods in question.
+E) shows a combination of goods that are beyond the income of the household.
+Answer:  D
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+
+9) Assume the quantity of good X is measured on the horizontal axis and the quantity of good Y on the vertical axis. Initial prices are PX = $5 and PY = $10. The consumer's income is $100. If PY increases to $20, then
+A) the entire budget line shifts parallel toward the origin.
+B) the budget line will rotate toward the origin, slope remaining constant.
+C) the budget line will rotate toward the origin with the slope changing from 1/2 to 1/4 (in absolute values).
+D) the entire budget line shifts parallel away from the origin.
+E) the budget line will rotate away from the origin with the slope changing from 1/4 to 1/2 (in absolute values).
+Answer:  C
+Diff: 3
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Quantitative
+10) Suppose a consumer can purchase only two goods, pasta and cheese. Let the quantity of pasta be measured on the vertical axis and the quantity of cheese be measured on the horizontal axis. If the price of pasta falls, with no change in the price of cheese or in the consumer's money income, then the budget line for the consumer will rotate
+A) toward the origin and become flatter.
+B) toward the origin and become steeper.
+C) away from the origin and become flatter.
+D) away from the origin and become steeper.
+E) outward parallel to the existing budget line.
+Answer:  D
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Applied
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+
+11) Any consumption point that is on the budget line
+A) indicates consumption spending beyond current income.
+B) implies the household is paying above-market prices for the goods in question.
+C) implies the household is paying below-market prices for the goods in question.
+D) implies that the household is not spending all of its income on the goods in question.
+E) implies that the household is spending all of its income on the goods in question.
+Answer:  E
+Diff: 2
+Topic:  6-appendix.2. budget line
+Skill:  Recall
+Learning Obj.:  6-6A-2 The budget line
+User2:  Qualitative
+
+6A-3  The Consumer's Utility‐Maximizing Choices
+
+1) Suppose a utility-maximizing person consumes only two goods, hamburgers and milkshakes. Suppose the price of milkshakes rises and all other variables remain constant. As a result, this person will certainly
+A) purchase more milkshakes and fewer hamburgers.
+B) reduce his/her consumption of both milkshakes and hamburgers.
+C) consume more hamburgers and the same amount of milkshakes.
+D) not increase his consumption of both milkshakes and hamburgers.
+E) increase his/her consumption of milkshakes.
+Answer:  D
+Diff: 3
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-3 The consumer's utility‐maximizing choices
+User2:  Qualitative
+2) When a consumer's marginal rate of substitution between X and Y is equal to the ratio of prices for X and Y, and when the consumer is spending all available income, then
+A) the budget line is tangent to an indifference curve.
+B) the consumer is not maximizing his utility.
+C) a higher indifference curve can be reached given the existing budget line.
+D) the budget line is tangent to the indifference curve at all quantities of X and Y.
+E) all budget lines are tangent to all indifference curves.
+Answer:  A
+Diff: 2
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-3 The consumer's utility‐maximizing choices
+User2:  Qualitative
+
+3) In indifference curve analysis, the consumer's utility-maximizing point is where
+A) each indifference curve has the same slope as the relevant budget line.
+B) the indifference curve farthest from the origin intersects with the budget line that is farthest from the origin.
+C) the consumer's marginal utility curve is tangent to the relevant budget line.
+D) one indifference curve is tangent to the relevant budget line.
+E) the price-consumption line is tangent to the budget line.
+Answer:  D
+Diff: 3
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Recall
+Learning Obj.:  6-6A-3 The consumer's utility‐maximizing choices
+User2:  Qualitative
+
+
+	FIGURE 6-9
+
+4) Refer to Figure 6-9. In part (i), the consumer is able to move from point A to point B because of
+A) a decrease in the price of milk.
+B) a decrease in the price of bread.
+C) a decrease in money income.
+D) an increase in real income.
+E) a decrease in the price of one good and an increase in money income.
+Answer:  D
+Diff: 2
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-3 The consumer's utility‐maximizing choices
+User1:  Graph
+User2:  Qualitative
+
+5) Refer to Figure 6-9. In part (ii), the consumer's move from point Z to point Y is caused by
+A) a change in the consumer's preferences towards milk.
+B) an increase in the price of milk.
+C) an increase in the price of bread.
+D) a decrease in the price of bread.
+E) a decrease in money income.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-3 The consumer's utility‐maximizing choices
+User1:  Graph
+User2:  Qualitative
+6) Refer to Figure 6-9. In part (ii), the consumer's move from point X to point Z is caused by
+A) a change in the consumer's preferences towards bread.
+B) an increase in money income.
+C) an increase in the price of bread.
+D) a decrease in the price of milk.
+E) a decrease in the price of bread.
+Answer:  E
+Diff: 2
+Topic:  6-appendix.3. utility maximization (indiff. curves)
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+6A-4  Deriving the Demand Curve
+
+1) Refer to Figure 6-9. In part (i), the line joining points A, B, and C is known as ________, which shows how ________.
+A) a price-consumption line; consumption changes as relative prices change, with money income constant
+B) an income-consumption line; consumption changes as income changes, with relative prices held constant
+C) a price-consumption line; consumption changes as money income and relative prices change
+D) an income-consumption line; consumption changes with changing relative prices and constant income
+E) an indifference map; the value of various combinations of two goods changes
+Answer:  B
+Diff: 2
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Recall
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Qualitative
+
+2) Refer to Figure 6-9. In part (ii), the line joining points X, Y, and Z is known as ________, which shows how ________.
+A) a price-consumption line; consumption changes as relative prices change, with money income constant
+B) an income-consumption line; consumption changes as income changes, with relative prices held constant
+C) a price-consumption line; consumption changes as money income and relative prices change
+D) an income-consumption line; consumption changes with changing relative prices and constant income
+E) an indifference map; the value of various combinations of two goods changes
+Answer:  A
+Diff: 2
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Recall
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Qualitative
+The figures below show Chris's consumption of specialty coffee per week.
+
+
+FIGURE 6-10
+
+3) Refer to Figure 6-10. The line connecting points A, B and C is ________. The line connecting points D, E and F is ________.
+A) the price-consumption line; the demand curve
+B) the income-consumption line; the demand curve
+C) the income-consumption line; the budget line
+D) the budget line; the price-consumption line
+E) the demand curve; the budget line
+Answer:  A
+Diff: 1
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Qualitative
+4) Refer to Figure 6-10. The two diagrams in Figure 6-10 are showing
+A) the change in Chris's preferences toward specialty coffee.
+B) that Chris is indifferent between bundles A, B and C.
+C) the derivation of Chris's demand curve for specialty coffee.
+D) that Chris is indifferent between points D, E and F.
+E) the derivation of Chris's indifference curve for specialty coffee.
+Answer:  C
+Diff: 2
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Qualitative
+
+5) Refer to Figure 6-10. Suppose Chris's income is such that he is able to buy no more than 10 specialty coffees per week. If Chris is maximizing his utility at this level of income, how many specialty coffees is he consuming per week?
+A) 2
+B) 4
+C) 5
+D) 6
+E) 10
+Answer:  B
+Diff: 2
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Quantitative
+
+6) Refer to Figure 6-10. In general, the absolute value of the slope of the budget lines is equal to
+A) the relative price ratio (Pspecialty coffee/Pall other goods).
+B) the relative price ratio (Pall other goods/Pspecialty coffee).
+C) the quantity of all other goods consumed divided by the quantity of specialty coffees consumed.
+D) $15/value of all other goods.
+E) the dollar value of all other goods divided by the number of specialty coffees consumed per week.
+Answer:  A
+Diff: 3
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Applied
+Learning Obj.:  6-6A-4 Deriving the consumer's demand curve
+User1:  Graph
+User2:  Qualitative
+7) Refer to Figure 6-10. The slope of the budget line reflects the ________ of specialty coffees in terms of all other goods.
+A) demand
+B) quantity
+C) opportunity cost
+D) absolute price
+E) substitution
+Answer:  C
+Diff: 2
+Topic:  6-appendix.4. deriving the demand curve (indiff. curves)
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+6A-5  Income and Substitution Effects
+
+
+
+FIGURE 6-11
+
+1) Refer to Figure 6-11. Suppose the consumer begins at E1. The income and substitution effects of the reduction in the price of X are represented as follows:
+A) the distance Q1d shows the substitution effect and the distance Q2e shows the income effect.
+B) the distance de shows the income effect and the distance cd shows the substitution effect.
+C) the distance Q1Q2 shows the income effect and the distance Q2Q3 shows the substitution effect.
+D) the distance Q1Q2 shows the substitution effect and the distance Q2Q3 shows the income effect.
+E) the distance Q1Q3 shows the substitution effect and the distance Q2Q3 shows the income effect.
+Answer:  D
+Diff: 3
+Topic:  6-appendix.5. income and sub'n effects (indiff. curves)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+2) Refer to Figure 6-11. The line joining points E1 and E3 is known as ________, which shows how ________.
+A) a price consumption line; consumption changes as one price changes, with money income held constant
+B) an income consumption line; consumption changes as income changes, with relative prices held constant
+C) a price consumption line; consumption changes as money income and relative prices change
+D) an income consumption line; consumption changes with changing relative prices and constant income
+Answer:  A
+Diff: 3
+Topic:  6-appendix.5. income and sub'n effects (indiff. curves)
+Skill:  Recall
+User1:  Graph
+User2:  Qualitative
+
+Sophie consumes two goods — paperback novels and visits to the movies.
+
+
+
+FIGURE 6-12
+
+3) Refer to Figure 6-12. Sophie's movement from point A to point B is the
+A) substitution effect of a decrease in the price of paperback novels.
+B) total effect of an increase in the price of paperback novels.
+C) income effect of an increase in the price of paperback novels.
+D) result of a change in her preferences between movies an paperback novels.
+E) total effect of a decrease in income.
+Answer:  B
+Diff: 2
+Topic:  6-appendix.5. income and sub'n effects (indiff. curves)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+4) Refer to Figure 6-12. Sophie's movement from point A to point C is
+A) the income effect of an increase in the price of paperback novels.
+B) the total effect of a decrease in the price of paperback novels.
+C) the income effect of a decrease in the price of paperback novels.
+D) the substitution effect of an increase in the price of paperback novels.
+E) the total effect of a change in money income.
+Answer:  D
+Diff: 3
+Topic:  6-appendix.5. income and sub'n effects (indiff. curves)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 57
+Copyright © 2017 Pearson Education, Inc.
+
+
+

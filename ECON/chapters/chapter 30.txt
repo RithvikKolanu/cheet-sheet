@@ -1,0 +1,1716 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 30   Unemployment Fluctuations and the NAIRU
+
+30.1  Employment and Unemployment
+
+1) If the actual unemployment rate is equal to the NAIRU, then
+A) actual GDP will be higher than potential GDP.
+B) actual GDP will be below potential GDP.
+C) potential GDP will expand permanently.
+D) the unemployment rate is 0%.
+E) actual and potential GDP are equal.
+Answer:  E
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+2) When real GDP is less than potential output, the unemployment rate ________ the NAIRU.
+A) falls toward
+B) falls below
+C) rises toward but never exceeds
+D) is equal to
+E) rises above
+Answer:  E
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+3) When real GDP is greater than potential output, the unemployment rate ________ the NAIRU.
+A) falls toward
+B) falls below
+C) rises toward but never exceeds
+D) is equal to
+E) rises above
+Answer:  B
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+4) When the growth rate of the labour force is greater than the growth rate of total employment, the unemployment rate
+A) decreases.
+B) increases.
+C) is below NAIRU.
+D) is above NAIRU.
+E) is equal to NAIRU.
+Answer:  B
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+5) When the growth rate of the labour force is less than the growth rate of total employment, the unemployment rate
+A) decreases.
+B) increases.
+C) is below NAIRU.
+D) is above NAIRU.
+E) is equal to NAIRU.
+Answer:  A
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+6) Suppose that next year 300 000 existing jobs in the economy are eliminated through layoffs and plant closures, and 400 000 new jobs are created through expansions and the creation of new firms. The amount of unemployment will rise over that year if 
+A) more than 300 000 people drop out of the labour force.
+B) more than 100 000 people drop out of the labour force.
+C) less than 100 000 people drop out of the labour force.
+D) less than 100 000 people join the labour force.
+E) more than 100 000 people join the labour force.
+Answer:  E
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+7) Suppose that next year 300 000 existing jobs in the economy are eliminated and 200 000 new jobs are created. The amount of unemployment will decline over that year if
+A) more than 100 000 people drop out of the labour force.
+B) less than 100 000 people drop out of the labour force.
+C) less than 100 000 people join the labour force.
+D) more than 100 000 people join the labour force.
+E) more than 300 000 people join the labour force.
+Answer:  A
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+
+8) If there are more job vacancies in the economy than there are unemployed workers, it is likely that 
+A) fiscal policy aimed at increasing aggregate demand would cause the actual unemployment rate to move toward the NAIRU.
+B) the actual unemployment rate is less than the NAIRU.
+C) the economy has a high NAIRU.
+D) there is excessive involuntary unemployment in this economy.
+E) there is no structural unemployment in this economy.
+Answer:  B
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+9) If the actual unemployment rate is one percentage point less than the NAIRU, then
+A) actual and potential GDP are equal.
+B) actual GDP is greater than potential GDP.
+C) actual GDP is less than potential GDP.
+D) potential GDP will expand permanently.
+E) potential GDP will contract until it equals actual GDP.
+Answer:  B
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+10) The total amount of unemployment in the economy rises when the flows of individuals 
+A) into unemployment are positive.
+B) into unemployment exceed the flows out of unemployment.
+C) out of unemployment exceed the flows into unemployment.
+D) out of unemployment are negative.
+E) out of unemployment are equal to the flows into unemployment.
+Answer:  B
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+11) The total amount of unemployment in the economy decreases when the flows of individuals 
+A) into unemployment are positive.
+B) into unemployment exceed the flows out of unemployment.
+C) out of unemployment exceed the flows into unemployment.
+D) out of unemployment are negative.
+E) out of unemployment are equal to the flows into unemployment.
+Answer:  C
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+12) The total amount of unemployment in the economy is constant when the flows of individuals 
+A) into unemployment are positive.
+B) into unemployment exceed the flows out of unemployment.
+C) out of unemployment exceed the flows into unemployment.
+D) out of unemployment are negative.
+E) out of unemployment are equal to the flows into unemployment.
+Answer:  E
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+13) One reason that economists are interested in gross flows in the labour market as well as in the stock of unemployment is that examining the gross flows
+A) gives a better estimate of NAIRU.
+B) gives a good estimate of the incidence of unemployment.
+C) excludes only the new entrants and retirements of people moving into and out of the labour force.
+D) in relation to the stock of unemployment can indicate the amount of time the average person spends unemployed.
+E) provides a better indication of the total number of people unemployed at any one time.
+Answer:  D
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+14) One reason that economists are interested in the gross flows in the labour market as well as the stocks of unemployed is that examining the flows
+A) gives us a better estimate of NAIRU.
+B) gives more insight into the amount of labour-market turnover.
+C) provides a better indication of the total number of people unemployed at any one time rather than just looking at the stocks.
+D) provides a good estimate of the overall level of employment.
+E) provides the only reliable way to measure cyclical unemployment.
+Answer:  B
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+15) Suppose John finishes school and immediately gets a part-time job. The measured unemployment rate would
+A) rise because he was not in the labour force when in school.
+B) not change since he is now employed.
+C) fall because he was considered unemployed when in school.
+D) fall because he was not in the labour force when in school.
+E) not change because part-time jobs aren't counted in the labour force.
+Answer:  D
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+16) When the actual unemployment rate is equal to the NAIRU, we can say that
+A) all remaining unemployment is structural.
+B) the economy is experiencing no lost output due to frictional unemployment.
+C) the economy is at full employment.
+D) frictional unemployment is zero.
+E) frictional and structural unemployment are both zero.
+Answer:  C
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+17) When one worker is unemployed for one year,
+A) we no longer include that worker in labour-force statistics.
+B) there may be significant personal costs, but there is no cost to the economy.
+C) it is not a problem because as soon as the worker is employed again, any loss of output goes away.
+D) there is no effect on national income.
+E) the output this worker would have produced is lost forever.
+Answer:  E
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Qualitative
+
+18) Suppose in a given month the flow out of unemployment equals 300 000 per month, and the flow into unemployment equals 330 000 per month. The rate of unemployment has
+A) increased by 30 000.
+B) decreased by 30 000.
+C) increased by 10%.
+D) decreased by 10%.
+E) Not enough information to determine.
+Answer:  E
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+19) Suppose the official rate of unemployment reported by Statistics Canada is 7.2%. One reason this is likely to be an understatement of the amount of "true" unemployment is that
+A) the official rate is a measure of gross flows into and out of unemployment rather than net flows.
+B) discouraged workers who have given up searching for a job, but would take one if offered, are not included.
+C) the official rate is a measure of net flows into and out of unemployment rather than gross flows.
+D) Statistics Canada does not have a good measure of the numbers of people entering the labour force.
+E) seasonal workers are not included at all in the official data. 
+Answer:  B
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+
+20) Suppose the official rate of unemployment reported by Statistics Canada declines from one month to the next from 7.5% to 7.2%, but we also know that the stock of unemployed workers has not changed. How is this possible?
+A) The labour force has declined due to out-migration of working-age people. 
+B) The labour force has grown as previously discouraged workers re-start their job-search process as unemployed individuals.
+C) Some individuals who were previously outside the labour force have joined the labour force and immediately found jobs. 
+D) We have gone from a month with high seasonal unemployment to a month with low seasonal unemployment.
+E) We have gone from a month with low seasonal unemployment to a month with high seasonal unemployment. 
+Answer:  C
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+21) Suppose we know the following information about the labour market. Over a one-month period:
+	-total number of previously unemployed workers that found jobs = 150 000
+	-total number of previously employed workers that became unemployed = 150 000
+During this month the gross flow into unemployment was ________ and the net flow into unemployment was ________. 
+A) 150 000; zero
+B) 150 000; 150 000
+C) zero; 150 000
+D) zero; zero
+E) 300 000; 150 000
+Answer:  A
+Diff: 1
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+
+22) Suppose we know the following information about the labour market. Over a one-month period:
+	-total number of previously unemployed workers that found jobs = 500 000
+	-total number of individuals that became unemployed = 500 000
+During the same month the unemployment rate increased from 7.1% to 7.3%. It must be the case that
+A) the population increased during that month.
+B) the population decreased during that month.
+C) a certain number of people entered the labour force during that month.
+D) the gross flow and the net flow into unemployment are equal.
+E) a certain number of people left the labour force during that month.
+Answer:  E
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User2:  Quantitative
+
+23) It is generally accepted that during a recession the official labour market data reported by Statistics Canada understates the "true" extent of unemployment for the following reasons:
+1) Workers who leave the labour force and return to school are counted as full-time workers;
+2) Some workers become discouraged and leave the labour force;
+3) Some workers are underemployed.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3 
+Answer:  E
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Recall
+User2:  Qualitative
+The table below provides hypothetical unemployment, employment, and labour force data for a small economy over a 3-month period. The unemployment rate on January 1 is 6%.
+
+
+Stock of unemployment
+Stock of employment
+Stock outside the labour force
+Total population
+January 1
+600
+9400
+8000
+18 000
+February 1
+750
+9200
+8050
+18 000
+March 1
+750
+9800
+7450
+18 000
+
+TABLE 30-1 
+
+24) Refer to Table 30-1. What is the unemployment rate on February 1?
+A) 4.17%
+B) 6.0%
+C) 7.54%
+D) 8.15%
+E) 9.32%
+Answer:  C
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 30-1. What is the unemployment rate on March 1?
+A) 6.0%
+B) 7.11%
+C) 10.07%
+D) 7.65%
+E) 4.17%
+Answer:  B
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User1:  Table
+User2:  Quantitative
+
+26) Refer to Table 30-1. Between February 1 and March 1 the stock of unemployment remained stable at 750, and the unemployment rate ________ because ________. 
+A) decreased; the labour force grew by 600
+B) decreased; the labour force shrank by 600
+C) remained stable; the stock of unemployment did not change
+D) increased; the labour force grew by 600
+E) increased; the labour force shrank by 600
+Answer:  A
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+Learning Obj.:  30-1 Compare employment and unemployment changes over the short run and long run.
+User1:  Table
+User2:  Quantitative
+The table below provides hypothetical unemployment, employment, and labour force data for an economy over a 3-month period. 
+
+
+Stock of unemployment
+Stock of employment
+Stock outside the labour force
+Total population
+January 1
+1.5 million
+20.5 million
+8 million
+30 million
+February 1
+1.5 million
+19.5 million
+9 million
+30 million
+March 1
+1.7 million
+19.5 million
+8.8 million
+30 million
+
+TABLE 30-2
+
+27) Refer to Table 30-2. What is the unemployment rate on January 1?
+A) 5.3%
+B) 5.0%
+C) 7.3%
+D) 6.8%
+E) 18.7%
+Answer:  D
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+28) Refer to Table 30-2. What is the unemployment rate on February 1?
+A) 7.7%
+B) 7.1%
+C) 16.7%
+D) 6.0%
+E) 5.0%
+Answer:  B
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 30-2. What is the unemployment rate on March 1?
+A) 19.3%
+B) 5.6%
+C) 6.0%
+D) 8.7%
+E) 8.0%
+Answer:  E
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+30) Refer to Table 30-2. Something unusual happened in this country's labour force between January 1 and February 1. What was it?
+A) The unemployment rate declined, even though the stock of unemployment remained stable.
+B) The labour force grew by one million workers, which represents over 3 percent of the country's total population.
+C) The unemployment rate declined because workers left the labour force.
+D) The number of workers employed rose, even though workers left the labour force.
+E) One million workers (net) left their jobs and also left the labour force.
+Answer:  E
+Diff: 3
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+31) Refer to Table 30-2. Which of the following changes occurred in this economy between February 1 and March 1?
+A) The labour force remained stable.
+B) The unemployment rate declined.
+C) The unemployment rate remained stable.
+D) 200 000 (net) workers entered the labour force.
+E) 200 000 (net) workers left the labour force.
+Answer:  D
+Diff: 2
+Topic:  30.1. unemployment and labour-market flows
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+30.2  Unemployment Fluctuations
+
+1) Market-clearing theories of the labour market assume that labour markets
+A) always clear.
+B) are inefficient.
+C) have asymmetrically rigid wages.
+D) should be regulated to produce an efficient wage rate.
+E) will always provide a subsistence wage.
+Answer:  A
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+2) If labour markets had perfectly flexible wages, as the market-clearing theories suggest, involuntary unemployment would
+A) not exist.
+B) rise when the labour demand curve shifts to the left.
+C) rise when the labour demand curve shifts to the right.
+D) rise when the labour supply curve shifts to the left.
+E) rise when the labour supply curve shifts to the right.
+Answer:  A
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+3) What economists sometimes call "voluntary unemployment" occurs when
+A) a job is available but the worker has not yet found it.
+B) the level of real GDP is at or above the economy's potential output.
+C) a person is willing to accept a job at the going wage rate but cannot find one.
+D) a worker enters the job market for the first time.
+E) a worker is not willing to accept an available job at the going wage rate.
+Answer:  E
+Diff: 1
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+4) If, as market-clearing theories of the labour market suggest, all labour markets had perfectly flexible wages, real wages would rise when labour demand 
+A) rises and fall when labour supply rises.
+B) rises and fall when labour supply falls.
+C) falls and rise when labour supply falls.
+D) rises and rise when labour supply rises.
+E) falls and falls when labour supply rises.
+Answer:  A
+Diff: 3
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+5) Market-clearing theories of the labour market suggest that fluctuations in employment and wages can be caused by the supply side of the market through changes in the
+A) price level.
+B) level of net exports in the economy.
+C) marginal efficiency of investment.
+D) willingness of firms to hire workers.
+E) willingness of workers to supply their labour.
+Answer:  E
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+6) Market-clearing theories of the labour market argue that 
+A) competitive labour markets can be relied upon to eliminate all unemployment.
+B) labour markets will clear and involuntary unemployment will thereby be eliminated.
+C) all unemployment is most easily corrected by government intervention in the economy.
+D) all unemployment arises from firms being unwilling to demand labour services.
+E) labour unions are necessary elements in reducing unemployment.
+Answer:  B
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+7) Market-clearing theories of the labour market feature ________ wages, and thus involuntary unemployment ________.
+A) perfectly flexible; exists
+B) sticky; does not exist
+C) sticky; exists
+D) perfectly flexible; does not exist
+Answer:  D
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+8) Which statement by an employer is consistent with the market-clearing theory of unemployment?
+A) "I pay more than the going rate so I can hire good workers."
+B) "I pay only enough to attract workers who are at the bottom of the pay scale."
+C) "I love it when inflation goes up because that drives down my wage costs."
+D) "Workers can always find jobs, if only they lower their expectations."
+E) "Unions have only their current members' interests at heart."
+Answer:  D
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+9) Empirical observation of employment and real-wage fluctuations over the business cycle in Canada and other developed countries
+A) is not able to refute the market-clearing theory of unemployment.
+B) shows that employment is volatile and real wages are not.
+C) shows that real wages are volatile and employment levels are not.
+D) supports the market-clearing theory that there is no involuntary unemployment.
+E) supports the market-clearing theory that labour markets always clear.
+Answer:  B
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+The labour market in the diagram below begins in equilibrium with a real wage of $10 and quantity employed of 1000.
+
+
+
+FIGURE 30-1
+
+10) Refer to Figure 30-1. Given the labour supply and labour demand curves,  and , which of the following statements is true in the market-clearing theory of unemployment?
+A) At any wage above $10, there is an excess demand for labour, and the wage will be driven down.
+B) At any wage above $10, there is an excess supply of labour, and the wage will be driven down.
+C) At any wage above $10, there is persistent, involuntary unemployment.
+D) At any wage below $10, there is an excess supply of labour, and the wage will be driven up.
+E) At any wage below $10, there is an excess demand for labour, and the wage will be driven down.
+Answer:  B
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User1:  Graph
+User2:  Qualitative
+
+11) Refer to Figure 30-1. The economy begins with D0 and S0. Suppose there is a negative shock to the economy, which shifts the demand for labour curve to D1. In the market-clearing theory of unemployment,
+A) wages would be sticky and would adjust downward to, perhaps $9, causing involuntary unemployment of 200 workers.
+B) the wage rate would fall to $8, employment would fall to 800, causing involuntary unemployment of 200 workers.
+C) wages would be sticky and would adjust downward to, perhaps $9, causing involuntary unemployment of 300 workers.
+D) the wage rate would fall to $8, employment would fall to 800 and there would be no unemployment.
+E) all markets would clear, causing the demand for labour curve to shift back to D0 and the wage rate and employment levels would return to their original levels.
+Answer:  D
+Diff: 2
+Topic:  30.2a. market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User1:  Graph
+User2:  Qualitative
+12) Refer to Figure 30-1. The economy begins with D0 and S0. Suppose there is a negative shock to the economy, which shifts the demand for labour curve to D1. An outcome consistent with non-market-clearing theories of unemployment is
+A) the wage rate would fall to $8, employment would fall to 800, causing involuntary unemployment of 200 workers.
+B) wages would be sticky and would adjust downward to, perhaps $9, causing involuntary unemployment of 300 workers at that wage.
+C) the wage rate would fall to $8, employment would fall to 800 and there would be no unemployment.
+D) wages would be sticky and would adjust downward to, perhaps $9, causing involuntary unemployment of 200 workers at that wage.
+E) all markets would clear, causing the demand for labour curve to shift back to D0 and the wage rate and employment levels would return to their original levels.
+Answer:  D
+Diff: 3
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 30-1. The economy begins with D0 and S0. Suppose there is a positive shock to the economy, which shifts the demand for labour curve to D2, and the wage rate rises to $11. The result is
+A) cyclical unemployment of 200 workers.
+B) excess supply of labour of 300 workers.
+C) excess demand for labour of 300 workers.
+D) excess supply of labour of 200 workers.
+E) excess demand for labour of 200 workers.
+Answer:  E
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 30-1. The economy begins with D0 and S0. Suppose there is a positive shock to the economy which shifts the demand for labour curve to D2. Which of the following explains why the wage might rise only to $11 but not enough to clear the market?
+1) Firms may find it costly to make large changes in wages.
+2) Wages are set only infrequently in contracts and are thus slow to respond to changes in demand.
+3) The wage rate is slow to adjust when there are long-term employment relationships.
+A) 1 and 2
+B) 2 and 3
+C) 1, 2, and 3
+D) 2 only
+E) 3 only
+Answer:  C
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User1:  Graph
+User2:  Qualitative
+
+15) A central argument of non-market-clearing theories of unemployment is that 
+A) labour markets will clear and unemployment will thereby be eliminated.
+B) all unemployment is caused by government intervention in the economy.
+C) all unemployment arises from firms being unwilling to hire extra workers.
+D) even competitive labour markets cannot be relied upon to eliminate involuntary unemployment.
+E) monetary policy is rarely effective at reducing unemployment.
+Answer:  D
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+16) What economists call "involuntary unemployment" occurs when
+A) a job is available but the worker has not yet found it.
+B) the level of real GDP is at or above the economy's potential output.
+C) a person is willing to accept a job at the going wage rate but cannot find one.
+D) a person enters the job market for the first time.
+E) a person is not willing to accept an available job at the going wage rate.
+Answer:  C
+Diff: 1
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+17) In non-market-clearing theories of the labour market an important explanation for the existence of involuntary unemployment is that labour markets exhibit
+A) an elastic labour demand curve.
+B) perfectly flexible wages.
+C) rigid or sticky wages.
+D) unshifting labour demand.
+E) unshifting labour supply.
+Answer:  C
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+18) Involuntary unemployment in a labour market is said to exist when the wage is ________ the market-clearing wage, this creating an excess ________ labour.
+A) greater than; demand for
+B) greater than; supply of
+C) equal to; employment of 
+D) less than; supply of
+E) less than; demand for
+Answer:  B
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+19) Non-market-clearing theories of the labour market feature ________ wages, and thus involuntary unemployment ________.
+A) perfectly flexible; cannot exist
+B) perfectly flexible; can exist
+C) sticky; cannot exist
+D) sticky; can exist
+E) efficiency wages; cannot exist
+Answer:  D
+Diff: 1
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+20) Retaining a core group of experienced employees that feels entitled to some degree of job security requires that in a recession firms hold wages ________ the market-clearing level, thus ________ involuntary unemployment.
+A) above; avoiding
+B) above; creating
+C) equal to; avoiding
+D) below; avoiding
+E) below; creating
+Answer:  B
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Applied
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+21) Long-term labour contracts are an important feature of ________ theories of the labour market. In contrast to a world with continuous bargaining of wages and employment, the existence of such contracts leads to a labour market in which involuntary unemployment is ________.
+A) non-market-clearing; possible
+B) non-market-clearing; impossible
+C) market-clearing; possible
+D) market-clearing; impossible
+E) market-clearing; always present
+Answer:  A
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+22) Wage contracts are often set for periods of up to three years. As a result, fluctuations in aggregate demand and aggregate supply tend to
+A) cause changes in the amount of involuntary unemployment.
+B) cause greater inflexibility of wages.
+C) have no effect in labour markets until wages are renegotiated.
+D) clear the labour market.
+E) either increase or decrease the NAIRU.
+Answer:  A
+Diff: 3
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+23) The main difference between market-clearing and non-market-clearing models of the economy is
+A) the long-run path of wages.
+B) the long-run path of employment.
+C) the degree of wage and price flexibility in the short run.
+D) the long-run path of output.
+E) the tendency for output to return to potential in the long run.
+Answer:  C
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+24) The market-clearing and non-market-clearing theories of unemployment both agree that
+A) actual unemployment rates will equal the NAIRU in the long run.
+B) wages and prices are perfectly flexible.
+C) unemployment is always voluntary.
+D) actual output adjusts only gradually to potential output.
+E) wages are rigid and adjust only over the long run.
+Answer:  A
+Diff: 2
+Topic:  30.2b. non-market-clearing theory of unemployment
+Skill:  Recall
+Learning Obj.:  30-2 Describe the difference between market-clearing and non-market-clearing theories of the labour market.
+User2:  Qualitative
+
+25) "Efficiency wages" are said to exist when wages are 
+A) such that cyclical unemployment is zero.
+B) such that the NAIRU is zero.
+C) high enough above market levels that workers increase their productivity.
+D) equal to the market wage.
+E) just high enough to induce a worker to take a job.
+Answer:  C
+Diff: 2
+Topic:  30.2c. Extensions in Theory 30-1
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+26) The theory of "efficiency wages" provides
+A) a way in which firms can pay workers less than the market-clearing wage.
+B) an explanation for the high wages that unions are able to extract from firms.
+C) many firms with a good reason to dismiss workers.
+D) most workers with a good reason to quit.
+E) one explanation for why wages do not readily fall in response to excess supply in labour markets.
+Answer:  E
+Diff: 2
+Topic:  30.2c. Extensions in Theory 30-1
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+27) The theory of "efficiency wages" suggests that a pool of involuntarily unemployed workers
+A) quickly disappears because perfectly-flexible wages eliminates this inefficient waste of resources.
+B) exists only between sessions of wage re-negotiation.
+C) is comprised solely of workers who have failed to meet the productivity standards of potential employers.
+D) is irrelevant to the behaviour of employed workers.
+E) provides an incentive for employees to work hard so they are not laid off.
+Answer:  E
+Diff: 2
+Topic:  30.2c. Extensions in Theory 30-1
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+28) A likely consequence of firms paying "efficiency wages" is
+A) decreased unemployment.
+B) increased unemployment.
+C) lower real wages for employed workers.
+D) more competitive labour markets.
+E) rapid wage adjustment in the face of labour-market changes.
+Answer:  B
+Diff: 2
+Topic:  30.2c. Extensions in Theory 30-1
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+29) Which statement by an employer is consistent with the efficiency wage theory?
+A) "I pay more than the going rate so that my employees work hard."
+B) "I pay only enough to attract workers who are at the bottom of the pay scale."
+C) "I love it when unemployment goes up because that drives down my wage costs."
+D) "Workers can always find jobs, if only they lower their expectations."
+E) "Unions have only their current members' interests at heart."
+Answer:  A
+Diff: 2
+Topic:  30.2c. Extensions in Theory 30-1
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+30.3  What Determines the NAIRU?
+
+1) In macroeconomic theories of national-income determination, short-run changes in real GDP are typically associated with changes in ________ unemployment.
+A) frictional 
+B) structural 
+C) cyclical 
+D) voluntary 
+E) efficiency-wage
+Answer:  C
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+2) When the total number of unfilled job openings in the economy is equal to the total number of persons unemployed, ________ is zero.
+A) cyclical unemployment
+B) frictional unemployment
+C) involuntary unemployment
+D) the NAIRU
+E) structural unemployment
+Answer:  A
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+3) The concept of "full employment" refers to a situation in which there exists
+A) an unemployment rate of less than 5%.
+B) no job vacancies at the time.
+C) only structural and/or frictional unemployment.
+D) only involuntary unemployment.
+E) a measured unemployment rate of zero.
+Answer:  C
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+4) The kind of unemployment that results when actual real GDP is less than potential GDP is known as ________ unemployment.
+A) cyclical
+B) frictional
+C) natural
+D) structural
+E) voluntary
+Answer:  A
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+5) The best description of the cause of "cyclical" unemployment is that
+A) firms engage in race, gender and sex discrimination in their hiring practices.
+B) some individuals do not have marketable skills for the jobs that do exist.
+C) the AD curve shifts to the right.
+D) the level of overall economic activity falls below its potential level.
+E) workers often voluntarily quit a job to look for a better job.
+Answer:  D
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+6) Which of the following statements about frictional unemployment is most accurate?
+A) The only way to reduce it is to shift the AD curve to the left.
+B) The only way to reduce it is to shift the AD curve to the right.
+C) Its source is that unemployed workers and the employers with suitable job vacancies have not yet found each other.
+D) It exists when only there are no jobs for the unemployed people in the economy.
+E) Its source is a mismatch between the needs of employers with job vacancies and the unemployed workers.
+Answer:  C
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+7) Another name for "frictional" unemployment is
+A) economic unemployment.
+B) real-wage unemployment.
+C) recessional unemployment.
+D) search unemployment.
+E) structural unemployment.
+Answer:  D
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+8) An unemployed worker can be identified as being "structurally" unemployed if
+A) minimum wage laws prevent the worker from finding a job.
+B) the worker has a different set of skills than what is desired by firms.
+C) the worker quits a job in order to search for a better one.
+D) the worker wants to work only during certain months of the year.
+E) there is a recession and the worker is laid off.
+Answer:  B
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+9) An unemployed worker can be identified as being "cyclically" unemployed if
+A) minimum wage laws prevent the worker from finding a job.
+B) the worker has a different set of skills than what is desired by firms.
+C) the worker quits a job in order to search for a better one.
+D) the worker wants to work only during certain months of the year.
+E) there is an economic downturn and the worker is laid off.
+Answer:  E
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+10) An unemployed worker can be identified as being "frictionally" unemployed if
+A) minimum wage laws prevent the worker from finding a job.
+B) the worker has a different set of skills than what is desired by firms.
+C) the worker quits a job in order to search for a better one.
+D) the worker wants to work only during certain months of the year.
+E) there is a recession and the worker is laid off.
+Answer:  C
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+11) The normal turnover of workers and the usual time it takes to find a satisfactory job causes ________ unemployment to persist even at potential GDP.
+A) excess
+B) cyclical
+C) frictional
+D) involuntary
+E) structural
+Answer:  C
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Recall
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+12) Technological changes over time caused workers who in the past produced such things as telephone books, video cassettes, or worked as travel agents to become ________ unemployed, at least until they could be re-employed in other industries.
+A) frictionally
+B) cyclically
+C) seasonally
+D) structurally
+E) voluntarily
+Answer:  D
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+13) Other things being equal, a macroeconomic shock that leads to an inflationary output gap results in
+A) a decrease in cyclical unemployment.
+B) a decrease in NAIRU.
+C) an increase in NAIRU.
+D) a decrease in frictional unemployment.
+E) a decrease in structural unemployment.
+Answer:  A
+Diff: 3
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+14) Suppose that in PetroLand the oil fields in the western region suddenly stop producing, causing oil companies to shift activities to their fields in the eastern region. This is bound to cause some ________ unemployment in the western region of the country's economy.
+A) cyclical
+B) efficiency-wage
+C) frictional
+D) structural
+E) voluntary
+Answer:  D
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+15) Other things being equal, when changes in technology cause some industries to decline and other industries to expand the result is 
+A) a decrease in cyclical unemployment.
+B) a decrease in NAIRU.
+C) an increase in NAIRU.
+D) an increase in frictional unemployment.
+E) an increase in structural unemployment.
+Answer:  E
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+16) Other things being equal, improvements in the efficiency of labour markets that make it easier for firms to advertise prospective jobs and which reduce the effort of workers to search for jobs will
+A) decrease cyclical unemployment.
+B) decrease frictional unemployment.
+C) increase frictional unemployment.
+D) increase structural unemployment.
+E) increase NAIRU.
+Answer:  B
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+17) Suppose a free-trade agreement with Central America eliminates all tariffs on imported textiles from those countries. Which type of unemployment will be affected in Canada?
+A) frictional unemployment
+B) structural unemployment
+C) cyclical unemployment
+D) seasonal unemployment
+E) hidden unemployment
+Answer:  B
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+
+18) Suppose there are 2000 unemployed textile workers in Quebec and 2000 vacant positions in Alberta oil production. We say that this unemployment is
+A) cyclical.
+B) hysteresis.
+C) efficient.
+D) structural.
+E) frictional.
+Answer:  D
+Diff: 1
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+19) Suppose the NAIRU in April, 2015 is 7.2%. If the actual unemployment rate is 8.1%, then
+A) there is an inflationary gap.
+B) 0.9 percentage points are due to cyclical factors.
+C) the sum of frictional and structural unemployment is greater than the NAIRU.
+D) the NAIRU has increased by 0.9 percentage points.
+E) cyclical unemployment is 8.1%.
+Answer:  B
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Quantitative
+
+20) Consider Canada's employment insurance (EI) program, which provides benefits to eligible unemployed workers. If the program is designed such that benefits are more generous in regions with higher rates of unemployment, then we can expect that
+A) cyclical unemployment will increase.
+B) frictional unemployment will decrease because workers have more time to find a well-suited job.
+C) the NAIRU will decrease.
+D) labour markets will adapt to changes more quickly as a result.
+E) structural unemployment will increase and the NAIRU will be higher than otherwise.
+Answer:  E
+Diff: 3
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User2:  Qualitative
+The economy in the diagram below begins in long-run equilibrium at E0.
+
+
+
+FIGURE 30-2
+
+21) Refer to Figure 30-2. At E0, the unemployment rate is 5.6%. Therefore,
+1) the NAIRU is 5.6%;
+2) cyclical unemployment is 5.6%;
+3) the economy is at full unemployment.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 2
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User1:  Graph
+User2:  Qualitative
+22) Refer to Figure 30-2. At E0, the unemployment rate is 5.6%. An increase in the price of raw materials shifts the AS curve to AS1 and a new short-run equilibrium is established at E1. At E1, the unemployment rate is 7%. Therefore, other things being equal,
+A) the NAIRU is 7%.
+B) the sum of frictional and structural unemployment is 7%.
+C) cyclical unemployment is 1.4%.
+D) the economy is at full employment.
+E) cyclical unemployment is negative.
+Answer:  C
+Diff: 3
+Topic:  30.3a. frictional, structural and cyclical unemployment
+Skill:  Applied
+Learning Obj.:  30-3 Discuss the causes of frictional and structural unemployment.
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 30-2. Suppose the economy is in a recession at equilibrium E1 that is very long lasting. As a result, many young workers are unable to enter the labour market for the first time and are unable to gain experience. These workers continue to have higher than average unemployment rates when the recession is over, causing the NAIRU to rise. This is an example of
+A) discrimination.
+B) hysteresis.
+C) inflexible labour markets.
+D) demographic unemployment.
+E) voluntary unemployment.
+Answer:  B
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Graph
+User2:  Qualitative
+
+24) Some economists argue that increases in labour-force participation rates by young people and females in the 1970s and 1980s caused
+A) a decrease in frictional unemployment.
+B) a decrease in cyclical unemployment.
+C) a decrease in NAIRU.
+D) an increase in NAIRU.
+E) an increase in cyclical unemployment.
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+25) According to 2015 data, unemployment rates for females are ________ unemployment rates for males for any given age group; and unemployment rates for youths (age 15-24) are ________ unemployment rates for all other age groups.
+A) equal to; higher than
+B) higher than; higher than
+C) lower than; higher than
+D) higher than; lower than
+E) lower than; lower than
+Answer:  C
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+26) Suppose that unemployed workers searching to replace their lost jobs become discouraged and so decide to temporarily give up the search. Such a decision 
+A) increases the NAIRU.
+B) decreases the NAIRU.
+C) increases the official unemployment rate.
+D) decreases the official unemployment rate.
+E) has no effect on the official unemployment rate.
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+27) An increase in the rate of aggregate economic growth usually speeds up the rate of change in the structure of labour demand. As a result, we can expect that structural unemployment will ________, and will therefore cause the NAIRU to ________.
+A) decrease; increase
+B) decrease; decrease
+C) remain constant; remain constant
+D) increase; increase
+E) increase; decrease
+Answer:  D
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+28) In macroeconomic models, the idea that NAIRU can be influenced by the actual rate of unemployment is referred to as
+A) efficiency-wage unemployment.
+B) hysteresis.
+C) the market-clearing theory.
+D) rational expectations.
+E) the Phillips curve.
+Answer:  B
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+29) A good example of an outcome that could lead to "hysteresis" in the labour market is
+A) new entrants to the labour market have a high rate of unemployment due to technological change.
+B) new entrants to the labour market have difficulty finding jobs, and as a result have a higher rate of unemployment throughout their working lives.
+C) unemployment is generated by an increase in the minimum wage.
+D) a negative supply shock persists.
+E) a negative demand shock persists.
+Answer:  B
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+30) A decrease in the share of the labour force that is unionized may ________ the degree of wage flexibility, which would put ________ pressure on NAIRU.
+A) increase; upward
+B) increase; downward
+C) decrease; upward
+D) decrease; downward
+E) have no effect on; no
+Answer:  B
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+31) If there were an increase in the share of the labour force that is unionized, it would likely lead to ________ wage flexibility, which would ________ the NAIRU.
+A) more; increase
+B) more; decrease
+C) less; increase
+D) less; decrease
+E) less; not change 
+Answer:  C
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+32) The NAIRU is likely to be affected by all of the following EXCEPT
+A) a demographic shift.
+B) employment insurance.
+C) globalization.
+D) labour-market flexibility.
+E) recession.
+Answer:  E
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+33) In some European countries, labour-market policies make it very costly for firms to lay off or fire workers. Theory and evidence tells us that
+A) European unemployment is lower because workers are less likely to lose their jobs during an economic downturn.
+B) these policies have no effect on wages or employment in the long run.
+C) the European experience is more consistent with market-clearing theories of unemployment than that of Canada or the United States.
+D) these policies reduce labour-market flexibility and tend to increase unemployment.
+E) cyclical unemployment will always be higher in these European countries than in Canada or the United States.
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+34) Unemployment rates among workers in the 15-24 age group tend to be ________ the overall unemployment rate. An influx of workers of this age group into the labour force would tend to ________ the NAIRU.
+A) higher than; increase
+B) higher than; decrease
+C) lower than; increase
+D) lower than; decrease
+E) the same as; not change
+Answer:  A
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+35) The ongoing process of globalization of the world economy has an effect on the NAIRU in Canada. Choose the statement that best describes the likely effect.
+A) Since globalization has brought net economic benefits to Canada, it follows that the NAIRU must be decreasing.
+B) Canadian labour markets increasingly need to adjust to changing supply and demand conditions around the world. These ongoing adjustments tend to increase the NAIRU.
+C) Because Canada is experiencing greater trade with the rest of the world, the increasing demand for exports puts upward pressure on the demand for labour in Canada and thus tends to decrease the NAIRU.
+D) Canada's labour market is increasingly connected to labour markets in other parts of the world and the NAIRU in Canada tends to adjust to the same levels as those of our trading partners.
+E) Globalization has meant that Canadian labour markets are less exposed to economic fluctuations elsewhere in the world, which has decreased the NAIRU.
+Answer:  B
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+36) As Canada continues to become more integrated with the global economy, and our labour market is increasingly affected by demand and supply conditions elsewhere in the world, we can expect that
+A) all types of unemployment will certainly fall.
+B) all types of unemployment will certainly rise.
+C) government policies to ease the adjustment will have no effect.
+D) the NAIRU will tend to increase.
+E) the NAIRU in affected industries will tend to increase.
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+37) Which of the following statements best explains why unemployment rates in European countries have tended to be higher than unemployment rates in Canada or the United States? (Note: this statement refers not to the current recession in Europe but to a longer-term average.)
+A) European countries have higher-paying jobs than Canada or the U.S., which causes an influx of workers into the labour force, which then increases the unemployment rate.
+B) Workers in European countries have less skills and training than North American workers and therefore have higher rates of unemployment.
+C) European countries have experienced more recessionary gaps than Canada or the U.S. and therefore have significantly higher cyclical unemployment.
+D) Canada and the U.S. have greater labour-market flexibility than European countries.
+E) The Canadian and the U.S. economies are more heavily unionized than European countries.
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+
+38) Unemployment rates in Canada and the United States have been lower than those in Europe for many years. A generally accepted explanation for this trend is that 
+A) unions are more powerful in North America than in Europe.
+B) social programs are more generous in North America than in Europe. 
+C) employment insurance programs are more generous in North America than in Europe. 
+D) firms are more risk averse in North America than in Europe.
+E) labour-market flexibility is greater in North America than in Europe.
+Answer:  E
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Recall
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User2:  Qualitative
+The table below shows real GDP, potential GDP and the unemployment rate for a hypothetical economy.
+
+Year
+Real GDP
+(billions of $)
+Potential GDP
+(billions of $)
+Unemployment Rate
+2007
+424
+425
+6.2
+2008
+429
+429
+6.1
+2009
+435
+433
+5.8
+2010
+435
+436
+6.2
+2011
+438
+440
+6.4
+2012
+442
+442
+6.1
+2013
+440
+446
+7.0
+2014
+449
+450
+6.2
+2015
+457
+453
+5.9
+
+TABLE 30-3
+
+39) Refer to Table 30-3. What is the NAIRU in this economy?
+A) 5.9%
+B) 6.1%
+C) 6.2%
+D) 6.4%
+E) 7.0%
+Answer:  B
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 30-3. In which years is this economy operating at full employment?
+A) 2008 only
+B) 2009 only
+C) 2010 only
+D) 2008 and 2012
+E) 2009 and 2015
+Answer:  D
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Qualitative
+41) Refer to Table 30-3. In which year is the cyclical unemployment equal to 0.3%?
+A) 2011
+B) 2012
+C) 2013
+D) 2014
+E) 2015
+Answer:  A
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Quantitative
+
+42) Refer to Table 30-3. The variations in the unemployment rate between 2007 and 2015 are likely due to variations in
+A) the NAIRU.
+B) frictional unemployment.
+C) structural unemployment.
+D) potential output.
+E) the output gap.
+Answer:  E
+Diff: 2
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Qualitative
+The table below shows the percentage of the labour force accounted for by males and females over a two-decade period.  Assume that real GDP is equal to potential in each of the given years. 
+
+	% of Labour Force
+Year
+Males
+Females
+1960
+75
+25
+1965
+70
+30
+1970
+65
+35
+1975
+60
+40
+1980
+55
+45
+
+TABLE 30-4
+
+43) Refer to Table 30-4. Suppose that for each year listed the unemployment rate among males is 5% while it is 7% among females. What is the economy's NAIRU in 1960?
+A) 5.0%
+B) 5.5%
+C) 5.6%
+D) 5.7%
+E) 5.8%
+Answer:  B
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Quantitative
+
+44) Refer to Table 30-4. Suppose that for each year listed the unemployment rate among males is 5% while it is 7% among females. What is the economy's NAIRU in 1975?
+A) 5.0%
+B) 5.5%
+C) 5.6%
+D) 5.7%
+E) 5.8%
+Answer:  E
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Quantitative
+45) Refer to Table 30-4. Suppose that for each year listed the unemployment rate among males is 5% while it is 7% among females. By how much does this economy's NAIRU change between 1960 and 1975?
+A) it decreases by 1 percentage point
+B) it remains the same
+C) it increases by 0.5 percentage point 
+D) it increases by 0.3 percentage point
+E) it increases by 0.2 percentage point
+Answer:  D
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Quantitative
+
+46) Refer to Table 30-4. Suppose that for each year listed the unemployment rate among males is 5% while it is 7% among females. Which of the following statements correctly describes the change in the NAIRU in this economy between 1960 and 1980?
+A) Since females account for a smaller percentage of the labour force in all years, the NAIRU is decreasing over time.
+B) The NAIRU remains constant between 1960 and 1980 because the unemployment rates for males and females remain constant.
+C) Since females have a higher unemployment rate, the NAIRU increases over time as the female share in the labour force increases.
+D) Since real GDP is equal to potential GDP in all years, cyclical unemployment is equal to zero, and therefore the NAIRU does not change.
+E) Since males have a lower unemployment rate, and they make up a larger percentage of the labour force, the NAIRU is decreasing over time.
+Answer:  C
+Diff: 3
+Topic:  30.3b. the determinants of NAIRU
+Skill:  Applied
+Learning Obj.:  30-4 Explain the various forces that cause the NAIRU to change.
+User1:  Table
+User2:  Qualitative
+
+30.4  Reducing Unemployment
+
+1) Other things being equal, many economists believe that more generous employment-insurance benefits would 
+A) lower frictional unemployment.
+B) lower structural unemployment.
+C) raise structural unemployment.
+D) raise frictional unemployment.
+E) have no effect on unemployment.
+Answer:  D
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Recall
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+2) Many economists believe that the more strict rules for qualifying for employment-insurance benefits that were introduced by the federal government in the early 1990s led to
+A) lower cyclical unemployment.
+B) lower frictional unemployment.
+C) lower structural unemployment.
+D) higher structural unemployment.
+E) higher frictional unemployment.
+Answer:  B
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Recall
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+3) Many economists believe that long-run economic growth is best promoted by ________ structural change, such as with a policy of ________.
+A) resisting; subsidizing failing industries
+B) resisting; retraining and relocation grants
+C) resisting; contractionary monetary policy 
+D) adapting to; assisting retraining and relocation
+E) adapting to; subsidizing failing industries
+Answer:  D
+Diff: 1
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+4) One motivation for having publicly subsidized retraining programs is to 
+A) reduce structural unemployment.
+B) reduce cyclical unemployment.
+C) resist adjustment to technological change.
+D) encourage employment in low-paying jobs.
+E) encourage the use of efficiency wages.
+Answer:  A
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+5) Which of the following would be the most appropriate policy for reducing structural unemployment?
+A) a combination of tax cuts and increased government spending
+B) a decrease in the money supply
+C) an increase in the money supply
+D) increased benefits for workers covered by employment insurance
+E) introduction of programs for the retraining and relocation of labour
+Answer:  E
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+6) Which of the following would be the most appropriate policy for reducing cyclical unemployment?
+A) increased government spending
+B) a decrease in the money supply
+C) increased benefits for workers covered by employment insurance
+D) reduced benefits for workers covered by employment insurance
+E) introduction of programs for the retraining and relocation of labour
+Answer:  A
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+7) Which of the following policies could the government implement to reduce cyclical unemployment?
+A) retraining programs for chronically unemployed people
+B) a national "job bank" listing available jobs throughout the country
+C) relocation allowances to move unemployed people around the country
+D) expansionary monetary policy
+E) contractionary monetary policy
+Answer:  D
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+8) Which of the following policies could the government implement to reduce frictional unemployment?
+A) retraining programs for chronically unemployed people
+B) a national "job bank" listing available jobs throughout the country
+C) relocation allowances to move unemployed people around the country
+D) expansionary monetary policy
+E) contractionary monetary policy
+Answer:  B
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+9) Which of the following best explains why a certain amount of unemployment may be socially desirable?
+A) When some workers become unemployed it provides a chance for others in the labour force to become employed.
+B) Unemployed workers are able to benefit from employment insurance.
+C) The time spent unemployed by the worker is valuable for finding the most appropriate match with firms.
+D) A pool of unemployed workers drives down the average wage in the economy, and keeps workers from becoming greedy.
+E) A pool of unemployed workers provides an incentive to those employed to remain productive.
+Answer:  C
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Recall
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+10) Suppose the Canadian government implements a new program to provide training to unemployed workers. The government is likely trying to reduce
+A) frictional unemployment.
+B) structural unemployment.
+C) cyclical unemployment.
+D) seasonal unemployment.
+E) the gross flow of people out of unemployment.
+Answer:  B
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+11) Theory suggests that frictional unemployment in Canada will decrease if
+A) workers have higher levels of education and training.
+B) labour-market flexibility in Canada decreases.
+C) the benefits received under the employment-insurance system have become less generous.
+D) the labour-force participation rate for men falls.
+E) the labour-force participation rate for women falls.
+Answer:  C
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User2:  Qualitative
+
+The economy in the diagram below begins in long-run equilibrium at E0.
+
+
+
+FIGURE 30-2
+
+12) Refer to Figure 30-2. Suppose the economy is in a short-run equilibrium at E1 after a negative supply shock. How will cyclical unemployment be reduced in the absence of any government policy intervention?
+A) Cyclical unemployment will be reduced when the labour market becomes more flexible and can adjust to the changes in the supply of and demand for labour.
+B) The excess supply of labour at E1 will eventually put downward pressure on wages, and AS will shift back to AS0 and full employment at E0.
+C) Cyclical unemployment will only be reduced when AD grows such that AD shifts up to AD1 and full employment at E2.
+D) A new NAIRU will be established at E1 and cyclical unemployment will drop to zero.
+E) The excess supply of labour at E1 will eventually cause an increase in government purchases and AD will shift up to AD1 and full employment at E2.
+Answer:  B
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 30-2. Suppose the economy is in a short-run equilibrium at  after a negative aggregate supply shock. If the government's policy objective is to reduce unemployment, which of the following policies would be appropriate?
+A) Increase personal income-tax rates.
+B) Provincial governments increase the minimum wage in each province.
+C) The Bank of Canada sells large amounts of securities to Canadian financial institutions.
+D) The Bank of Canada raises the target for the overnight interest rate.
+E) The federal government initiates a cross-country highway infrastructure renewal program.
+Answer:  E
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User1:  Graph
+User2:  Qualitative
+
+14) Refer to Figure 30-2. Suppose the economy is in a short-run equilibrium at E1 after a negative supply shock. Cyclical unemployment at E1 can be reduced by
+A) an expansionary monetary policy that shifts the AD curve to AD1 and a new equilibrium at E2.
+B) reducing government purchases to cause the AD curve to shift to AD1 and a new equilibrium at E2.
+C) increasing taxes to cause the AD curve to shift to AD1 and a new equilibrium at E2.
+D) a contractionary monetary policy that shifts the AS curve back to AS0, returning the economy to equilibrium at E0.
+E) expanding education and training programs for unemployed workers.
+Answer:  A
+Diff: 2
+Topic:  30.4. reducing unemployment
+Skill:  Applied
+Learning Obj.:  30-5 Discuss policies designed to reduce unemployment.
+User1:  Graph
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 45
+Copyright © 2017 Pearson Education, Inc.
+
+
+

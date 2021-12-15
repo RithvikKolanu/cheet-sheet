@@ -1,0 +1,1635 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 29   Inflation and Disinflation
+
+29.1  Adding Inflation to the Model
+
+1) Suppose the Canadian economy is facing an inflationary output gap (Y > Y*). In our macro model, such an output gap can explain changes in which of the following variables?
+A) the average level of wages
+B) the level of wages in the forestry sector relative to the mining sector
+C) the level of wages in a high-growth region of the country relative to a slow-growth region
+D) the level of wages for skilled workers relative to unskilled workers
+E) the level of wages for female workers relative to male workers
+Answer:  A
+Diff: 1
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+2) The term NAIRU stands for the
+A) non-accelerating inflation rate of unemployment.
+B) natural and indexed rate of unemployment.
+C) non-accelerating, indexed and regulated unemployment.
+D) North American indexed rate of unemployment.
+E) North American inflation rate of unemployment.
+Answer:  A
+Diff: 1
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+3) Suppose economists were able to measure frictional unemployment as 3%, cyclical unemployment as 2%, and structural unemployment as 4%. Then we would know that the NAIRU is ________ and the actual unemployment rate is ________.
+A) 6%; 5%
+B) 5%; 9%
+C) 7%; 9%
+D) 7%; 7%
+E) 6%; 6%
+Answer:  C
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+4) Suppose economists were able to measure frictional unemployment as 2%, cyclical unemployment as 0%, and structural unemployment as 3%. Then we would know that the NAIRU is ________ and the actual unemployment rate is ________.
+A) 0%; 5%
+B) 5%; 5%
+C) 0%; 3%
+D) 5%; 0%
+E) 2%; 5%
+Answer:  B
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+User2:  Quantitative
+
+5) In which of the following cases would the actual unemployment rate be less than the NAIRU; that is, U < U*?
+1) frictional unemployment = 2%; structural unemployment = 4%; cyclical unemployment = 4%
+2) frictional unemployment = 3%; structural unemployment = 3%; cyclical unemployment = -2%
+3) frictional unemployment = 2%; structural unemployment = 4%; cyclical unemployment = 0%
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 and 3 only
+E) 1 and 2 only 
+Answer:  B
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+User2:  Quantitative
+
+6) If the unemployment rate is greater than the NAIRU, 
+A) there will be upward pressure on wages.
+B) the AS curve will shift upward.
+C) there is a negative output gap.
+D) real national income is above potential GDP.
+E) there is an inflationary gap.
+Answer:  C
+Diff: 1
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+7) Suppose economists were able to measure frictional unemployment as 3%, cyclical unemployment as 2%, and structural unemployment as 4%. Then we would know that
+A) Y is below Y* and there is downward pressure on wages.
+B) Y is below Y* and there is upward pressure on wages.
+C) Y is equal to Y* and there is no pressure on wages.
+D) Y is above Y* and there is downward pressure on wages.
+E) Y is above Y* and there is upward pressure on wages.
+Answer:  A
+Diff: 3
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+
+8) If the unemployment rate is less than the NAIRU,
+A) there is no pressure on the AS curve to shift.
+B) there is a recessionary output gap.
+C) demand forces will exert upward pressure on wages.
+D) the AS curve will shift downward.
+E) there will be downward pressure on wages.
+Answer:  C
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+9) Inflationary pressures that result from a rightward shift in the AD curve
+A) cause Y to fall below Y*.
+B) will worsen any existing unemployment problem.
+C) will initiate a wage-price spiral.
+D) will eventually subside unless accompanied by continual increases in the money supply.
+E) will permanently increase output.
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+10) Other things being equal, unit costs will rise and the AS curve will shift upward if
+A) there is a fall in the price of oil.
+B) the government reduces payroll taxes.
+C) wage increases exceed productivity increases.
+D) wages rise.
+E) wage and price controls are in effect.
+Answer:  C
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+11) If the NAIRU is 8% and the actual unemployment rate is 5%,
+A) there is no pressure on the AS curve to shift.
+B) there is a recessionary gap.
+C) demand forces put upward pressure on wages.
+D) the AS curve will shift downward.
+E) it will get stuck there permanently.
+Answer:  C
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+12) Suppose the NAIRU for Canada is 6%, the actual unemployment rate is 7%, and productivity is constant. We can conclude that
+A) there is an inflationary gap.
+B) the NAIRU will readjust to 7%.
+C) the AD curve will automatically shift up.
+D) the excess demand for labour will put upward pressure on wages.
+E) the excess supply of labour will put downward pressure on wages.
+Answer:  E
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+13) Suppose the NAIRU for Canada is 6.5%, the actual unemployment rate is 5% and productivity is constant. We can conclude that 
+A) there is a recessionary gap.
+B) the NAIRU will re-adjust to 5%.
+C) the AD curve will automatically shift up.
+D) the excess demand for labour will put upward pressure on wages.
+E) the excess supply of labour will put downward pressure on wages.
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+14) Suppose the NAIRU for Canada is 6.5%, and the actual unemployment rate is 5%. If the Bank of Canada reduces its target for the overnight interest rate, 
+A) it will move real GDP back toward potential GDP.
+B) it will worsen the existing inflationary gap.
+C) it will increase the unemployment rate.
+D) the AD curve will shift to the left.
+E) the AS curve will shift upward.
+Answer:  B
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+15) Which of the following will lead to sustained inflation?
+A) the imposition of a new sales tax
+B) the sudden doubling of a key raw materials price
+C) a new payroll tax that raises firms' unit labour costs
+D) persistent expectations of continued inflation
+E) an early frost that damages the agricultural harvest
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+16) Which of the following would be expected to cause a an increase in the inflation rate rather than a once-and-for-all increase in the price level?
+A) the imposition of a new sales tax
+B) the sudden doubling of a key raw materials price
+C) a new payroll tax that raises unit wage costs
+D) expectations of higher future inflation
+E) an early frost that damages the agricultural harvest
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+17) The reason why inflation can persist even after its original causes have been removed is that
+A) workers expect wage increases to match increases in labour productivity.
+B) workers are willing to accept wage increases lower than the increase in productivity.
+C) the Bank of Canada ensures that money-supply growth matches growth in real GDP.
+D) inflationary expectations cause the AS curve to continue shifting upwards.
+E) governments embark on a deficit-cutting program.
+Answer:  D
+Diff: 3
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+
+18) Increases in nominal wages in the economy are generally the effect of which force(s)?
+A) output-gap effect
+B) expectational effect
+C) supply-shock inflation
+D) output gap effect plus expectational effect
+E) output gap effect plus expectational effect minus supply-shock inflation
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+19) Actual inflation would be 2% when expected future inflation is ________, output-gap inflation is ________, and supply-shock inflation is ________.
+A) 2%; 2%; 2%
+B) 2%; 0%; -2%
+C) 2%; 0%; 0%
+D) 1%; 1%; 1%
+E) 0%; 0%; -2%
+Answer:  C
+Diff: 3
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+
+20) Which of the following is consistent with constant inflation: expected future inflation of ________, output-gap inflation of ________, and supply-shock inflation ________.
+A) 2%; 2%; 2%
+B) 2%; 0%; -2%
+C) 2%; 0%; 0%
+D) 1%; 1%; 1%
+E) 0%; 0%; -2%
+Answer:  C
+Diff: 3
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+
+21) Which of the following statements are correct? The expectational effect of inflation
+1) is nullified as soon as the government promises zero inflation;
+2) often plays a role in accelerating inflation;
+3) is not directly a monetary cause of inflation.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  E
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+22) Suppose the actual rate of inflation in the economy is 5%. If we know that expected inflation is 2%, and that output-gap inflation is 1%, then we also know that
+A) the NAIRU is 5%.
+B) money wages must be rising by 5%.
+C) non-wage supply-shock inflation must equal 2%.
+D) expected inflation is rising by 2%.
+E) the actual rate of inflation is falling.
+Answer:  C
+Diff: 3
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+
+23) Assume your salary is $2000 per month and the expectation is that over the next twelve months inflation will be 6%. In order to prevent a drop in your real salary over the year, your employer would have to agree to change your nominal salary by
+A) - 12%.
+B) - 6%.
+C) 0.
+D) + 6%.
+E) + 12%.
+Answer:  D
+Diff: 2
+Topic:  29.1a. output gaps and inflation
+Skill:  Applied
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Quantitative
+
+24) In the basic AD/AS macro model, actual inflation is the sum of three separate components. They are
+A) accelerated inflation, expected inflation and output gap inflation.
+B) validated inflation, expected inflation, and output gap inflation.
+C) output gap inflation, wage-push inflation and demand inflation.
+D) output gap inflation, expected inflation and supply-shock inflation.
+E) accelerated inflation, demand inflation and supply inflation.
+Answer:  D
+Diff: 1
+Topic:  29.1a. output gaps and inflation
+Skill:  Recall
+Learning Obj.:  29-1 Understand why wages tend to change in response to both output gaps and inflation expectations.
+User2:  Qualitative
+25) Assume your salary is $2000 per month and your employer gives you a raise of 6%. Over the next twelve months the inflation rate is 12%. Your real salary will change by
+A) +12%.
+B) + 6%.
+C) 0%.
+D) - 6%.
+E) - 12%.
+Answer:  D
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Quantitative
+
+26) Consider the AD/AS model with a constant rate of inflation. In this case, 
+A) there is no effective set of monetary policy tools to reduce inflation.
+B) there is a tendency for the price of bonds to be increasing rapidly.
+C) the AS curve is shifting upward because of inflation expectations.
+D) expected inflation tends to be significantly less than actual inflation.
+E) the AD curve is not shifting at all.
+Answer:  C
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Recall
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+
+27) When a central bank attempts to stop a constant inflation, it tries to remove the inflationary gap by
+A) shifting the AS curve upward.
+B) shifting the AS curve downward.
+C) increasing the rightward shift of the AD curve.
+D) stopping the rightward shift of the AD curve.
+E) taking no action and allowing the market to correct itself.
+Answer:  D
+Diff: 3
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+28) A major reason why it is so difficult to eliminate a constant inflation is that inflationary expectations
+A) make it impossible to stop the rightward shift of the AD curve.
+B) make it impossible to reduce aggregate expenditure.
+C) keep shifting the AS curve upward.
+D) keep shifting the AS curve downward.
+E) cannot be influenced by monetary policy.
+Answer:  C
+Diff: 3
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Recall
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+
+29) A constant inflation in the AD/AS macro model is only possible when 
+A) AS shifts upward at a uniform rate and AD shifts downwards at a uniform rate.
+B) AS shifts downward at a uniform rate and AD shifts upwards at a uniform rate.
+C) AD shifts upwards at a uniform rate and AS shifts upwards at the same uniform rate.
+D) AD shifts upwards at a uniform rate and AS shifts upwards at a higher uniform rate.
+E) None of the above - constant inflation is not possible.
+Answer:  C
+Diff: 3
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Recall
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+
+30) A constant inflation rate can be illustrated by the AD curve shifting upward
+A) with no shifts in aggregate supply.
+B) at the same rate as aggregate supply shifts upward.
+C) at the same rate as aggregate supply shifts downward.
+D) faster than aggregate supply shifts upward.
+E) faster than aggregate supply shifts downward.
+Answer:  B
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Recall
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+31) Consider an economy without any supply shocks. If the expected inflation rate is 3% and the actual inflation rate is also 3%, then it is probably true that
+A) real GDP equals potential GDP.
+B) real GDP is less than potential GDP.
+C) real GDP is more than potential GDP.
+D) we can deduce nothing about the level of GDP.
+E) the economy cannot be in a short-run equilibrium.
+Answer:  A
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+
+32) Canada's actual rate of inflation is fairly constant around the 2% level. We can conclude that
+A) real GDP must be below potential GDP because we also have positive unemployment.
+B) real GDP must be above potential GDP.
+C) the Bank of Canada is accommodating this level of inflation with increases in the money supply.
+D) the expectations about inflation are consistently wrong.
+E) the economy is consistently experiencing an inflationary gap.
+Answer:  C
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+
+33) Consider the AD/AS model with a constant rate of inflation. In this situation, the money supply is rising, which tends to reduce interest rates. However, interest rates are actually likely to remain stable. Why?
+A) Because the money transmission mechanism does not apply in a situation of sustained inflation.
+B) Because the rising price level is decreasing the demand for money which is pushing interest rates up.
+C) Because the declining interest rates cause the investment demand curve to shift to the right, which causes interest rates to rise. 
+D) Because the rising price level is increasing the demand for money which tends to push interest rates up.
+E) Because the declining interest rates cause the investment demand curve to shift to the left, which causes interest rates to rise. 
+Answer:  D
+Diff: 3
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User2:  Qualitative
+Consider the AD/AS model below with a constant rate of inflation. No exogenous AD or AS shocks are occurring.
+
+
+
+FIGURE 29-1
+
+34) Refer to Figure 29-1. Assume there are no demand or supply shocks present in this analysis. What explains the movement of the AS curve from  to  to  and so on?
+A) unit costs are rising due to excess demand for labour
+B) expectations of inflation are causing wage costs to rise continually
+C) unit costs are rising because real wages are rising faster than nominal wages
+D) expectations of inflation are causing a perpetual inflationary output gap
+E) the AS curve shifts up as potential GDP (Y*) is continuously rising
+Answer:  B
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User1:  Graph
+User2:  Qualitative
+35) Refer to Figure 29-1. What explains the movement of the AD curve from  to  to  and so on?
+A) increasing nominal wages cause desired consumption to increase, shifting the AD curve to the right
+B) desired investment is increasing, shifting the AD curve to the right
+C) the central bank is attempting to reduce inflation by removing monetary validation
+D) the process of disinflation
+E) the central bank is increasing the money supply and validating the inflationary expectations
+Answer:  E
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User1:  Graph
+User2:  Qualitative
+
+36) Refer to Figure 29-1. Which of the following statements about this AD/AS diagram is true?
+A) expected inflation exceeds actual inflation
+B) actual inflation exceeds expected inflation
+C) actual inflation equals expected inflation
+D) actual inflation equals output gap inflation
+E) expected inflation equals output gap inflation
+Answer:  C
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User1:  Graph
+User2:  Qualitative
+
+37) Refer to Figure 29-1. A constant rate of inflation of 3% is portrayed in an AD/AS diagram like this one as 
+A) an annual shift upward of the AD curve by 3%.
+B) an annual shift upward of the AS curve by 3%.
+C) an annual increase in the inflation rate of 3%.
+D) an annual increase in the equilibrium price level of 3%.
+E) Not applicable. The diagram shows the price level, not the inflation rate.
+Answer:  D
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User1:  Graph
+User2:  Quantitative
+38) Refer to Figure 29-1. Suppose the constant rate of inflation is 3%. In this case,
+A) equilibrium GDP and the price level are each increasing at a constant rate of 3% per year.
+B) the AS curve is shifting upward by 3% per year and the AD curve remains stationary.
+C) the AD curve is shifting upward by 3% per year and the AS curve remains stationary.
+D) an annual shift upward of each of the AS and AD curves by 1.5% leads to a constant rate of inflation of 3%.
+E) an annual shift upward of the AS curve by 3% is matched by an annual shift upward of the AD curve by 3%.
+Answer:  E
+Diff: 2
+Topic:  29.1b. constant inflation in the AD/AS model
+Skill:  Applied
+Learning Obj.:  29-2 Describe how a constant rate of inflation can be incorporated into the basic macroeconomic model.
+User1:  Graph
+User2:  Quantitative
+
+29.2  Shocks and Policy Responses
+
+1) Assuming that the economy is currently in a long-run equilibrium at Y*, a subsequent negative aggregate demand shock with no change in the money supply will eventually result in
+A) no change in the price level.
+B) an ongoing inflation in the economy.
+C) a lower price level and GDP below potential output.
+D) a higher price level and GDP at potential GDP.
+E) a lower price level and GDP at its potential level.
+Answer:  E
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+2) A rightward shift in the AD curve accompanied by a leftward shift of the AS curve will result in 
+A) an increase the price level and an uncertain effect on unemployment.
+B) a reduction in the price level and an uncertain effect on unemployment.
+C) an increase in unemployment and an uncertain effect on the price level.
+D) a reduction in unemployment and an uncertain effect on the price level.
+E) a reduction in both unemployment and the price level.
+Answer:  A
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+3) A leftward shift in the AD curve accompanied by a leftward shift of the AS curve will 
+A) increase the price level but have an uncertain effect on GDP.
+B) reduce the price level but have an uncertain effect on GDP.
+C) increase GDP but have an uncertain effect on the price level.
+D) reduce GDP but have an uncertain effect on the price level.
+E) increase both GDP and the price level.
+Answer:  D
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+4) A leftward shift of the AD curve accompanied by a rightward shift of the AS curve will 
+A) increase unemployment but have an uncertain effect on the price level.
+B) reduce unemployment but have an uncertain effect on the price level.
+C) increase the price level but have an uncertain effect on unemployment.
+D) reduce the price level but have an uncertain effect on unemployment.
+E) increase both the price level and unemployment.
+Answer:  D
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+5) A rightward shift of the AD curve accompanied by a rightward shift of the AS curve will 
+A) increase GDP but have an uncertain effect on the price level.
+B) reduce GDP but have an uncertain effect on the price level.
+C) increase the price level but have an uncertain effect on GDP.
+D) reduce the price level but have an uncertain effect on GDP.
+E) reduce both the price level and GDP.
+Answer:  A
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Recall
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+6) If the central bank responds to repeated negative supply shocks with monetary validations, the economy will be faced with
+A) a one-time increase in prices.
+B) a one-time decrease in prices.
+C) alternating periods of inflation and deflation.
+D) steady reductions in real output.
+E) continuous inflation.
+Answer:  E
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Recall
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+7) Suppose the economy is currently in long-run equilibrium with real GDP equal to potential GDP. A positive demand shock, that is not validated by the Bank of Canada, will eventually result in
+A) no change in the price level.
+B) an ongoing inflation in the economy.
+C) a lower price level and real GDP below potential output.
+D) a higher price level and GDP at potential output. 
+E) an ongoing deflation in the economy.
+Answer:  D
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+8) Suppose there is an inflationary gap and the Bank of Canada does not respond in any way to change its monetary policy. This scenario will lead to
+A) an increase in wages and an upward shift of the AS curve.
+B) a wage-price spiral.
+C) a permanent decrease in output.
+D) the emergence of a recessionary gap.
+E) reduced transactions demand for money, an increase in the price of bonds, and a lower rate of interest.
+Answer:  A
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+9) Suppose there is a recessionary gap and the Bank of Canada holds the money supply constant. This scenario will eventually lead to
+A) an increase in wages and an upward shift of the AS curve.
+B) a reduction in wages and a downward shift of the AS curve.
+C) a permanent decrease in output.
+D) the emergence of an inflationary gap.
+E) increased transactions demand for money, and a higher rate of interest.
+Answer:  B
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+10) Beginning from a position of long-run equilibrium, an expansionary monetary policy by the Bank of Canada causes
+A) aggregate demand for goods and services to exceed potential output.
+B) aggregate demand for goods and services to fall short of potential output.
+C) an increase in most market interest rates.
+D) a fall in the general price level.
+E) an increase in the level of potential output.
+Answer:  A
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+11) Beginning from a position of long-run equilibrium, a contractionary monetary policy by the Bank of Canada causes
+A) aggregate demand for goods and services to exceed potential output.
+B) potential output to exceed aggregate demand for goods and services.				
+C) a fall in most market interest rates.
+D) an increase in the general price level.
+E) an increase in potential output.
+Answer:  B
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+12) Assume that an economy is currently in long-run equilibrium at its potential output and that it is subjected to a positive demand shock. When the economy moves back to producing its potential level of national income, the price level will be
+A) equal to what it was originally before the demand shock.
+B) lower than it was in short-run equilibrium and the lower than it was originally. 
+C) lower than it was in the short-run equilibrium but higher than it was originally.
+D) higher than it was in the short-run equilibrium but lower than it was originally.
+E) higher than it was in the short-run equilibrium and even higher than it was originally.
+Answer:  E
+Diff: 3
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+13) Assuming that the economy is currently in a long-run equilibrium with real GDP equal to Y*, a positive AD shock (with no change in the money supply) will eventually result in
+A) no change in the price level.
+B) an ongoing inflation in the economy.
+C) a lower price level and GDP below its potential level.
+D) a higher price level and GDP at its potential level.
+E) a lower price level and GDP at its potential level.
+Answer:  D
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Recall
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+14) For the economy of Ontario, which is a major oil user and importer, an increase in the world price of oil would be considered
+A) monetary validation.
+B) a negative demand shock.
+C) demand inflation.
+D) a negative supply shock.
+E) an adjustment process.
+Answer:  D
+Diff: 1
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+15) For the economy of Alberta, a major oil exporter, an increase in the world price of oil would be mostly 
+A) supply inflation.
+B) a negative demand shock.
+C) a negative supply shock.
+D) a positive demand shock.
+E) a positive supply shock.
+Answer:  D
+Diff: 3
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+16) For the economy of Canada, a major oil user and exporter, a decrease in the world price of oil would be considered 
+A) a negative demand and a negative supply shock.
+B) both a negative demand shock and a positive supply shock.
+C) both a positive demand shock and a negative supply shock.
+D) a negative demand shock only.
+E) a negative supply shock only.
+Answer:  B
+Diff: 3
+Topic:  29.2a. demand and supply shocks
+Skill:  Applied
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+17) At the end of the 1970s, the inflation rate in Canada had exceeded 10%. This high inflation was due mainly to
+A) external pressures on the Canadian dollar.
+B) steadily decreasing factor prices.
+C) steadily decreasing factor prices and a contractionary monetary policy.
+D) a substantial negative supply shock that was partly validated by monetary policy.
+E) the extremely high wage increases being won by strong labour unions.
+Answer:  D
+Diff: 2
+Topic:  29.2a. demand and supply shocks
+Skill:  Recall
+Learning Obj.:  29-3 Explain how AD and AS shocks affect inflation and real GDP.
+User2:  Qualitative
+
+18) Suppose the economy is operating at full employment. A permanent rightward shift in the AD curve will cause inflationary pressures that will
+A) cause Y to fall below Y*.
+B) worsen any existing unemployment problem.
+C) initiate a wage-price spiral.
+D) eventually subside unless accompanied by expansionary monetary policy.
+E) permanently increase output.
+Answer:  D
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+19) The first OPEC oil-price shock in 1973 caused the AS curves in all industrialized countries to shift upward. The Bank of Canada validated this negative supply shock with an increase in the money supply, whereas in the United States such monetary validation did not take place. The predictable result was that
+A) both countries experienced large increases in price levels and almost no recession.
+B) Canada experienced a large increase in its price level but almost no recession, and the U.S. experienced a smaller increase in its price level but a significant recession.
+C) Canada experienced a one-time price increase and the U.S. experienced persistent inflation.
+D) the U.S. experienced a large increase in its price level but almost no recession, and Canada experienced a smaller increase in its price level but a severe recession.
+E) both countries experienced small increases in price levels and severe recessions.
+Answer:  B
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+
+FIGURE 29-2
+
+20) Refer to Figure 29-2. The movement of the economy from E0 to E1 was likely caused by a 
+A) positive demand shock associated with increased investment.
+B) negative demand shock due to government cut-backs.
+C) negative supply shock due to a rise in input prices.
+D) positive supply shock induced by developments of new technology.
+E) positive supply shock caused by lower nominal wages.
+Answer:  A
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+
+21) Refer to Figure 29-2. The movement of the economy from E1 to E2 was likely caused by 
+A) an increase in the price level.
+B) a positive supply shock induced by new technology.
+C) a negative demand shock due to government cut-backs.
+D) a negative supply shock due to a rise in input prices.
+E) the monetary validation of an initial demand shock by the central bank, combined with ongoing inflation expectations.
+Answer:  E
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+22) Refer to Figure 29-2. Suppose the economy has moved from E0 to E1. If there is then no monetary validation, the adjustment process will lead to a new equilibrium at
+A) E0.
+B) E1.
+C) E2.
+D) E3.
+E) E4.
+Answer:  D
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 29-2. Suppose an inflationary gap has opened and the economy is at E1. Which of the following statements best describes the movement of the economy from E1 to E2?
+A) The inflationary gap puts upward pressure on factor prices and AS shifts upward. Simultaneously, the Bank of Canada validates the demand shock, thus shifting the AD curve further to the right. 
+B) The inflationary gap puts upward pressure on factor prices and AS shifts upward. Simultaneously, the Bank of Canada implements a contractionary monetary policy, shifting the AD curve to the left. 
+C) The inflationary gap causes an increase in the expectations of the future inflation. As a result, the AS curve shifts upward and the AD curve shifts to the right.
+D) The inflationary gap generates excess demand for labour, which causes the AD curve to shift to the right. The adjustment process then shifts the AS curve upward. 
+E) The economy's adjustment process causes the economy to move from E1 to E2.
+Answer:  A
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+
+
+FIGURE 29-3
+
+24) Refer to Figure 29-3. The movement of the economy from E0 to E1 was likely caused by 
+A) a positive demand shock due to an increase in investment.
+B) a positive supply shock caused by improved productivity.
+C) a negative demand shock caused by fall in consumption.
+D) a negative supply shock caused by higher input prices.
+E) an increase in the price level.
+Answer:  D
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+25) Refer to Figure 29-3. The movement of the economy from E1 to E2 was likely caused by 
+A) a negative demand shock associated with a reduction in net exports.
+B) a positive supply shock caused by improved productivity.
+C) a monetary expansion by the Bank of Canada.
+D) an increase in the price level.
+E) a negative demand shock combined with a positive supply shock.
+Answer:  C
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 29-3. Suppose the economy is at E1 and that there is no policy response by the Bank of Canada to this recessionary gap. Compared to the price level and real GDP at , the economy will tend towards a new long-run equilibrium characterized by a(n)
+A) lower price level and GDP below the potential level.
+B) higher price level and GDP below the potential level.
+C) unchanged price level and GDP at the potential level.
+D) lower price level and GDP at the potential level.
+E) higher price level and GDP above the potential level.
+Answer:  D
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User1:  Graph
+User2:  Qualitative
+
+27) Suppose the economy is at full employment and the AS curve shifts upward due to a once-and-for-all increase in the price of oil. If the central bank does not respond to this shock, 
+A) prices will rise and stay at the higher level with no further inflation.
+B) a recessionary gap will be created, which will eventually cause the AS curve to shift back downward.
+C) aggregate demand will shift up and cause further inflation.
+D) an inflationary gap will be created, which will cause the AS curve to shift upward again.
+E) a recessionary gap will be created and will cause a permanent reduction in employment.
+Answer:  B
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+28) If the central bank responds to a single negative supply shock with monetary validation, we can expect an increase in
+A) the money supply but a decrease in costs and prices.
+B) costs but a decrease in real national income.
+C) the size of the output gap.
+D) costs, the price level, and the money supply.
+E) the price level and unemployment.
+Answer:  D
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+29) Suppose the AS curve is continuously shifting upward due to expectations of future inflation. If there is repeated monetary validation of this supply shock,
+A) unemployment will continue to rise.
+B) the supply shocks will reverse themselves.
+C) workers will have higher real wages.
+D) there will be ongoing inflation.
+E) there will be a once-and-for-all rise in the price level.
+Answer:  D
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+30) Economists use the term "monetary validation" to refer to 
+A) the money supply being increased in response to a demand shock.
+B) the Bank of Canada having a credible policy of zero inflation.
+C) the money supply being increased in response to a supply or a demand shock that raises the price level.
+D) people who hold smaller money balances at higher rates of interest.
+E) money supply increases which have been approved by Parliament.
+Answer:  C
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+31) The act of "monetary validation" by a central bank can 
+A) cause a supply shock.
+B) perpetuate inflation.
+C) act to reduce inflation.
+D) increase unemployment.
+E) no longer be carried out by the Bank of Canada.
+Answer:  B
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+32) A central bank might decide to "validate" a negative supply shock because
+A) there is no other way to return the economy to full employment.
+B) the economy might suffer a long slump before wages and prices fall enough to restore full employment.
+C) central banks tend to pay little heed to inflation.
+D) it is an effective means of preventing inflation. 
+E) there are no negative effects from this policy action.
+Answer:  B
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+33) Isolated negative aggregate supply shocks, in the absence of monetary validation, will
+A) eventually be self-correcting as wages slowly fall.
+B) never be self-correcting without government policy to expand the money supply.
+C) be self-correcting only if the aggregate demand curve shifts.
+D) result in a permanent output gap.
+E) have no short-run or long-run effects.
+Answer:  A
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+34) There can be strong pressure on the Bank of Canada to validate a large negative supply shock. The motive behind this pressure is
+A) to reduce unemployment below the NAIRU.
+B) that the Bank of Canada must be seen to be pursuing a restrictive monetary policy, in order to stop any expectational inflation.
+C) that wages often fall only very slowly, so the adjustment back to full employment can take a very long time.
+D) that there is the danger of initiating a wage-price spiral.
+E) to keep a "healthy" amount of inflation in the economy.
+Answer:  C
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+35) If the economy is faced with continued negative supply shocks, such as annual wage increases for unionized workers, and there is no monetary validation, we can expect
+A) an inflationary gap.
+B) a one-time rise in the price level.
+C) rising unemployment until the wage increases cease, or are offset by other wage decreases.
+D) a shrinking output gap.
+E) peace in labour-management relations.
+Answer:  C
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+36) If the Bank of Canada validates a positive AD shock,
+A) it will have eliminated the possibility of a continued inflation.
+B) there is the risk of continued inflation.
+C) wages will fall to reduce the resulting unemployment.
+D) output will fall more rapidly than if the shock had not been validated.
+E) the AD curve will shift to the left and inflation will stop.
+Answer:  B
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+37) Suppose that an increase in world oil prices leads to an increase in Canadian aggregate demand but no change in Canadian aggregate supply. The short-term effect on the Canadian price level would be called
+A) monetary validation.
+B) a monetary transmission.
+C) demand inflation.
+D) a supply shock.
+E) an adjustment process.
+Answer:  C
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+38) Suppose that an increase in world oil prices leads to greater demand for Canadian oil exports. If the Bank of Canada reduces the overnight interest rate in response to this increase in AD, this is called
+A) monetary validation.
+B) a demand shock.
+C) demand inflation.
+D) a supply shock.
+E) an adjustment process.
+Answer:  A
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+39) "Supply inflation" refers to
+A) inflation arising from a leftward shift of the AS curve that is not the result of excess demand for factors of production.
+B) inflation arising from a shortage of labour.
+C) the increase in the price level that occurs when the excess demand for inputs pushes up input costs.
+D) the increase in the price level that occurs when there is excess supply of factors of production.
+E) any increase in the price level that results from an upward shift of the AD curve.
+Answer:  A
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+40) "Demand inflation" refers to
+A) the inflation that results from a decrease in net exports.
+B) any inflation that is originally caused by a rightward shift of the AD curve but is maintained at a constant level by monetary validation.
+C) any inflation that is originally caused by a rightward shift of the AD curve but is accelerating due to monetary validation.
+D) only the inflation that results from an expansionary monetary policy.
+E) the inflation that results from any inflationary gap caused by a rightward shift of the AD curve.
+Answer:  E
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+41) Suppose the Canadian economy is booming due to rising net exports and there is political pressure to maintain the "good times." If the Bank of Canada does so by implementing an expansionary monetary policy, it would
+A) cause a temporary drop in inflation.
+B) decrease the actual inflation rate.
+C) cause a permanent recessionary gap.
+D) be acting to de-stabilize the economy.
+E) decrease employment.
+Answer:  D
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+42) An inflation that begins as a result of any demand or supply shock will eventually come to a halt
+A) if there is no monetary validation.
+B) in the long run.
+C) in the short run.
+D) independent of the economy's adjustment process.
+E) if expected inflation is positive but constant.
+Answer:  A
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+43) Suppose the economy is in a long-run equilibrium. The AS curve now shifts upward due to a one-time increase in the price of raw materials. If the central bank validates this supply shock, 
+A) an inflationary gap will be created with further inflation.
+B) an inflationary gap will be created, which will cause the AS curve to shift upward again.
+C) the aggregate demand curve will shift up and result in a higher price level.
+D) a recessionary gap will be created, which eventually causes the AS curve to shift downward.
+E) a recessionary gap will be created and will cause a permanent reduction of employment.
+Answer:  C
+Diff: 3
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+44) The reason that some economists advise central banks to never validate a negative supply shock is
+A) because the economy's adjustment process is ineffective.
+B) the monetary validation causes downward pressure on wages.
+C) the monetary validation results in a higher level of unemployment.
+D) that there are no short-run effects on any real variables, and so it is not worthwhile.
+E) to avoid the possibility of entrenching expectations and creating a wage-price spiral.
+Answer:  E
+Diff: 2
+Topic:  29.2b. monetary validation of shocks
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+45) The acceleration hypothesis states that
+A) when the central bank holds an inflationary gap constant, inflation will tend to accelerate.
+B) if an economy is growing, inflation will grow at an ever-increasing rate.
+C) capital investment is the primary cause of inflation.
+D) monetary validation causes inflation.
+E) if a recessionary gap is not closed, unemployment will tend to accelerate.
+Answer:  A
+Diff: 2
+Topic:  29.2c. accelerating inflation
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+46) If the central bank uses monetary policy to attempt to hold real GDP (Y) permanently above potential GDP (Y*),
+A) inflation can be kept at a low, constant rate.
+B) inflation is not a problem, but unemployment is.
+C) inflation will accelerate over time.
+D) it will fail.
+E) the AD curve will shift leftward to cure the inflation problem.
+Answer:  C
+Diff: 2
+Topic:  29.2c. accelerating inflation
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+47) Suppose we know the following information about a hypothetical economy:
+	- real GDP = $550 billion
+	- potential GDP = $500 billion
+	- inflation rate = 4%
+If the central bank tries to keep real GDP constant at $550 billion, the inflation rate is likely to 
+A) remain constant at 4%.
+B) fall below 4%.
+C) rise above 4%.
+D) cause stagflation.
+E) cause a recession.
+Answer:  C
+Diff: 2
+Topic:  29.2c. accelerating inflation
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Quantitative
+
+48) Suppose we know the following information about a hypothetical economy:
+	- real GDP = $945 billion
+	- potential GDP = $900 billion
+	- inflation rate = 3%
+If the central bank conducts monetary policy in an attempt to keep the unemployment rate below the NAIRU, the inflation rate is likely to 
+A) cause stagflation.
+B) cause a recession.
+C) remain constant at 3%.
+D) fall below 3%.
+E) rise above 3%.
+Answer:  E
+Diff: 3
+Topic:  29.2c. accelerating inflation
+Skill:  Applied
+User2:  Quantitative
+49) Suppose we know the following information about a hypothetical economy:
+	- actual unemployment rate = 6%
+	- NAIRU = 8%
+	- inflation rate = 4%
+If the central bank tries to maintain the current output gap, we can expect the inflation rate to
+A) remain constant at 4%.
+B) fall below 4%.
+C) rise above 4%.
+D) cause stagflation.
+E) cause a recession.
+Answer:  C
+Diff: 3
+Topic:  29.2c. accelerating inflation
+Skill:  Applied
+User2:  Quantitative
+
+50) According to the "acceleration hypothesis," the inflation rate will accelerate when actual output is held
+A) at the NAIRU.
+B) at the level where unemployment is at the natural rate.
+C) below potential output.
+D) at potential output.
+E) above potential output. 
+Answer:  E
+Diff: 2
+Topic:  29.2c. accelerating inflation
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+51) The Bank of Canada has formally adopted an inflation target of 2%. One important reason for this is
+A) the supply-shock inflation will never exceed this amount.
+B) to avoid the temptation of validating positive economic shocks that could lead to accelerating inflation.
+C) that output-gap inflation will never exceed this amount.
+D) to allow for a permanent inflationary gap which is beneficial to the economy.
+E) that economists have determined that only an inflation rate of 2% is consistent with NAIRU.
+Answer:  B
+Diff: 2
+Topic:  29.2c. accelerating inflation
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+52) It is often said that inflation is a "monetary phenomenon." The most accurate interpretation of this phrase is that
+A) the price level cannot rise without an increase in the money supply.
+B) a continuous rise in prices is possible only with continuing increases in the money supply.
+C) only an increase in the money supply can start a period of inflation.
+D) repeated supply shocks cannot drive up prices if there is no monetary validation.
+E) increases in the price level are always associated with increases in the money supply.
+Answer:  B
+Diff: 3
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+53) The view that sustained inflation is possible only with continuous monetary validation is now widely accepted but was made famous by and is still closely associated with
+A) John Maynard Keynes.
+B) Adam Smith.
+C) David Ricardo.
+D) Milton Friedman.
+E) James Tobin.
+Answer:  D
+Diff: 2
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+54) The statement that "inflation is everywhere and always a monetary phenomenon" is closely associated with 
+A) John Maynard Keynes.
+B) Milton Friedman.
+C) John Crow.
+D) David Dodge.
+E) Adam Smith.
+Answer:  B
+Diff: 2
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+55)  Consider the statement "Inflation is everywhere and always a monetary phenomenon." This statement does not hold true
+A) as long as demand and supply shocks are validated by expansionary monetary policy.
+B) if the economy's adjustment process is working effectively.
+C) for temporary bursts of inflation that are not accompanied by a monetary expansion.
+D) as long as the AD curve is shifting to the right at the same rate as the AS curve is shifting to the left.
+E) in industrialized economies.
+Answer:  C
+Diff: 2
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Applied
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+56) The Phillips curve originally appeared to demonstrate a trade-off between inflation and unemployment. This was later thought to be deficient because
+A) it was later recognized that inflation and unemployment were unrelated.
+B) the influence on aggregate demand had not been incorporated.
+C) changes in unemployment had not been incorporated.
+D) the effects of fiscal policy on aggregate demand had not been incorporated.
+E) inflationary expectations had not been incorporated.
+Answer:  E
+Diff: 3
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+
+57) The idea that, in the long run, the Phillips curve is vertical, implying no trade-off between inflation and unemployment, is based on the premise that
+A) inflation and unemployment are unrelated.
+B) expectations do not adjust to reflect actual inflation.
+C) changes in unemployment do not influence real GDP.
+D) inflationary expectations fully adjust to actual inflation.
+E) inflationary expectations do not influence inflation.
+Answer:  D
+Diff: 3
+Topic:  29.2d. inflation as a monetary phenomenon
+Skill:  Recall
+Learning Obj.:  29-4 Explain what happens when the Bank of Canada validates demand and supply shocks.
+User2:  Qualitative
+29.3  Reducing Inflation
+
+The three figures below show the phases of a disinflation. In part (i), the economy is experiencing a sustained inflation at E1.
+
+
+	FIGURE 29-4
+
+1) Refer to Figure 29-4, part (i). The elimination of the inflationary gap would normally be initiated by
+A) workers accepting a reduction in their wage growth.
+B) an increase in the productivity of workers.
+C) the Bank of Canada engaging in an expansionary monetary policy.
+D) the Bank of Canada stopping the ongoing monetary expansion.
+E) the government engaging in tax cuts and increasing transfer payments.
+Answer:  D
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+2) Refer to Figure 29-4, part (ii). The upward shift of the AS curve in Phase 2 is normally caused by
+A) workers accepting a reduction in their wages.
+B) an increase in the productivity of workers.
+C) the Bank of Canada engaging in an expansionary monetary policy.
+D) an increase in the unemployment rate.
+E) inflationary expectations that cause wages to continue rising.
+Answer:  E
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+
+3) Refer to Figure 29-4, part (iii). The movement of the economy from E3 to E4 in Phase 3 is often caused by 
+A) workers accepting a reduction in their wages.
+B) an increase in the productivity of workers.
+C) the Bank of Canada implementing an expansionary monetary policy.
+D) an increase in the unemployment rate.
+E) inflationary expectations that cause wages to continue rising.
+Answer:  C
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+
+4) Refer to Figure 29-4, part (ii). If the AS curve continues to drift upward during Phase 2 of the disinflation process, the economy will experience
+A) falling unemployment and rising output.
+B) falling real wages and factor prices and falling unemployment.
+C) rising real wages and factor prices and rising employment.
+D) rising unemployment and falling output.
+E) a falling price level and falling output.
+Answer:  D
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+5) Refer to Figure 29-4, part (ii), Phase 2 of the disinflation process. The upward drift of the AS curve will generally continue longer, with rising unemployment and falling output, when 
+A) real wages and other factor prices are falling.
+B) the price level is falling as a result of the disinflation.
+C) firms and consumers regard the central bank's disinflation policy as highly credible.
+D) the central bank pursues a contractionary monetary policy even more severe than they had announced.
+E) firms and consumers do not regard the central bank's disinflation policy as credible.
+Answer:  E
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+
+6) Refer to Figure 29-4, part (iii). Consider the recovery phase of the disinflation process when output is returning from  to Y*. Real GDP can return to potential either by ________, or by ________.
+A) the AS curve falling slowly back to ; further monetary contraction which shifts the AD curve to 
+B) the AS curve falling slowly back to ; a monetary expansion which shifts the AD curve to 
+C) fiscal policy which causes the AS curve to shift back to ; a monetary expansion which shifts the AD curve to 
+D) legislating a wage-and-price freeze which shifts the AS curve back to ; a further contraction of monetary policy which shifts the AD curve to 
+E) the AS curve drifting upward to ; the AD curve drifting back to 
+Answer:  B
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+7) Refer to Figure 29-4, part (iii). Consider the recovery phase of the disinflation process. The disadvantage of implementing an expansionary monetary policy to shift equilibrium from  to  is 
+A) the likelihood of entering a deflationary phase.
+B) that since expected inflation has been eliminated, real wages will not adjust to any further AD or AS shocks.
+C) a falling price level.
+D) firms and consumers will no longer respond to decreases in interest rates.
+E) the danger of reviving expected inflation, and having to repeat the phases of the disinflation.
+Answer:  E
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+
+8) Refer to Figure 29-4, part (ii) or (iii). A movement of the economy from E3 to E2 could be due to 
+A) a slow fall in wages due to the recessionary gap.
+B) an expansionary monetary policy.
+C) a contractionary monetary policy.
+D) a rise in unit costs caused by falling wages.
+E) a positive aggregate demand shock.
+Answer:  A
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User1:  Graph
+User2:  Qualitative
+
+9) A contractionary monetary policy that has been imposed to reduce inflation will most likely
+A) have no effect on the short-run level of GDP and unemployment.
+B) not control inflation, since money supply changes have little or no effect on the price level.
+C) produce long-lasting unemployment if wages adjust rapidly.
+D) lead to a recession that is long and severe, under any circumstances.
+E) lead to a recession which will be short if inflation expectations adjust rapidly and accurately.
+Answer:  E
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+10) It is difficult for the Bank of Canada to remove a sustained inflation without producing stagflation because inflationary expectations cause the
+A) AD curve to shift too far to the right.
+B) AD curve to shift too far to the left.
+C) AS curve to continue shifting upward.
+D) AS curve to continue shifting downward.
+E) AD curve to continue shifting to the right.
+Answer:  C
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+
+11) The reason why stagflation can occur when the Bank of Canada attempts to remove a sustained inflation is that inflationary expectations cause the
+A) AD curve to shift too far to the right.
+B) AD curve to shift too far to the left.
+C) AS curve to continue shifting downward.
+D) AS curve to continue shifting upward.
+E) AD curve to continue shifting to the right.
+Answer:  D
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+
+12) One of the results of the restrictive monetary policy adopted by the Bank of Canada in the early 1980s was that 
+A) inflation fell dramatically and real GDP remained at full employment levels.
+B) inflation fell dramatically, but was accompanied by a major recession.
+C) inflation remained over 10%, but the Bank of Canada avoided a major recession.
+D) inflation remained over 10% and there was a major recession.
+E) unemployment fell, but inflation accelerated due to higher interest rates.
+Answer:  B
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Recall
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+13) Of the three phases of a disinflation, the first phase consists of the central bank
+A) pursuing an expansionary monetary policy. 
+B) directing its monetary policy to achieve a stable exchange rate. 
+C) slowing the rate of monetary expansion.
+D) directing its monetary policy to reduce the unemployment rate.
+E) directing its monetary policy to reduce the overnight interest rate.
+Answer:  C
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Recall
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+
+14) Of the three phases involved in the elimination of a sustained inflation in Canada, the second phase is characterized by 
+A) the Bank of Canada pursuing an expansionary monetary policy. 
+B) stagflation with falling output and continuing inflation.
+C) the Bank of Canada increasing the rate of monetary expansion.
+D) aggregate output being returned to potential output.
+E) increased inflation with rising output and falling unemployment.
+Answer:  B
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Recall
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+
+15) If a central bank is to successfully end a sustained inflation, it is essential that it
+A) avoid any loss in national income.
+B) do so using a "cold-turkey" approach.
+C) change people's expectations of future inflation.
+D) maintain the sacrifice ratio at a constant level.
+E) avoid any increase in unemployment.
+Answer:  C
+Diff: 2
+Topic:  29.3a. phases of disinflation
+Skill:  Recall
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+
+16) The process of disinflation can involve some period of increased inflation and reduced output. Economists refer to this as
+A) the sacrifice period.
+B) monetary validation.
+C) the recovery phase.
+D) an inflationary recession.
+E) stagflation.
+Answer:  E
+Diff: 1
+Topic:  29.3a. phases of disinflation
+Skill:  Recall
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Qualitative
+17) Suppose we know the following information about a hypothetical economy:
+	-real GDP = $485 billion
+	-potential GDP = $500 billion
+	-inflation rate = 4%
+	-target overnight interest rate = 6%
+If the central bank implements a contractionary monetary policy in an effort to reduce the inflation rate, the short-run effect of this policy is likely to be that
+A) unemployment will rise further beyond the NAIRU.
+B) unemployment will fall below NAIRU.
+C) the interest rate and the inflation rate will both rise and unemployment will fall.
+D) the interest rate and the inflation rate will both fall and unemployment will rise.
+E) all real variables will remain unchanged.
+Answer:  A
+Diff: 3
+Topic:  29.3a. phases of disinflation
+Skill:  Applied
+Learning Obj.:  29-5 Understand the three phases of a disinflation.
+User2:  Quantitative
+
+18) A measure that has been developed to analyze the amount of output that must be given up in order to reduce the inflation rate by one percentage point is called the
+A) misery index.
+B) Phillips measure.
+C) credibility index.
+D) output gap.
+E) sacrifice ratio.
+Answer:  E
+Diff: 1
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+19) The sacrifice ratio is a measure of the
+A) number of people unemployed due to disinflation.
+B) loss of real GDP associated with inflation.
+C) the crowding out of investment due to increases in government purchases.
+D) unemployment associated with a recessionary gap.
+E) cumulative loss in real GDP due to a disinflation.
+Answer:  E
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+20) The sacrifice ratio is calculated by
+A) dividing the number unemployed by the labour force.
+B) dividing the number employed by the labour force.
+C) dividing the cumulative loss of real GDP (as a percentage of potential GDP) due to disinflation by the number of percentage points by which inflation fell.
+D) dividing the cumulative loss of potential GDP (as a percentage of actual GDP) due to disinflation by the number of percentage points by which inflation fell.
+E) adding the cumulative loss of real GDP (as a percentage of potential GDP) due to disinflation to the number of percentage points by which unemployment exceeds the NAIRU.
+Answer:  C
+Diff: 3
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+21) In general, the sacrifice ratio will be greater, the
+A) shorter it takes to revise inflationary expectations downwards.
+B) shorter it takes to revise inflationary expectations upwards.
+C) longer it takes to revise inflationary expectations upwards.
+D) longer it takes to revise inflationary expectations downwards.
+E) lower is the rate of unemployment.
+Answer:  D
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Applied
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+22) In general, the sacrifice ratio will be smaller, the
+A) shorter it takes to revise inflationary expectations downwards.
+B) shorter it takes to revise inflationary expectations upwards.
+C) longer it takes to revise inflationary expectations upwards.
+D) longer it takes to revise inflationary expectations downwards.
+E) sacrifice ratio will be the same always.
+Answer:  A
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Applied
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+23) Suppose the current inflation rate is 4% and the Bank of Canada wants to reduce it to 2%, knowing that the sacrifice ratio is 2. Apparently, the Bank of Canada is prepared to accept a decline of real GDP of ________ as the cost of disinflation.
+A) 1% of potential output
+B) 0.5% of potential output
+C) 2% of potential output
+D) 4% of potential output
+E) 8% of potential output
+Answer:  D
+Diff: 3
+Topic:  29.3b. the sacrifice ratio
+Skill:  Applied
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Quantitative
+
+24) The sacrifice ratio reflects the cost of ________ as measured by the ________.
+A) disinflation; loss in economic activity
+B) inflationary expectations; change in the rate of inflation
+C) supply shocks; change in the price level
+D) validation; change in inflationary expectations
+E) the Phillips curve; change in the NAIRU
+Answer:  A
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+25) Suppose policymakers are faced with ending a sustained inflation. They must weigh the future benefits of ________ against the immediate costs of ________.
+A) lower inflation; administering the policy
+B) a higher rate of economic growth; reduced output
+C) lower rate of economic growth; lower inflation
+D) lower inflation; reduced output and higher unemployment
+E) a higher real GDP; lower inflation
+Answer:  D
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+26) Consider an economy that is in the process of a disinflation. Suppose that over a 2-year period, the rate of inflation is reduced from 6% to 1%. Over this same time, the cumulative loss in real GDP is $30 billion. Potential GDP is $600 billion. What is the sacrifice ratio?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+Answer:  A
+Diff: 3
+Topic:  29.3b. the sacrifice ratio
+Skill:  Applied
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Quantitative
+
+27)  Consider an economy that is in the process of a disinflation. If the sacrifice ratio is 3, then
+A) unemployment increases by 3% for every 1% reduction in inflation.
+B) it costs 3% of GDP to reduce inflation by 1 percentage point.
+C) the cumulative loss of output in the economy will reach a total of 3%.
+D) the costs of disinflation are 3 times the benefits of disinflation.
+E) unemployment increases by 3% during the period of disinflation
+Answer:  B
+Diff: 3
+Topic:  29.3b. the sacrifice ratio
+Skill:  Applied
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+28) Consider the process of disinflation. Typical estimates for the sacrifice ratio for many developed economies suggest that reducing inflation by 1 percentage point "costs" the economy between ________% of real GDP.
+A) 0 and 1
+B) 2 and 4
+C) 4 and 6
+D) 5 and 10
+E) 10 and 12
+Answer:  B
+Diff: 2
+Topic:  29.3b. the sacrifice ratio
+Skill:  Recall
+Learning Obj.:  29-6 Explain how the cost of disinflation can be measured by the sacrifice ratio.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 43
+Copyright © 2017 Pearson Education, Inc.
+
+
+

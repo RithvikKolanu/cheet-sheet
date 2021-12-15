@@ -1,0 +1,1619 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 18   Taxation and Public Expenditure
+
+18.1  Taxation in Canada
+
+1) A tax that takes a higher percentage of income as income rises is called a(n)
+A) proportional tax.
+B) regressive tax.
+C) progressive tax.
+D) excise tax.
+E) value-added tax.
+Answer:  C
+Diff: 1
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+2) The sometimes proposed "flat tax," such as one that takes 15% of income at all levels of income, is an example of a(n)
+A) proportional tax.
+B) regressive tax.
+C) progressive tax.
+D) excise tax.
+E) value-added tax.
+Answer:  A
+Diff: 1
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+3) Which of the following statements suggests that property taxes might be progressive?
+A) The proportion of income spent on housing tends to decline as income rises.
+B) Higher-income people live in more expensive houses than do low-income people.
+C) A large part of the property tax is shifted to renters, who typically have lower incomes than owners.
+D) Inner city neighbourhoods often have higher property taxes than do the more affluent suburbs.
+E) Elderly pensioners often live in their family homes after children have left. 
+Answer:  B
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+4) A mandatory health-insurance premium of a given amount payable by all residents is an example of a(n)
+A) proportional tax.
+B) regressive tax.
+C) progressive tax.
+D) value-added tax.
+E) invisible tax.
+Answer:  B
+Diff: 1
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+5) An income tax is progressive if, as income increases,
+A) its average tax rate is increasing.
+B) its marginal tax rate is falling.
+C) its average tax rate is falling, but total taxes are increasing.
+D) its average tax rate and marginal tax rate are constant while income is increasing.
+E) its average tax rate is falling, but the marginal tax rate is increasing.
+Answer:  A
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+6) A tax that takes a smaller percentage of income as the income increases is called
+A) a regressive tax.
+B) a progressive tax.
+C) a proportional tax.
+D) an efficient tax.
+E) an excise tax.
+Answer:  A
+Diff: 1
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+7) Which of the following is required to achieve progressivity for a particular tax?
+A) a marginal tax rate equal to the average tax rate (implying that the average tax rate is rising with income)
+B) a marginal tax rate equal to the average tax rate (implying that the average tax rate is falling with income)
+C) an average tax rate above the marginal tax rate (implying that the average tax rate is falling with income)
+D) a marginal tax rate above the average tax rate (implying that the average tax rate is rising with income)
+E) a constant tax rate for all incomes
+Answer:  D
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+8) Consider an income-tax system that requires all individuals to pay exactly 3% of their income. This income-tax system is
+A) proportional.
+B) progressive, because the higher the individual's income, the greater the amount of tax paid.
+C) regressive, since 3% is harder to pay for a low-income taxpayer.
+D) fair, since everyone pays the same amount.
+E) a lump-sum system, sometimes called a poll tax.
+Answer:  A
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+9) Suppose taxes are levied in the following way. No individual pays any taxes on the first $10 000 of their income. And for every dollar earned above this amount, all individuals pay 20% in taxes. This income-tax system is 
+A) regressive.
+B) progressive.
+C) indexed.
+D) proportional.
+E) an accurate description of the Canadian system.
+Answer:  B
+Diff: 3
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+10) Suppose taxes are levied in the following way. All individuals pay a tax equal to $2000 no matter what income they earn. In addition, all individuals pay 20% of all their earned income in taxes. This income-tax system is 
+A) regressive.
+B) progressive.
+C) indexed.
+D) proportional.
+E) an accurate description of the Canadian system.
+Answer:  A
+Diff: 3
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+
+11) If a tax system contains some important taxes that are regressive, substantial progressivity in other taxes would be required in order to achieve
+A) proportionality in the overall tax system.
+B) a negative income tax.
+C) a flat-rate tax.
+D) equity in the overall tax system.
+E) efficiency in the overall tax system.
+Answer:  A
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+12) Suppose an income tax is levied in the following way: All individuals pay 10% of their income up to an income of $30 000. On all income above $30 000, individuals pay 20% of their income. Such a tax is
+A) regressive.
+B) progressive.
+C) indexed.
+D) proportional.
+E) unrealistic.
+Answer:  B
+Diff: 3
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+13) A marginal tax rate of 47% on taxable income over $150 000 implies that
+A) an individual with this taxable income would pay $70 000 in income tax.
+B) the average tax rate is also 47%.
+C) the income tax payable on any dollar earned above $150 000 is 47 cents.
+D) the tax system is progressive.
+E) the tax system is horizontally equitable.
+Answer:  C
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+
+14) An example of a regressive tax in Canada is
+A) any one of the provincial sales taxes.
+B) the federal income tax.
+C) the corporate income tax.
+D) the provincial income taxes.
+E) the typical property taxes in Canadian cities and towns.
+Answer:  A
+Diff: 1
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+15) Some important taxes are regressive, such as provincial sales taxes. In an effort to achieve proportionality in the overall tax system it is therefore necessary to impose
+A) substantial progressivity in income taxes.
+B) a negative income tax.
+C) a flat-rate tax.
+D) consumption taxation.
+E) efficiency in the tax system.
+Answer:  A
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+FIGURE 18-1
+
+16) Refer to Figure 18-1. A regressive tax is illustrated by curve(s)
+A) A and B.
+B) B and C.
+C) C and D.
+D) A only.
+E) C only.
+Answer:  C
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+
+17) Refer to Figure 18-1. A progressive tax is illustrated by curve(s)
+A) A and B.
+B) B and C.
+C) C and D.
+D) A only.
+E) C only.
+Answer:  D
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+18) Refer to Figure 18-1. A proportional tax is illustrated by curve(s)
+A) A and B.
+B) B and C.
+C) C and D.
+D) B only.
+E) D only.
+Answer:  D
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+
+19) Refer to Figure 18-1. A lump-sum tax is illustrated by curve(s)
+A) A and B.
+B) B and C.
+C) C and D.
+D) B only.
+E) D only.
+Answer:  E
+Diff: 2
+Topic:  18.1a. progressive/regressive/proportional/lump-sum taxes
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+
+20) Tax and other revenues collected by all levels of government amounted to approximately what proportion of Canada's Gross Domestic Product (GDP) in 2014?
+A) 8%
+B) 18%
+C) 28%
+D) 38%
+E) 48%
+Answer:  D
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+21) As a proportion of Gross Domestic Product (GDP), Canadian governments' tax revenues, as compared to other industrialized countries, are 
+A) the very lowest.
+B) among the lowest.
+C) roughly in the middle of the group.
+D) among the highest.
+E) the very highest.
+Answer:  C
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+22) In Canada, taxes are levied and collected by
+A) the federal government only.
+B) the provincial governments only.
+C) local governments only.
+D) federal and provincial governments only.
+E) all levels of government.
+Answer:  E
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+23) The tax that generates the greatest proportion of government revenue in Canada is
+A) the income tax.
+B) the goods and services tax.
+C) the property tax.
+D) the provincial sales tax.
+E) the payroll tax.
+Answer:  A
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+24) In 2015, the federal income-tax rate was graduated in ________ steps, with the top rate applying to incomes above approximately ________.
+A) eight; $40 000
+B) eight; $120 000
+C) three; $81 000
+D) three; $100 000
+E) four; $138 000
+Answer:  E
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+The table below shows 2015 federal income-tax rates in Canada.
+
+Taxable Income
+Marginal Tax Rate
+$0 - $44 701
+15%
+$44 702 - $89 401
+22%
+$89 402 - $138 586
+26%
+$138 587 and over
+29%
+
+TABLE 18-1
+
+25) Refer to Table 18-1. If an individual had a taxable income of $70 000, how much federal tax would be due? 
+A) $6004
+B) $6406
+C) $10 500
+D) $12 271
+E) $15 400
+Answer:  D
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+
+26) Refer to Table 18-1. If an individual had a taxable income of $120 000, how much federal tax would be due from the portion of earnings taxed at the maximum rate of 29%? 
+A) $0
+B) $1817
+C) $8003
+D) $23 621
+E) $34 800
+Answer:  A
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+27) Refer to Table 18-1. If an individual had a taxable income of $120 000, how much federal tax would be due from the earnings taxed at the minimum rate of 15%? 
+A) $0
+B) $6705
+C) $8003
+D) $18 000
+E) $34 800
+Answer:  B
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+
+28) Refer to Table 18-1. If an individual had a taxable income of $120 000, how much federal tax would be due from the earnings taxed at the rate of 22%?
+A) $1629
+B) $17 004
+C) $9834
+D) $26 400
+E) $28 020
+Answer:  C
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 18-1. If an individual had a taxable income of $120 000, how much federal tax would be due from the earnings taxed at the rate of 26%?
+A) $497
+B) $5639
+C) $8960
+D) $7955
+E) $31 200
+Answer:  D
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+30) Refer to Table 18-1. If an individual had a taxable income of $120 000, how much total federal tax would be due? 
+A) $6109
+B) $8959
+C) $31 200
+D) $24 494
+E) $28 020
+Answer:  D
+Diff: 3
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+
+31) Refer to Table 18-1. If an individual had a taxable income of $138 586, how much total federal tax would be due?
+A) $497
+B) $5639
+C) $24 794
+D) $29 327
+E) $36 032
+Answer:  D
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Table
+User2:  Quantitative
+
+32) From the perspective of individuals, the goods and services tax (GST) applies to 
+A) additional income earned.
+B) expenditure rather than income.
+C) profits for self-employed individuals.
+D) saving rather than expenditure.
+E) total taxable income.
+Answer:  B
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+33) The goods and services tax (GST) in Canada is an example of a(n)
+A) proportional tax.
+B) invisible tax.
+C) progressive tax.
+D) excise tax.
+E) value-added tax.
+Answer:  E
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+34) The most important source of revenue for the Canadian federal government is ________ taxes; the most important source of revenue for Canadian municipal governments is ________ taxes.
+A) income; excise
+B) property; payroll
+C) corporate; sales
+D) sales; property
+E) income; property
+Answer:  E
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+35) Suppose a firm buys $1000 worth of inputs from other firms, hires $1000 worth of labour services, and has sales revenue of $2500. The firm's resulting profit is $500. According to a value-added tax such as the GST, this firm would pay taxes on
+A) $500.
+B) $1000.
+C) $1500.
+D) $2500.
+E) $4500.
+Answer:  C
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+36) Suppose a firm buys $3000 worth of inputs from other firms, hires $2000 worth of labour services, and has sales revenue of $7500. The firm's resulting profit is $2500. If the GST (a value-added tax) rate is 5%, this firm will pay ________ in GST. 
+A) $0 
+B) $125
+C) $225
+D) $375
+E) $2500
+Answer:  C
+Diff: 3
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Quantitative
+
+37) The Canadian federal income tax is progressive because it has
+A) marginal and average rates that rise and are equal at most levels of income.
+B) marginal rates that are higher than average rates at most levels of income.
+C) average rates that rise but marginal rates that are constant at most levels of income.
+D) marginal rates that are lower than average rates at most levels of income.
+E) average and marginal rates that are constant at most levels of income.
+Answer:  B
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+38) In Canada, the corporate income tax is integrated with the ________, so that ________ are not taxed twice on the firm's earnings.
+A) sales tax; consumers
+B) property tax; corporations
+C) personal income tax; corporations
+D) sales tax; shareholders
+E) income tax; shareholders
+Answer:  E
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+39) The federal corporate income tax in Canada is
+A) a proportional tax on profits.
+B) a progressive tax on revenues.
+C) a proportional tax on revenues.
+D) a flat tax on revenues.
+E) a progressive tax on profits.
+Answer:  A
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+40) The various provincial sales taxes are mildly regressive because
+A) richer households spend more in total and therefore pay more sales tax.
+B) poorer households tend to spend a larger proportion of their incomes than richer households.
+C) they are indirect taxes.
+D) they are value added taxes.
+E) richer households can avoid paying sales taxes while poorer households cannot.
+Answer:  B
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+41) Interest earnings from accumulated savings are subject to personal income tax in Canada. As a result,
+A) total national saving is higher than it otherwise would be.
+B) there will be more capital accumulated for the economy.
+C) the interest paid on savings accounts increases.
+D) individuals have a reduced incentive to save.
+E) taxes applied to this income are regressive.
+Answer:  D
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+
+42) The Goods and Service Tax (GST) taxes
+A) the retail value of all goods.
+B) the value of a firm's inputs in its production process.
+C) each firm's contribution to the value of final output.
+D) the total value of a firm's output.
+E) the total value of a good at each step of the production process.
+Answer:  C
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User2:  Qualitative
+The figure below show a simplified version of the current (2015) Canadian federal income-tax system. The marginal income-tax rates for the four ranges of income are 15%, 22%, 26%, and 29%, respectively.
+
+
+
+FIGURE 18-2
+
+43) Refer to Figure 18-2. An individual with a taxable income of $39 500 will pay ________ in income taxes. 
+A) $0
+B) $6122 
+C) $5925
+D) $6109
+E) $8690 
+Answer:  C
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Quantitative
+44) Refer to Figure 18-2. An individual with a taxable income of $98 125 will pay $________ in income taxes. 
+A) 15 209 
+B) 18 807
+C) 22 513
+D) 25 513
+E) 28 456 
+Answer:  B
+Diff: 3
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Quantitative
+
+45) Refer to Figure 18-2. This income-tax system can be characterized as 
+A) cumbersome. 
+B) fair. 
+C) progressive. 
+D) regressive. 
+E) proportional. 
+Answer:  C
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+
+46) Refer to Figure 18-2. What must be true of the four marginal income-tax rates in order for the tax to be considered a "flat" tax? 
+A) they need to be zero 
+B) they need to be the same 
+C) they need to be constant 
+D) they need to gradually level out 
+E) they need to be smaller 
+Answer:  B
+Diff: 2
+Topic:  18.1b. the Canadian tax system
+Skill:  Applied
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+47) Refer to Figure 18-2. What needs to be true about the four marginal income-tax rates in order for this tax system to be considered regressive? 
+A) they need to be smaller than they are now 
+B) they need to be larger than they are now 
+C) they need to be constant 
+D) they need to decrease as income increases 
+E) they need to increase as income increases 
+Answer:  D
+Diff: 1
+Topic:  18.1b. the Canadian tax system
+Skill:  Recall
+Learning Obj.:  18-1 Describe the main taxes in use in Canada.
+User1:  Graph
+User2:  Qualitative
+
+18.2  Evaluating the Tax System
+
+1) When assessing a tax system, "vertical equity" refers to 
+A) equity within a given income group.
+B) equity across income groups.
+C) equity between corporate entities.
+D) unequal treatment of persons with unequal incomes.
+E) equity across different periods of time.
+Answer:  B
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+2) The concept of vertical equity is derived from
+A) the benefit principle.
+B) the ability-to-pay principle.
+C) fiscal federalism.
+D) the proportionality of the income-tax system.
+E) the understanding that taxes generate distortions in the economy.
+Answer:  B
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+3) If there were "horizontal equity" between all households in Canada, then 
+A) households of the same size would share the same tax burden.
+B) individuals in the same age group would share the same tax burden.
+C) households with identical abilities to pay would bear the same tax burden.
+D) there would be equity between different income classes.
+E) all households would pay the same percentage of income as tax.
+Answer:  C
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+4) Consider the concept of equity in taxation. What is the "benefit principle"?
+A) the main principle on which all tax systems are based
+B) the main principle on which the Canadian tax system is based
+C) the principle that users of public goods are taxed in proportion to their use of them
+D) the principle that users of public goods are taxed in proportion to their ability to pay
+E) the main principle on which horizontal equity is based
+Answer:  C
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+5) If one was concerned only with satisfying the "benefit principle," the ideal tax would be a(n)
+A) income tax.
+B) surcharge tax.
+C) sales tax.
+D) user charge.
+E) proportional income tax.
+Answer:  D
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+6) Which of the following is an example of a tax that is designed according to the "benefit principle"?
+A) a metered water tax
+B) school tax (based on property value)
+C) a provincial sales tax
+D) value-added tax
+E) federal income tax
+Answer:  A
+Diff: 2
+Topic:  18.2a. taxation and equity
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+7) Suppose a Canadian Member of Parliament suggests that people with higher incomes should pay more in taxes. This refers to the concept of
+A) equality of outcomes.
+B) horizontal equity.
+C) vertical equity.
+D) proportionality.
+E) the benefit principle.
+Answer:  C
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+8) Suppose a Canadian Member of Parliament suggests that people with the same total income and ability to pay should pay the same taxes, no matter the source of their income. This refers to the concept of
+A) equality of outcomes.
+B) horizontal equity.
+C) vertical equity.
+D) proportionality.
+E) the benefit principle.
+Answer:  B
+Diff: 1
+Topic:  18.2a. taxation and equity
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+9) Consider two families, each of whom earn total income of $80 000, but that are different in many other respects, such as the number of individuals to support. If each family is assessed income tax payable of $14 749, then it is very likely that the principle of ________ is being violated.
+A) progressivity
+B) horizontal equity
+C) vertical equity
+D) ability to pay
+E) proportionality
+Answer:  B
+Diff: 2
+Topic:  18.2a. taxation and equity
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+10) The direct burden of a tax is
+A) directly proportional to average income.
+B) always progressive.
+C) always regressive.
+D) a tax-deductible expense for the person who pays the tax.
+E) the total revenue collected by the tax.
+Answer:  E
+Diff: 1
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+11) The excess burden of a tax
+A) is the incidence of a tax.
+B) is the deadweight loss created by the tax.
+C) increases economic efficiency by eliminating distortions in the economy.
+D) is always progressive.
+E) is always regressive.
+Answer:  B
+Diff: 1
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+12) The two main competing goals in the design of a tax system are
+A) efficiency and productivity.
+B) efficiency and equity.
+C) efficiency and the elimination of distortions.
+D) applying the direct and excess burden of taxes evenly.
+E) growth and productivity.
+Answer:  B
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+13) An important objective in designing a tax system is to
+A) design a system that minimizes inefficiency for a given amount of revenue raised.
+B) design a system that raises the revenue required for the government's debt-service obligations.
+C) raise the maximum possible revenue.
+D) not intervene in the market economy because this only causes inefficiencies.
+E) eliminate all deadweight loss.
+Answer:  A
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+FIGURE 18-3
+
+14) Refer to Figure 18-3. Suppose that supply is perfectly elastic and the price of this good is initially P1. If an excise tax raises the price from P1 to P4, the excess burden of the tax is
+A) the area P3AP4.
+B) the area P1Cq10.
+C) the area P1CP4.
+D) the area BFC.
+E) impossible to calculate from the given information.
+Answer:  C
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 18-3. Suppose that supply is perfectly elastic and the price of this good is initially P1. If an excise tax raises the price from P1 to P2, the excess burden of the tax is area 
+A) P3AP4.
+B) P2BP3.
+C) P1CBP2.
+D) BFC.
+E) P1FBP2.
+Answer:  D
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+16) Refer to Figure 18-3. Suppose that supply is perfectly elastic and the price of this good is initially P3. If an excise tax raises the price from P3 to P4, the direct burden of the tax is
+A) the area P3AP4.
+B) the area P2BP3.
+C) the area P1CP4.
+D) the area BFC.
+E) zero.
+Answer:  E
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+17) Refer to Figure 18-3. Suppose that supply is perfectly elastic and the price of this good is initially P3. If an excise tax raises the price from P3 to P4, the excess burden of the tax is
+A) the area P3AP4.
+B) the area P2BP3.
+C) the area P1CP4.
+D) the area BFC.
+E) zero.
+Answer:  A
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+18) Refer to Figure 18-3. Suppose that supply is perfectly elastic and the price of this good is initially P1. If an excise tax raises the price from P1 to P2, the direct burden of the tax is
+A) the area DEFB.
+B) the area P1FBP2.
+C) the area P1CBP4.
+D) the area BFC.
+E) zero.
+Answer:  B
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows supply and demand diagrams (S and D) for some product. The government then imposes an excise tax.  The new supply curve is . 
+
+
+FIGURE 18-4
+
+19) Refer to Figure 18-4. What is the producers' revenue before the imposition of the tax?
+A) $450
+B) $500
+C) $540
+D) $600
+E) $630
+Answer:  D
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+
+20) Refer to Figure 18-4. What is the producers' net revenue after the imposition of the tax?
+A) $450
+B) $500
+C) $540
+D) $600
+E) $630
+Answer:  A
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+21) Refer to Figure 18-4. What is the value of the tax imposed on this product, in dollars per unit?
+A) $1
+B) $2
+C) $3
+D) $4
+E) $5
+Answer:  B
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+
+22) Refer to Figure 18-4. What is the dollar value of the direct burden of this tax?
+A) -$30
+B) $30
+C) $90
+D) $180
+E) $450
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+
+23) Refer to Figure 18-4. What is the dollar value of the excess burden of this tax? 
+A) $1
+B) $2
+C) $5
+D) $10
+E) $40
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+24) A Laffer curve 
+A) relates the marginal tax rate to the average tax rate.
+B) relates the government's total income-tax revenue to the average rate across all taxes.
+C) relates the government's sales-tax yield to the marginal tax rate.
+D) shows that, for any tax, tax revenues reach a maximum at some tax rate below 100%.
+E) shows that tax revenues reach a maximum when the marginal tax rate is zero.
+Answer:  D
+Diff: 1
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+25) Which of the following best describes the policy implications of a Laffer curve?
+A) Policymakers should eliminate tax deductions and maximize revenue at any given tax rate.
+B) Policymakers should eliminate tax loopholes and maximize revenue at any given tax rate.
+C) Policymakers should carefully consider whether a given increase in tax rates would increase or decrease tax revenues.
+D) Policymakers should avoid imposing taxes on income as they decrease the work incentive.
+E) Policymakers should set the tax rate as low as possible to maximize tax revenue.
+Answer:  C
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+26) Consider a monopolist that is earning profits in the long run. If the government imposes a lump-sum tax on this monopolist (that is less than its profits), then
+A) output would decrease and price to consumers would increase.
+B) neither output nor price would change.
+C) the output would remain the same while price increased.
+D) the monopolist would cease production.
+E) new firms would enter the industry.
+Answer:  B
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+27) In an otherwise efficient market, an excise tax causes ________ because it distorts the relationship between ________.
+A) allocative inefficiency; prices and marginal costs
+B) allocative inefficiency; pre-tax price and the tax price
+C) productive inefficiency; costs and output
+D) market inefficiencies; prices of similar goods
+E) voter resentment; income and ability to pay
+Answer:  A
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+28) The direct burden of a tax is ________. The excess burden reflects the ________.
+A) the deadweight loss of the tax; the inefficiency of the tax
+B) the amount paid by taxpayers; the amount paid by taxpayers in excess of the free-market price.
+C) the costs of administering the tax; the amount paid by taxpayers
+D) the costs of administering the tax; amount paid by taxpayers in excess of the free-market price.
+E) the amount paid by taxpayers; allocative inefficiency of the tax
+Answer:  E
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+29) The excess burden of a tax reflects a reduction of
+A) allocative inefficiency.
+B) total tax revenues.
+C) total economic surplus.
+D) both equilibrium price and quantity.
+E) economic profits generated in the economy.
+Answer:  C
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+30) Since corporate income taxes are levied on accounting profits and not economic profits, they tend to 
+A) favour the accounting profession as it boosts demand of their services. 
+B) introduce double taxation as individual shareholders also pay income tax on dividend income. 
+C) be efficient since economic profits are hard to assess. 
+D) be inefficient since they will affect the allocation of resources. 
+E) be inefficient since they fail to contribute substantially to federal revenues. 
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+31) Possible implications of corporate income taxes being levied on accounting profits include 
+1) underinvestment in new machinery and equipment;
+2) a lower rate of adoption of the latest technologies;
+3) faster productivity growth.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  D
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+
+32) The excess burden of an excise tax 
+A) is the price the consumer must pay above the free-market price.
+B) reflects the allocative efficiency of the tax. 
+C) is the deadweight loss created by the tax. 
+D) is the administrative cost of collecting the tax.
+E) is the total cost imposed on the producer by the tax.
+Answer:  C
+Diff: 1
+Topic:  18.2b. taxation and efficiency
+Skill:  Recall
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Qualitative
+33) Suppose there is only one movie theatre in a town and the equilibrium price and quantity for movie admissions is $9 and 850 visits per week. Now suppose the government imposes a tax such that the new equilibrium price and quantity are $10.50 and 780 visits per week. What is the direct burden of this tax?
+A) $0
+B) $105
+C) $1170
+D) $1275
+E) There is not enough information to know.
+Answer:  E
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+
+34) Suppose there is only one movie theatre in a town and the equilibrium price and quantity for movie admissions is $9 and 850 visits per week. Now suppose the government imposes a tax of $2 per movie admission and that the new equilibrium price and quantity are $10.50 and 780 visits per week. What is the weekly direct burden of this tax?
+A) $0
+B) $105
+C) $1170
+D) $1560
+E) $1700
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+
+35) Suppose there is only one movie theatre in a town and the equilibrium price and quantity for movie admissions is $9 and 850 visits per week. Now suppose the government imposes a tax of $2 per movie admission and that the new equilibrium price and quantity are $10.50 and 780 visits per week. What is the weekly excess burden of this tax?
+A) $0
+B) $2
+C) $70
+D) $1560
+E) $1700
+Answer:  C
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+36) Suppose there is only one movie theatre in a town and the equilibrium price and quantity for movie admissions is $7 and 940 visits per week. Now suppose the government imposes a tax of $3 per movie admission, and the new equilibrium price and quantity are $8.75 and 750 visits per week. What is the direct burden of this tax?
+A) $937.50
+B) $1312.50
+C) $1645
+D) $2250
+E) There is not enough information to know.
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+
+37) Suppose there is only one movie theatre in a town and the equilibrium price and quantity for movie admissions is $7 and 940 visits per week. Now suppose the government imposes a tax of $3 per movie admission, and the new equilibrium price and quantity are $8.75 and 750 visits per week. What is the weekly excess burden of this tax?
+A) $285
+B) $1312.50
+C) $570
+D) $2250
+E) There is not enough information to know.
+Answer:  A
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+
+38) Suppose an additional "special" tax of $0.10 per litre is imposed on the sale of gasoline in one province. Prior to the tax the price was $1.30 per litre and 10 million litres of gasoline are sold per day. After imposition of the tax, the new equilibrium price and quantity are $1.38 per litre and 9.6 million litres per day. What is the direct burden of this "special" tax?
+A) $40 000 per day
+B) $768 000 per day
+C) $192 000 per day
+D) $960 000 per day
+E) There is not enough information to know. 
+Answer:  D
+Diff: 3
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+39) Consider a 10% excise tax that is similarly applied to good X, which has a price elasticity of 2.7, and to good Y, that has a price elasticity of 0.6. We can predict that the excess burden of this tax in the market for good X will be ________ the excess burden in the market for good Y.
+A) no larger than 
+B) equal to
+C) smaller than
+D) larger than
+E) 2.1 times the size of
+Answer:  D
+Diff: 2
+Topic:  18.2b. taxation and efficiency
+Skill:  Applied
+Learning Obj.:  18-2 Explain why a tax can lead to allocative inefficiency.
+User2:  Quantitative
+
+18.3  Public Expenditure in Canada
+
+1) An example of a government expenditure that is a transfer payment is
+A) employment-insurance (EI) payments.
+B) construction costs of a new government-owned airport.
+C) salaries of welfare case workers.
+D) education payments.
+E) payments made to the Canadian International Development Agency (CIDA).
+Answer:  A
+Diff: 1
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Applied
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+2) Which of the following expenditures by Canada's federal government is considered a government purchase? 
+A) employment-insurance payments
+B) Old Age Security payments
+C) equalization payments
+D) child tax benefit
+E) payment of the Prime Minister's salary
+Answer:  E
+Diff: 2
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+3) One of the guiding principles in Canada's system of "fiscal federalism" is that
+A) only provinces that are "federalist" should receive fiscal assistance from the federal government.
+B) each province is an independent fiscal entity.
+C) the tax base should be approximately equal in each of the provinces and territories.
+D) the true cost of provision of public goods to the various provinces of Canada should be recovered in tax revenue from the province receiving the benefit.
+E) individuals should have approximately the same access to public services, at broadly comparable tax rates, no matter where they live.
+Answer:  E
+Diff: 1
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+4) Which of the following best explains the essence of Canada's system of fiscal federalism? 
+A)  the constitutional delegation of fiscal responsibilities between federal, provincial, territorial and municipal governments
+B) the law that determines the formula for Canada's system of equalization payments
+C) the coordination on taxing and spending that is necessary between the federal, provincial, territorial and municipal governments to meet the needs of all Canadian residents
+D) the division of powers between the federal government and the provincial governments
+E) the coordination necessary for joint collection of federal and provincial income taxes
+Answer:  C
+Diff: 2
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+5) The Canadian federal government's system of "equalization payments" 
+A) are made out of the federal government's general revenues to provinces with below-average tax capacity.
+B) are made by provinces with above-average tax capacity to the federal government.
+C) are made to provinces with inadequate "tax room."
+D) are made by richer provinces to poorer provinces in the form of no-interest loans.
+E) were established in 1867 between the original provinces of Canada as a means of equalizing living standards across the country.
+Answer:  A
+Diff: 1
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+6) The Canada Health Transfer (CHT) and the Canada Social Transfer (CST) refer to transfer payments made by the federal government to
+A) the Medicare program.
+B) individuals.
+C) specific social programs.
+D) municipal governments.
+E) provincial governments.
+Answer:  E
+Diff: 1
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+7) Which of the following areas of spending account for the largest portion of total Canadian government expenditures?
+A) equalization payments
+B) defence spending
+C) subsidies to Canadian businesses
+D) social services
+E) interest payments on public debt
+Answer:  D
+Diff: 1
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+8) Which of the following statements about the Canada Health Transfer (CHT) and the Canada Social Transfer (CST) is correct?
+A) The federal government makes the CHT and the CST annually to the provinces, who are legally bound to spend on the funds for their intended purposes.
+B) The federal government makes the CHT and CST annually to the provinces, who in turn make transfers to individuals according to need.
+C) The federal government makes the CHT and CST annually to the provinces for spending on health and social programs, but the provinces are free to spend the funds as they wish.
+D) The CHT and CST are both components of equalization payments from the federal to provincial governments.
+E) The CHT and CST are demogrants that are transferred annually from the federal government to individuals residing in regions of Canada that lack adequate access to health and education programs.
+Answer:  C
+Diff: 3
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+9) The Canada Health Transfer (CHT) and the Canada Social Transfer (CST) are allocated to provinces 
+A) according to the tax base of the province.
+B) on an equal per capita basis.
+C) according to the tax base and age structure of the province and its population.
+D) on an equal per capita basis after subtracting any equalization payments payable to the province.
+E) according to the different health and social needs of each province.
+Answer:  B
+Diff: 2
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Qualitative
+
+10) The Canada Health Transfer (CHT) is scheduled to grow at a(n) ________% annual rate until 2017, and after 2017 at an annual rate ________.
+A) 6; equal to GDP growth
+B) 4; of 2%
+C) 4; equal to the rate of increase of provincial health-care expenditures
+D) 8; of 6%
+E) 8; of 4%
+Answer:  A
+Diff: 2
+Topic:  18.3a. fiscal federalism and government transfers
+Skill:  Recall
+Learning Obj.:  18-3 Discuss the concept of fiscal federalism in Canada.
+User2:  Quantitative
+
+11) In Canada, post-secondary education is 
+A) a provincial responsibility, funded by property taxes.
+B) a form of transfer payment.
+C) a provincial responsibility not funded by the federal government.
+D) a form of equalization payment across geographic boundaries.
+E) a provincial responsibility, funded almost completely from provincial budgets.
+Answer:  E
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+12) In Canada, publicly provided health care is 
+A) purely a public good.
+B) a form of transfer payment across regions.
+C) an externality.
+D) funded through equalization payments across geographic boundaries.
+E) a provincial responsibility, funded partially by the federal government.
+Answer:  E
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+13) In Canada, public primary and secondary education 
+A) are exclusive federal responsibilities.
+B) are funded by provincial governments, but managed by local school boards.
+C) have eliminated illiteracy in Canada.
+D) are funded by government as an income redistribution plan.
+E) are purely public goods.
+Answer:  B
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+14) If all university students had to pay the full cost of their education,
+A) the federal debt could be eliminated.
+B) they would probably choose less education than what is socially optimal.
+C) the economic efficiency of the higher education system would be greatly enhanced.
+D) vertical equity would be enhanced, since university students would internalize the externalities of their educations.
+E) horizontal equity would be worsened because university students in general come from the lowest-income families.
+Answer:  B
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Applied
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+15) One equity-based argument against government subsidies for post-secondary education is that 
+A) the subsidy is essentially a transfer from lower-income, non-university-trained taxpayers to potentially higher-income-earning university students.
+B) few externalities are involved.
+C) relative to the federal contribution, the provincial contribution to higher education is too high.
+D) they would encourage people not to seek employment.
+E) only the individual achieves economic advantages from his or her education. 
+Answer:  A
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Applied
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+16) One efficiency-based argument in favour of government subsidies for post-secondary education is that 
+A) the subsidy is essentially a transfer from lower-income, non-university-trained taxpayers to potentially higher-income-earning university students.
+B) there are positive externalities involved in the consumption of education.
+C) relative to the federal contribution, the provincial contribution to higher education is too low.
+D) they would encourage people not to seek employment.
+E) very few benefits from an individual's education accrue to society as a whole.
+Answer:  B
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Applied
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+17) In Canada, students' tuition fees for post-secondary education account for about
+A) 12% of total costs.
+B) 16% of total costs.
+C) 24% of total costs.
+D) 50% of total costs.
+E) 54% of total costs.
+Answer:  C
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+18) Taking all federal and provincial expenditures into account, Canada's single most expensive social program is
+A) the public health-care system.
+B) the basic education system.
+C) employment-insurance payments.
+D) post-secondary education programs.
+E) social-assistance payments.
+Answer:  A
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+19) Statistics Canada defines the poverty line as the level of income at which a household
+A) earns less than $8850 during a calendar year.
+B) spends more than 87% of its income on the three basic necessities of food, shelter, and clothing.
+C) spends more than 63% of its income on the three basic necessities of food, shelter, and clothing.
+D) is in the bottom 10% of income groups.
+E) adjusted for family size earns less than the average family income in Canada.
+Answer:  C
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+20) According to Statistics Canada's definition, the percentage of families living below the poverty line in Canada in 2012 was approximately
+A) 25%.
+B) 20%.
+C) 13%.
+D) 10%.
+E) 4%.
+Answer:  D
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+21) A "poverty trap" refers to the situation where 
+A) low-income persons whose only income for a period of 5 or more years has been welfare benefits.
+B) tax-generated disincentives exist for middle-income persons to increase their earned income.
+C) low-income persons whose only income for a period of 2 or more years has been welfare benefits.
+D) tax-generated disincentives exist for very-low-income persons to increase their earned income.
+E) the government has imposed a negative income tax.
+Answer:  D
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+22) Consider the following statement: "In Canada, there will always be some families living in poverty." Which of the following statements best explains why this statement may be true? 
+A) If the definition of poverty is an absolute one, then a certain percentage of families will always be poor.
+B) Economic growth will never be high enough to lift all families above the low-income cut off.
+C) If the definition of poverty is an absolute one, then an absolute number of families will be defined as living in poverty. 
+D) If the definition of poverty is a relative one, then some families will always be defined as poor relative to richer families. 
+E) If the definition of poverty is a relative one, then a constant number of families will always be defined as living in poverty.
+Answer:  D
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Applied
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+23) The Employment Insurance (EI) system operates whereby 
+A) Canadians contribute during their working years and then receive payments when they are retired.
+B) the federal government transfers funds to provincial governments.
+C) any unemployed worker is paid while searching for employment.
+D) the federal and provincial governments allow income-tax deductions for contributions made to special retirement funds.
+E) eligible unemployed workers are paid while searching for new employment.
+Answer:  E
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+24) Registered Retirement Savings Plans (RRSPs) operate whereby 
+A) Canadians contribute during their working years and then receive payments when they are retired.
+B) the federal government transfers funds to provincial governments.
+C) any unemployed worker is paid while searching for employment.
+D) the federal and provincial governments allow income-tax deductions for contributions made to special retirement funds.
+E) eligible unemployed workers are paid while searching for new employment.
+Answer:  D
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+25) The Canada (and Quebec) Pension Plans (CPP and QPP) operate whereby 
+A) Canadians contribute during their working years and then receive payments when they are retired.
+B) the federal government transfers funds to provincial governments.
+C) any unemployed worker is paid while searching for employment.
+D) the federal and provincial governments allow income-tax deductions for contributions made to special retirement funds.
+E) eligible unemployed workers are paid while searching for new employment.
+Answer:  A
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+26) Because government benefits paid by most universal programs are taxable, their net after-tax yield depends on the income of the recipient. Hence
+A) gross payments may be universal, but net benefits are not.
+B) gross payments may not be universal, but net benefits are.
+C) gross payments may not be universal, and net benefits are not.
+D) gross payments and net benefits are universal.
+E) only higher-income households can benefit fully from such programs.
+Answer:  A
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Applied
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+27) Social and economic policies often involve a tradeoff between efficiency and equity because
+A) income redistribution increases incentives for efficient behaviour of economic units.
+B) economic units who are efficient completely dislike equity.
+C) income redistribution often reduces incentives for efficient behaviour of economic units.
+D) the economy can achieve efficient allocation of resources by starting with unequal allocation of resources.
+E) it is not possible to improve efficiency with economic policies.
+Answer:  C
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+28) Welfare recipients are sometimes faced with a withdrawal of welfare benefits and an increase in income tax as their earned income rises. This creates a problem because
+A) firms become unwilling to hire people that are currently unemployed.
+B) of the powerful disincentives to work for low-income individuals.
+C) of the incentives for workers to shirk and/or retire early.
+D) of the incentives for firms to lay off workers more frequently for short periods.
+E) it is administratively difficult to track these individuals. 
+Answer:  B
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+29) What is a demogrant?
+A) A federal transfer to individuals that is administered through the tax system.
+B) A federal transfer to provincial governments that is adjusted annually based on demographic shifts in the province.
+C) A social benefit that is paid to individuals according to their demographic group (race, age or income group, for example).
+D) A social benefit that is paid to individuals depending on their income.
+E) A social benefit that is paid to individuals, regardless of their income.
+Answer:  E
+Diff: 1
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+30) The five pillars of Canadian social policy are
+A) education, health care, foreign aid, agricultural support, and retirement benefits.
+B) education, health care, agricultural support, research and development, and retirement benefits.
+C) education, health care, foreign aid, employment insurance and welfare payments.
+D) education, health care, welfare payments, foreign aid, and employment insurance.
+E) education, health care, income support, employment insurance and retirement benefits.
+Answer:  E
+Diff: 3
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+31) An efficiency argument for public provision of basic education is that
+A) many poor families could not afford to educate their children if they had to pay for it themselves.
+B) society as a whole benefits when all of its citizens have the basic skills and knowledge acquired from kindergarten to grade 12.
+C) the government is best able to assess the level of provision for which marginal cost equals marginal benefit.
+D) the government can best provide education up to that point where marginal benefit is zero.
+E) education cannot be efficiently provided by private firms.
+Answer:  B
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+
+32) The efficiency argument for government provision of health care is that
+A) many poor people could not afford health care if they had to pay for it.
+B) the government is best able to assess the level of provision for which marginal cost equals marginal benefit.
+C) the government can provide health care up to that point where marginal benefit is zero.
+D) a healthy population is important to the smooth functioning of a country and its economy.
+E) health care cannot be efficiently provided by private firms.
+Answer:  D
+Diff: 2
+Topic:  18.3b. Canadian social programs
+Skill:  Recall
+Learning Obj.:  18-4 Describe Canada's major social programs.
+User2:  Qualitative
+18.4  Evaluating the Role of Government
+
+1) The important debate about the appropriate balance between the public and private sectors 
+A) has been solved in Canada.
+B) is largely about the marginal benefits of public spending versus the marginal benefits of private spending, received for the last dollar spent. 
+C) was solved by John Kenneth Galbraith in his book The Affluent Society.
+D) was solved by James Buchanan, a Nobel laureate.
+E) should be decided by economists because they know the right balance.
+Answer:  B
+Diff: 1
+Topic:  18.4 evaluating the role of government
+Skill:  Applied
+Learning Obj.:  18-5 Consider the costs and benefits of government intervention in the economy.
+User2:  Qualitative
+
+2) Consider the allocation of a nation's resources between additional public-sector spending versus additional private spending. John Kenneth Galbraith argued that 
+A) the value of the marginal dollar spent by government is less than the value of that dollar left in the hands of households or firms. 
+B) public sector spending is always subject to corruption and is therefore not as valuable as private spending. 
+C) the marginal utility of an additional dollar's worth of spending on public goods is higher than an additional dollar's worth of spending on private goods. 
+D) compared to public spending, private spending leads to more sustained long-run economic growth. 
+E) compared to private spending, public spending leads to more sustained long-run economic growth. 
+Answer:  C
+Diff: 2
+Topic:  18.4 evaluating the role of government
+Skill:  Recall
+Learning Obj.:  18-5 Consider the costs and benefits of government intervention in the economy.
+User2:  Qualitative
+
+3) Consider the allocation of a nation's resources between additional public-sector spending versus additional private spending. James Buchanan argued that 
+A) given the current size of government, the value of the marginal dollar spent by government is less than the value of that dollar left in the hands of households or firms. 
+B) public sector spending is always subject to corruption and is therefore not as valuable as private spending. 
+C) the marginal utility of an additional dollar's worth of spending on public goods is higher than an additional dollar's worth of spending on private goods. 
+D) compared to public spending, private spending leads to more sustained long-run economic growth.
+E) compared to private spending, public spending leads to more sustained long-run economic growth.
+Answer:  A
+Diff: 2
+Topic:  18.4 evaluating the role of government
+Skill:  Recall
+Learning Obj.:  18-5 Consider the costs and benefits of government intervention in the economy.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 43
+Copyright © 2017 Pearson Education, Inc.
+
+
+

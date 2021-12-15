@@ -1,0 +1,2144 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 9   Competitive Markets
+
+9.1  Market Structure and Firm Behaviour
+
+1) Which of the following is NOT a determinant of market structure?
+A) The number of sellers.
+B) The nature of the product.
+C) The ease of entering the industry.
+D) The capital-labour ratio of the firm.
+E) The market share of the sellers.
+Answer:  D
+Diff: 1
+Topic:  9.1. competitive market structure
+Skill:  Recall
+Learning Obj.:  9-1 Explain the difference between competitive behaviour and a competitive market.
+User2:  Qualitative
+
+2) The term "perfect competition" refers to
+A) rivalrous behaviour.
+B) ideal economic behaviour.
+C) a type of market structure.
+D) the most prevalent market structure in a capitalist economy.
+E) the most realistic market structure.
+Answer:  C
+Diff: 1
+Topic:  9.1. competitive market structure
+Skill:  Recall
+Learning Obj.:  9-1 Explain the difference between competitive behaviour and a competitive market.
+User2:  Qualitative
+
+3) In economics, perfect competition refers to a market structure where
+A) firms behave strategically.
+B) all firms are earning profits.
+C) firms co-operate with each other.
+D) each firm has zero market power.
+E) firms can set the price of their product.
+Answer:  D
+Diff: 1
+Topic:  9.1. competitive market structure
+Skill:  Recall
+Learning Obj.:  9-1 Explain the difference between competitive behaviour and a competitive market.
+User2:  Qualitative
+4) A firm is said to have "market power" only when
+A) it has the ability to influence the price of its product.
+B) it has the ability to choose its own profit-maximizing level of output.
+C) its demand curve is the market demand curve.
+D) it is one of 10 or fewer firms in the industry.
+E) it is one of 25 or fewer firms in the industry. 
+Answer:  A
+Diff: 1
+Topic:  9.1. competitive market structure
+Skill:  Recall
+Learning Obj.:  9-1 Explain the difference between competitive behaviour and a competitive market.
+User2:  Qualitative
+
+9.2  The Theory of Perfect Competition
+
+1) The theory of perfect competition is built on several assumptions, including that
+A) the individual firm can affect the price of the product it sells.
+B) the individual firm can influence demand by advertising.
+C) each firm must earn economic profits to remain in the industry.
+D) any firm can easily enter or leave the industry.
+E) there are few producers of an identical product.
+Answer:  D
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+2) An example of a product that could most closely satisfy the homogeneous product assumption of perfect competition is
+A) barley.
+B) cars.
+C) shampoo.
+D) personal computers.
+E) pizza.
+Answer:  A
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+3) Which of the following statements does NOT apply to a perfectly competitive market?
+A) There is freedom of entry and exit of firms in the industry.
+B) Consumers can shop for the lowest available price.
+C) Consumers prefer certain brands over others.
+D) All firms have realized the possible economies of scale.
+E) All firms in the industry are price takers.
+Answer:  C
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+4) If a firm in a perfectly competitive market were to raise its price, its
+A) revenue would decrease only if market demand were elastic.
+B) revenue would increase only if market demand were inelastic.
+C) total costs would increase.
+D) revenue would fall dramatically.
+E) profits would increase as long as costs remained constant.
+Answer:  D
+Diff: 2
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+5) Given the usual assumptions about perfect competition, a perfectly competitive firm 
+A) can set the price it charges.
+B) can sell as much of its product as it wishes at the market price.
+C) can affect the market conditions in a significant way.
+D) is aware of its competitors' costs.
+E) competes actively with other sellers in the industry.
+Answer:  B
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+6) A firm in a perfectly competitive market
+A) has no power to influence the market price.
+B) is limited in the amount of product it can sell without affecting the price.
+C) is dependant upon the behaviour of its competitors.
+D) is aware of its competitors' costs.
+E) competes actively with other sellers in the industry.
+Answer:  A
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+7) The conditions for a perfectly competitive market include which one of the following?
+A) Firms behave as price takers.
+B) Profits are zero in the short run.
+C) New entrants cannot threaten the position of existing firms.
+D) Firms can control prices.
+E) Firms must employ the newest technologies as soon as they are developed.
+Answer:  A
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+8) In order to decide the appropriate output to produce, the manager of a perfectly competitive firm needs to know
+A) the industry or market demand.
+B) the industry or market supply.
+C) what other firms in the industry are producing.
+D) the prevailing market price for the firm's output.
+E) its competitors' market strategies.
+Answer:  D
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+9) When economists say that a firm is a "price taker" they mean that
+A) the firm initially takes price as given and tries to influence it through advertising.
+B) the firm can alter its rate of production and sales without affecting the market price of the product.
+C) at the price prevailing in the market, the firm will be willing to sell an infinite quantity.
+D) the demand curve that the firm faces is perfectly inelastic.
+E) the firm can alter the market price as it changes its rate of production.
+Answer:  B
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+10) Which of the following producers operate in a market structure closely approximated by perfect competition?
+A) a restaurant in your neighbourhood
+B) Air Canada 
+C) a Safeway grocery store
+D) A British Columbia peach grower.
+E) the Bank of Montreal
+Answer:  D
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+11) Which of the following statements is one of the assumptions of the theory of perfect competition?
+A) Firms compete with each other by varying their price.
+B) Firms are price setters.
+C) Consumers know the prices charged by each firm.
+D) Firms produce a wide variety of versions of the product.
+E) A firm's entry to the market is regulated by the federal Competition Bureau.
+Answer:  C
+Diff: 1
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Recall
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Qualitative
+
+12) Suppose XYZ Corp. is a profit-maximizing firm that is producing and selling 1 billion disposable wooden chopsticks per month at a price of $0.04 per unit. Further, suppose market demand for this product is 1.5 billion units per month. What can we conclude about market structure in this case?
+A) This is not a perfectly competitive market because XYZ Corp. is small relative to the size of the industry. 
+B) This is not a perfectly competitive market because XYZ Corp. is selling its product at a price that is not equal to marginal cost. 
+C) This is a perfectly competitive market because there is freedom of entry and exit in the industry. 
+D) This is a perfectly competitive market because the product is homogeneous.
+E) This is not a perfectly competitive market because XYZ Corp. is large relative to the size of the industry.
+Answer:  E
+Diff: 2
+Topic:  9.2a. assumptions of perfect competition
+Skill:  Applied
+Learning Obj.:  9-2 List the four key assumptions of the theory of perfect competition.
+User2:  Quantitative
+13) Why will a perfectly competitive firm not sell its product below the prevailing market price?
+A) It faces inelastic demand.
+B) It can sell all it wishes at the market price.
+C) The sellers in the market have agreed to not sell below a specified price.
+D) Its costs would increase dramatically.
+E) This would lead to a price war among sellers.
+Answer:  B
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+14) The price elasticity of demand faced by an individual wheat farmer would come closest to which following value?
+A) 0.00007
+B) 0.7
+C) 1.0
+D) 71.0
+E) 71 000
+Answer:  E
+Diff: 2
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+15) Which of the following terms would best describe the price elasticity of demand facing a perfectly competitive firm?
+A) perfectly inelastic
+B) inelastic
+C) unit
+D) elastic
+E) perfectly elastic
+Answer:  E
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+16) The demand curve facing a perfectly competitive firm
+A) is the same as the industry or market demand curve.
+B) is almost perfectly elastic at the market price.
+C) depends on the firm's technology.
+D) depends on the firm's costs of production.
+E) depends on the firm's output.
+Answer:  B
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+17) If the demand curve faced by a firm is downward sloping, we can reasonably believe that the
+A) firm can influence the price of the product it sells.
+B) firm will have no effect on the price of the product it sells.
+C) firm must lower prices if it hopes to increase its profits.
+D) firm's contributions to total output of the product is insignificant.
+E) firm has no control over the price of the product it sells but can vary the output.
+Answer:  A
+Diff: 2
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+18) The market demand curve for a perfectly competitive industry is typically
+A) identical to the competitive firm's demand curve.
+B) downward sloping.
+C) upward sloping.
+D) infinitely elastic.
+E) a rectangular hyperbola.
+Answer:  B
+Diff: 2
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+19) Under perfect competition, the demand curve facing an individual firm is 
+A) the same as the industry's demand curve.
+B) downward sloping.
+C) upward sloping.
+D) infinitely price elastic.
+E) a rectangular hyperbola.
+Answer:  D
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+20) The perfectly elastic demand curve faced by a competitive firm means that
+A) it could actually sell an infinite amount of output at the going price.
+B) the firm could increase total revenue by increasing the price.
+C) as the firm expands output its marginal revenue will fall.
+D) total revenue is constant regardless of quantity produced.
+E) the product's price will be unaffected by any realistic change in the firm's level of output. 
+Answer:  E
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+21) The demand curve facing a perfectly competitive firm depends on
+A) market demand alone.
+B) market demand and the firm's supply curve.
+C) market demand and the market supply curve.
+D) market supply alone.
+E) the marginal cost of the firm.
+Answer:  C
+Diff: 2
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+22) When economists say that a perfectly competitive firm is a "quantity adjuster," they mean that
+A) it adjusts its output in response to changes in prices.
+B) it can vary its output by an infinite amount.
+C) it is not concerned with cost factors.
+D) its marginal-cost curve coincides with its own demand curve.
+E) changing the output level does not affect the costs of production.
+Answer:  A
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+23) When a firm is referred to as a "price taker,"
+A) the firm initially takes price as given and tries to influence it through advertising.
+B) the firm can alter its rate of production and sales without affecting the market price of the product.
+C) the firm will be willing to sell an infinite quantity at the market price.
+D) the demand curve that the firm faces is perfectly inelastic.
+E) the firm can alter the market price as it changes its rate of production.
+Answer:  B
+Diff: 1
+Topic:  9.2b. demand curve for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+24) Total revenue (TR) for an individual firm in a perfectly competitive market equals
+A) p × q.
+B) (p × q)/q.
+C) △p × △q.
+D) △q/△p.
+E) △(p × q)/△q.
+Answer:  A
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+25) Average revenue (AR) for an individual firm in a perfectly competitive market equals
+A) p × q.
+B) (p × q)/q.
+C) △p × △q.
+D) △q/△p.
+E) (p × q)/△q.
+Answer:  B
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+26) Average revenue (AR) for an individual firm in a perfectly competitive market equals
+A) p × q.
+B) p.
+C) △p × △q.
+D) △q/△p.
+E) (p × q)/△q.
+Answer:  B
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+User2:  Qualitative
+
+27) Average revenue (AR) for an individual firm in a perfectly competitive market equals
+A) MR/TR.
+B) MR/q.
+C) MR × q.
+D) MR.
+E) TR/MR.
+Answer:  D
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+User2:  Qualitative
+
+28) For any firm operating in any market structure, marginal revenue is defined as
+A) total revenue divided by the number of units sold.
+B) the change in total revenue resulting from the sale of an additional unit of the product.
+C) the total amount received by the seller from the sale of a product.
+D) the change in price resulting from the sale of an additional unit of the product.
+E) price times quantity of the product sold.
+Answer:  B
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+29) Any firm's average revenue is defined as
+A) total revenue divided by the number of units sold.
+B) the change in total revenue resulting from the sale of an additional unit of the product.
+C) the total amount received by the seller from the sale of a product.
+D) the change in price resulting from the sale of an additional unit of the product.
+E) price times quantity of the product sold.
+Answer:  A
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+30) A perfectly competitive firm's total revenue is equal to which of the following?
+A) average revenue multiplied by price.
+B) price times quantity of the product sold, divided by quantity of the product sold.
+C) the revenue received on the last unit sold.
+D) marginal revenue times quantity of the product sold.
+E) price multiplied by marginal revenue.
+Answer:  D
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+31) A perfectly competitive firm's demand curve coincides with
+A) its average-revenue curve and total-revenue curve.
+B) its total-revenue curve.
+C) both its marginal and average-revenue curves.
+D) both its marginal and total-revenue curves.
+E) the market demand curve.
+Answer:  C
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+32) A perfectly competitive firm's demand curve
+A) has unit elasticity.
+B) is identical to the market demand curve.
+C) yields constant total revenues.
+D) is a horizontal line where P = AR = MR.
+E) is downward sloping.
+Answer:  D
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+33) For any firm operating in any market structure, marginal revenue (MR) equals
+A) p × q.
+B) (p × q)/q.
+C) △p × △q.
+D) △q/△p.
+E) △(p × q)/△q.
+Answer:  E
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+34) Firms have several different concepts of revenue: total revenue, average revenue, marginal revenue, and price. For a profit-maximizing perfectly competitive firm, which statement below is true?
+A) Total revenue, average revenue, marginal revenue, and price are all equal.
+B) Average revenue, marginal revenue, and price are equal.
+C) Only marginal revenue and price are equal.
+D) Only average revenue and price are equal.
+E) None of these revenues are equal.
+Answer:  B
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+35) In the short run, the profit-maximizing behaviour for a price-taking firm requires it to operate where
+A) P = MC, given that P is greater than or equal to ATC.
+B) P = TR = TC.
+C) P > MR > MC.
+D) AVC = AR.
+E) P = MC, given that P is greater than or equal to AVC.
+Answer:  E
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+36) For a given market price, a perfectly competitive firm's total-revenue curve
+A) is a positively sloped straight line, starting from the origin.
+B) increases to the right and then declines when MC = MR.
+C) is a straight line that coincides with the market demand curve.
+D) is the same as the firm's demand curve.
+E) is the same as the firm's MR curve.
+Answer:  A
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+37) For a given market price, a perfectly competitive firm's average-revenue curve
+A) is a positively sloped straight line, starting from the origin.
+B) increases to the right and then declines when MC = MR.
+C) is a straight line that coincides with the market demand curve.
+D) is the same as the firm's demand curve.
+E) is the same as the firm's TR curve.
+Answer:  D
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+38) For a given market price, a perfectly competitive firm's marginal-revenue curve
+A) is a positively sloped straight line, starting from the origin.
+B) increases to the right and then declines when MC = MR.
+C) is a straight line that coincides with the market demand curve.
+D) is the same as the firm's demand curve.
+E) is the same as the firm's TR curve.
+Answer:  D
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Recall
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Qualitative
+
+39) Farmer Anna is producing tomatoes in a perfectly competitive market. In Year 1 she sells 4000 bushels of tomatoes at a price of $12.00 each. In Year 2 she sells 4800 bushels at $13.00 each. In Year 2, her average revenue is ________ and her marginal revenue is ________. 
+A) $13.00; $1.00
+B) $12.50; $12.50
+C) $13.00; $13.00
+D) $12.00; $12.00
+E) $12.00; $1.00
+Answer:  C
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Quantitative
+40) Suppose XYZ Corp. is producing and selling disposable wooden chopsticks in a perfectly competitive market. The market price is $0.04 per unit and the firm is currently producing 1 million units per month. The firm's total revenue is ________ per month. The firm's marginal revenue is ________. 
+A) $25 000; $0.04
+B) $40 000; $0.04
+C) $15 000; $0.015
+D) $40 000; $0.015
+E) $40 000; $0.025
+Answer:  B
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Quantitative
+
+41) Suppose XYZ Corp. is producing and selling disposable wooden chopsticks in a perfectly competitive market. The market price is $0.05 per unit and the firm is currently producing 600 000 units per month. The firm's total revenue is ________ per month. The firm's marginal revenue is ________. 
+A) $30 000; $0.05
+B) $12 million; $0.05
+C) $1.2 million; $0.01
+D) $3000; $0.50
+E) $3000; $0.05
+Answer:  A
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+User2:  Quantitative
+
+42) Suppose XYZ Corp. is producing and selling disposable wooden chopsticks in a perfectly competitive market. The market price is $0.05 per unit and the firm is currently producing 600 000 units per month. What is the firm's average revenue? 
+A) $3000
+B) $30 000
+C) $0.01
+D) $0.05
+E) $0.10
+Answer:  D
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+User2:  Quantitative
+43) Suppose XYZ Corp. is producing and selling disposable wooden chopsticks in a perfectly competitive market. The market price is $0.04 per unit and the firm is selling 1 million units per month. Now suppose the firm increases its stated price to $0.05 per unit. According to the theory of perfect competition, the result will be
+A) total revenue for this firm will increase, but by less than $10 000 per month.
+B) total revenue will increase from $40 000 to $50 000 per month.
+C) total revenue will decrease from $50 000 to $40 000 per month.
+D) total revenue for this firm will fall dramatically, perhaps to zero.
+E) no change in the firm's total revenue.
+Answer:  D
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User2:  Quantitative
+
+Consider the price and quantity data below for a perfectly competitive firm producing mousetraps.
+
+Price ($)
+Quantity
+5
+1000
+5
+1250
+5
+1500
+5
+1750
+5
+2000
+
+TABLE 9-1
+
+44) Refer to Table 9-1. If this firm is producing 1250 mousetraps, its total revenue is ________, its average revenue is ________ and its marginal revenue is ________.
+A) $5; $5; $5
+B) $6250; $250; $5
+C) $1750; $250; $5
+D) $5000; $5; $250
+E) $6250; $5; $5
+Answer:  E
+Diff: 2
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User1:  Table
+User2:  Quantitative
+45) Refer to Table 9-1.  Suppose this firm is currently selling 1750 mousetraps at the market price of $5.  If the firm raises its price to $6, its total revenue will be
+A) $0.
+B) greater than or equal to $1750.
+C) greater than or equal to $6250.
+D) $10 500.
+E) greater than $10 500.
+Answer:  A
+Diff: 1
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User1:  Table
+User2:  Quantitative
+
+46) Refer to Table 9-1.  Suppose this firm is currently selling 1750 mousetraps at the market price of $5.  If the firm raises its price to $6, it's average revenue will be
+A) $0.
+B) $5.
+C) $6.
+D) between $5 and $6.
+E) greater than $6.
+Answer:  A
+Diff: 3
+Topic:  9.2c. total, average, and marginal revenue
+Skill:  Applied
+Learning Obj.:  9-3 Derive a competitive firm's supply curve.
+User1:  Table
+User2:  Quantitative
+9.3  Short-Run Decisions
+
+Assume the following total cost schedule for a perfectly competitive firm.
+
+Output
+TVC ($)
+TFC ($)
+0
+    0
+100
+1
+  40
+100
+2
+  70
+100
+3
+120
+100
+4
+180
+100
+5
+250
+100
+6
+330
+100
+
+TABLE 9-2
+
+1) Refer to Table 9-2. In order to maximize its profits, the firm should continue to produce in the short run even if the market price is less than its ATC as long as the price is greater than or equal to
+A) AVC.
+B) MC.
+C) AFC.
+D) TVC.
+E) TC.
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Qualitative
+
+2) Refer to Table 9-2. The total cost of producing 6 units of output is
+A) $71.67.
+B) $100.
+C) $230.
+D) $330.
+E) $430.
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+3) Refer to Table 9-2. If the firm is producing at an output level of 2 units, the ATC is ________ and the AVC is ________.
+A) $100; $70
+B) $70; $35
+C) $50; $50
+D) $140; $40
+E) $85; $35
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+4) Refer to Table 9-2. If the firm is producing at an output level of 4 units, the ATC is ________ and the AVC is ________.
+A) $280; $180
+B) $25; $45
+C) $70; $45
+D) $70; $35
+E) $180; $100
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+5) Refer to Table 9-2. If the firm is producing at an output level of 6 units, the ATC is ________ and the AVC is ________.
+A) $55; $16.67
+B) $38.33; $16.67
+C) $80; $55
+D) $55; $80
+E) $71.67; $55
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+6) Refer to Table 9-2. This profit-maximizing firm would produce no output in the short run if the market price of its output dropped below
+A) $35.
+B) $40.
+C) $70.
+D) $90.
+E) $100.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+7) Refer to Table 9-2. At what price would a profit-maximizing firm earn zero economic profits?
+A) $40
+B) $70
+C) $145
+D) $220
+E) $430
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+8) Refer to Table 9-2. If the market price were $75, this perfectly competitive firm wishing to maximize its profits would 
+A) produce 2 units of output.
+B) produce 6 units of output.
+C) produce 5 units of output.
+D) not produce because P < minimum of ATC.
+E) not produce because P < TFC.
+Answer:  C
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+9) Refer to Table 9-2. What is the marginal cost of producing the 2nd unit of output?
+A) $10
+B) $15
+C) $5
+D) $30
+E) $35
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+10) Refer to Table 9-2. What is the marginal cost of producing the 5th unit of output?
+A) $30
+B) $35
+C) $50
+D) $70
+E) $80
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+Consider the following total cost schedule for a perfectly competitive firm producing ball-point pens.
+
+Output
+ per period
+TVC ($)
+TFC ($)
+  0
+0
+5
+10
+2
+5
+20
+3
+5
+30
+6
+5
+40
+10
+5
+50
+15
+5
+
+TABLE 9-3
+
+11) Refer to Table 9-3. If this firm were producing at an output level of 30 units, the AFC would be ________ and the AVC would be ________.
+A) $5; $6
+B) $6; $5
+C) $0.17; $0.20
+D) $0.20; $0.17
+E) $0.10; $0.30
+Answer:  C
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+12) Refer to Table 9-3. This firm would produce no output in the short run if the market price of its output
+A) dropped below $0.15.
+B) dropped below $0.20.
+C) dropped below $0.30.
+D) dropped below $2.00.
+E) dropped below $3.00.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+13) Refer to Table 9-3. As this firm increases output from 40 units to 50 units per period, its marginal cost rises to
+A) $0.10.
+B) $0.17.
+C) $0.375.
+D) $0.40.
+E) $0.50.
+Answer:  E
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+14) Refer to Table 9-3. What is the marginal cost of producing the 35th unit of output?
+A) $0.10
+B) $0.17
+C) $0.375
+D) $0.40
+E) $0.50
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+15) Refer to Table 9-3. What is the marginal cost of producing the 15th unit of output?
+A) $0.10
+B) $0.17
+C) $0.375
+D) $0.40
+E) $0.50
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+16) Refer to Table 9-3. Suppose the prevailing market price for this firm's product is $0.40. The profit-maximizing level of output for this firm is between
+A) 0 and 10 units.
+B) 10 and 20 units.
+C) 20 and 30 units.
+D) 30 and 40 units.
+E) 40 and 50 units.
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 9-3. Suppose the prevailing market price for this firm's product is $0.42 and the firm produces its profit-maximizing level of output. At this price
+A) the firm is earning zero economic profits.
+B) the firm is earning positive economic profits.
+C) the firm is suffering economic losses and this firm will exit the industry.
+D) the firm should increase output.
+E) the firm should decrease output.
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+18) Refer to Table 9-3. Suppose the prevailing market price for this firm's product is $0.45. If the firm is producing 20 units of output per period, then its profit per unit is ________ and its total profit per period is ________.
+A) $9; $180
+B) $0.05; $1.00
+C) $6; $120
+D) $0.01; $2
+E) $0.40; $8
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+19) Refer to Table 9-3. Suppose the prevailing market price for this firm's product is $0.14 and the firm is currently producing 20 units of output. This competitive firm wishing to maximize profits would
+A) increase output because marginal revenue is greater than marginal cost.
+B) decrease output because marginal revenue is less than marginal cost.
+C) increase output because marginal revenue is less than marginal cost. 
+D) decrease output because marginal revenue is greater than marginal cost. 
+E) produce zero output because price is less than the minimum average variable cost. 
+Answer:  E
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+20) A firm in a perfectly competitive industry will maximize profits by adjusting
+A) price until marginal revenue equals marginal cost.
+B) output until marginal cost equals marginal revenue.
+C) price until average revenue equals average total cost.
+D) output until average revenue equals short-run average total cost.
+E) average total cost until it equals price.
+Answer:  B
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+21) Consider a perfectly competitive industry in the short-run. When a firm in this industry is at its profit-maximizing level of output, it 
+A) is doing as well as it can and is making a profit.
+B) may be making a profit or incurring a loss.
+C) is producing where P = AVC.
+D) is producing where MC = AC.
+E) is producing where price exceeds marginal cost.
+Answer:  B
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+22) In the short run, a profit-maximizing firm will expand output
+A) as long as marginal revenue is greater than marginal cost.
+B) until marginal cost begins to rise.
+C) until marginal revenue equals average variable cost.
+D) until total revenue equals total cost.
+E) as long as marginal cost is greater than marginal revenue.
+Answer:  A
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+23) Suppose ABC Corp. is a firm producing newsprint in a perfectly competitive industry. Its output is 1500 tonnes per month, the marginal cost of the last tonne produced is $710, and the average revenue per tonne is $620. In the short run, this firm should
+A) reduce output.
+B) increase output until average revenue is equal to marginal cost. 
+C) increase output until marginal revenue is equal to marginal cost. 
+D) definitely shut down. 
+E) The price of the product is not known, so it is not possible to determine. 
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+24) Suppose ABC Corp. is a firm producing newsprint in a perfectly competitive industry. We have the following information about the firm's production:
+	- output (Q) = 1500 tonnes per month
+	- average total cost (ATC) = $627 per tonne
+	- average variable cost (AVC) = $614 per tonne
+	- marginal revenue (MR) = $620 per tonne
+	- marginal cost (MC) = $620 per tonne
+In the short run, this firm should 
+A) reduce output because the price per tonne is less than ATC.
+B) shut down because the firm is incurring economic losses. 
+C) maintain production at the current level.
+D) increase output because MR is greater than AVC.
+E) Not possible to determine because the price of the product is not known. 
+Answer:  C
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+25) Suppose ABC Corp. is a firm producing newsprint in a perfectly competitive industry. We have the following information about the firm's production:
+	- output (Q) = 1500 tonnes per month
+	- average total cost (ATC) = $627 per tonne
+	- average variable cost (AVC) = $614 per tonne
+	- marginal revenue (MR) = $620 per tonne
+	- marginal cost (MC) = $620 per tonne
+At the current level of output, this firm is ________ profit and is earning economic profit of ________ per month. 
+A) maximizing; $10 500
+B) maximizing; -$10 500
+C) not maximizing; -$10 500
+D) not maximizing; -$9000
+E) maximizing; $9000
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+
+FIGURE 9-1
+
+26) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. If the market price is P1, the profit-maximizing firm in the short run should
+A) produce output A.
+B) produce output B.
+C) produce output C.
+D) produce output D or shut down as it doesn't really matter which.
+E) definitely shut down.
+Answer:  D
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+27) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. If the market price is P2, the profit-maximizing firm in the short run should 
+A) produce output B.
+B) produce output C.
+C) produce output D.
+D) produce output E.
+E) shut down, as it is incurring losses.
+Answer:  D
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+28) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. If the market price is P3, the profit-maximizing firm in the short run should 
+A) produce output A.
+B) produce output F or shut down, as it doesn't matter which.
+C) produce output D.
+D) shut down because more profits could be earned in another industry.
+E) produce output F.
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. If the market price is P4, the profit-maximizing firm in the short run should produce output
+A) C.
+B) F.
+C) G.
+D) H.
+E) I.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+30) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. The firm's short-run supply curve starts at output ________ and rises along the marginal cost (MC) curve.
+A) D
+B) E
+C) F
+D) G
+E) H
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+31) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. The short-run shut down price for the firm is
+A) P1.
+B) P2.
+C) P3.
+D) P4.
+E) P5.
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. The price at which the firm earns zero economic profits is
+A) P1.
+B) P2.
+C) P3.
+D) P4.
+E) P5.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+33) Refer to Figure 9-1.  The diagram shows cost curves for a perfectly competitive firm. The firm would incur economic profit at all market prices above 
+A) P1.
+B) P2.
+C) P3.
+D) P4.
+E) P5.
+Answer:  C
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+34) Refer to Figure 9-1. The diagram shows cost curves for a perfectly competitive firm. If the market price is P4 and the firm is producing output level F, this firm should
+A) expand output to quantity G.
+B) expand output to quantity I.
+C) maintain output at quantity F.
+D) reduce output to quantity C.
+E) reduce output to quantity D.
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Quantitative
+
+35) If a perfectly competitive firm in the short run is producing where P = ATC = MC, this firm is
+A) at its profit-maximizing output level.
+B) obliged to shut down.
+C) on the downward-sloping portion of its demand curve.
+D) earning economic profits.
+E) incurring losses.
+Answer:  A
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+36) A perfectly competitive firm maximizes its profits by
+A) maximizing total revenue.
+B) maximizing total sales.
+C) choosing the optimal level of output.
+D) choosing the optimal price.
+E) pricing slightly under its competitors.
+Answer:  C
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+37) If a perfectly competitive firm produces at an output level where marginal cost equals marginal revenue, then
+A) the last unit produced adds the same amount to costs as it does to revenue.
+B) the firm is maximizing its revenue.
+C) there is no reason to reduce or expand output, as long as AVC is greater than or equal to price.
+D) the difference between TR and TC is zero.
+E) the firm should shut down.
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+38) Suppose your trucking firm in a perfectly competitive industry is making zero economic profits in the short run. The federal government imposes a new safety regulation that affects all firms, thus shifting the marginal cost curve upward. As a result your firm's profit maximizing short-run output will 
+A) decrease because the new MC curve will intersect the horizontal demand curve at a lower rate of output.
+B) remain the same because you will pass on the extra costs to the consumers.
+C) remain the same since the new regulation does not affect ATC.
+D) increase as firms will leave the industry at the higher costs, thus driving up the market price.
+E) increase as price rises in the long run.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+39) If a perfectly competitive firm is faced with average revenue below average variable cost it will produce zero output so as to reduce its
+A) costs to below its revenue.
+B) costs to zero.
+C) losses to the amount of its fixed costs.
+D) losses to the amount of its variable costs.
+E) losses to the amount of its marginal costs.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+40) On a graph showing a firm's TC and TR curves, the profit-maximizing level of output is found where
+A) TC intersects the vertical axis.
+B) TR becomes vertical.
+C) TR lies above TC by the greatest amount.
+D) TR and TC intersect.
+E) TR is at a maximum.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+41) Suppose that in a perfectly competitive industry, the market price of the product is $6. A firm is producing the output level at which average total cost equals marginal cost, both of which are $8. Average variable cost is $4. To maximize its profits in the short run, the firm should 
+A) reduce its output.
+B) expand its output.
+C) leave its output unchanged.
+D) shut down.
+E) There is insufficient information to know.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+42) Suppose that in a perfectly competitive industry, the market price of the product is $27.  A firm is producing the output level at which average total cost equals marginal cost, both of which are $25.  Average variable cost is $23.  To maximize profits in the short run, the firm should
+A) reduce its output.
+B) increase its output.
+C) leave its output unchanged.
+D) shut down.
+E) change the price of the product.
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+43) Suppose that in a perfectly competitive industry, the market price for the product is $130.  A firm is producing the output level at which average total cost equals marginal cost, both of which are $138.  Average variable cost is $132.  To maximize profits in the short run, the firm should
+A) reduce its output.
+B) expand its output.
+C) leave its output unchanged.
+D) produce zero output.
+E) change the price of the product.
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+44) A price-taking firm in the short run should not produce any level of output unless 
+A) marginal revenue exceeds marginal cost.
+B) marginal revenue equals average total cost.
+C) average revenue equals or exceeds average variable cost.
+D) average revenue equals or exceeds average total cost.
+E) it is earning positive profits.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+45) Suppose a perfectly competitive firm is producing a level of output for which price equals average total cost, and average total cost is less than marginal cost. In order to maximize its profits, the firm should
+A) reduce its output.
+B) expand its output.
+C) produce zero output.
+D) increase the market price.
+E) not change its output.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+46) Which of the following statements about a firm in a perfectly competitive industry is true?
+A) The firm can improve its competitive position and sell more output by advertising its product.
+B) The firm maximizes its profit by producing where P = ATC.
+C) The firm maximizes its profit by producing where P = AVC.
+D) The firm will not produce at all if P < ATC.
+E) The firm will not produce at all if P < the minimum of AVC.
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+47) Suppose a perfectly competitive firm is producing a level of output such that its average revenue is less than its lowest average variable cost. The firm should
+A) reduce its output.
+B) expand its output.
+C) produce zero output.
+D) increase the market price.
+E) not change its output.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+48) Suppose that in a perfectly competitive industry, the market price of the product is $12. Firm A is producing the output level at which average total cost equals marginal cost, both of which are $10. To maximize its profits, Firm A should
+A) reduce its output.
+B) expand its output.
+C) leave its output unchanged.
+D) increase its advertising.
+E) change the price of the product.
+Answer:  B
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+49) Consider a perfectly competitive firm in the following position: output = 4000 units, market price = $1, total fixed costs = $2000, total variable costs = $2000, and marginal cost = $1. To maximize profits the firm should
+A) reduce its output.
+B) expand its output.
+C) produce zero output.
+D) increase the market price.
+E) not change its output.
+Answer:  E
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+50) Consider a perfectly competitive firm in the following position: output = 4000, market price = $1, total fixed costs = $2000, total variable costs = $4500, and marginal cost = $1. To maximize profits the firm should
+A) reduce its output.
+B) expand its output. 
+C) produce zero output.
+D) increase the market price.
+E) not change its output.
+Answer:  C
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+51) Consider a perfectly competitive firm in the following position: output = 4000 units, market price = $1, fixed costs = $2000, variable costs = $1000, and marginal cost = $1.10. To maximize profits the firm should
+A) reduce its output.
+B) expand its output.
+C) produce zero output.
+D) increase the market price.
+E) not change its output.
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+52) A perfectly competitive firm is currently producing an output level where price is $10.00, average variable cost is $6.00, average total cost is $10.00, and marginal cost is $8.00. In order to maximize profits, this firm should
+A) produce zero output.
+B) decrease its output.
+C) increase its output.
+D) increase the market price.
+E) not change its output — this firm is at its profit-maximizing position.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+
+Consider the following short-run cost curves for a profit-maximizing firm in a perfectly competitive industry.
+
+
+FIGURE 9-2
+
+53) Refer to Figure 9-2.  If the current market price is $6, the profit-maximizing output for this firm is
+A) 100 units.
+B) 200 units.
+C) 300 units.
+D) 400 units.
+E) 500 units.
+Answer:  D
+Diff: 1
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+54) Refer to Figure 9-2.  If the price is $6 and the firm is producing at its profit-maximizing output, then total costs for the firm are
+A) $100.
+B) $300.
+C) $1600.
+D) $2400.
+E) $3500.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Quantitative
+
+55) Refer to Figure 9-2.  If the market price is $1, the firm will produce ________ units of output in the short run.
+A) 0
+B) 100
+C) 200
+D) 300
+E) 400
+Answer:  A
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Quantitative
+
+56) Refer to Figure 9-2.  If the market price is $2, the firm will
+A) produce zero output. and make zero profit.
+B) produce zero output. and suffer a loss equal to its fixed cost.
+C) continue operating in the short run and suffer a loss that is less than its fixed cost.
+D) produce 300 units and make a loss equal to total variable cost.
+E) produce 200 units and make a loss equal to its total fixed cost.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+57) Consider a perfectly competitive firm that is producing a level of output such that price equals average total cost and average total cost is less than marginal cost. In order to maximize its profits, the firm should
+A) reduce output.
+B) expand output.
+C) shut down.
+D) increase the market price.
+E) not change output.
+Answer:  A
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+58) A perfectly competitive firm facing a price of $4.00 is currently producing an output level where average variable cost is $2.00, average total cost is $4.00, and marginal cost is $3.00. In order to maximize profits, this firm should
+A) shut down.
+B) decrease output.
+C) increase output.
+D) increase the market price.
+E) not change output. This firm is at its profit-maximizing position.
+Answer:  C
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Quantitative
+Consider the following cost curves for two perfectly competitive firms, A and B.
+
+
+	FIGURE 9-3
+
+59) Refer to Figure 9-3. Firms A and B are in the same industry. Choose the statement that best describes the situation facing the two firms.
+A) Firm A is suffering losses and will be shut down immediately; Firm B will be shut down if the price falls any further.
+B) Firm A is making losses but remains producing as long as price falls no further; Firm B is producing at lower cost and is earning economic profits.
+C) Firm A and Firm B are both earning positive economic profits; new firms will likely enter the industry.
+D) Firm A and Firm B are both suffering economic losses and will soon exit the industry.
+Answer:  B
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+60) Refer to Figure 9-3. If Firm B is producing at output level q2, and selling its output at p0, then Firm B should
+A) remain at this output level because profits are maximized when SRAVC is at its minimum.
+B) expand output to q1 because profits are maximized when SRATC is at its minimum.
+C) shut down because at this price and output level the firm is suffering losses.
+D) expand output to q0 so that profits will be maximized.
+Answer:  D
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+Consider the price and quantity data below for a perfectly competitive firm producing mousetraps.
+
+Price ($)
+Quantity
+5
+1000
+5
+1250
+5
+1500
+5
+1750
+5
+2000
+
+TABLE 9-1
+
+61) Refer to Table 9-1. Suppose this firm is producing 1250 mousetraps and its average total cost is $4 per unit. The firm will be
+A) suffering losses of $5000.
+B) earning profits of $5000.
+C) breaking even.
+D) earning profits of $1250.
+E) suffering losses of $1250.
+Answer:  D
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+62) Refer to Table 9-1.  Suppose this firm is producing 1500 mousetraps and its average total cost is $5.10 per unit.  The firm will be 
+A) suffering losses of $7650.
+B) earning profits of $7650.
+C) breaking even.
+D) earning profits of $150.
+E) suffering losses of $150.
+Answer:  E
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Table
+User2:  Quantitative
+
+63) Refer to Table 9-1. Suppose this firm is producing 2000 mousetraps and average variable cost is $5.50. What level of economic profit is this firm earning?
+A) $1000
+B) -$1000
+C) $0
+D) $0.50
+E) There is insufficient information to answer to know.
+Answer:  E
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+Consider the total cost and revenue curves shown below, for two perfectly competitive firms, Firm A and Firm B.
+
+
+
+	FIGURE 9-4
+
+64) Refer to Figure 9-4. Given its total cost and revenue curves, Firm A should
+A) build another plant to reap scale economies.
+B) produce zero output.
+C) continue production, as it is earning positive profits.
+D) maximize its profits by producing that level of output such that the slope of the TC curve is equal to the slope of the TR curve.
+E) maximize its profits by producing that level of output such that the slope of the TVC curve is equal to the slope of the TR curve.
+Answer:  B
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+65) Refer to Figure 9-4. Given its total cost and revenue curves, Firm B should
+A) exit the industry.
+B) shut down temporarily.
+C) maximize its profits by producing that level of output such that the slope of the TC curve is equal to the slope of the TR curve.
+D) maximize its profits by producing that level of output such that the slope of the TVC curve is equal to the slope of the TR curve.
+E) produce the level of output where the TC curve intersects the TR curve.
+Answer:  C
+Diff: 2
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+66) Refer to Figure 9-4. If both Firms A and B are producing a level of output such that the slope of the TC curve is equal to the slope of the TR curve,
+A) then MC = MR and the firm is maximizing profit (or minimizing losses).
+B) then the ATC is at a minimum and the firm is maximizing profits.
+C) then both firms are suffering losses because the distance between TR and TC is the smallest.
+D) then both firms are earning positive economic profits because the distance between TR and TC is the greatest.
+E) then MC = MR but the firm may not be maximizing its profits.
+Answer:  E
+Diff: 3
+Topic:  9.3a. profit maximization for perfectly competitive firm
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+67) The short-run supply curve for a perfectly competitive firm is 
+A) its entire marginal-cost curve.
+B) its rising portion of the average-variable-cost curve.
+C) its average-revenue curve.
+D) its marginal-cost curve above the average-variable-cost curve.
+E) the industry supply curve.
+Answer:  D
+Diff: 1
+Topic:  9.3b. supply curves perfectly comp. firm and industry
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+68) Consider a firm in a perfectly competitive industry. The shut-down point is the price at which the firm can just cover its
+A) marginal costs.
+B) non-economic costs.
+C) fixed costs.
+D) unstated costs.
+E) variable costs.
+Answer:  E
+Diff: 1
+Topic:  9.3b. supply curves perfectly comp. firm and industry
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+69) The supply curve for a perfectly competitive industry is the horizontal summation of the individual firms'
+A) MC curves above ATC.
+B) MC curves above AVC.
+C) AVC curves above MC.
+D) MC curves above AFC.
+E) short-run average cost curves.
+Answer:  B
+Diff: 1
+Topic:  9.3b. supply curves perfectly comp. firm and industry
+Skill:  Recall
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User2:  Qualitative
+
+Consider the following short-run cost curves for a profit-maximizing firm in a perfectly competitive industry.
+
+
+FIGURE 9-2
+
+70) Refer to Figure 9-2. The short-run supply curve for this perfectly competitive firm is its
+A) ATC curve at and above $3.
+B) AVC curve at and above $1.50.
+C) entire marginal cost curve.
+D) marginal cost curve at and above $3.
+E) marginal cost curve at and above $1.50.
+Answer:  E
+Diff: 1
+Topic:  9.3b. supply curves perfectly comp. firm and industry
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+71) Refer to Figure 9-2. The short-run supply curve for the industry in which this firm operates is 
+A) the MC curve at or above a price of $1.50.
+B) the AVC curve at or above a price of $1.50.
+C) the entire MC curve.
+D) the MC curve at or above a price of $3.
+E) not determinable from the information provided.
+Answer:  E
+Diff: 2
+Topic:  9.3b. supply curves perfectly comp. firm and industry
+Skill:  Applied
+Learning Obj.:  9-4 Determine whether competitive firms are making profits or losses in the short run.
+User1:  Graph
+User2:  Qualitative
+
+9.4  Long-Run Decisions
+
+1) If a perfectly competitive market is in a short-run equilibrium and each firm has P > SRATC, then
+A) individual firms in the industry will increase their output.
+B) new firms will enter the market because existing firms are earning economic profits.
+C) the market supply curve will become less elastic.
+D) existing firms will continue to earn economic profits in the long run.
+E) price will fall in the short run as it is too high and firms are making economic profits.
+Answer:  B
+Diff: 1
+Topic:  9.4a. entry and exit
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+2) If firms in a competitive industry are earning positive economic profits, in the long run we expect 
+A) the demand curve for the product will shift to the left, so that the price of the product will fall.
+B) the supply curve for the product will shift to the right as new firms enter the industry, causing industry output to increase and price to fall.
+C) there would be no change in the industry as long as P = MC for the individual firms.
+D) the individual firms will lower their price to discourage new firms from entering the industry.
+E) the government would intervene and force the firms to lower prices.
+Answer:  B
+Diff: 2
+Topic:  9.4a. entry and exit
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+3) If firms in a competitive industry are suffering economic losses, then one would expect that in the long run
+A) the demand curve for the product will shift to the left, causing equilibrium output and price to decline.
+B) there would be no change in the number of firms in the industry as long as firms are covering their average variable costs.
+C) the supply curve for the product will shift to the left as firms leave the industry, causing industry output to fall and price to rise.
+D) the supply curve for the product will shift to the right as individual firms lower their prices to increase their sales.
+E) each firm would raise its price until it was breaking even.
+Answer:  C
+Diff: 2
+Topic:  9.4a. entry and exit
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+4) Consider a perfectly competitive firm when its industry is in long-run equilibrium. Which of the following statements is correct?
+A) The firm has successfully differentiated its product.
+B) The firm has successfully established barriers to entry.
+C) The firm has a strong profit incentive to expand capacity.
+D) The firm has no ability to affect its product's price.
+E) The firm is earning positive economic profits.
+Answer:  D
+Diff: 1
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+5) Consider the following statement of equalities: P = MC = minimum SRATC = minimum LRAC.  This statement of equalities best applies to which of the following? 
+A) a perfectly competitive firm that is maximizing profits, which will lead other firms to enter this industry
+B) a perfectly competitive firm when the industry is in long-run equilibrium
+C) a perfectly competitive firm that is producing the optimal quantity, such that other firms will exit the industry
+D) a perfectly competitive industry that is in long-run equilibrium 
+E) a perfectly competitive industry that is in short-run equilibrium
+Answer:  B
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+6) Which of the following statements about a perfectly competitive industry in long-run equilibrium is true?
+A) In order to stay in the industry each firm is making an economic profit.
+B) Losses are tolerable because of high fixed costs.
+C) Individual firms will have no incentive for technological improvement.
+D) Firms must exhibit economies of scale.
+E) Each firm is producing at the minimum point on its LRAC curve.
+Answer:  E
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+7) If a competitive firm is producing to the left of the minimum point of its long-run average cost curve, then
+A) it cannot be producing its present output efficiently.
+B) it can reduce its unit costs by building a larger plant.
+C) it can still be in long-run equilibrium as long as P = SRATC.
+D) its profits will decrease if it builds a larger plant.
+E) it should shut down.
+Answer:  B
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+8) Consider a perfectly competitive firm.  Which of the following equalities could hold true in a short-run equilibrium but not in a long-run equilibrium?
+A) TC = TFC + TVC
+B) P = MC
+C) P = AR
+D) P = AVC
+E) P = MR
+Answer:  D
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+Consider the following cost curves for Firm X, a perfectly competitive firm.
+
+
+FIGURE 9-5
+
+9) Refer to Figure 9-5.  At output Q2 and price P2, which of the following is FALSE? 
+A) There are economic profits to attract new entrants.
+B) The firm producing Q2 is at its long-run profit-maximizing position.
+C) P = MC = SRATC = LRAC.
+D) There are no unexploited internal economies of scale.
+E) Firm X is producing at its minimum efficient scale.
+Answer:  A
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+10) Refer to Figure 9-5. If Firm X has a capital stock that generates SRATC1, then in the long run Firm X will have to
+A) either expand its plant size or exit from the industry.
+B) set its output at Q1 with the existing plant size.
+C) expand its output to Q2 with the existing plant size.
+D) set its output at Q1 with an expanded plant size.
+E) maintain its output level at Q1, because it is maximizing its short-run profits.
+Answer:  A
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+
+11) Refer to Figure 9-5. If Firm X is producing output Q1 and the market price is P1,
+A) there are profits to induce increases in output by Firm X, using its existing plant.
+B) there is no lower-cost scale of plant which could be built by Firm X.
+C) Firm X is producing at its minimum efficient scale.
+D) Firm X is at its long-run profit-maximizing position.
+E) new firms have a profit incentive to enter the industry, building larger plants.
+Answer:  E
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+
+12) Refer to Figure 9-5. In this industry, which one of the following is FALSE?
+A) If the price were to fall below P2, firms would leave the industry.
+B) If the price were to rise above P2, new firms would enter the industry.
+C) If the scale of Firm X at output Q2 and price P2 is large enough that Firm X has an appreciable share of the market, Firm X will no longer be a price taker.
+D) At output Q2 and price P2, Firm X is maximizing its long-run profits.
+E) Only one firm can reach the size of output Q2.
+Answer:  E
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+13) Suppose a typical firm in a competitive industry has the following data in the short run: price = $10; output = 100 units; ATC = $8; AVC = $7. What will likely happen in the long run?
+A) In the long run the industry will expand because firms are earning economic profits.
+B) In the long run the industry will contract because firms are suffering losses.
+C) The size of the industry will remain the same in the long run.
+D) The typical firm would shut down, until the remaining firms have a higher price.
+E) There is not enough information to formulate an answer.
+Answer:  A
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Quantitative
+
+14) Suppose a typical firm in a competitive industry has the following data in the short run: price = $6; output = 100 units; ATC = $8; AVC = $7. What will likely happen in the long run?
+A) In the long run the industry will expand because firms are earning economic profits.
+B) In the long run the industry will contract because firms are suffering losses.
+C) The size of the industry will remain the same in the long run.
+D) The typical firm would shut down, until the remaining firms have a higher price.
+E) There is not enough information to formulate an answer.
+Answer:  B
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Quantitative
+
+15) Suppose a typical firm in a competitive industry has the following data in the short run: price = $5000; output = 1 million units; ATC = $5300; AVC = $4750. What will likely happen in the long run?
+A) In the long run the industry will expand because firms are earning economic profits.
+B) In the long run the industry will contract because firms are suffering losses.
+C) The size of the industry will remain the same in the long run.
+D) Consumers will avoid this industry because firms are suffering losses.
+E) There is not enough information to formulate an answer.
+Answer:  B
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+User2:  Quantitative
+16) Suppose a typical firm in a competitive industry has the following data in the short run: price = $4000; output = 1 million units; ATC = $4000; AVC = $3500. What will likely happen in the long run?
+A) In the long run the industry will expand because firms are earning economic profits.
+B) In the long run the industry will contract because firms are suffering losses.
+C) The size of the industry will remain the same in the long run.
+D) The typical firm would shut down, until the remaining firms have a higher price. 
+E) There is not enough information to formulate an answer.
+Answer:  C
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+User2:  Quantitative
+
+17) Suppose a typical firm in a competitive industry has the following data in the short run: price = $5000; output = 100 000 units; ATC = $4600; AVC =$ 4300. What will likely happen in the long run?
+A) In the long run the industry will expand because firms are earning economic profits.
+B) In the long run the industry will contract because firms are suffering losses.
+C) The size of the industry will remain the same in the long run.
+D) The typical firm would shut down, until the remaining firms have a higher price. 
+E) There is not enough information to formulate an answer.
+Answer:  A
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+User2:  Quantitative
+
+18) In the long run it is not possible for a perfectly competitive firm to
+A) alter its plant size.
+B) adopt new technology.
+C) replace its antiquated equipment.
+D) adjust its output.
+E) set the product price.
+Answer:  E
+Diff: 1
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+19) In a perfectly competitive market, smaller-than-efficient sized firms can exist in
+A) the short run.
+B) the long run.
+C) both the short and long run.
+D) the long run, and they will make positive economic profits.
+E) both the short run and the long run, but they must reduce plant size to remain competitive.
+Answer:  A
+Diff: 1
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+20) Comparing the short-run and long-run profit-maximizing positions of a perfectly competitive firm, which statement is true?
+A) Price will equal marginal cost in the short run, but not necessarily in the long run.
+B) Economic profit may exist in the short run and in the long run.
+C) The firm will produce at minimum average cost in both the short and long run.
+D) Price should equal average cost in the long run, but not necessarily in the short run.
+E) The firm may have unexploited economies of scale in both the short run and the long run.
+Answer:  D
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+21) Consider a perfectly competitive firm when its industry is in long-run equilibrium. In this case,
+A) price is greater than marginal cost.
+B)  marginal revenue is greater than marginal cost.
+C) price equals minimum short-run and long-run average total cost.
+D) economic profits are greater than zero.
+E) average fixed costs are at the maximum.
+Answer:  C
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+22) Consider a competitive industry in which firms are facing a continual decrease in demand for their product. In the long run
+A) new firms will enter the industry and earn normal profits.
+B) existing firms will modernize plant and equipment in order to increase efficiency.
+C) existing firms will expand output as a means of recovering losses.
+D) firms will begin advertising in order to increase demand for their product.
+E) capacity in the industry will gradually shrink as plant and equipment is not replaced.
+Answer:  E
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+23) Long-run equilibrium in a perfectly competitive industry is characterized by
+A) internal economies of scale.
+B) an output level at which firms' SRATC curves are tangent to the downward sloping portion of their LRAC curves.
+C) falling costs.
+D) rising costs.
+E) each firm producing at the minimum point on its LRAC curve.
+Answer:  E
+Diff: 1
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+24) If a perfectly competitive firm is producing where its MR=MC, but is operating to the left of the minimum point of its LRAC curve,
+A) it cannot be optimizing its short-run behaviour.
+B) it can reduce its average costs by building a larger plant.
+C) it can still be in long-run equilibrium as long as P = SRATC.
+D) its profits will decrease if it builds a larger plant.
+E) it is in a long-run profit maximizing position.
+Answer:  B
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+25) Which of the following conditions is true of a perfectly competitive industry when it is in long-run equilibrium?
+A) Firms are entering the industry.
+B) Firms are exiting the industry.
+C) Price equals minimum short-run average total cost for all firms.
+D) Accounting profits for all firms are zero.
+E) Firms are experiencing increasing returns to scale.
+Answer:  C
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+The diagram below shows the short-run cost curves for 3 perfectly competitive firms in the same industry.
+
+
+
+	FIGURE 9-6
+
+26) Refer to Figure 9-6. Given that Firms A, B and C are in the same industry, is this industry in long-run equilibrium?
+A) No, because Firm A is not producing at a profit-maximizing level of output.
+B) No, because if the industry were in equilibrium, all 3 firms would be earning zero economic profits.
+C) Yes, because all 3 firms are producing at their minimum average total cost.
+D) Yes, because P = MC = MR for each of the 3 firms.
+E) Yes, because each of the 3 firms is operating at its minimum efficient scale.
+Answer:  B
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+27) Refer to Figure 9-6. Which firm or firms is likely to exit this industry?
+A) Firm A
+B) Firm B
+C) Firm C
+D) all of Firms A, B, and C
+E) none of Firms A, B, and C
+Answer:  C
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+
+28) Refer to Figure 9-6. Which of the following statements about Firms A, B and C is true?
+A) Firm A is suffering losses, Firm B is breaking even, and Firm C is earning profits.
+B) Firm A is breaking even, Firm B is suffering losses, and Firm C is earning profits.
+C) Firm A is earning profits, Firm B is breaking even, and Firm C is suffering losses.
+D) Firms A, B and C are breaking even.
+E) Firms A, B and C are earning profits.
+Answer:  C
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User1:  Graph
+User2:  Qualitative
+
+29) Suppose a paper mill in Quebec is shut down by its owner, even though the plant and equipment are in excellent shape and the paper is of top quality. What could explain this?
+A) The price the firm is receiving for the paper is less than its average variable cost.
+B) The paper mill must not have been operating at its profit-maximizing level of output.
+C) The price the firm is receiving is less than the average total cost.
+D) The price the firm is receiving for the paper is greater than its marginal cost.
+E) The owner was not minimizing its production costs.
+Answer:  A
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+30) Suppose a perfectly competitive industry is in long-run equilibrium.  A new one-time cost-saving technology (which is freely available) is then developed and new plants are built.  Eventually, a new long-run equilibrium will be established where
+A) new plants employ the new technology, but existing plants continue to produce as long as they cover their fixed costs.
+B) high-cost and low-cost firms exist side by side and market output will be higher.
+C) the industry supply curve has shifted to the left and price and output are both higher.
+D) all plants continue to operate until they are physically worn out as long as price is greater than the firm's average variable cost.
+E) all plants use the new technology, and market output will be higher and price will be lower.
+Answer:  E
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+31) Consider the textile industry, which we assume to be a competitive industry, and which experiences continuous cost-reducing technological change.  Which of the following statements best describes this industry?
+A) High-cost textile mills will co-exist with low-cost mills as long as the revenue for the high-cost mills is covering their variable costs.
+B) The price of the product is determined by the minimum ATC of the lowest-cost plants.
+C) All textile mills in the industry will be earning zero economic profits or losses.
+D) Both A and B
+E) Both B and C
+Answer:  D
+Diff: 3
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Applied
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+32) Which of the following assumptions about perfectly competitive markets is primarily responsible for the horizontal demand curve facing the individual firm?
+A) differentiated product
+B) consumers are aware of all firms' prices
+C) each firm is small relative to the size of the industry
+D) freedom of entry and exit in the industry
+E) strategic behaviour
+Answer:  C
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+33) Which of the following assumptions about perfectly competitive markets is primarily responsible for firms having zero economic profit in long run equilibrium?
+A) homogeneous product
+B) consumers are aware of all firms' prices
+C) each firm is small relative to the size of the industry
+D) freedom of entry and exit in the industry
+E) strategic behaviour
+Answer:  D
+Diff: 2
+Topic:  9.4b. long-run equilibrium in perfect competition
+Skill:  Recall
+Learning Obj.:  9-5 Explain the role played by profits, entry, and exit in determining a competitive industry's long‐run equilibrium.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 55
+Copyright © 2017 Pearson Education, Inc.
+
+
+

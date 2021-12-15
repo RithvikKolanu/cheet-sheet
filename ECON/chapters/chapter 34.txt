@@ -1,0 +1,2171 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 34   Exchange Rates and the Balance of Payments
+
+34.1  The Balance of Payments
+
+1) A credit entry in Canada's balance-of-payments accounts
+A) is any transaction that involves a payment to other nations.
+B) is any transaction that involves a receipt from other nations.
+C) typically results in less foreign exchange being held by Canadians.
+D) typically gives rise to the acquisition of foreign exchange on current-account transactions and the loss of foreign exchange on capital-account transactions.
+E) can be recorded only by the central bank in the official financing accounts.
+Answer:  B
+Diff: 1
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+2) When a Japanese firm buys Canadian lumber, this transaction appears as a
+A) debit on the Canadian capital account.
+B) credit on the Japanese capital account.
+C) credit on the Canadian current account.
+D) credit on the Japanese current account.
+E) debit on Canada's trade account.
+Answer:  C
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+3) A debit entry in the Canadian balance-of-payments accounts
+1) is a credit in the balance-of-payments accounts for foreign countries;
+2) arises when Canadian assets are sold to foreigners;
+3) typically results in more foreign exchange being held by foreigners.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+4) A credit entry in the Canadian balance-of-payments accounts
+1) is a credit in the balance-of-payments accounts for foreign countries;
+2) occurs when Canadians receive investment income from foreign countries;
+3) is any transaction that results in a payment to other nations.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  B
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+5) Which of the following is true? A credit entry in the Canadian balance-of-payments accounts
+A) is any transaction that results in a payment to other nations.
+B) typically results in more foreign exchange being held by foreigners.
+C) is a credit in the balance-of-payments accounts for foreign countries.
+D) arises when Canadian assets are sold to foreigners.
+E) arises when Canadians purchase assets from foreigners.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+6) Payments made to foreign firms arising from Canadians' purchases of foreign goods and services are shown in Canada's 
+A) capital account.
+B) current account.
+C) official financing account.
+D) capital-service account.
+E) foreign-currency reserves.
+Answer:  B
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+7) Canadian firms' receipts from foreign consumers arising from the exports of goods and services are shown in Canada's 
+A) investment account.
+B) capital account.
+C) official financing account.
+D) trade account.
+E) capital-service account.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+8) With respect to Canada's balance of payments, 
+A) if the current account is in deficit, the capital account must also be in deficit.
+B) the current account balance must be zero.
+C) the trade account balance must be zero.
+D) total payments must equal total receipts.
+E) if the current account is in surplus, the capital account must also be in surplus.
+Answer:  D
+Diff: 1
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+9) With respect to Canada's balance of payments, 
+A) if the current account is in deficit, the capital account must also be in deficit.
+B) the current account balance must be zero.
+C) the current account balance plus the capital account balance must be zero.
+D) the trade account plus the capital account must equal the official financing account.
+E) the capital account balance must be zero.
+Answer:  C
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+10) The capital-service account in Canada's balance-of-payments is the section of the
+A) capital account which records the net change in Canadian investments abroad and the net change in foreign investments in Canada.
+B) capital account which represents the financial reserves held by the Bank of Canada which they can use in the foreign-exchange market.
+C) current account which records the interest charges and earnings of Canadian importers and exporters.
+D) current account which records income paid to foreign owners of assets in Canada and income received by Canadians for assets located abroad.
+E) current account which records the financial reserves held by the Bank of Canada which they can use in the foreign-exchange market.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+11) The purchase of foreign assets by Canadians is, for Canada, considered a capital
+A) outflow and is recorded as a debit on the current account.
+B) outflow and is recorded as a debit on the capital account.
+C) inflow and is recorded as a credit on the current account.
+D) inflow and is recorded as a credit on the capital account.
+E) inflow and is recorded as a debit on the capital account.
+Answer:  B
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+12) The purchase of Canadian assets by foreigners is, for Canada, considered a capital
+A) outflow and is recorded as a credit on the current account.
+B) outflow and is recorded as a debit on the capital account.
+C) outflow and is recorded as a debit on the current account.
+D) inflow and is recorded as a credit on the capital account.
+E) inflow and is recorded as a credit on the current account.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+13) Which of the following would appear as a credit item in the trade account of the Canadian balance of payments?
+A) dividends payable to Canadians on Canadian-owned assets located in Cuba
+B) sales of Canadian steel to European importers
+C) Canadian purchases of American-made vehicles
+D) purchases by Japanese firms of shares of Canadian firms in the entertainment industry
+E) the opening of an Ottawa branch of a Swiss bank
+Answer:  B
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+14) Which of the following would appear as a debit item in the trade account of the Canadian balance of payments?
+A) dividends payable to Canadians on Canadian-owned assets located in Australia
+B) sales of Canadian steel to European importers
+C) Canadian purchases of Colombian coffee
+D) purchases by a Japanese pension fund of CN Rail shares
+E) purchases by General Motors of Canadian-made auto parts
+Answer:  C
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+15) Payments by Canadians of interest and dividends on foreign-owned capital located in Canada
+A) are a debit in the current account.
+B) are a debit in the capital account.
+C) contribute to a surplus on the trade account.
+D) contribute to increased foreign-exchange holding by the Bank of Canada.
+E) are a credit in the capital account.
+Answer:  A
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+16) Which one of the following transactions would appear as a debit in the current account of the Canadian balance of payments?
+A) The Arabian Capital Investment Corporation makes a loan to a Canadian firm.
+B) A Canadian subsidiary exports raw materials to its Dutch parent company.
+C) Canadians receive dividends on U.S. investment in Latin America.
+D) Canadian tourists in France purchase cases of wine.
+E) The Bank of Canada purchases euros to hold in its official reserves.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+17) Which one of the following transactions would appear as a credit in the capital account of the Canadian balance of payments?
+A) Canadians purchase foreign securities.
+B) A Dutch firm purchases a uranium mine in Canada.
+C) Canadian firms pay dividends to foreigners.
+D) Coffee is imported from Venezuela.
+E) French tourists buy ski tickets in Canada.
+Answer:  B
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+18) Consider the following annual transactions in Canada's current account. If Canadian exports of goods and services are $40 billion, imports of goods and services are $35 billion, transfers by Canadians to foreigners are $2 billion and transfers from foreigners to Canadian citizens are $1 billion, then the current account balance is
+A) + $6 billion.
+B) + $4 billion.
+C) - $4 billion.
+D) - $6 billion.
+E) - $7 billion
+Answer:  B
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Quantitative
+19) Consider the following annual transactions in Canada's capital account. If Canadian purchases of foreign real estate are $100 million, Canadian purchases of foreign-country bonds are $50 million, foreign purchases of Canadian real estate are $75 million, and foreign purchases of Canadian bonds are $35 million, then the capital account balance is equal to
+A) + $90 million.
+B) + $40 million.
+C) - $10 million.
+D) - $40 million.
+E) - $90 million.
+Answer:  D
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Quantitative
+
+20) Consider Canada's balance of payments. If the Canadian government were to purchase more foreign-exchange reserves, this transaction
+A) represents the sale of an asset, and thus enters as a credit item in the official financing account.
+B) represents the purchase of an asset from abroad, and thus enters as a debit item in the official financing account.
+C) enters as a credit in the current account.
+D) enters as a credit in the capital account.
+E) represents the purchase of an asset from abroad, and thus enters as a debit item in the capital-service account.
+Answer:  B
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+21) Consider Canada's balance of payments. If the Canadian government were to purchase more foreign-exchange reserves, this transaction
+A) represents the sale of an asset, and thus enters as a credit item in the official financing account.
+B) represents the purchase of an asset from abroad, and thus enters as a debit item in the capital-service account.
+C) enters as a credit in the current account.
+D) enters as a debit in the capital account.
+E) enters as a credit in the capital account.
+Answer:  D
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+22) Consider Canada's balance of payments. If the Government of Canada were to sell some of its foreign-exchange reserves to a foreign government, the transaction would 
+A) represent the sale of an asset, and thus enter as a credit item in the official financing account.
+B) represent the purchase of an asset from abroad, and thus enter as a debit item in the official financing account.
+C) enter as a credit in the current account.
+D) enter as a debit in the capital account.
+E) enters as a credit in the capital-service account.
+Answer:  A
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+23) Consider Canada's balance of payments. When a grocery importer in Sweden buys Quebec maple syrup, this transaction 
+A) appears as a debit item on the Canadian current account.
+B) appears as a credit item on the Swedish current account.
+C) appears as a credit item on the Canadian capital account.
+D) appears as a debit item on the Swedish current account.
+E) appears as a debit item on the Canadian capital account.
+Answer:  D
+Diff: 2
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+24) The difference between the payments and receipts from international transactions in goods and services (plus net foreign-investment income) is represented in the
+A) official financing account.
+B) trade balance.
+C) capital service account.
+D) current account balance.
+E) merchandise account.
+Answer:  D
+Diff: 1
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+User2:  Qualitative
+25) The difference between the payments and receipts from international transactions in assets is represented in the
+A) official financing account.
+B) trade balance.
+C) capital account balance.
+D) current account balance.
+E) merchandise account.
+Answer:  C
+Diff: 1
+Topic:  34.1a. the balance of payments
+Skill:  Recall
+User2:  Qualitative
+
+Consider the balance-of-payments accounting information for Lalaland in 2015 as shown in the table below. All values are in billions of dollars and any variables not provided below have a value of zero.
+
+Exports
+500
+Imports
+350
+Net foreign-investment income
+-60
+Capital outflows
+180
+Capital inflows
+90
+
+TABLE 34-1
+
+26) Refer to Table 34-1. What is the current account balance for Lalaland in 2015?
+A) -$250 billion
+B) -$90 billion
+C) $0
+D) $90 billion
+E) $210 billion
+Answer:  D
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User1:  Table
+User2:  Quantitative
+
+27) Refer to Table 34-1. What is the capital account balance for Lalaland in 2015?
+A) -$270 billion
+B) -$90 billion
+C) $0
+D) $90 billion
+E) $270 billion
+Answer:  B
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User1:  Table
+User2:  Quantitative
+28) Refer to Table 34-1. What is the net change in the stock of Lalaland's investments abroad in 2015?
+A) a decrease of $180 billion
+B) a decrease of $90 billion
+C) an increase of $90 billion
+D) an increase of $180 billion
+E) insufficient information to determine
+Answer:  C
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 34-1. What is the net capital flow between Lalaland and the rest of the world in 2015?
+A) a net capital outflow from Lalaland of $90 billion
+B) a net capital outflow from Lalaland of 180 billion
+C) a net capital inflow into Lalaland of $90 billion
+D) a net capital inflow into Lalaland of $180 billion
+E) a net capital outflow from Lalaland of $60 billion
+Answer:  A
+Diff: 3
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User1:  Table
+User2:  Quantitative
+
+30) Refer to Table 34-1. What is the balance of payments for Lalaland in 2015?
+A) $90 billion
+B) $60 billion
+C) $0
+D) -$90 billion
+E) -$60 billion
+Answer:  C
+Diff: 1
+Topic:  34.1a. the balance of payments
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+31) Consider a country's balance of payments. An excess of payments over receipts on the current account
+A) must equal the net debit balance of the capital account.
+B) must equal the net credit balance of the current account.
+C) is not possible.
+D) must be matched by an excess of payments over receipts on the capital account.
+E) must be matched by an excess of receipts over payments on the capital account.
+Answer:  E
+Diff: 2
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+32) Consider Canada's balance of payments. If Canada's current account is in deficit, then we can be sure that there is a ________ on the capital account, which means a capital ________ to (from) Canada.
+A) surplus; inflow
+B) deficit; inflow
+C) surplus; outflow
+D) deficit; outflow
+Answer:  A
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+33) A country's balance of payments is sometimes incorrectly said to be "in deficit." This statement often refers to a situation where 
+A) total debits exceed total credits.
+B) the official financing account is in surplus.
+C) the official financing account is also "in deficit."
+D) the government is increasing its stock of foreign-exchange reserves.
+E) debits exceed credits on the capital account only.
+Answer:  B
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+34) A country's balance of payments is sometimes incorrectly said to be "in surplus." This usually refers to a situation where 
+A) total credits exceed total debits.
+B) the government is increasing its holding of foreign-currency reserves.
+C) the official financing account is also in surplus.
+D) the official financing accounts show a decrease in the stocks of official reserves.
+E) credits exceed debits on the capital account only.
+Answer:  B
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+35) Canada's balance of payments is sometimes incorrectly said to be "in surplus." The reason this must be incorrect is that
+A) Canada's balance of payments has been in deficit for almost all of its history. 
+B) unlike most countries, Canada's balance of payments is almost always balanced.
+C) like any other country in the world, Canada's balance of payments is always perfectly balanced.
+D) the Canadian government has long been committed to avoiding balance of payments surpluses.
+E) it is not possible for capital flows to be in a surplus situation.
+Answer:  C
+Diff: 2
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+36) Canada's balance of payments is sometimes incorrectly said to be "in deficit." The reason this must be incorrect is that
+A) Canada's balance of payments has been in surplus for almost all of its history. 
+B) unlike most countries, Canada's balance of payments is almost always balanced.
+C) like any other country in the world, Canada's balance of payments is always perfectly balanced.
+D) the Canadian government has long been committed to avoiding balance of payments deficits.
+E) it is not possible for capital flows to be in a deficit situation.
+Answer:  C
+Diff: 2
+Topic:  34.1b. the balance of payments must balance
+Skill:  Recall
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+37) Consider Canada's balance of payments. Suppose Canada's current account has a surplus of $18 billion in 2013. It follows that Canada must have a capital account ________ of ________, meaning that there is a capital flow of this amount ________ Canada.
+A) surplus; $18 billion; into
+B) deficit; $18 billion; out of
+C) deficit; less than $18 billion; out of
+D) surplus; less than $18 billion; into
+E) deficit; $18 billion; into 
+Answer:  B
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+38) Consider Canada's balance of payments. Suppose Canada's current account has a deficit of $12 billion in 2013. It follows that Canada must have a capital account ________ of ________, meaning that there is a capital flow of this amount ________ Canada.
+A) surplus; $12 billion; into
+B) deficit; $12 billion; out of
+C) deficit; less than $12 billion; out of
+D) surplus; less than $12 billion; into
+E) deficit; $12 billion; into 
+Answer:  A
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+39) Consider Canada's balance of payments. Suppose Canada's capital account has a deficit of $10 billion in 2013. It follows that Canada must have a current account ________ of ________, meaning that net payments of this amount from the sale of goods and services (plus net investment income) are flowing ________ Canada.
+A) surplus; $10 billion; into
+B) deficit; $10 billion; out of
+C) deficit; less than $10 billion; out of
+D) surplus; $10 billion; out of
+E) deficit; $10 billion; into 
+Answer:  A
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+40) In 2014, Canada had a current account deficit of approximately $41 billion. In the absence of any statistical discrepancy, this deficit would imply that during that year, Canada
+A) had negative net assets with the rest of the world.
+B) also had a capital account deficit.
+C) had a net debt to the rest of the world of more than $41 billion.
+D) experienced a capital inflow of $41 billion.
+E) experienced a decrease in GDP of $41 billion.
+Answer:  D
+Diff: 3
+Topic:  34.1b. the balance of payments must balance
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Qualitative
+
+41) In 2014, Canada had a capital account surplus of nearly $31 billion. In the absence of any statistical discrepancy, this surplus would imply that during that year,
+1) foreigners purchased net $31 billion of Canadian assets
+2) Canada had a current account deficit
+3) Canadians purchased net $31 billion of foreign assets
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  E
+Diff: 2
+Topic:  34.1b. the balance of payments must balance
+Skill:  Applied
+Learning Obj.:  34-1 List the components of Canada's balance of payments and explain why the balance of payments must always balance.
+User2:  Quantitative
+
+34.2  The Foreign-Exchange Market
+
+1) An appreciation of the Canadian dollar implies
+A) a fall in the external value of the dollar, such that fewer dollars are required to purchase foreign currency.
+B) a fall in the external value of the dollar, such that more dollars are required to buy foreign currency.
+C) a rise in the external value of the dollar, such that fewer dollars are required to purchase foreign currency.
+D) a rise in the external value of the dollar, such that more dollars are required to purchase foreign currency.
+E) is shown only by changes in the official reserves of the Bank of Canada and does not influence the exchange rate.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+2) For Canada, the term "exchange rate," as used by most economists, refers to
+A) the price at which purchases and sales of foreign goods take place in Canada.
+B) Canadian exports minus imports.
+C) the price of foreign currency in terms of Canadian dollars.
+D) the ratio of Canadian exports to imports.
+E) dividends from foreign sources minus interest paid by residents to non-residents.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+3) A depreciation of the Canadian dollar implies
+A) a fall in the external value of the dollar, such that fewer dollars are required to purchase foreign currency.
+B) a fall in the external value of the dollar, such that more dollars are required to buy foreign currency.
+C) a rise in the external value of the dollar, such that fewer dollars are required to purchase foreign currency.
+D) a rise in the external value of the dollar, such that more dollars are required to purchase foreign currency.
+E) a rise in the official reserves of foreign currency held by the Bank of Canada.
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+4) A rise in the Canadian-dollar price of foreign currency is referred to as 
+A) an appreciation of the Canadian dollar.
+B) a depreciation of the Canadian dollar.
+C) a decrease in the exchange rate.
+D) a gain in the relative value of the Canadian dollar.
+E) a rise in the external value of the Canadian dollar.
+Answer:  B
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+5) Suppose there are only two countries in the world, countries A and B. If the currency of country A appreciates, the currency of country B
+A) can appreciate relative to other countries.
+B) must appreciate.
+C) may appreciate or depreciate, depending on the elasticity of demand for the exports of country A.
+D) must depreciate.
+E) may appreciate or depreciate, depending on the volume of trade between the two countries.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+6) Consider Canada's trade with the United States. Canadian exports to the U.S., Americans travelling in Canada, and U.S. capital flows into Canada all give rise to
+A) a supply of U.S. dollars on the foreign-exchange market.
+B) a demand for U.S. dollars on the foreign-exchange market.
+C) a lower value of the Canadian dollar.
+D) a decrease in U.S. dollar reserves in Canada.
+E) a depreciation of the Canadian dollar.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+7) Imports into Canada, Canadians travelling outside of Canada, and capital flows out of Canada to purchase foreign assets all give rise to
+A) a supply of Canadian currency on the foreign-exchange market.
+B) a supply of foreign currency on the foreign-exchange market.
+C) a higher value of the Canadian dollar.
+D) an increase in foreign-exchange reserves in Canada.
+E) an appreciation of the Canadian dollar.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+8) An American traveling to Canada converts U.S.$100 into $118 Canadian dollars. One month later he does the same thing and receives $125 Canadian dollars. There are no transactions costs. The Canadian-U.S. exchange rate has 
+A) risen.
+B) fallen.
+C) neither risen nor fallen.
+D) either risen or fallen; more information is required to determine the direction of movement with certainty.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+9) If the exchange rate between British pounds sterling and the Canadian dollar is 1 pound = $2.80, then
+A) one pound exchanges for 0.28 dollars.
+B) one pound exchanges for 2.40 dollars.
+C) one dollar exchanges for 0.280 pounds.
+D) one dollar exchanges for 0.357 pounds.
+E) one dollar exchanges for 1.40 pounds.
+Answer:  D
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+10) A Canadian traveling to the United States converts $100 Canadian into 85 U.S. dollars. One month later he does the same thing and receives only 80 U.S. dollars. There are no transactions costs. The Canadian-U.S. exchange rate has ________ and the Canadian dollar has ________ relative to the U.S. dollar.
+A) increased; depreciated
+B) fallen; depreciated
+C) increased; appreciated 
+D) fallen; appreciated
+E) not changed; remained stationary
+Answer:  A
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+11) A Canadian traveling to the United States converts $100 Canadian into 95 U.S. dollars. One month later he does the same thing and receives 105 U.S. dollars. There are no transactions costs. The Canadian-U.S. exchange rate has ________ and the Canadian dollar has ________ relative to the U.S. dollar.
+A) increased; depreciated
+B) fallen; depreciated
+C) increased; appreciated 
+D) fallen; appreciated
+E) not changed; remained stationary
+Answer:  D
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+12) A fall in the Canadian-dollar price of foreign currency is referred to as 
+A) a depreciation of the Canadian dollar.
+B) an increase in the exchange rate.
+C) a loss in the relative value of the Canadian dollar.
+D) a fall in the external value of the Canadian dollar.
+E) an appreciation of the Canadian dollar.
+Answer:  E
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+13) To macroeconomists, "foreign exchange" refers to
+A) the price at which purchases and sales of foreign goods take place.
+B) the movement of goods and services from one country to another.
+C) foreign currency or various claims on it.
+D) the difference between exports and imports.
+E) the actual transaction that occurs as currencies are traded.
+Answer:  C
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+14) Other things being equal, an appreciation of the domestic currency
+A) lowers the domestic price of imported goods.
+B) raises the domestic price of imported goods.
+C) raises the world price of imported goods.
+D) lowers the world price of imported goods.
+E) lowers the value of our currency in a foreign country.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+15) Other things being equal, a depreciation of the domestic currency tends to
+A) encourage merchandise imports.
+B) discourage foreigners from travelling to Canada.
+C) encourage Canadians to travel abroad.
+D) have a negative effect on the domestic trade account.
+E) encourage merchandise exports.
+Answer:  E
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+16) Other things being equal, an appreciation of the domestic currency tends to
+A) discourage Canadians from travelling abroad.
+B) encourage foreigners to travel to Canada.
+C) have a positive effect on the domestic trade account.
+D) encourage merchandise imports.
+E) encourage merchandise exports.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+17) The demand for Canadian dollars in the foreign-exchange market is derived from
+A) exports from Canada + capital outflows from Canada.
+B) exports from Canada + capital inflows to Canada.
+C) imports to Canada + capital outflows from Canada.
+D) imports to Canada + capital inflows to Canada.
+E) the Canadian government's holding of official reserves.
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+18) The supply curve for Japanese yen on the foreign-exchange market is upward-sloping when plotted against the exchange rate (measured as the Canadian dollar price of one Japanese yen) because
+A) when the dollar appreciates, Canadian goods are cheaper in Japan.
+B) a depreciation of the dollar will cause the yen prices of Canadian goods to rise.
+C) when the dollar depreciates, the price of Japanese exports to Canada decreases.
+D) an appreciation of the dollar will cause the yen prices of Canadian exports to fall.
+E) when the dollar depreciates, Canadian goods are cheaper in Japan, and more Canadian exports are therefore demanded.
+Answer:  E
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+19) The supply of Canadian dollars to the foreign-exchange market, which is also the demand for foreign currency, is derived from
+A) imports to Canada + capital inflows to Canada.
+B) exports from Canada + capital outflows from Canada.
+C) exports from Canada + capital inflows to Canada.
+D) the Canadian government's holdings of official reserves.
+E) imports to Canada + capital outflows from Canada.
+Answer:  E
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+20) Suppose a Canadian grocery chain imports one million kilograms of cheese from a Swiss exporter. Ceteris paribus, the effect is to 
+A) decrease the number of Canadian dollars needed to buy one Swiss franc.
+B) increase the number of Swiss francs needed to buy one Canadian dollar.
+C) increase the demand for Swiss francs in the foreign-exchange market.
+D) increase the supply of Swiss francs in the foreign-exchange market.
+E) increase the demand for Canadian dollars in the foreign-exchange market.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+21) If Canadian demand for French wine increases, the supply of Canadian dollars to the foreign-exchange market will ________ and the demand for euros will therefore ________.
+A) decrease; decrease
+B) decrease; increase
+C) increase; decrease
+D) increase; increase
+E) increase; remain the same
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+22) The supply of Canadian dollars to the foreign-exchange market, which is also the demand for foreign currency, will increase if
+A) tourism to Canada increases.
+B) foreign demand for Canadian goods increases.
+C) imports into Canada increase.
+D) Canadian interest rates are high.
+E) Canadian inflation rates are low.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+23) Other things being equal, if the Canadian dollar appreciates, there will be a ________ in the demand for foreign imports, and the number of dollars offered in the foreign-exchange market will ________.
+A) rise; rise
+B) rise; fall
+C) fall; rise
+D) fall; fall
+E) fall; remain constant
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+24) Suppose that in Canada we experience a rise in the Canadian dollar price of foreign exchange. In this circumstance, the dollar will have ________ and the exchange rate will have ________.
+A) depreciated; fallen
+B) depreciated; risen
+C) appreciated; fallen
+D) appreciated; risen
+E) appreciated; depreciated
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+25) Suppose that in Canada we experience a fall in the Canadian dollar price of foreign exchange. In this circumstance, the dollar will have ________ and the exchange rate will have ________.
+A) depreciated; fallen
+B) depreciated; risen
+C) appreciated; fallen
+D) appreciated; risen
+E) appreciated; remained the same
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+26) In a competitive foreign-exchange market between the dollar and the British pound, a price of pounds (in terms of dollars) above the free-market equilibrium would
+A) result in the quantity of pounds demanded being greater than the quantity supplied.
+B) indicate that some people who wish to purchase pounds will not be able to do so at the current exchange rate.
+C) lead to an appreciation of the dollar.
+D) result in the quantity of dollars supplied being greater than the quantity demanded.
+E) lead to a depreciation of the dollar.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+27) In a competitive foreign-exchange market between the Canadian dollar and the British pound, a price of pounds (in terms of dollars) below the free-market equilibrium would
+A) result in the quantity of pounds supplied being greater than the quantity demanded.
+B) indicate that all people who wish to purchase pounds will be able to do so at the current exchange rate.
+C) lead to an appreciation of the dollar.
+D) result in a sustained shortage of pounds.
+E) lead to a depreciation of the dollar.
+Answer:  E
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+28) Consider the market in which Canadian dollars are exchanged for British pounds. An increased preference of Canadian consumers for British goods would
+A) shift the supply-of-pounds curve to the left and lead to a rise in the exchange rate.
+B) shift the demand-for-pounds curve to the right and lead to a rise in the exchange rate.
+C) shift the supply-of-pounds curve to the right and lead to a fall in the exchange rate.
+D) shift the demand-for-pounds curve to the left and lead to a fall in the exchange rate.
+E) lead to a temporary excess supply of British pounds on the international currency market.
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+29) Consider the market in which Canadian dollars are exchanged for British pounds. An increased preference of British consumers for Canadian goods would
+A) shift the supply-of-pounds curve to the left and lead to a rise in the exchange rate.
+B) shift the demand-for-pounds curve to the right and lead to a rise in the exchange rate.
+C) shift the supply-of-pounds curve to the right and lead to a fall in the exchange rate.
+D) shift the demand-for-pounds curve to the left and lead to a fall in the exchange rate.
+E) lead to a temporary excess demand for British pounds on the international currency market.
+Answer:  C
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+30) Consider the market in which Canadian dollars are exchanged for Chinese yuan (the Chinese currency). An increase in Chinese demand for Canadian resources would
+A) shift the supply-of-yuan curve to the right and lead to an appreciation of the Canadian dollar.
+B) shift the supply-of-yuan curve to the left and lead to an appreciation of the Canadian dollar.
+C) shift the demand-for-yuan curve to the right and lead to a depreciation of the Canadian dollar.
+D) shift the demand-for-yuan curve to the left and lead to an appreciation of the Canadian dollar.
+E) have no effect on the foreign-exchange market.
+Answer:  A
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+
+FIGURE 34-1
+
+31) Refer to Figure 34-1. A rise in the exchange rate (moving up the vertical axis) indicates 
+A) that fewer dollars are needed to purchase one euro.
+B) that more euros are required to purchase one Canadian dollar.
+C) an appreciation of the Canadian dollar.
+D) a depreciation of the Canadian dollar.
+E) no effect on the value of the currency.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 34-1. A fall in the exchange rate (moving down the vertical axis) indicates
+A) that more dollars are needed to purchase one euro.
+B) that fewer euros are required to purchase one Canadian dollar.
+C) an appreciation of the Canadian dollar.
+D) a depreciation of the Canadian dollar.
+E) no effect on the value of the currency.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+33) Refer to Figure 34-1. A fall in the exchange rate (moving down the vertical axis) indicates
+A) a depreciation of the Canadian dollar.
+B) that more dollars are needed to purchase one euro.
+C) that fewer dollars are needed to purchase one euro.
+D) that fewer euros are required to purchase one Canadian dollar.
+E) no effect on the value of the currency.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 34-1. A rise in the exchange rate (moving up the vertical axis) indicates
+A) an appreciation of the Canadian dollar.
+B) that more dollars are needed to purchase one euro.
+C) that fewer dollars are needed to purchase one euro.
+D) that more euros are required to purchase one Canadian dollar.
+E) no effect on the value of the currency.
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+FIGURE 34-2
+
+35) Refer to Figure 34-2. If the exchange rate is e1, there is
+A) an excess demand for foreign exchange.
+B) pressure for the Canadian dollar to depreciate.
+C) pressure for the exchange rate to rise.
+D) an excess supply of foreign exchange.
+E) a surplus of Canadian dollars.
+Answer:  D
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+36) Refer to Figure 34-2. If the exchange rate is e2, there is 
+A) an excess supply of foreign exchange.
+B) pressure for the Canadian dollar to appreciate.
+C) pressure for the exchange rate to fall.
+D) a shortage of Canadian dollars.
+E) an excess demand for foreign exchange.
+Answer:  E
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+37) Refer to Figure 34-2. If the exchange rate is e1, there is
+A) an excess demand for foreign exchange.
+B) pressure for the Canadian dollar to appreciate.
+C) pressure for the exchange rate to rise.
+D) an excess supply of Canadian dollars.
+E) a surplus of Canadian dollars.
+Answer:  B
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+38) Refer to Figure 34-2. If the exchange rate is e2, there is
+A) an excess demand for Canadian dollars. 
+B) pressure for the Canadian dollar to appreciate.
+C) pressure for the exchange rate to fall.
+D) pressure for the Canadian dollar to depreciate.
+E) a surplus of foreign exchange.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+39) Refer to Figure 34-2. If the exchange rate is e1, there is 
+A) a shortage of foreign exchange.
+B) a surplus of Canadian dollars.
+C) pressure on the Canadian dollar to depreciate.
+D) pressure on the exchange rate to rise.
+E) a shortage of Canadian dollars.
+Answer:  E
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+40) Refer to Figure 34-2. If the exchange rate is e2, there is 
+A) a surplus of foreign exchange.
+B) a surplus of Canadian dollars.
+C) pressure on the Canadian dollar to appreciate.
+D) pressure on the exchange rate to fall.
+E) a shortage of Canadian dollars.
+Answer:  B
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+
+
+	FIGURE 34-3
+
+41) Refer to Figure 34-3. An increase in demand or decrease in the supply of foreign exchange will
+A) encourage Canadians to buy more European goods.
+B) encourage Europeans to buy fewer Canadian goods.
+C) cause the Canadian dollar to appreciate.
+D) cause the Canadian dollar to depreciate.
+E) have no effect on the exchange rate.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+42) Refer to Figure 34-3. An increase in demand for foreign exchange OR a decrease in the supply of foreign exchange may be due to
+A) foreign inflation in excess of domestic inflation.
+B) domestic inflation in excess of foreign inflation.
+C) equal rates of inflation.
+D) increased preference for Canadian goods.
+E) more Europeans travelling to Canada.
+Answer:  B
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User1:  Graph
+User2:  Qualitative
+
+43) Countries can engage in trade with each other only if
+A) there are international trading agreements in place.
+B) currencies of the trading nations can be exchanged.
+C) the countries engaging in trade officially establish an agreed upon exchange rate.
+D) the trade is bilateral.
+E) trading nations share the same currency.
+Answer:  B
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+44) A rise in the Canadian-dollar price of foreign currency is
+A) a decrease in the exchange rate.
+B) an appreciation of the Canadian dollar.
+C) a depreciation of the Canadian dollar.
+D) a gain in the relative value of the Canadian dollar.
+E) a rise in the external value of the Canadian dollar.
+Answer:  C
+Diff: 1
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Recall
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+45) If the exchange rate between Mexican pesos and Canadian dollars is 1 peso = $0.1428,
+A) one peso exchanges for $0.2857.
+B) one dollar exchanges for 7 pesos.
+C) one dollar exchanges for 14.28 pesos.
+D) one peso exchanges for $1.42.
+E) one dollar exchanges for .028 pesos.
+Answer:  B
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+46) Other things being equal, a depreciation of the Canadian dollar leads to
+A) an increase in the number of foreign tourists travelling to Canada.
+B) an increase in the number of Canadian citizens travelling abroad.
+C) a negative effect on the trade account of Canada's balance of payments.
+D) an increase in desired merchandise imports.
+E) a decrease in desired merchandise exports.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+47) When you hear on the news that the "Canadian dollar is at 87 cents U.S.," what is the Canada/U.S. exchange rate expressed as the Canadian-dollar price of one U.S. dollar?
+A) $0.87
+B) $1.00
+C) $1.13
+D) $1.15
+E) $1.87
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+48) Suppose we hear on the news that the Canadian dollar is valued at 94.6 U.S. cents. In this case, the Canada-U.S. exchange rate is 
+A) 94.6.
+B) 0.946.
+C) 0.0946.
+D) 1.057.
+E) 10.57.
+Answer:  D
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+49) Suppose we hear on the news that the Canadian dollar is valued at U.S.$1.08. In this case, the Canada-U.S. exchange rate is 
+A) 92.59.
+B) 9.259.
+C) 0.9259.
+D) 1.08.
+E) 0.0108.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+50) Other things being equal, if the Canadian dollar depreciates, the quantity of foreign exchange demanded will decline because
+A) the Canadian-dollar price of foreign goods will rise.
+B) the foreign-exchange price of foreign goods will fall.
+C) the Canadian-dollar price of foreign goods will fall.
+D) the foreign-exchange price of foreign goods will rise.
+E) the Canadian-dollar price of Canadian goods will rise.
+Answer:  A
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+51) Suppose Canada imposed a tax of 10% on all foreign-exchange transactions. We can predict that
+A) the Canadian dollar would depreciate by 10% in response and no change in trade would occur.
+B) the tax would reduce the profit of exporters and importers but would not affect the volume of trade.
+C) the gains from trade would be reduced and less trade would occur.
+D) the tax would have no effect on the volume of trade because it affects only Canadians, and not foreigners.
+E) the Canadian dollar would appreciate due to increased demand.
+Answer:  C
+Diff: 2
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+52) Suppose a laptop computer sells in China for 3000 yuan, and suppose the exchange rate between the Canadian dollar and the yuan is 12 yuan per Canadian dollar. If you buy the laptop in China it will cost you the equivalent of ________ Canadian.
+A) $3600
+B) $360
+C) $250
+D) $36
+E) $25
+Answer:  C
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+53) Suppose a shipment of electronic equipment is arriving in Canada from Taiwan. The price in Taiwanese dollars (TWD) is 20 million TWD. Assume the exchange rate between the Canadian dollar and the TWD is 28 TWDs per dollar. The Canadian-dollar value of the shipment is 
+A) $7142.
+B) $56 000.
+C) $5 600 000.
+D) $560 000.
+E) $714 000.
+Answer:  E
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Quantitative
+
+54) Suppose there is a rise in the world price of Canada's imports. If the Canadian demand for imports has a price elasticity greater than 1 (elastic), the demand for foreign exchange will ________ and the Canadian dollar will ________.
+A) rise; appreciate
+B) rise; depreciate
+C) fall; appreciate
+D) fall; depreciate
+E) fall; and remain constant
+Answer:  C
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+55) Suppose there is a rise in the world price of Canada's imports. If the Canadian demand for imports has a price elasticity less than 1 (inelastic), the demand for foreign exchange will ________ and the Canadian dollar will ________.
+A) rise; appreciate
+B) rise; depreciate
+C) fall; appreciate
+D) fall; depreciate
+E) fall; and remain constant
+Answer:  B
+Diff: 3
+Topic:  34.2. demand and supply in the foreign-exchange market
+Skill:  Applied
+Learning Obj.:  34-2 Describe the demand for and supply of foreign exchange.
+User2:  Qualitative
+
+34.3  The Determination of Exchange Rates
+
+1) If there are no transactions in the official financing account of a country's balance of payments, it is likely that 
+A) the central bank has pegged the exchange rate so that the current and capital accounts sum to zero.
+B) the exchange rate is being determined freely in the foreign-exchange market.
+C) this country must not be engaging in international trade.
+D) there must be a disequilibrium in the foreign-exchange market.
+E) this country has a pegged exchange rate and persistent surpluses on its balance of payments.
+Answer:  B
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+2) Assume exchange rates are flexible. The existence of inflation in a country that is higher than inflation in the rest of the world will tend to 
+A) increase the demand for that country's currency in the foreign-exchange market, and lead to an appreciation of that currency.
+B) increase the supply of that country's currency in the foreign-exchange market, and lead to a depreciation of that currency.
+C) increase its exports.
+D) decrease its imports.
+E) have no effect on the foreign-exchange market.
+Answer:  B
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+3) Assume exchange rates are flexible. General domestic inflation that is above inflation in the rest of the world will affect the supply and demand for foreign exchange in the following way:
+A) decrease the demand and increase the supply.
+B) increase both the supply and demand.
+C) decrease both the supply and demand.
+D) decrease the supply and increase the demand.
+E) there will be no effect.
+Answer:  D
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+4) Assume exchange rates are flexible. When the quality of one country's products is improving more rapidly than the quality of the products produced in the rest of the world, there will be a tendency, ceteris paribus, for
+A) short term capital to flow out of the country.
+B) the country's interest rates to rise relative to the rest of the world.
+C) that country's currency to appreciate.
+D) that country's currency to depreciate.
+E) the country's inflation rate to rise relative to the rest of the world.
+Answer:  C
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+5) Assume exchange rates are flexible. Net capital inflows tend to
+A) appreciate the currency of the capital-importing nation.
+B) appreciate the currency of the capital-exporting nation.
+C) increase the supply of the capital-importing country's currency in the foreign-exchange market.
+D) increase the demand for the capital-exporting country's currency in the foreign-exchange market.
+E) decrease the official reserves of the capital-importing country.
+Answer:  A
+Diff: 2
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+6) Assume exchange rates are flexible. Other things being equal, a contractionary monetary policy in Canada will tend to cause a(n)
+A) depreciation of the Canadian dollar.
+B) appreciation of the European currency.
+C) financial capital outflows.
+D) a decreased external value of the Canadian dollar.
+E) appreciation of the Canadian dollar.
+Answer:  E
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+7) Long-term international capital movements are largely influenced by
+A) long-term expectations about another country's profit opportunities and the general business environment.
+B) differences in the overnight interest rates between the domestic country and foreign countries.
+C) speculation about movements in the exchange rate in coming months.
+D) whether they are treated as debits or credits in the capital account.
+E) speculation about the movements in monthly inflation rate estimates.
+Answer:  A
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+8) If a Canadian company builds and operates a mine in Indonesia, in the foreign-exchange market there will be a(n)
+A) fall in the demand for dollars in the foreign-exchange market.
+B) increase in the demand for dollars in the foreign-exchange market.
+C) fall in the supply of dollars to the foreign-exchange market.
+D) increase in the supply of dollars to the foreign-exchange market.
+E) decrease in the debits on Canada's capital account.
+Answer:  D
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+9) If the Bank of Canada pursues a contractionary monetary policy, interest rates in Canada will
+A) rise, there will be a capital outflow, and the Canadian dollar will depreciate.
+B) rise, there will be a capital inflow, and the Canadian dollar will appreciate.
+C) fall, there will be a capital inflow, and the Canadian dollar will depreciate.
+D) fall, there will be a capital outflow, and the Canadian dollar will appreciate.
+E) fall, there will be a loss in official reserves at the Bank of Canada, and the Canadian dollar will depreciate.
+Answer:  B
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+10) Under a system of flexible exchange rates, a nation which tightens its monetary policy would be likely to experience
+A) a loss in international reserves.
+B) a fall in the value of its currency.
+C) short-term capital outflows.
+D) an appreciation of its currency.
+E) a surplus in its current account.
+Answer:  D
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+11) We can expect that an increase in Canadian interest rates caused by a monetary contraction would
+A) decrease the external value of the Canadian dollar.
+B) stimulate Canadian exports.
+C) increase the external value of the Canadian dollar.
+D) always induce an offsetting action by the Bank of Canada.
+E) lead to a surplus in Canada's current account.
+Answer:  C
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+12) Suppose Canada has a flexible exchange rate. If there is a decline in the world price of copper (a major Canadian export), other exporting sectors of the Canadian economy will likely ________ due to the resulting ________ of the Canadian dollar.
+A) contract; depreciation
+B) contract; appreciation
+C) expand; depreciation
+D) expand; appreciation
+E) expand; the reduced speculative appeal of 
+Answer:  C
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+13) Suppose Canada has a flexible exchange rate. If there is a rise in the world price of copper (a major Canadian export), other exporting sectors of the Canadian economy will likely ________ due to the resulting ________ of the Canadian dollar.
+A) contract; depreciation
+B) contract; appreciation
+C) expand; depreciation
+D) expand; appreciation
+E) expand; reduced speculative appeal
+Answer:  B
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+14) Suppose two countries, A and B, are trading with each other. Suppose also that the rate of inflation in B is higher than in A. There will be
+A) an increase in the demand for Country B's currency in the foreign-exchange market.
+B) an increase in Country B's exports.
+C) a decrease in Country B's imports.
+D) an increase in the supply of Country B's currency in the foreign-exchange market.
+E) no effect on the foreign-exchange market.
+Answer:  D
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+15) If the Bank of Canada pursues an expansionary monetary policy,
+A) interest rates will rise, there will be a capital outflow, and the Canadian dollar will depreciate.
+B) interest rates will rise, there will be a capital inflow, and the Canadian dollar will appreciate.
+C) interest rates will fall, there will be a capital inflow, and the Canadian dollar will depreciate.
+D) interest rates will fall, there will be a capital outflow, and the Canadian dollar will appreciate.
+E) interest rates will fall, there will be a capital outflow, and the Canadian dollar will depreciate.
+Answer:  E
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+16) Consider a country that is operating under a system of flexible exchange rates. If the central bank in this country imposes an expansionary monetary policy, it would be likely to experience
+1) a depreciation of its currency;
+2) short-term capital outflows;
+3) an appreciation of its currency.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  D
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+17) Suppose the Bank of Canada raises its target for the overnight interest rate from 3% to 3.25%, while interest rates in other countries do not change. The result will be
+A) an inflow of financial capital, a decrease in demand for Canadian dollars, and a depreciation of the Canadian dollar.
+B) an inflow of financial capital, an increase in demand for Canadian dollars, and a depreciation of the Canadian dollar.
+C) an inflow of financial capital, an increase in demand for Canadian dollars, and an appreciation of the Canadian dollar.
+D) an outflow of financial capital, an increase in demand for Canadian dollars, and an appreciation of the Canadian dollar.
+E) an outflow of financial capital, a decrease in demand for Canadian dollars, and a depreciation of the Canadian dollar.
+Answer:  C
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+18) Suppose the Bank of Canada raises its target for the overnight interest rate from 3% to 3.25%, while interest rates in other countries do not change. How will this policy action affect Canada's imports and exports?
+A) The Canadian dollar will appreciate and encourage imports into Canada.
+B) The Canadian dollar will appreciate and encourage Canada's exports.
+C) The Canadian dollar will depreciate and discourage Canada's exports.
+D) The Canadian dollar will depreciate and encourage imports into Canada.
+E) The Canadian dollar will appreciate and discourage imports into Canada.
+Answer:  A
+Diff: 3
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+19) World commodity prices increased significantly over the years 2002-2008. Since Canada is a large exporter of commodities, it is not surprising that over this time period Canada experienced
+A) a significant depreciation of its currency against the U.S. dollar.
+B) a significant increase in the rate of inflation.
+C) a significant appreciation of its currency against the U.S. dollar. 
+D) a significant decrease in the rate of inflation. 
+E) outflows in the capital-service account. 
+Answer:  C
+Diff: 2
+Topic:  34.3a. determination of flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+20) If the central bank pegs the exchange rate above its free-market equilibrium level, there will be a(n) ________ of foreign exchange and the central bank will ________ foreign currency.
+A) excess supply; purchase
+B) excess supply; sell
+C) excess demand; purchase
+D) excess demand; sell
+Answer:  A
+Diff: 2
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+21) Consider a country that is operating under a fixed exchange-rate system. The country's balance of payments will always show total debits equal to total credits because
+A) fluctuations in exchange rates will bring debits and credits into equality.
+B) any official financing required to maintain the fixed exchange rate will offset any deficit or surplus in the rest of the balance of payments accounts.
+C) short-term capital flows will always offset any deficit or surplus in current accounts and long-term capital accounts.
+D) the official financing account will always offset a deficit or surplus in the current account.
+E) fluctuations in interest rates will bring debits and credits into equality.
+Answer:  B
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Recall
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+22) If the central bank pegs the exchange rate below its free-market equilibrium level, there will be a(n) ________ of/for foreign exchange and the central bank will ________ foreign currency.
+A) excess supply; purchase
+B) excess supply; sell
+C) excess demand; purchase
+D) excess demand; sell
+Answer:  D
+Diff: 2
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+23) Suppose the Bank of Canada fixes the Canada-U.S. exchange rate between the limits of Cdn$1.10 and Cdn$1.20 to the U.S dollar. If the free-market equilibrium exchange rate would otherwise be Cdn$1.25, then the
+A) Bank of Canada needs to engage in expansionary monetary policy to support the dollar.
+B) Government of Canada must reduce spending and increase taxes.
+C) Bank of Canada must sell U.S. dollars.
+D) Bank of Canada must buy U.S. dollars.
+E) Federal Reserve System in the Untied States is required to increase the number U.S. dollars circulating in Canada.
+Answer:  C
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+24) Suppose Canada's central bank fixes the Canada-U.S. exchange rate between the limits of Cdn$1.10 and Cdn$1.20 to the U.S dollar. If the free market equilibrium exchange rate would otherwise be Cdn$1.05, then
+A) Canada's central bank must buy U.S. dollars.
+B) Canada's central bank must sell U.S. dollars.
+C) Canada's central bank need not intervene as the exchange rate will return to its equilibrium level on its own.
+D) The Federal Reserve System in the United States must decrease the supply of U.S. dollars on international currency markets.
+E) Government of Canada must increase spending and increase taxes.
+Answer:  A
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+25) China fixes its exchange rate (yuan per units of foreign currency) at a rate above its free-market equilibrium level, which means that China is keeping the external value of the yuan
+A) artificially high.
+B) at its free-market price.
+C) at the rate established by its trading partners.
+D) artificially low.
+E) in line with the world market for foreign currency.
+Answer:  D
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+26) China fixes its exchange rate (yuan per units of foreign currency) at a rate above its free-market equilibrium level. In order to maintain this exchange rate, and to prevent its currency from ________, the Chinese central bank must be accumulating ________.
+A) appreciating; foreign-exchange reserves
+B) appreciating; reserves of its domestic currency
+C) depreciating; foreign-exchange reserves
+D) depreciating; reserves of its domestic currency
+E) depreciating; U.S. dollars
+Answer:  A
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+
+27) The Chinese government fixes its exchange rate above its free-market equilibrium level. Its purpose in keeping the Chinese currency depreciated is probably to
+A) make it more affordable for Chinese firms to import new materials.
+B) make it more affordable for Chinese households to purchase consumer goods from the United States.
+C) maintain respect for the Chinese yuan.
+D) help maintain a current account deficit and thus a capital inflow to China.
+E) make Chinese exports more attractive to the rest of the world.
+Answer:  E
+Diff: 2
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User2:  Qualitative
+The diagram below shows the market for foreign exchange from the perspective of Canada. The demand for foreign exchange is  and the supply of foreign exchange varies between  and , with an average of .
+
+
+FIGURE 34-4
+
+28) Refer to Figure 34-4. Suppose the Bank of Canada pegs the exchange rate at  and the supply curve is . The Bank would have to ________ foreign exchange in the amount of ________ per month. 
+A) sell; 
+B) sell; 
+C) purchase; 
+D) purchase; 
+E) No transaction would be necessary
+Answer:  D
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User1:  Graph
+User2:  Quantitative
+29) Refer to Figure 34-4. Suppose the Bank of Canada pegs the exchange rate at  and the supply curve is . The Bank would have to ________ foreign exchange in the amount of ________ per month. 
+A) sell; 
+B) sell; 
+C) purchase; 
+D) purchase; 
+E) No transaction would be necessary
+Answer:  B
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User1:  Graph
+User2:  Quantitative
+
+30) Refer to Figure 34-4. Suppose the Bank of Canada pegs the exchange rate at and the supply curve is . The Bank would have to ________ foreign exchange in the amount of ________ per month. 
+A) purchase; 
+B) purchase; 
+C) sell; 
+D) sell; 
+E) No transaction would be necessary
+Answer:  E
+Diff: 3
+Topic:  34.3b. fixed exchange rates
+Skill:  Applied
+Learning Obj.:  34-3 Discuss various factors that cause fluctuations in exchange rates.
+User1:  Graph
+User2:  Quantitative
+
+34.4  Three Policy Issues
+
+1) Consider a country's balance of payments. An excess of receipts over payments on the current account
+A) must equal the net credit balance of the capital account.
+B) must equal the net debit balance of the current account.
+C) is not possible.
+D) must be matched by an excess of payments over receipts on the capital account.
+E) must be matched by an excess of receipts over payments on the capital account.
+Answer:  D
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+2) People who might be called "neomercantalists" are most likely to argue that
+1) the benefits from international trade increase with the size of the trade surplus;
+2) the power of the government is related to the size of the trade balance;
+3) the country's living standard is related to the size of the trade surplus.
+A) 1 and 2
+B) 2 and 3
+C) 1, 2, and 3
+D) 2 only
+E) 3 only
+Answer:  C
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+3) If Canada has a current account deficit, it is
+A) matched by a trade surplus of the same size.
+B) matched by a deficit on the capital-service portion of the current account.
+C) matched by a capital account deficit of the same size.
+D) matched by a capital account surplus of the same size.
+E) not matched by a change in the capital account.
+Answer:  D
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+4) Mercantilists, both ancient and modern, believe that a country's gains from trade arise primarily from having
+A) a trade deficit.
+B) comparative advantage in the production of products in which their opportunity costs are low.
+C) exports equal imports.
+D) imports exceed exports.
+E) exports exceed imports.
+Answer:  E
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+5) Any country's current account can be expressed as CA =
+A) (S + T) - (T + G).
+B) (S + I) + (T + G).
+C) (S - I) - (T - G).
+D) (S - I) + (T - G).
+E) (S + I) - (T - G).
+Answer:  D
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Quantitative
+
+6) Consider the balance of payments for a small country. Suppose that in this country private saving is $4 million, its investment is $10 million, government purchases are $6 million, and net tax revenues are $15 million in a given year. The current account balance for this country is a 
+A) deficit of $6 million. 
+B) deficit of $9 million. 
+C) surplus of $3 million. 
+D) surplus of $9 million. 
+E) surplus of $15 million. 
+Answer:  C
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Applied
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Quantitative
+
+7) Other things being equal, an increase in the current account deficit could be due to 
+A) an increase in private saving.
+B) a decrease in private saving.
+C) a fall in domestic investment.
+D) a fall in the government's budget deficit.
+E) a rise in the budget surplus.
+Answer:  B
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+8) Other things being equal, an increase in the current account deficit could result from 
+A) an increase in private saving.
+B) a fall in domestic investment.
+C) a rise in domestic investment.
+D) a fall in the government's budget deficit.
+E) a rise in the government's budget surplus.
+Answer:  C
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+9) Other things being equal, an increase in the current account deficit could result from 
+A) an increase in private saving.
+B) a fall in domestic investment.
+C) a fall in the government's budget deficit.
+D) a rise in the government's budget deficit.
+E) a rise in the budget surplus.
+Answer:  D
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+10) Other things being equal, an increase in the current account deficit may be due to
+A) an increase in private saving.
+B) a fall in domestic investment.
+C) a rise in the government's budget surplus.
+D) a fall in the government's budget surplus.
+E) a fall in the government's budget deficit.
+Answer:  D
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+11) The problem of the "twin deficits" refers to
+A) a decrease in domestic investment and an increase in the deficit on the capital account.
+B) a decrease in the government's budget deficit.
+C) an increase in the government's budget deficit and an increase in private sector borrowing.
+D) having both a government budget deficit and a deficit on the current account.
+E) an increase in private saving and a decrease in the capital account.
+Answer:  D
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+12) Which of the following policies could be implemented by the government in order to decrease its country's current account deficit? 
+A) more stringent anti-trust policy 
+B) better fiscal stabilization policies 
+C) a contractionary fiscal policy 
+D) a reduction of public saving 
+E) wage and price controls 
+Answer:  C
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Applied
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+13) Consider an increase in a country's current account deficit. Which of the following statements best describes the desirability of this change?
+A) It is desirable regardless of the cause of the change. 
+B) It is undesirable regardless of the cause of the change. 
+C) It is not desirable if it is caused by an increase in domestic investment. 
+D) It might be desirable depending on the cause of the change. 
+E) It is desirable if it is caused by a reduction in the level of private saving. 
+Answer:  D
+Diff: 2
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+Learning Obj.:  34-4 Discuss why a current account deficit is not necessarily undesirable.
+User2:  Qualitative
+
+14) Consider the following statement: "It is undesirable for Canada to have a current account deficit." Which of the following is implied by this statement?
+A) Canada should not borrow from, or sell assets to, the rest of the world.
+B) Canada should export more goods than it imports.
+C) The government of Canada should not be involved in buying or selling foreign exchange.
+D) Canada should import more than it exports.
+E) Canada should always have a budget surplus.
+Answer:  A
+Diff: 3
+Topic:  34.4a. current account deficits / surpluses
+Skill:  Recall
+User2:  Qualitative
+
+15) The theory of "purchasing power parity" (PPP) predicts that the
+A) actual exchange rate will eventually exceed the PPP exchange rate.
+B) actual exchange rate will eventually be lower than the PPP exchange rate.
+C) actual exchange rate will eventually equal the PPP exchange rate.
+D) there is no relationship between the actual exchange rate and the PPP exchange rate.
+E) prices of of non-traded goods will be equalized across all countries.
+Answer:  C
+Diff: 2
+Topic:  34.4b. purchasing power parity
+Skill:  Recall
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Qualitative
+
+16) Which of the following statements about purchasing power parity is correct? PPP
+A) is an index of the average value of exchange rates.
+B) is a theory that says price levels in two countries should be equal when measured in a common currency.
+C) allows for both countries' currencies to appreciate at their own rates of inflation.
+D) will tend to cause those currencies with lower inflation rates to depreciate.
+E) holds exactly in the short run but not in the long run.
+Answer:  B
+Diff: 2
+Topic:  34.4b. purchasing power parity
+Skill:  Recall
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Qualitative
+17) If Canadian inflation is 4% while Japanese inflation is 7%, purchasing power parity (PPP) theory predicts that the Japanese yen will ________ relative to the Canadian dollar.
+A) depreciate by 11%
+B) depreciate by 3%
+C) appreciate by 3%
+D) appreciate by 11%
+E) appreciate by 28%
+Answer:  B
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Quantitative
+
+18) If a basket of goods costs 1000 euros in Europe and the Canadian dollar exchange rate is $1.40 = 1 euro, then according to the theory of purchasing power parity (PPP) the same basket of goods should cost ________ in Canada.
+A) $140.00
+B) $714.29
+C) $1000.00
+D) $1400.00
+E) $7142.90
+Answer:  D
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Quantitative
+
+19) If a basket of goods costs $1000 in Canada and the Canadian dollar exchange rate is $1.40 = 1 euro, then according to the theory of purchasing power parity (PPP) the same basket of goods in Europe should cost ________ euros.
+A) 140.00
+B) 714.29
+C) 1000.00
+D) 1400.00
+E) 7142.90
+Answer:  B
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Quantitative
+20) If a basket of goods costs 1000 euros in Europe and the Canadian dollar exchange rate is $1.50 = 1 euro, then according to the theory of purchasing power parity, the same basket of goods should cost ________ in Canada.
+A) $150.00
+B) $666.67
+C) $1000.00
+D) $1500.00
+E) $6666.67
+Answer:  D
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Quantitative
+
+21) If a basket of goods costs $1000 in Canada and the Canadian dollar exchange rate is $1.50 = 1 euro, then according to the theory of purchasing power parity the same basket of goods in Europe should cost ________ euros.
+A) 150.00
+B) 666.67
+C) 1000.00
+D) 1500.00
+E) 6666.67
+Answer:  B
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Quantitative
+
+22) According to the theory of purchasing power parity (PPP), the exchange rate between two country's currencies is determined by
+A) relative price levels in the two countries.
+B) absolute price levels in the two countries.
+C) relative quantities of gold and official reserves held by the central banks of two countries.
+D) quantities of goods and services produced in the two countries.
+E) quantities of goods and services traded in the two countries.
+Answer:  A
+Diff: 2
+Topic:  34.4b. purchasing power parity
+Skill:  Recall
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Qualitative
+23) Which of the following provides an explanation for why the theory of purchasing power parity is a poor predictor of actual exchange rates? 
+1) differences in the structure of the different price indices in different countries 
+2) the presence of nontraded goods 
+3) changes in the relative prices of traded goods 
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 and 3
+E) 1, 2, and 3
+Answer:  E
+Diff: 2
+Topic:  34.4b. purchasing power parity
+Skill:  Recall
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User2:  Qualitative
+
+The table below shows indexes for the price levels for Canada and the United States and the nominal exchange rate between their currencies (the Canadian-dollar price of 1 U.S. dollar).
+
+Year
+Price level 
+(Canada)
+Price level 
+(U.S.)
+Nominal exchange rate
+2008
+122
+115
+1.15
+2009
+125
+118
+1.10
+2010
+128
+122
+1.05
+2011
+131
+125
+1.00
+2012
+135
+129
+0.95
+
+TABLE 34-2
+
+24) Refer to Table 34-2. According to the theory of purchasing power parity (PPP), the Canada-US exchange rate in 2008 should have been
+A) 115/122 = 0.94.
+B) 1.15, the actual exchange rate that year.
+C) (122 × 115)/100 = 140.3.
+D) 122, the price level in Canada that year.
+E) 122/115 = 1.06.
+Answer:  E
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User1:  Table
+User2:  Quantitative
+25) Refer to Table 34-2. According to the theory of purchasing power parity (PPP), the Canadian-U.S. exchange rate in 2008 should have been________, meaning that the actual Canadian dollar in that year was ________ relative to its PPP value. 
+A) 0.94; overvalued
+B) 0.94; undervalued
+C) 1.06; undervalued
+D) 1.06; overvalued
+Answer:  C
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User1:  Table
+User2:  Quantitative
+
+26) Refer to Table 34-2. According to the theory of purchasing power parity (PPP), the Canadian-U.S. exchange rate in 2012 should have been ________, meaning that the actual Canadian dollar in that year was ________ relative to its PPP value.
+A) 1.05; undervalued
+B) 1.05; overvalued
+C) 0.96; overvalued
+D) 0.96; undervalued
+Answer:  B
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User1:  Table
+User2:  Quantitative
+
+27) Refer to Table 34-2. The value of Canada's purchasing power parity (PPP) exchange rate in 2011 was 
+A) 131/125 = 1.048.
+B) 125/131 = 0.954.
+C) 1.00, the actual exchange rate that year.
+D) (131 × 125)/100 = 163.75.
+E) 131, the price level in Canada that year.
+Answer:  A
+Diff: 3
+Topic:  34.4b. purchasing power parity
+Skill:  Applied
+Learning Obj.:  34-5 Understand the theory of purchasing power parity (PPP) and its limitations.
+User1:  Table
+User2:  Quantitative
+28) In Canada, proponents of a flexible exchange rate argue that the flexible exchange rate acts as a "shock absorber." By this, they mean that 
+A) negative shocks to the Canadian economy will be fully absorbed by a depreciation of the dollar, causing net exports to rise.
+B) a flexible exchange rate protects Canadian exporters from increases in the prices of their products in the rest of the world.
+C) flexible exchange rates allow for more certainty with regard to the profitability of international transactions, which dampens negative effects on output and employment.
+D) external shocks to the Canadian economy can be partially absorbed by fluctuations in the exchange rate, which dampen the effect of the shock on output and employment.
+E) positive shocks to the Canadian economy will be fully absorbed by an appreciation of the dollar, causing net exports to fall.
+Answer:  D
+Diff: 2
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User2:  Qualitative
+
+29) What is the main argument of the proponents of a fixed exchange rate system for Canada?
+A) There is less risk for importers, exporters and investors, and as a result there would be more trade, and the resulting gains from trade.
+B) The fixed exchange rate would act as a shock absorber and reduce the swings in output and employment.
+C) Canada's exports would be more attractive to the rest of the world, which would lead to a larger current account surplus.
+D) Investment in Canada would be more attractive to the rest of the world, which would lead to a larger capital account surplus.
+E) Canada is traditionally an exporting nation, and a fixed exchange rate is more advantageous for exporters.
+Answer:  A
+Diff: 2
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Recall
+User2:  Qualitative
+
+30) Prior to the onset of the global financial crisis and recession in 2008, Canada was experiencing strong growth in demand for its commodities (notably from China and India) which caused a(n) ________ of its currency. Other things being equal, this change in the exchange rate caused a(n) ________ in economic activity in Ontario and Quebec manufacturing industries.
+A) appreciation; increase
+B) depreciation; increase
+C) depreciation; decrease
+D) appreciation; decrease
+Answer:  D
+Diff: 2
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User2:  Qualitative
+31) The world price of oil fell dramatically in 2014/2015, which caused a sharp ________ of the Canadian dollar. Other things being equal, this change in the exchange rate caused a(n) ________ in economic activity in Ontario and Quebec manufacturing industries.
+A) depreciation; increase
+B) depreciation; decrease
+C) appreciation; increase
+D) appreciation; decrease
+Answer:  A
+Diff: 2
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+User2:  Qualitative
+
+
+
+	FIGURE 34-5
+
+32) Refer to Figure 34-5. If the supply curve of foreign exchange shifts from S0 to S1, the Bank of Canada could maintain a fixed exchange rate at e0 by
+A) selling Canadian currency.
+B) holding foreign reserves constant.
+C) buying foreign currency reserves.
+D) selling foreign currency reserves.
+E) lowering the overnight interest rate.
+Answer:  D
+Diff: 3
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User1:  Graph
+User2:  Qualitative
+33) Refer to Figure 34-5. Assume Canada has flexible exchange rates. The leftward shift in the supply curve from to S1 may be due to a
+A) fall in the Canadian demand for foreign imports.
+B) fall in the world's demand for Canadian exports.
+C) rise in the world's demand for Canadian exports.
+D) rise in the Canadian demand for foreign imports.
+E) rise in the Canadian demand for foreign assets.
+Answer:  B
+Diff: 3
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 34-5. Suppose Canada has a system of fixed exchange rates. A decrease in the world's demand for Canadian exports will shift
+A) the supply curve for foreign exchange from S0 to S1 and aggregate demand curve from AD0 to AD1.
+B) the supply curve for foreign exchange from S0 to S1 and the aggregate demand curve from AD0 to AD2.
+C) the supply curve for foreign exchange from S1 to S0 and the aggregate demand curve from AD2 to AD1.
+D) only the aggregate demand curve, to AD1. 
+E) only the aggregate demand curve, to AD2. 
+Answer:  B
+Diff: 3
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User1:  Graph
+User2:  Qualitative
+
+35) Refer to Figure 34-5. Suppose Canada has a system of fixed exchange rates. A decrease in the world's demand for Canadian exports will 
+A) require the Bank of Canada to accommodate the excess demand for Canadian dollars.
+B) require the Bank of Canada to purchase foreign-currency reserves.
+C) shift the AD curve to the left more than would have occurred under a flexible exchange rate.
+D) shift the AD curve to the left less than would have occurred under a flexible exchange rate.
+E) have less effect on national income than if the exchange rate had been flexible.
+Answer:  C
+Diff: 3
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Applied
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User1:  Graph
+User2:  Qualitative
+36) A flexible exchange rate ________ the impact of terms of trade shocks on output and employment because of the effect of a change in the exchange rate on ________. 
+A) dampens; the terms of trade 
+B) dampens; net exports
+C) has no effect on; the inflation rate 
+D) magnifies; the interest rate 
+E) magnifies; the terms of trade 
+Answer:  B
+Diff: 2
+Topic:  34.4c. fixed vs. flexible exchange rates
+Skill:  Recall
+Learning Obj.:  34-6 Explain how flexible exchange rates can dampen the effects of external shocks.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 56
+Copyright © 2017 Pearson Education, Inc.
+
+
+

@@ -1,0 +1,1742 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 5   Price Controls and Market Efficiency
+
+5.1  Government-Controlled Prices
+
+1) At any disequilibrium price, whether government controlled or not, the quantity actually exchanged is determined by
+A) the elasticity of supply.
+B) the elasticity of demand.
+C) government decree.
+D) the lesser of quantity demanded and quantity supplied.
+E) the greater of quantity demanded and quantity supplied.
+Answer:  D
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+2) Consider a competitive labour market. The likely consequence of a binding minimum wage in this labour market is
+A) a labour shortage.
+B) a lower wage for all individuals.
+C) a higher wage for all individuals.
+D) excess demand for workers.
+E) unemployment.
+Answer:  E
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+3) Government price controls are policies that attempt to maintain the
+A) quantity bought at less than the quantity sold.
+B) quantity sold at less than the quantity bought.
+C) the price at some disequilibrium value.
+D) market price at equilibrium.
+E) price requested by the seller.
+Answer:  C
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+4) In a market where we observe a disequilibrium, quantity exchanged is determined
+A) by the quantity demanded.
+B) by the greater of quantity demanded and quantity supplied.
+C) by neither quantity demanded nor quantity supplied.
+D) by the lesser of quantity demanded and quantity supplied.
+E) by the quantity supplied.
+Answer:  D
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+5) Which of the following statements about government price controls is most accurate. They
+A) act as a guideline to producers as to what is a fair price.
+B) inform consumers what is the maximum price they should pay.
+C) usually set upper or lower limits on prices.
+D) ensure that the actual price is at its free-market equilibrium.
+E) ensure that transactions take place at a fair price.
+Answer:  C
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+6) The price of a good or a service can be determined by free interaction of demand and supply or by a government price regulation. One important difference between these two price-determining methods is
+A) there are no shortages or surpluses at the free-market equilibrium price.
+B) regulated prices are fairer since more people can then afford the goods or services.
+C) that a regulated price above the equilibrium price will always result in shortages.
+D) the government is in the best position to know the needs of the people.
+E) one is capitalist and the other is communist.
+Answer:  A
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+7) Consider a market in which there is a government-set price. If there is excess demand at this price, 
+A) the market is in its free-market equilibrium.
+B) the market is in disequilibrium.
+C) there are unsuccessful sellers.
+D) the product has not reached the point of saturation.
+E) none of the product will be exchanged.
+Answer:  B
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+8) In competitive markets, price floors and price ceilings usually lead to
+A) shortages.
+B) a reduction in quantities exchanged.
+C) surpluses.
+D) production control by the government.
+E) more equitable distributions of commodities.
+Answer:  B
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+9) In free and competitive markets, shortages are eliminated by
+A) government price controls.
+B) rationing.
+C) black markets.
+D) price increases.
+E) price decreases.
+Answer:  D
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+10) In free and competitive markets, surpluses are eliminated by
+A) government price controls.
+B) government purchases.
+C) black markets.
+D) price increases.
+E) price decreases.
+Answer:  E
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+11) Suppose the government sets a particular price in the market for gold, which results in an excess supply. In this situation, 
+A) the market is in equilibrium.
+B) the market is in disequilibrium.
+C) there are unsuccessful buyers.
+D) the gold market has not reached the point of saturation.
+E) no gold will be exchanged.
+Answer:  B
+Diff: 1
+Topic:  5.1a. price controls
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+12) A minimum permissible price established by the government is called
+A) the equilibrium price.
+B) the margin price.
+C) a price ceiling.
+D) a price floor.
+E) the fair price.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+13) If the government fixes the price of good X above its free-market equilibrium level, we should expect
+A) a surplus of good X to occur.
+B) a shortage of good X to occur.
+C) an excess demand for good X.
+D) a black market to arise for good X.
+E) a new free-market equilibrium price to be established.
+Answer:  A
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+14) A legally imposed upper limit on a price is called
+A) a price floor.
+B) a price support.
+C) an excise price.
+D) a price ceiling.
+E) a government price.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+15) A binding price floor is a
+A) minimum price, below equilibrium, below which price is not allowed to fall.
+B) maximum price, above equilibrium, which price is not allowed to exceed.
+C) minimum price, above equilibrium, below which price is not allowed to fall.
+D) maximum price, below equilibrium, which price is not allowed to exceed.
+E) any minimum price below which price is not allowed to fall.
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+16) A legal price floor is a
+A) price set by the government at which all goods or services must be legally sold.
+B) maximum price above which sales cannot legally be made.
+C) minimum price below which sales cannot legally be made.
+D) price above which there would be no demand.
+E) price below which there would be no supply.
+Answer:  C
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+17) In which type of market would a government be most likely to establish a "legal" price floor?
+A) housing market
+B) labour market
+C) diamond market
+D) electricity market
+E) natural gas market
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+18) For a price floor to be binding, it must be set
+A) very low.
+B) at the free-market equilibrium price.
+C) below the free-market equilibrium price.
+D) at a level such that there exists some unsatisfied demand.
+E) above the free-market equilibrium price.
+Answer:  E
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+19) Consider the market for pulp and paper. Suppose, in an attempt to help this industry, the government sets a price floor above the free-market equilibrium price. The result will be
+A) a continuation of the market-determined equilibrium price and quantity.
+B) the quantity demanded will exceed quantity supplied and there will be a shortage in the market.
+C) the quantity supplied will exceed quantity demanded and there will be a surplus in the market.
+D) a new free-market equilibrium at a higher price and lower output level.
+E) increased government revenue.
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+20) Consider the market for iron ore, an important industrial input. Suppose the government sets a price floor below the free-market equilibrium price. The result will be
+A) a continuation of the free-market equilibrium price and quantity.
+B) the quantity demanded will exceed quantity supplied and there will be a shortage in the market.
+C) the quantity supplied will exceed quantity demanded and there will be a surplus in the market.
+D) a new free-market equilibrium at a lower price and higher output level.
+E) increased government revenue.
+Answer:  A
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+21) An excess supply of some product is the same thing as
+A) a surplus.
+B) an excess demand.
+C) a shortage.
+D) scarcity.
+E) price floor.
+Answer:  A
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+22) An excess demand for some product is the same thing as
+A) a surplus.
+B) an excess supply.
+C) a shortage.
+D) black market.
+E) price ceiling.
+Answer:  C
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+23) Suppose the government establishes a binding price floor for some product. At the price floor, 
+A) although sellers are selling all of the product that they desire, consumers are not able to buy all that they desire.
+B) a new free-market equilibrium price and quantity will be established.
+C) both sellers and buyers are satisfied with the quantity that is being exchanged.
+D) both sellers and buyers are exchanging the free-market equilibrium quantity.
+E) although consumers are purchasing all of the product they desire at this price, the sellers are not selling all they desire.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+24) Suppose the government decides to eliminate a binding price floor that it had previously imposed on a particular good. It can be expected that
+A) the price would increase, the quantity demanded would decrease and the quantity supplied would increase.
+B) the price would increase, the quantity demanded would increase and the quantity supplied would decrease.
+C) the price would decrease, the quantity demanded would decrease and the quantity supplied would increase.
+D) the price would decrease, the quantity demanded would increase and the quantity supplied would decrease.
+E) no changes would take place.
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+25) Suppose the government decides to eliminate a binding price ceiling that it had previously imposed on a particular good. It can be expected that 
+A) the price would increase, quantity demanded would decrease, and quantity supplied would decrease.
+B) the price would increase, quantity demanded would decrease, and quantity supplied would increase.
+C) the price would decrease, quantity demanded would decrease, and quantity supplied would increase.
+D) the price would decrease, quantity demanded would increase, and quantity supplied would decrease.
+E) no change would take place
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+User2:  Qualitative
+
+26) A binding minimum wage established by the government
+A) is essentially a price ceiling that creates a shortage of workers.
+B) will be effective only if the minimum wage is set below the free-market equilibrium wage.
+C) will have no effect on the quantity of labour employed.
+D) will affect adversely only those workers whose value of productivity is greater than this minimum wage.
+E) is a price floor that will create a surplus of workers if the labour market is competitive.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+27) If the equilibrium wage in a competitive labour market is $9 per hour, and the government raises the minimum wage from $7 to $8 per hour, what will be the effect in this market?
+A) the level of employment will decrease
+B) unemployment will increase
+C) unemployment will decrease
+D) there will be no effect on employment
+E) the average wage paid to workers will increase
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+28) For a legislated minimum wage to be binding in a competitive labour market, it must be set
+A) below the free-market wage.
+B) equal to the free-market wage.
+C) above the free-market wage.
+D) at or below the free-market wage.
+E) such that no worker can earn more than the established minimum wage.
+Answer:  C
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+29) A legal price ceiling, if it is binding, is a
+A) minimum price, below equilibrium, which price is not allowed to fall below.
+B) maximum price, above equilibrium, which price is not allowed to exceed.
+C) minimum price, above equilibrium, which price is not allowed to fall below.
+D) maximum price, below equilibrium, which a price is not allowed to exceed.
+E) any maximum price which price is not allowed to exceed.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+30) A price ceiling set below the free-market equilibrium price will result in
+A) a clearing of the market.
+B) greater quantity exchanged.
+C) surpluses.
+D) excess demand.
+E) excess supply.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+31) Suppose the free-market equilibrium price for ice time at privately operated hockey arenas is $250 per hour.  If the municipal government imposes a price ceiling of $130 per hour, we can expect to see
+A) an adjustment of the free-market equilibrium price to $100.
+B) an excess supply of ice time.
+C) a black market price below the free-market equilibrium price.
+D) that neither excess supply nor excess demand is created.
+E) an excess demand for ice time.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+32) In a competitive market, a legal price ceiling set above the free-market equilibrium price will result in
+A) a continuation of the free-market equilibrium price and quantity.
+B) the quantity demanded exceeding quantity supplied and thus a shortage in the market.
+C) the quantity supplied exceeding quantity demanded and thus a surplus in the market.
+D) a new free-market equilibrium at a higher price and lower output level.
+E) increased profits to the firms in the industry.
+Answer:  A
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+33) In a competitive market, a price ceiling set below the free-market equilibrium price will result in
+A) a continuation of the free-market equilibrium price and quantity.
+B) the quantity demanded exceeding quantity supplied and thus a shortage in the market.
+C) the quantity supplied exceeding quantity demanded and thus a surplus in the market.
+D) a new free-market equilibrium at a lower price and higher output level.
+E) excess supply.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+34) Which of the following statements best differentiates price ceilings and price floors?
+A) Price ceilings represent minimum prices, while price floors represent maximum prices.
+B) Binding price ceilings are always set below the equilibrium price, whereas binding price floors are always set above the equilibrium price.
+C) Price ceilings are always effective, whereas price floors are rarely effective.
+D) Price floors cause shortages to appear, whereas price ceilings have the opposite effect.
+E) Price ceilings and price floors have the same effects.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+35) Suppose that the free-market equilibrium price of natural gas would be $2.00 per unit, but in an effort to protect consumers the government has fixed the price at $1.50. At this ceiling price the quantity ________ will be greater than the quantity ________, resulting in a ________ of natural gas.
+A) demanded; supplied; surplus
+B) supplied; demanded; surplus
+C) demanded; supplied; shortage
+D) supplied; demanded; shortage
+E) demanded; supplied; reduction in equilibrium price
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+36) Suppose that the free-market equilibrium price of downtown-to-airport taxi service would be $45 per trip, but in an effort to protect taxi owners the government has fixed the price at $60 per trip. At this legislated price the quantity ________ will be greater than the quantity ________, resulting in a ________ of downtown-to-airport taxi services.
+A) demanded; supplied; surplus
+B) supplied; demanded; surplus
+C) demanded; supplied; shortage
+D) supplied; demanded; shortage
+E) demanded; supplied; reduction in equilibrium price
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+User2:  Qualitative
+
+37) If the free-market equilibrium price for some product is $25, then a legal price ceiling set at $15 will bring about
+A) the same general effects as a price ceiling of $25.
+B) the same general effects as an equilibrium price of $15.
+C) no change in the market outcomes.
+D) a surplus of the good.
+E) a shortage of the good.
+Answer:  E
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+38) Which of the following is true of price ceilings?
+A) Firms must charge the price established as a price ceiling.
+B) If the ceiling price is set above the free-market equilibrium price it will have no effect on the market.
+C) A ceiling price below the free-market equilibrium price is not binding.
+D) With a non-binding ceiling price an excess demand for the product will develop.
+E) With a binding ceiling price a surplus of the commodity will develop.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+39) With respect to some commodity, X, if government objectives are to (1) restrict production and (2) keep prices down to protect consumers, then legislated price ceilings will
+A) be a dismal failure as neither goal can ever be achieved with price ceilings.
+B) satisfy both goals but only if a black market develops.
+C) satisfy only the second goal if a black market develops.
+D) only have an effect on commodities at the international level.
+E) satisfy both goals as long as a black market does not develop.
+Answer:  E
+Diff: 3
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+40) Which of the following is an example of a black-market transaction?
+A) A person buys a hotdog on a street corner.
+B) A person buys a product at a price greater than the government-imposed ceiling price.
+C) A person buys a product at a price below the government-imposed ceiling price.
+D) A person places a bet at a racetrack.
+E) A person buys a product at a price greater than the government-imposed price floor.
+Answer:  B
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+41) If the government imposes a price ceiling for some product, and a black market subsequently develops that gains control of all of the reduced output of the product, then
+A) the black market price will be lower than the ceiling price.
+B) excess profits will flow back to consumers.
+C) the quantity demanded will exceed quantity supplied at the black market price.
+D) the black market price will be higher than the free-market equilibrium price.
+E) consumers will be better off than they would be in the absence of the black market.
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+42) If a binding price floor is in place and if the demand curve for the product shifts rightward, one consequence would be
+A) an increase in the amount of excess demand.
+B) a decrease in the amount of excess demand.
+C) an increase in the amount of excess supply.
+D) a decrease in the amount of excess supply.
+E) a decrease in the quantity exchanged.
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+43) If a binding price ceiling is in place and if the demand curve for the product shifts rightward, one consequence would be
+A) the quantity exchanged would increase.
+B) the quantity exchanged would remain constant.
+C) the quantity exchanged would decrease.
+D) an increase in the amount of excess supply.
+E) a decrease in the amount of excess demand.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+44) The surpluses associated with a binding price floor will be the smallest when
+A) both supply and demand are highly elastic.
+B) both supply and demand are highly inelastic.
+C) supply is highly elastic and demand is highly inelastic.
+D) supply is highly inelastic and demand is highly elastic.
+E) both supply and demand are unit elastic.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+45) The shortages associated with a binding price ceiling will be the smallest when
+A) both supply and demand are highly elastic.
+B) both supply and demand are highly inelastic.
+C) supply is highly elastic and demand is highly inelastic.
+D) supply is highly inelastic and demand is highly elastic.
+E) none of the above—the size of the shortage has nothing to do with demand and supply elasticities.
+Answer:  B
+Diff: 3
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+46) A predictable result of the imposition of binding price floors or price ceilings is
+A) shortages.
+B) a reduction in quantities exchanged.
+C) surpluses.
+D) production control by the government.
+E) a more equitable distribution of commodities.
+Answer:  B
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Recall
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+47) If the equilibrium price for some product is $1000, a price ceiling of $1200 will result in 
+A) the same general effects as a price floor of $1200.
+B) the same general effects as an administered price of $1200.
+C) the same general effects as a price ceiling of $600.
+D) massive surpluses of the good.
+E) no effects because the price ceiling is not binding at that price.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+48) If the equilibrium price for some product is $1000, a price ceiling of $800 will result in 
+A) the same general effects as a price ceiling of $1200.
+B) the same general effects as a price floor of $1200. 
+C) the same general effects as a price ceiling of $600.
+D) massive surpluses of the good.
+E) no effects because the price ceiling is not binding at that price.
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+49) If a binding price ceiling is in effect and if the demand for the product increases, one consequence would be
+A) a decrease in the amount of excess supply.
+B) a decrease in the amount of excess demand.
+C) an increase in the amount of excess supply.
+D) an increase in the amount of excess demand.
+E) no change in the excess supply or demand for the product.
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+
+
+
+FIGURE 5-1
+
+50) Refer to Figure 5-1.  In this market, suppose the government announces that the price must be P2 or higher. This price (P2) is referred to as
+A) a price ceiling.
+B) a price floor.
+C) a non-binding price floor.
+D) a binding price ceiling.
+E) an equilibrium price.
+Answer:  B
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+51) Refer to Figure 5-1. In this market, suppose the government announces that the price must be P3 or lower. This price (P3) is referred to as
+A) a non-binding price ceiling.
+B) a binding price floor.
+C) an equilibrium price.
+D) a price ceiling.
+E) a price floor.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+52) Refer to Figure 5-1. If the government imposes an administered price at P2, the result will be a
+A) surplus of BD.
+B) shortage of AC.
+C) shortage of FD.
+D) surplus of AF.
+E) surplus of 0D.
+Answer:  A
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+53) Refer to Figure 5-1. If the diagram applies to the labour market, and P3 represents a legislated minimum wage,
+A) there will be excess demand of AC in the labour market.
+B) there will be unemployment of AC in the labour market.
+C) the free-market equilibrium wage is P0 and the labour market is unaffected by the minimum wage.
+D) the labour market is in disequilibrium.
+E) the amount of labour employed will rise from quantity F to quantity C.
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 5-1. To be binding, a legal price ceiling must lie
+A) above P0 but below P2.
+B) anywhere above P0.
+C) below P0 but above P3.
+D) anywhere below P0.
+E) anywhere above 0.
+Answer:  D
+Diff: 1
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 5-1. With a price ceiling of P3, how large will the resulting shortage be?
+A) FD
+B) AF
+C) AC
+D) BC
+E) FC
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+
+FIGURE 5-2
+
+56) Refer to Figure 5-2. A price floor set at $2.50 will result in
+A) a shortage of 5 units.
+B) a shortage of 10 units.
+C) a surplus of 10 units.
+D) a surplus of 5 units.
+E) no change to the market outcomes.
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Quantitative
+
+57) Refer to Figure 5-2. A price floor set at a price of $1.00 will result in
+A) a shortage of 10 units.
+B) a shortage of 20 units.
+C) a surplus of 10 units.
+D) a surplus of 20 units.
+E) no change in the market outcomes.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Quantitative
+58) Refer to Figure 5-2. A price ceiling set at a price of $1.00 per unit will result in
+A) a shortage of 10 units.
+B) a shortage of 20 units.
+C) a surplus of 10 units.
+D) a surplus of 20 units.
+E) no change to the market outcomes.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Quantitative
+
+59) Refer to Figure 5-2. A price ceiling set at a price of $2.50 per unit will result in
+A) a shortage of 5 units.
+B) a shortage of 10 units.
+C) a surplus of 5 units.
+D) a surplus of 10 units.
+E) no change in the market outcomes.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Quantitative
+
+
+FIGURE 5-3
+
+60) Refer to Figure 5-3. P2 represents a price imposed by the government. What is the quantity of this good that would be exchanged in the market?
+A) Q0
+B) Q1
+C) Q2
+D) Q3
+E) Q4
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+61) Refer to Figure 5-3. To be effective, a price floor must lie
+A) above P1 but below P2.
+B) anywhere above P1.
+C) below P1 but above P3.
+D) anywhere below P1.
+E) within the boundaries of P2 and P3.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+62) Refer to Figure 5-3. Suppose P3 represents a price imposed by the government. The result would be
+A) excess supply of Q3Q4.
+B) excess supply of Q3Q0.
+C) excess demand of Q0Q2.
+D) excess demand of Q1Q2.
+E) excess demand of Q3Q4.
+Answer:  E
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+63) Refer to Figure 5-3.  If the government imposes a price floor at P3, the result would be a price and quantity combination of
+A) P3 and Q3.
+B) P3 and Q4.
+C) P2 and Q1.
+D) P1 and Q0.
+E) P3 and Q0.
+Answer:  D
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Graph
+User2:  Qualitative
+
+64) Suppose the demand for eggs is inelastic and that the market-clearing price is $1.50 per dozen. Now suppose the government imposes a minimum price of $2.00 per dozen. Why might the government implement such a policy?
+A) to make consumers better off
+B) to increase the incomes of egg farmers
+C) to increase excess demand in the egg market
+D) to reduce excess supply in the egg market
+E) to decrease tax revenues from egg farmers
+Answer:  B
+Diff: 3
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+65) Concert promoters often set ticket prices below what they expect the market-clearing price to be. They are effectively imposing a ________ and the result is often ________ at a considerably higher price.
+A) price ceiling; ticket scalping
+B) price floor; ticket scalping
+C) price ceiling; a surplus
+D) price floor; a shortage
+E) fair price; excess tickets
+Answer:  A
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User2:  Qualitative
+
+	Demand and Supply Schedules for Chocolate Bars
+
+Price
+($)
+Quantity Demanded
+(thousands per week)
+Quantity Supplied
+(thousands per week)
+2.00
+1500
+2100
+1.80
+1600
+2050
+1.60
+1700
+2000
+1.40
+1800
+1950
+1.20
+1900
+1900
+1.00
+2000
+1850
+0.80
+2100
+1800
+0.60
+2200
+1750
+0.40
+2300
+1700
+
+TABLE 5-1
+
+66) Refer to Table 5-1. Suppose that as a public-health measure the government wants to reduce the number of chocolate bars that children consume. To achieve this outcome the government could implement which of the following policies?
+A) Impose an equilibrium price of $1.80.
+B) Impose a price floor of $1.80.
+C) Impose a price ceiling of $1.80.
+D) Impose an equilibrium price of $1.20.
+E) Impose a price ceiling of $2.00.
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Table
+User2:  Qualitative
+67) Refer to Table 5-1. Suppose the government imposed a price of $0.60 per chocolate bar. The result would be
+A) excess demand of 450 chocolate bars per week.
+B) excess supply of 450 chocolate bars per week.
+C) excess supply of 1750 chocolate bars per week.
+D) excess demand of 2200 chocolate bars per week.
+E) stockpiling of unsold chocolate bars.
+Answer:  A
+Diff: 3
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Table
+User2:  Quantitative
+
+68) Refer to Table 5-1. Suppose the government imposed a price of $1.80 per chocolate bar. A likely result from this policy is
+A) the development of a black market in chocolate bars.
+B) the allocation of chocolate bars by sellers preference.
+C) the allocation of chocolate bars on a first-come, first-serve basis.
+D) the stockpiling of unsold inventories of chocolate bars.
+E) the rationing of chocolate bars.
+Answer:  D
+Diff: 3
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Table
+User2:  Qualitative
+
+69) Refer to Table 5-1. Suppose the government established a price floor of $1.00 per chocolate bar. How many thousands of chocolate bars would be exchanged per week?
+A) 2000
+B) 1850
+C) 1900
+D) 1800
+E) 2100
+Answer:  C
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-2 Compare the short-run and long-run effects of legislated rent controls.
+User1:  Table
+User2:  Quantitative
+70) Refer to Table 5-1. Suppose the government established a price ceiling of $1.00 per chocolate bar. How many thousands of chocolate bars would be exchanged per week?
+A) 1800
+B) 1850
+C) 1900
+D) 2000
+E) 2100
+Answer:  B
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+71) Refer to Table 5-1. Suppose that as a public health measure the government wants to reduce the number of chocolate bars consumed by children.  If the government imposes a price of $1.60 per chocolate bar, how many fewer chocolate bars will be consumed each week, relative to the competitive equilibrium?
+A) 200
+B) 300
+C) 1700
+D) 2000
+E) 1800
+Answer:  A
+Diff: 2
+Topic:  5.1b. price floors and ceilings
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+5.2  Rent Controls: A Case Study of Price Ceilings
+
+
+
+
+FIGURE 5-1
+
+1) Refer to Figure 5-1. If the diagram applies to the market for rental housing and P3 represents the maximum rent that can be charged, then
+A) there will be an excess supply of rental units equal to BD.
+B) units supplied will be reduced relative to the competitive equilibrium by AF rental units.
+C) windfall profits will be earned by landlords.
+D) there will be excess demand for rental units equal to FC.
+E) there will be excess demand for rental units equal to AF.
+Answer:  B
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User1:  Graph
+User2:  Qualitative
+2) In the presence of binding rent controls, the shortage of housing is smaller
+A) the higher is the elasticity of demand for housing.
+B) the lower is the elasticity of supply of housing.
+C) the longer is the length of time the rent controls are in place.
+D) the greater is the difference between the equilibrium price and the rent-controlled price.
+E) the more elastic is the long-run supply of housing.
+Answer:  B
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+3) Consider the market for rental accommodation. In the short run, the supply of this product tends to be 
+A) infinitely price elastic.
+B) very price elastic.
+C) unit price elastic.
+D) very or completely price inelastic.
+E) irrelevant to the housing market price.
+Answer:  D
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+4) Which of the explanations below best describes why a government might choose to impose binding rent controls?
+A) To prevent landlords from making excess profits and to protect low-income tenants from increases in the cost of housing.
+B) To prevent landlords from making excess profits and to reduce the long-term quantity of rental housing.
+C) To increase the demand for rental housing and to discourage private ownership of low-cost rental housing developments.
+D) To stabilize volatile rents, and thus to make the investment climate less uncertain for prospective investors in this sector.
+E) To stimulate employment in the construction industry through the increased demand for new houses.
+Answer:  A
+Diff: 1
+Topic:  5.2. rent controls
+Skill:  Recall
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+5) Suppose the government establishes a ceiling on the price of rental accommodation that is lower than the free-market equilibrium price. In this case,
+A) construction of new rental units will be encouraged.
+B) the rental housing market will be unaffected.
+C) those people who obtain rental units at the ceiling price will benefit.
+D) a surplus of current rental units will develop.
+E) the current stock of rental housing will be better maintained as there is a shortage of housing.
+Answer:  C
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+6) Assume that the long-run supply of housing is highly elastic. The imposition of binding rent controls will lead to
+A) a reduction in the housing shortage over time.
+B) a worsening of the housing shortage over time.
+C) no significant change in the housing shortage over time.
+D) only a temporary housing shortage.
+E) the price of rental housing to revert back to its free-market equilibrium level.
+Answer:  B
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+7) The use of legislated rent controls typically 
+A) has no effect on the distribution of income between tenants and landlords or on the availability of rental accommodations.
+B) affects the distribution of income between tenants and landlords but does not affect the supply of rental accommodations.
+C) has no effect on the distribution of income between tenants and landlords but does affect the supply of rental accommodations.
+D) affects the distribution of income between tenants and landlords and also affects the availability of rental accommodations.
+E) has much worse effects in the short run than in the long run.
+Answer:  D
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Recall
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+8) Suppose the government imposes a price ceiling on rental housing that is below the market-clearing price. The resulting shortage will be
+A) greater the more recently the controlled price went into effect.
+B) smaller the longer the controlled price has been in effect.
+C) greater the more elastic the demand for rental housing.
+D) smaller the more elastic the demand for rental housing.
+E) diminished over time.
+Answer:  C
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+9) Assuming that the long-run supply of housing is more ________ than the short-run supply, the imposition of binding rent controls will generally ________.
+A) inelastic; lead to a reduction in the housing shortage over time
+B) elastic; lead to a worsening of the housing shortage over time
+C) inelastic; lead to no significant change in the housing shortage
+D) elastic; lead to only a temporary housing shortage
+E) elastic; lead the price of rental housing to revert back to its equilibrium level
+Answer:  B
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+10) Who are likely to be the biggest beneficiaries of rent controls?
+A) landlords
+B) prospective tenants
+C) current tenants
+D) construction companies
+E) no group will benefit from the controls
+Answer:  C
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Recall
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+
+FIGURE 5-4
+
+11) Refer to Figure 5-4. Suppose the government imposes a rent-controlled price of $600 per month on apartments in this city. In the short run we can expect the shortage of apartments to be ________ units.
+A) 0
+B) 200
+C) 300
+D) 800
+E) 1000
+Answer:  C
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User1:  Graph
+User2:  Quantitative
+
+12) Refer to Figure 5-4. Suppose the government imposes a rent-controlled price of $600 per month on apartments in this city. In the long run we can expect the shortage of apartments to be ________ units.
+A) 0
+B) 200
+C) 300
+D) 800
+E) 1000
+Answer:  D
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User1:  Graph
+User2:  Quantitative
+13) Refer to Figure 5-4. Suppose the government sets a rent ceiling at $900.  In this situation, the rental price for an apartment is
+A) $600.
+B) $900.
+C) any rent above $900.
+D) the same as the free-market equilibrium rental price.
+E) any rent below $600.
+Answer:  D
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User1:  Graph
+User2:  Quantitative
+
+14) Refer to Figure 5-4. The difference between supply curve S1 and supply curve S2 in this market for apartments is that
+A) S1 is not affected by a government controlled rental price.
+B) S2 is not affected by a government controlled rental price.
+C) S1 is more elastic than S2.
+D) S1 is a short-run supply curve and S2 is a long-run supply curve.
+E) S1 is a long-run supply curve and S2 is a short-run supply curve.
+Answer:  D
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User1:  Graph
+User2:  Quantitative
+
+15) Refer to Figure 5-4. What is the significance of the difference in the slopes of the short-run supply curve () and the long-run supply curve () for apartments?
+A) Over time, the supply of apartments shrinks in response to the controlled prices - the elasticity of supply decreases.
+B) Over time, the demand for apartments shrinks in response to the controlled prices - the elasticity of supply increases.
+C) Over time, the demand for apartments increases in response to the controlled prices - the elasticity of supply increases.
+D) Over time, the supply of apartments increases in response to the controlled prices - the elasticity of demand increases.
+E) Over time, the supply of apartments shrinks in response to the controlled prices - the elasticity of supply increases.
+Answer:  E
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+16) The short-run supply for rental housing is quite ________ while the long-run supply for housing is quite ________.
+A) elastic; inelastic
+B) inelastic; elastic
+C) flat; steep
+D) inelastic; inelastic
+E) elastic; elastic
+Answer:  B
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Recall
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+17) The long-run elasticity of supply of rental housing is greater than the short-run elasticity of supply because
+A) changes in supply can occur very quickly, especially when rent controls are in place.
+B) investment in new rental housing has such a short payback period.
+C) changes in supply occur only after investment decisions are made regarding, for example, new construction or conversion of rental housing to other uses.
+D) in the long run, landlords have no incentive to alter the supply of rental housing.
+E) the demand for rental housing is changing continuously.
+Answer:  C
+Diff: 2
+Topic:  5.2. rent controls
+Skill:  Recall
+Learning Obj.:  5-3 Describe the relationship between economic surplus and the efficiency of a market.
+User2:  Qualitative
+
+5.3  An Introduction to Market Efficiency
+
+1) Consider the demand curve for a product such as movie tickets, which shows how many tickets consumers wish to purchase at each possible price. Alternatively, we could view this demand curve in the following way:
+A) for each quantity of movie tickets, the price on the demand curve shows the value that consumers place on that particular movie ticket. 
+B) for each quantity of movie tickets, the demand curve shows the economic surplus generated by the purchase of the tickets.
+C) for each possible price, the demand curve shows the economic surplus generated by the purchase of the tickets. 
+D) for each quantity of movie tickets, the demand curve shows the extent of market inefficiency and deadweight loss. 
+E) for each quantity of movie tickets, the demand curve shows the additional cost to the producer of supplying that particular movie ticket.
+Answer:  A
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+2) Consider the supply curve for a product such as shipping crates, which shows how many crates producers want to sell at each possible price. Alternatively, we could view this supply curve in the following way:
+A) for each quantity of shipping crates, the supply curve shows the economic surplus generated by the provision of that ticket.
+B) for each possible price, the supply curve shows the economic surplus generated by the provision of those crates.
+C) for each quantity of shipping crates, the supply curve shows the extent of market inefficiency and deadweight loss.
+D) for each quantity of shipping crates, the supply curve shows the value that consumers place on that particular crate. 
+E) for each quantity of shipping crates, the price on the supply curve shows the additional cost to the producer of supplying that crate. 
+Answer:  E
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+3) Suppose a downward-sloping demand curve intersects the horizontal axis at a point where quantity demanded equals 1250 units. What is the "value" that consumers place on the 1250th unit of this good? 
+A) a negative value
+B) a positive value
+C) $0
+D) $1250
+E) it depends on the position of the supply curve
+Answer:  C
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+4) Suppose a negatively sloped demand curve and a positively sloped supply curve intersect at a price and quantity combination of $100 and 600 units of the good. But suppose that producers actually produce and sell 610 units. What can we correctly say about market efficiency in this case? 
+A) The value placed on the final 10 units of the good by consumers exceeds the additional costs associated with their production — this market is not efficient. 
+B) The production and consumption of the additional 10 units of the good increases total economic surplus and increases market efficiency.
+C) This market is efficient because economic surplus is maximized as production and consumption increase simultaneously. 
+D) This market is not efficient because quantity demanded for the good exceeds quantity supplied. 
+E) The value placed on the final 10 units of the good by consumers is less than the additional costs associated with their production — this market is not efficient. 
+Answer:  E
+Diff: 3
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Quantitative
+
+5) When economists describe a market for a specific product as being economically "efficient," what do they mean? 
+A) Production techniques are such that resources are used in the most technologically efficient manner.
+B) Consumption of the product is such that economic surplus is maximized.
+C) Production of the product is such that economic surplus is maximized.
+D) The quantity of the product produced and consumed is such that the economic surplus is maximized. 
+E) There are no price controls in place in that market. 
+Answer:  D
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+6) Consider a competitive market for good X. A binding price floor and a binding price ceiling in this market would be similar to each other in that
+A) each type of price control will lead to a reduction in deadweight loss and therefore an increase in efficiency in the market for good X. 
+B) the units of good X that will no longer be produced or consumed will not generate any economic surplus.
+C) each type of price control results in a higher price paid by consumers, and therefore to a reduction in economic surplus. 
+D) each type of price control results in a lower price received by sellers, and therefore to a reduction in economic surplus.
+E) additional units of good X will be produced and consumed, leading to an increase in economic surplus. 
+Answer:  B
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+7) Each point on a demand curve shows the ________ price that consumers will pay to consume that quantity. The demand curve therefore shows the ________ to consumers from consuming the product.
+A) maximum; cost
+B) minimum; cost
+C) maximum; value
+D) minimum; value
+E) equilibrium; equilibrium price
+Answer:  C
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+8) Each point on a supply curve shows the ________ acceptable price to firms for selling that unit; this price reflects ________ to firms from producing that unit.
+A) minimum; the equilibrium price
+B) maximum; the additional value
+C) minimum; the additional value
+D) maximum; the additional cost
+E) minimum; the additional cost
+Answer:  E
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+9) Geoff is willing to pay $13 for a sixth entrance to a mountain bike park. The market price for entrance is $10.50.  The bike park is willing to accept $8.75.  The total economic surplus generated from Geoff's sixth trip to the bike park is
+A) $1.75.
+B) $2.50.
+C) $13.00.
+D) $10.50.
+E) $4.25.
+Answer:  E
+Diff: 2
+Topic:  5.3b. price controls and market efficiency
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Quantitative
+
+10) Consider a market that is in equilibrium with a market-clearing price. Economic surplus is shown by
+A) the intersection of the supply and demand curves.
+B) the area that is both below the demand curve and above the supply curve.
+C) the area that is both above the demand curve and below the supply curve.
+D) the area to the right of the market-clearing price and quantity.
+E) the area below the supply curve up to the equilibrium quantity and below the demand curve beyond the equilibrium quantity.
+Answer:  B
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+11) If 10 000 snow tires are produced and purchased in the month of November, we can say that economic surplus is
+A) the net value that society as a whole receives by producing and consuming those 10 000 snow tires.
+B) the number of snow tires that are produced in excess of the equilibrium quantity.
+C) the profit earned by the producers of those 10 000 snow tires.
+D) the price at which the tires are sold multiplied by 10 000.
+E) the net value to those consumers who purchased the 10 000 snow tires.
+Answer:  A
+Diff: 3
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+
+FIGURE 5-5
+
+12) Refer to Figure 5-5. At the market-clearing price and quantity of $30 per hour and 4000 hours of gardening services purchased, the economic surplus is
+A) the sum of the areas below the demand curve, but above the market-clearing price of $30 — i.e., areas 1, 2, 6.
+B) the sum of the areas below the demand curve — i.e., areas 1, 2, 3, 4, 5, 6, 7, 8, 9.
+C) the sum of the areas above the supply curve, but below the market-clearing price of $30 — i.e., areas 3, 4, 7.
+D) the sum of the areas above the supply curve and below the demand curve — i.e., areas 1, 2, 3, 4, 6, 7.
+E) the sum of the areas below the demand curve, up to 4000 hours — i.e., areas 1, 2, 3, 4, 5, 6, 7, 8.
+Answer:  D
+Diff: 3
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+13) Refer to Figure 5-5. At the market-clearing price and quantity of $30 per hour and 4000 hours of gardening services, we can say that
+A) economic surplus could be increased at a lower price because there would be more value to consumers.
+B) economic surplus could be increased at a higher price because firms would generate more revenue.
+C) economic surplus is maximized and the market is efficient.
+D) the market is inefficient because there are some consumers who are not purchasing at this price.
+E) the market is efficient because the government has imposed a market-clearing price and quantity.
+Answer:  C
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+
+14) Refer to Figure 5-5. Suppose this market for gardening services is in a free-market equilibrium. If the government then imposes a price floor of $50 per hour for gardening services, the result would be
+A) a loss of economic surplus of the areas 6 and 7.
+B) a loss of economic surplus of the areas 2 and 6.
+C) a loss of economic surplus of the area 1.
+D) a loss of economic surplus of the areas 2, 3, 4, 6, and 7.
+E) a loss of economic surplus of the areas 1, 2, 3, and 4.
+Answer:  A
+Diff: 3
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+15) Refer to Figure 5-5. If production and consumption of gardening services were 5000 hours per month
+A) the value placed by consumers on the last 1000 hours is less than the additional costs associated with their provision.
+B) the provision of the last 1000 hours would decrease the amount of economic surplus in this market.
+C) the resources going into the last 1000 hours of gardening service would be more highly valued elsewhere.
+D) this market is not achieving efficiency.
+E) all of the above.
+Answer:  E
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+
+16) In general (and in the absence of market failures), economic surplus will be maximized and economic efficiency will be achieved
+A) when the government is able to impose an equilibrium price.
+B) when consumers and producers can agree on the most advantageous division of economic surplus.
+C) when resources are allocated such that production of the good is maximized.
+D) when the government successfully determines what is best for society as a whole.
+E) in a competitive market where price is free to achieve its market-clearing equilibrium level.
+Answer:  E
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+17) Which of the following statements most accurately describes the concept of deadweight loss?
+A) the loss of production that occurs when a binding price floor or ceiling is imposed
+B) the loss of consumption that occurs when a binding price floor or ceiling is imposed
+C) the overall loss of economic surplus that occurs when a market is inefficient
+D) the total market value of the goods no longer produced when quantity exchanged is below the equilibrium quantity
+E) the loss of economic surplus to consumers
+Answer:  C
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+18) One measure of the extent of market inefficiency is
+A) how far market price deviates from equilibrium.
+B) how far quantity exchanged deviates from equilibrium.
+C) the size of the economic surplus.
+D) the size of the deadweight loss.
+E) the difference between total economic surplus and deadweight loss.
+Answer:  D
+Diff: 2
+Topic:  5.3a. market efficiency and economic surplus
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+
+FIGURE 5-6
+
+19) Refer to Figure 5-6. The market for good X is in equilibrium at P0 and Q0. Economic surplus is represented by
+A) areas 1 and 5.
+B) areas 2, 3, 4, 6, 7, 8.
+C) areas 1, 2, 3, 5, 6.
+D) areas 1, 2, 3, 4, 5, 6, 7, 8.
+E) areas 2, 3, 4, 6, 7, 8, 9.
+Answer:  C
+Diff: 2
+Topic:  5.3b. price controls and market efficiency
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+20) Refer to Figure 5-6. The market for good X is in equilibrium at P0 and Q0. Now suppose the government imposes a ________ at P1. One result would be ________.
+A) price ceiling; an increase in economic surplus represented by areas 5 and 6
+B) price ceiling; a deadweight loss represented by areas 5, 6, 7 and 8
+C) price floor; a deadweight loss represented by areas 5, 6, 7 and 8
+D) price floor; a deadweight loss represented by areas 2, 6 and 7
+E) price ceiling; a deadweight loss represented by areas 5 and 6
+Answer:  E
+Diff: 2
+Topic:  5.3b. price controls and market efficiency
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+
+
+
+FIGURE 5-7
+
+21) Refer to Figure 5-7. The market for good X is in equilibrium at P0 and Q0. Now suppose the government imposes a ________ at P2. One result would be ________.
+A) price floor; an increase in economic surplus represented by area 1
+B) price floor; a deadweight loss represented by areas 5 and 6
+C) price ceiling; an increase in economic surplus represented by areas 2 and 5
+D) price floor; a deadweight loss represented by area 8
+E) price ceiling; a deadweight loss represented by areas 5 and 6
+Answer:  B
+Diff: 2
+Topic:  5.3b. price controls and market efficiency
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+22) In competitive markets, binding price floors and binding price ceilings lead to
+A) a reduction in deadweight loss.
+B) fairer prices for consumers and producers, and therefore are better for society as a whole.
+C) an overall increase in economic surplus, and therefore to market efficiency.
+D) a maximization of economic surplus.
+E) an overall reduction in economic surplus, and therefore to market inefficiency.
+Answer:  E
+Diff: 1
+Topic:  5.3b. price controls and market efficiency
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+23) Output quotas are commonly used in markets for
+A) financial products.
+B) exported goods.
+C) imported goods.
+D) agricultural products.
+E) textiles.
+Answer:  D
+Diff: 1
+Topic:  5.3c. output quotas
+Skill:  Recall
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+24) Consider the Canadian market for barley.  Suppose a marketing board sets a production quota which is below the equilibrium quantity.  The quota will cause the price of barley to ________ and the total revenue earned by Canadian barley farmers to ________.
+A) rise; rise if demand is inelastic
+B) rise; rise if demand is elastic
+C) fall; fall if demand is inelastic
+D) fall; fall if demand is elastic
+E) remain unchanged; remain unchanged
+Answer:  A
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+25) Consider Canada's east coast lobster fishery.  Suppose the government sets a production quota which is below the equilibrium quantity.  Relative to the free-market equilibrium, we can expect the result to be
+A) an increase in price and a decrease in deadweight loss.
+B) a decrease in price and a decrease in deadweight loss.
+C) the free-market equilibrium price and quantity because the quota is not binding.
+D) an increase in price and the introduction of a deadweight loss.
+E) a decreased price.
+Answer:  D
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+26) Suppose a binding output quota is imposed in a previously competitive market with free-market equilibrium price and quantity. The result is
+A) higher price and higher quantity exchanged.
+B) higher price and lower quantity exchanged.
+C) lower price and lower quantity exchanged.
+D) lower price and higher quantity exchanged.
+E) no change in price or quantity exchanged.
+Answer:  B
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+The diagram below shows the market for litres of milk.
+
+
+
+FIGURE 5-8
+
+27) Refer to Figure 5-8. Suppose that a binding output quota is imposed on this market at quantity Q1. The loss in economic surplus due to the quota is equal to
+A) areas 5 and 6.
+B) areas 5, 6 and 7.
+C) areas 2 and 5.
+D) area 1.
+E) areas 1, 2 and 3.
+Answer:  A
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+
+28) Refer to Figure 5-8. After the imposition of a milk quota at quantity Q1, economic surplus is represented by
+A) areas 1, 2 and 5.
+B) areas 3 and 4.
+C) areas 1, 2 and 3.
+D) areas 1, 2, 3, 4, 5, 6 and 7.
+E) areas 2, 3, 5 and 6.
+Answer:  C
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 5-8. After the imposition of a milk quota at quantity , the deadweight loss in this market is represented by
+A) area 1.
+B) areas 1 and 4.
+C) areas 1, 2, and 5.
+D) areas 5 and 6.
+E) areas 5, 6, and 7.
+Answer:  D
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+Consider the following demand and supply schedules for some agricultural commodity.
+
+Price
+Quantity Supplied
+Quantity Demanded
+ $10
+  300
+ 1100
+ $30
+  500
+  900
+  $50
+  700
+  700
+  $70
+  900
+  500
+  $90
+ 1100
+  300
+$110
+ 1300
+  100
+
+TABLE 5-2
+
+30) Refer to Table 5-2. Total farmers' revenue under the free-market equilibrium is 
+A) $3000. 
+B) $15 000. 
+C) $35 000. 
+D) $63 000. 
+E) $75 000. 
+Answer:  C
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+
+31) Refer to Table 5-2.  Consider the market-clearing equilibrium.  If the government then imposes a production quota of 500 units, the price of this commodity will ________ relative to the free-market equilibrium price.
+A) remain unchanged
+B) rise by $20
+C) fall by $20
+D) rise by $40
+E) fall by $40
+Answer:  B
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+32) Refer to Table 5-2. Consider the market-clearing equilibrium. If the government then imposes a production quota of 500 units, the deadweight loss that is created is equal to 
+A) $1000. 
+B) $2000. 
+C) $3000.
+D) $4000. 
+E) $5000. 
+Answer:  D
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+
+33) Refer to Table 5-2. Consider the market-clearing equilibrium. If the government then required that production increase to 900 units, the deadweight loss that is created is equal to 
+A) $1000. 
+B) $2000. 
+C) $3000.
+D) $4000. 
+E) $5000. 
+Answer:  D
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+
+34) Refer to Table 5-2. Suppose we begin in a free-market equilibrium. If the government then imposes a production quota of 500 units, total farmers' income 
+A) increases by $800. 
+B) increases by $500. 
+C) remains unchanged. 
+D) decreases by $500. 
+E) decreases by $700. 
+Answer:  C
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User1:  Table
+User2:  Quantitative
+35) Consider the market for any agricultural commodity for which there exists a binding output quota and demand is inelastic.  Any individual producer has a clear financial incentive to
+A) produce a small amount beyond their individual quota amount.
+B) leave the market.
+C) give away their quota.
+D) stop producing.
+E) limit production of the commodity.
+Answer:  A
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+36) Consider the market for any agricultural commodity for which there exists a binding output quota and demand is inelastic.  One outcome of this situation is that
+A) the price and quantity adjust back to the free-market equilibrium levels.
+B) producers who were in this industry before the introduction of the quota are harmed.
+C) producers leave this industry because total revenues fall as a result of the the quota.
+D) it is difficult for new producers to enter this industry because the quotas are very expensive.
+E) producers who enter this industry after the introduction of the quota benefit.
+Answer:  D
+Diff: 3
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+37) In Canada we have government intervention in the dairy market in the form of quotas on milk production. What are two predicted economic effects of this policy?
+A) a redistribution of income from consumers of dairy products to dairy farmers; and a reduction in the total amount of economic surplus in the dairy market
+B) a redistribution of income from consumers of dairy products to dairy farmers; and a reduction in deadweight loss in the dairy market
+C) a redistribution of income from dairy farmers to consumers of dairy products; a reduction in the total amount of economic surplus in the dairy market
+D) a redistribution of income from dairy farmers to consumers of dairy products; and an increase in the total amount of economic surplus in the dairy market
+E) an equitable distribution of income between dairy farmers and consumers of dairy products; and a reduction in the total amount of economic surplus in the dairy market
+Answer:  A
+Diff: 2
+Topic:  5.3c. output quotas
+Skill:  Applied
+Learning Obj.:  5-4 Explain why government interventions that cause prices to deviate from their market‐clearing levels tend to be inefficient for society as a whole.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 47
+Copyright © 2017 Pearson Education, Inc.
+
+
+

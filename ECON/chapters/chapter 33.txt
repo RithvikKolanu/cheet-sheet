@@ -1,0 +1,1597 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 33   Trade Policy
+
+33.1  Free Trade or Protection?
+
+1) Any policy designed to benefit domestic industries at the expense of foreign export industries is called
+A) predatory practice.
+B) monopolization.
+C) commercialization.
+D) cartelization.
+E) protection.
+Answer:  E
+Diff: 1
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+2) Suppose you are an economist advising the Canadian government as to whether to erect trade barriers for the protection of Canada's textile industry. You are likely to study the gains to be realized in this industry and weigh those against 
+A) the effect on factor incomes of Canada's trading partners.
+B) the lower factor prices that occur in competing domestic industries.
+C) the cost in terms of higher prices to Canadian consumers.
+D) the cost in terms of lower national income of Canada's trading partners.
+Answer:  C
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Applied
+User2:  Qualitative
+
+3) Does free trade improve the living standards of all residents of a country?
+A) Yes, definitely, because the gains from trade outweigh the losses in the import-competing industries.
+B) Yes, because inefficient import-competing industries are replaced with efficient export industries. 
+C) Probably not - in principle, the net gains from trade could be divided such that every individual is better off, but in practice, some individuals are likely to be worse off.
+D) No, because the benefits from free trade are only theoretical.
+E) No, because the losses in the import-competing industries outweigh the gains from trade in the new export industries. 
+Answer:  C
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+4) Consider the government of a small economy that is opposed to free international trade. Of the following, which is the most valid argument for their opposition?
+A) to maximize national income
+B) to protect against low-wage labour from abroad
+C) to discourage imports and encourage exports
+D) to diversify production in the domestic economy
+E) to prevent domestic currency from going abroad
+Answer:  D
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+5) Suppose a national government chooses to impose barriers to trade in an effort to promote a more diversified economy. This objective would be particularly important to, for example, an economy largely dependent on one or two agricultural products because 
+A) that country's terms of trade will continue to deteriorate over time if it continues to specialize.
+B) it will allow firms in the economy to exploit economies of scale in newly developed industries.
+C) it will certainly maximize national income and raise average living standards.
+D) it will increase net exports for the economy.
+E) any volatility in the world prices of those commodities leads to great volatility in national income.
+Answer:  E
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+6) The main objective of protectionist trade policies is to 
+A) create a level playing field.
+B) raise average real wages in the economy.
+C) raise government revenues through tariffs.
+D) maximize world production.
+E) shield local producers from foreign competition.
+Answer:  E
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+7) According to the infant-industry argument for trade protection, a new small industry
+A) must be protected even if it will never have a comparative advantage.
+B) must be protected permanently to provide for a diversified economy.
+C) will need protection once it has exploited available economies of scale.
+D) may need protection temporarily until it can exploit its economies of scale.
+E) must be protected in order to provide a domestic supply of the product.
+Answer:  D
+Diff: 1
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+8) In the past few decades, an example of the infant-industry argument at work has been the
+A) Canadian forest-products industry.
+B) Canadian agriculture industry.
+C) Japanese agriculture industry.
+D) European commercial aircraft industry.
+E) U.S. automobile industry.
+Answer:  D
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+9) Economists would tend to accept which of the following arguments in favour of tariffs?
+A) Tariffs are needed to avoid exporting jobs.
+B) Tariffs are needed to limit imports and reduce the capital flow from the country.
+C) Tariffs help to reduce inflation by reducing the price of domestic products.
+D) Temporary tariff protection in some situations may help to generate an eventual comparative advantage in that product.
+E) Tariffs will stimulate the domestic economy.
+Answer:  D
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+10) An example of the "infant industry" argument for trade protection is that 
+A) tariffs should be implemented in order to improve the terms of trade and thereby maximize the gains from trade.
+B) tariffs should not be imposed on countries that have democratic governments.
+C) in the presence of unexploited scale economies, tariff protection may permit a country to develop future comparative advantage in certain products.
+D) imports of certain products should be limited in the interests of national defence.
+E) "strategic" trade policy is helpful when other countries are also being strategic.
+Answer:  C
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+11) A business which contends that it needs temporary protection so that it can expand significantly and thereby reduce its costs so as to enable it to compete with foreign producers is using an argument known as the
+A) infant-industry case for tariffs.
+B) monopolistic competition case for tariffs.
+C) strategic case for tariffs.
+D) price fluctuations case for tariffs.
+E) social advantages case for tariffs.
+Answer:  A
+Diff: 1
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+12) A common argument for the use of tariffs (for a large economy) when the objective is to maximize a country's national income is to
+A) improve the country's terms of trade.
+B) subject infant industries to the discipline of the market.
+C) enjoy the advantages of diversification.
+D) prevent learning-by-doing by potential trade partners.
+E) increase the prices of domestic exports.
+Answer:  A
+Diff: 2
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+13) Many of the world's industrialized countries initially developed their industries with heavy tariff protection. In Canada's case, this was the basis for
+A) the National Policy of 1876.
+B) the National Energy Program of the 1980s.
+C) reciprocity.
+D) the NAFTA.
+E) the Charlottetown Accord.
+Answer:  A
+Diff: 1
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+14) A country can impose a tariff to improve its own terms of trade if it
+A) constitutes a large fraction of the world demand for some commodity that it imports.
+B) has a high level of industrial diversification.
+C) has a significant trade surplus.
+D) imports mostly primary products.
+E) produces and exports a large fraction of the world's supply of some commodity.
+Answer:  A
+Diff: 3
+Topic:  33.1a. the case for protection
+Skill:  Recall
+User2:  Qualitative
+
+15) A common, but invalid argument for using tariffs to maximize national income and raise domestic living standards is to
+A) alter the terms of trade.
+B) keep Canadian currency in Canada.
+C) encourage learning by doing.
+D) create a strategic trade advantage.
+E) exploit economies of scale.
+Answer:  B
+Diff: 2
+Topic:  33.1b. invalid arguments for protection
+Skill:  Recall
+User2:  Qualitative
+16) Continued tariff protection for industries that have already attained all potential economies of scale and possibilities for learning by doing is likely to 
+A) increase employment in the protected industries.
+B) reduce average real income for the country's residents.
+C) redistribute income away from the factors used in the protected industries.
+D) decrease prices to consumers of the products produced in the protected industries.
+E) both A and B are correct.
+Answer:  E
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+17) Continued tariff protection for industries that have already attained all potential economies of scale and opportunities for learning by doing is likely to 
+A) reduce employment in the protected industries.
+B) reduce the stream of tariff revenue to the government.
+C) redistribute income in favour of the factors used in the protected industries.
+D) decrease prices to consumers of the products produced in the protected industries.
+E) result in increased demand for imports.
+Answer:  C
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+18) Continued tariff protection for industries that have already attained all the possible economies of scale will likely 
+A) reduce employment in the protected industries.
+B) reduce the stream of tariff revenue to the government.
+C) redistribute income away from the factors used in the protected industries.
+D) maintain high prices to consumers of the products produced in the protected industries.
+E) result in lower domestic prices for the products they produce.
+Answer:  D
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+19) If wages in Mexico are lower than those in Canada,
+A) Canadian living standards can be raised by imposing tariffs on imports from Mexico.
+B) Canadian consumers can benefit by purchasing some low-cost goods from Mexico.
+C) Canada may have a comparative advantage in all products.
+D) Mexico may have a comparative advantage in all products.
+E) Mexico probably has an absolute advantage in all products due to its low labour costs.
+Answer:  B
+Diff: 2
+Topic:  33.1b. invalid arguments for protection
+Skill:  Recall
+User2:  Qualitative
+20) Consider trade between country A and country B. If country A has wages that are substantially less than those in country B,
+A) country A will have an absolute advantage over country B.
+B) country A will not have to subsidize its export industries.
+C) country B will import from A but will not be able to export to country A.
+D) country B will benefit by placing tariffs on imports from country A.
+E) the pattern of comparative advantage will depend also on the relative productivities of labour in the two countries.
+Answer:  E
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Recall
+User2:  Qualitative
+
+21) If a country is exporting more goods and services than it is importing, we should consider this to be "beneficial" only in the sense that it 
+A) allows a country to add to its foreign-exchange reserves above the level needed to cope with fluctuations in private payments.
+B) represents an accumulation of assets for the domestic economy that can be used in the future to finance consumption.
+C) increases the standard of living through a larger national income.
+D) is a necessary condition to enable a country to take full advantage of scale economies.
+E) means that an economy is earning more than it is spending.
+Answer:  B
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Recall
+User2:  Qualitative
+
+22) If all countries try to expand their exports and restrict their imports through the use of export subsidies and import tariffs, the net effect will probably be
+A) a fall in the volume of trade and an increase in the standard of living in each country.
+B) a fall in the volume of trade and a decline in the average living standards in each country.
+C) an increase in the volume of trade but little change in unemployment levels.
+D) no change in the volume of trade but an increase in the overall unemployment rates.
+E) no change in the volume of trade but less unemployment.
+Answer:  B
+Diff: 2
+Topic:  33.1b. invalid arguments for protection
+Skill:  Recall
+User2:  Qualitative
+23) It is not possible for one country to sell all products more cheaply than other countries for any length of time because the
+A) importing countries will react by constructing severe trade barriers.
+B) exporting country will find its cost of production decreasing relative to the importing country.
+C) depreciation of the importing countries' currencies ensures that trade will flow in both directions.
+D) depreciation of the exporting country's currency will lead to trade in both directions.
+E) the principle of absolute advantage would then be violated.
+Answer:  C
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+24) Consider the following statement: "Canada is unambiguously better off if it is exporting more, in dollar value, to the rest of the world than it is importing." This statement is ________ because ________.
+A) correct; exports are good and imports are bad
+B) correct; it is based on the mercantilist doctrine
+C) incorrect; it fails to recognize that the gains from trade come from the volume rather than the balance of trade
+D) incorrect; it does not recognize the operation of the foreign-exchange market
+E) incorrect; imports improve Canada's terms of trade
+Answer:  C
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+25) Consider the following statement: "Canadians on average are worse off when some manufacturing jobs migrate from Canada to low-wage countries in Central America." This statement is ________ because ________.
+A) correct; the loss of manufacturing jobs leads to permanent income losses in Canada
+B) correct; Canadian firms cannot compete with production in low-wage countries
+C) incorrect; the permanent gains to consumers from lower prices outweigh the temporary losses to the displaced manufacturing workers
+D) incorrect; low-wage countries do not produce manufactured goods
+E) incorrect; there are no Canadians made worse off by such an event
+Answer:  C
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+26) Consider the following statement: "With unemployment at its highest level in years, Canada needs to protect domestic jobs by promoting a "Buy Canadian" policy." This statement is ________ because ________.
+A) incorrect; it confuses the real and nominal gains from trade
+B) incorrect; it fails to recognize that imports of foreign goods also help to encourage the export of domestic goods
+C) correct; it recognizes that such a policy can sustain high levels of domestic employment
+D) correct; a "Buy Canadian" policy will take advantage of Canada's comparative advantage
+E) incorrect; it will work against Canada's pattern of absolute advantage
+Answer:  B
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+27) Consider the following statement: "Without a doubt, free trade improves the lives of every Canadian citizen." This statement is ________ because ________.
+A) correct; it is consistent with the idea of comparative advantage
+B) correct; because Canada has long been a successful trading nation
+C) incorrect; it fails to recognize that the movement to free trade involves both winners and losers
+D) incorrect; we do not know much about the benefits of free trade
+E) correct; there are no net costs associated with the movement to free trade
+Answer:  C
+Diff: 3
+Topic:  33.1b. invalid arguments for protection
+Skill:  Applied
+User2:  Qualitative
+
+33.2  Methods of Protection
+
+1) What is a tariff?
+A) an encouragement to worldwide specialization and division of labour
+B) a quota imposed on imported goods
+C) a tax imposed on domestically produced manufactured goods
+D) a tax imposed on exported goods
+E) a tax imposed on imported goods
+Answer:  E
+Diff: 1
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+2) The effect of the imposition of a new tariff is to ________ domestic production of the commodity and ________ the domestic consumption of the commodity.
+A) decrease; increase
+B) leave unaffected; decrease
+C) decrease; decrease
+D) increase; increase
+E) increase; decrease
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+3) For most products, Canada is a small economy with no market power in the global market. If Canada imposed a tariff on imported goods from a low-wage foreign country, this would
+A) reduce the price of the imported good in Canada.
+B) reduce the advantages of specialization and trade.
+C) increase the income of the foreign producer.
+D) equalize the costs of production between the two countries.
+E) increase national income in the low-wage country.
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+4) For most products, Canada is a small economy with no market power in the global market. If Canada imposed a tariff on imported goods from a low-wage foreign country, this would
+A) reduce the price of the imported good in Canada.
+B) improve Canada's terms of trade.
+C) increase the Canadian price of the imported good.
+D) equalize the costs of production between the two countries.
+E) increase wages in the low-wage foreign country.
+Answer:  C
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+5) Many people argue that the imposition of tariffs in industry X will increase factor incomes in that industry and therefore be good for the country as a whole. The counter-argument is that 
+A) the increase in industry X factor incomes would be more than offset by reductions in real incomes to all other domestic residents.
+B) the increase in factor incomes would increase unemployment.
+C) the increase in factor incomes in industry X would reduce profits to business owners by an equal amount.
+D) factor incomes would first rise and then decrease in industry X.
+E) factor incomes overall would increase, but wages in industry X would fall, which would hurt workers in that industry.
+Answer:  A
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+6) Assume Canada is trading with a country that has lower costs of production for some good and can therefore sell that good at a lower price. If Canada imposes a tariff large enough to equalize the foreign country's price with ours, then 
+A) this tariff will eliminate exploitation of Canadian markets.
+B) Canada would gain absolute advantage.
+C) a "level playing field" will be created.
+D) all Canadians would realize an increase in their standard of living.
+E) the gains from international specialization would be reduced.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+7) The imposition of a tariff on an imported good causes consumer surplus to ________ and producer surplus to ________.
+A) increase; increase
+B) decrease; decrease
+C) decrease; increase
+D) increase; decrease
+E) remain the same; decrease
+Answer:  C
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+8) The effect of imposing a tariff on a specific imported good is to ________ the domestic price of the good and ________ the domestic production of the good.
+A) decrease; decrease
+B) decrease; to leave unaffected
+C) decrease; increase
+D) increase; increase
+E) increase; decrease
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+9) If a tariff is imposed by a country that is large enough to have market power in global markets, the domestic consumer will face an autarkic price ________ than the world price for the product, and this world price will be ________ by the tariff.
+A) higher; reduced
+B) higher; increased
+C) lower; increased
+D) lower; unaffected
+E) lower; reduced
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+10) Over the long run, protecting a domestic industry using a high tariff is likely to ________ new products and production methods, thus making it ________ to compete in the global marketplace.
+A) encourage it to develop; less able
+B) encourage it to develop; more able
+C) discourage it from developing; less able
+D) discourage it from developing; more able
+E) discourage it from developing; more focused on investing in its ability
+Answer:  C
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+11) If a tariff is imposed in a country that is too small to have global market power, the domestic consumer will face a ________ price, and the price paid to foreign producers will ________.
+A) higher; fall
+B) higher; not change
+C) higher; rise
+D) lower; not change
+E) lower; rise
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+12) Canada is a net importer of durable consumer goods (washing machines, refrigerators, etc.). If Canada, a small country in global markets, imposes a 15% tariff on these goods, it will cause
+A) a reduction in the consumption of these goods in Canada.
+B) an increase in the quantity imported of these goods.
+C) an upward shift in the demand curve for these goods.
+D) a decrease in the price consumers pay for these goods in Canada.
+E) a reduction in tariff revenue collected by the Canadian government.
+Answer:  A
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+13) Canada is a net importer of durable consumer goods (washing machines, refrigerators, etc.). If Canada, a small country in global markets, imposes a 10% tariff on these goods, we would expect to observe 
+A) a reduction in the production of these goods in Canada.
+B) an increase in the quantity imported of these goods.
+C) an upward shift in the demand curve for these goods.
+D) an increase in the price paid by Canadian consumers.
+E) a decrease in the price paid by Canadian consumers.
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+14) Canada is a net importer of durable consumer goods (washing machines, refrigerators, etc.). If Canada initially has no tariffs and it then imposes a 10% tariff on these goods, we would expect to observe
+A) a reduction in the production of the commodity in Canada.
+B) an upward shift in the commodity's supply curve.
+C) an upward shift in the commodity's demand curve.
+D) a downward shift in the commodity's demand curve.
+E) an increase in the tariff revenue collected by the Canadian government.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+15) Suppose Canada reduces a tariff on imported solar panels from 20% to 5%. We would expect to observe
+A) a reduction in the quantity consumed of solar panels in Canada.
+B) a reduction in the quantity imported of solar panels.
+C) an upward shift in the demand curve for solar panels.
+D) a downward shift in the demand curve for solar panels.
+E) an increase in quantity consumed of solar panels in Canada.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+16) Suppose Canada reduces a tariff on imported solar panels from 20% to 5%. We would expect to observe
+A) an increase in Canada's terms of trade.
+B) an increase in tariff revenue by the Government of Canada.
+C) an upward shift in the demand curve for solar panels.
+D) an increase in the number of solar panels imported into Canada.
+E) a downward shift in the demand curve for solar panels.
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+17) If Canada reduces the tariff imposed on a commodity from 10% to 5%, we would expect to observe
+A) a reduction in the quantity consumed of the commodity in Canada.
+B) a reduction in the quantity produced of the commodity in Canada.
+C) an upward shift in the commodity's demand curve.
+D) a downward shift in the commodity's demand curve.
+E) an increase in quantity produced of the commodity in Canada.
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+18) Suppose a $1 per-litre tariff on all wine imported into Canada was introduced. The effect of this tariff would be to
+A) equally protect the production of all Canadian wines.
+B) protect the production of expensive wines more than cheaper wines.
+C) protect the production of cheaper wines more than expensive wines.
+D) provide no protection at all to the Canadian wine industry.
+E) create an incentive to produce better quality wines.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+19) Suppose a 10% tariff on all wines imported into Canada was introduced. The effect of this tariff would be to
+A) equally protect the production of all Canadian wines.
+B) protect the expensive wines more than the cheaper wines.
+C) protect the cheaper wines at the expense of the expensive wines.
+D) provide no protection at all to the Canadian wine industry.
+E) create the incentive to produce better quality wines.
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+20) Suppose lumber, a homogeneous product, is exported from Canada at the current world price. If Canada imposes a 25% tariff on imported lumber, we would expect to observe
+A) an increase in revenues for foreign lumber producers. 
+B) a decrease in domestic consumption and an increase in domestic production.
+C) no change in the domestic consumption or production of lumber. 
+D) an increase in tariff revenues for the Canadian government.
+E) a decrease in tariff revenues for the Canadian government.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Quantitative
+
+21) Suppose that at the current world price bananas are imported into Canada. Suppose also that domestic supply is perfectly inelastic and domestic demand has unit elasticity. If Canada were to place a tariff on imported bananas, the 
+A) revenues of the foreign exporters of bananas would rise.
+B) quantity imported would be unaffected.
+C) quantity imported would rise.
+D) price of bananas in Canada would rise, but total domestic expenditures would fall.
+E) price of bananas in Canada would rise, but total domestic expenditures would be unaffected.
+Answer:  E
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Quantitative
+
+22) If a country is small in world markets and imports some product at the world price, the country effectively faces a horizontal foreign supply curve for that product. If the country then restricts the volume of imports by imposing an import quota, the effect on the domestic market for that product is to 
+A) shift the entire supply curve to the left.
+B) make the domestic demand curve a horizontal line at the permitted quantity of imports.
+C) make the domestic demand curve a vertical line at the permitted quantity of imports.
+D) make the foreign supply curve a vertical line determined by the permitted quantity of imports.
+E) make the foreign supply curve a horizontal line at the current price.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+The diagram below shows the demand and supply curves for refrigerators in Canada.
+
+
+
+FIGURE 33-1
+
+23) Refer to Figure 33-1. The free-market equilibrium price of refrigerators in Canada is P0, implying that P0 is the
+A) tariff-protected price.
+B) quota-induced price.
+C) cartel-induced price.
+D) world price.
+E) Canadian autarkic price.
+Answer:  D
+Diff: 1
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+24) Refer to Figure 33-1. At the price P0, the quantity of refrigerators supplied to the Canadian market by domestic Canadian producers is
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  A
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 33-1. At the price P0, the quantity of refrigerators imported into the Canadian market is
+A) Q3Q5.
+B) Q2Q4.
+C) Q2Q5.
+D) Q2Q3.
+E) Q1Q5.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 33-1. Suppose P0 is the world price. If Canada imposes a tariff causing the price of refrigerators in Canada to rise from P0 to P1, the consequence would be that
+A) both domestic production and domestic consumption would decrease by equal amounts.
+B) domestic production will increase from Q1 to Q2 and domestic consumption will fall from Q5 to Q4.
+C) domestic production will increase from Q1 to Q3 and domestic consumption will fall from Q5 to Q3.
+D) domestic production will exceed domestic consumption.
+E) both domestic production and domestic consumption would increase by equal amounts.
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+27) Refer to Figure 33-1. Suppose P0 is the world price. If Canada imposes a tariff causing the price of refrigerators in Canada to rise from P0 to P1, the Canadian government will collect tariff revenues equal to
+A) the original price P0, multiplied by the original quantity of refrigerators imported into Canada, Q1Q5.
+B) (P1 - P0) multiplied by the tariff-induced quantity of refrigerators imported into Canada, Q1Q5.
+C) (P1 - P0) multiplied by the tariff-induced quantity of refrigerators imported into Canada, Q2Q4.
+D) the new price, P1, multiplied by the total quantity of refrigerators purchased in Canada, Q4.
+E) the new price, P1, multiplied by the total quantity of refrigerators purchased in Canada, Q2.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+28) Refer to Figure 33-1. Suppose P0 is the world price and Canada imports refrigerators. Suppose the Canadian government then responds to political pressure from domestic refrigerator manufacturers and imposes a tariff high enough that all imports are eliminated. As a result of this tariff, the price and quantity of refrigerators in Canada will be, respectively,
+A) P0 and Q1.
+B) P0 and Q5.
+C) P1 and Q2.
+D) P1 and Q3.
+E) P2 and Q3.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+29) Refer to Figure 33-1, and assume the world price is P0. The Canadian government now imposes an import quota of the amount Q2Q4. The result would be that the price in Canada would
+A) stay at P0 and consumption would stay at Q5.
+B) stay at P0 and consumption would rise to Q3.
+C) rise to P2 and consumption would decrease to Q5.
+D) rise to P2 and consumption would decrease to Q4.
+E) rise to P1 and consumption would decrease to Q4.
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+30) Refer to Figure 33-1. If we compare the effect of an import tariff with the effect of an import quota in this market, both of which cause the Canadian price to increase by the same amount, the major difference between the two policies is
+A) the quota does not directly reduce the quantity whereas the tariff does.
+B) the tariff raises revenue for the government whereas the quota benefits foreign producers.
+C) the tariff raises revenue for the protected producers whereas the quota benefits the government.
+D) the tariff does not directly affect the price consumers pay whereas the quota does.
+E) the tariff directly affects the price consumers pay whereas the quota has neither direct nor indirect price effects.
+Answer:  B
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+The diagram below shows the domestic demand and supply curves for denim jeans in Canada. The prevailing world price is PW. Assume that all jeans are identical.
+
+
+FIGURE 33-2
+
+31) Refer to Figure 33-2. If Canada were to engage in no international trade in denim jeans, then the quantity consumed and produced in Canada would be 
+A) Q1
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  C
+Diff: 1
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+32) Refer to Figure 33-2. In the presence of free international trade, Canada's consumption of denim jeans will be the quantity 
+A) Q1
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  E
+Diff: 1
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+33) Refer to Figure 33-2. In the presence of free international trade, Canada's production will be at the quantity
+A) Q1
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  A
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. Canada's production will then be at the quantity
+A) Q1
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+35) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. Canada's consumption will then be at the quantity
+A) Q1
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+36) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. Canada's jean-producing firms will gain producer surplus equal to the area
+A) A.
+B) A + B + C.
+C) A + D.
+D) D.
+E) D + E + F + G + H.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+37) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. Canadian consumers will lose consumer surplus equal to the area 
+A) A.
+B) A + B + C.
+C) B + C + E + F + G + H.
+D) D.
+E) D + E + F + G + H.
+Answer:  E
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+38) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. The Canadian government's tariff revenues will be equal to
+A) B + C.
+B) E + F.
+C) E + F + G + H.
+D) F + G.
+E) F + G + H.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+39) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. Canadian jean producers' revenues will increase by the area equal to 
+A) A + B + F + J.
+B) D + E + I.
+C) E + F + G + H.
+D) F + G.
+E) F + G + H.
+Answer:  B
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+40) Refer to Figure 33-2. Suppose Canada has free trade in jeans and then imposes a tariff of $t per pair. The deadweight loss to the Canadian economy is represented by the area
+A) E + H.
+B) E + F + G + H.
+C) D + E + F + G + H.
+D) B + C.
+E) A + B + C.
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+41) Refer to Figure 33-2. Suppose Canada has free trade in jeans. If Canada initially has no tariff on jeans but then imposes a tariff of $t per pair, Canada's imports will
+A) increase from (Q4 - Q2) to (Q5 - Q1).
+B) increase from (Q4 - Q2) to (Q5 - Q3).
+C) decrease from (Q5 - Q1) to (Q4 - Q2).
+D) decrease from (Q5 - Q3) to (Q4 - Q2).
+E) decrease from(Q5 - Q3) to (Q3 - Q1).
+Answer:  C
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+The diagram below shows the domestic demand and supply curves for cotton towels in Canada. The prevailing world price of cotton towels is PW. Assume that all cotton towels are identical.
+
+
+FIGURE 33-3
+
+42) Refer to Figure 33-3. If Canada has free trade in cotton towels, foreign producers' revenues from their Canadian sales will be equal to the amount
+A) A + B + E + F + G.
+B) E + F.
+C) E + F + G + H + I.
+D) E + F + G + H + I + J.
+E) G + H + I.
+Answer:  E
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+43) Refer to Figure 33-3. If Canada imposes a tariff of $t per cotton towel, foreign producers' revenues from their Canadian sales will be equal to the area 
+A) B + C + D.
+B) B + C + D + G + H + I.
+C) C + H.
+D) H.
+E) G +H + I.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+44) Refer to Figure 33-3. If Canada imposes a tariff of $t per cotton towel, Canadian towel producers' revenues will be equal to the amount
+A) A + B + C + D.
+B) A + B + C + E + F + G + H.
+C) A + B + E + F + G.
+D) E + F + G.
+E) E + F + G + H.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+45) Refer to Figure 33-3. If Canada imposes a tariff of $t per cotton towel, the Canadian government's tariff revenues will be equal to the area 
+A) A + B + C.
+B) A + B + C + D.
+C) B + C + D.
+D) C.
+E) C + H.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+46) Refer to Figure 33-3. If Canada imposes a tariff of $t per cotton towel, the deadweight loss to the Canadian economy is shown by area
+A) A + B + C.
+B) A + B + C + D.
+C) B + D.
+D) C.
+E) C + H.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+47) Refer to Figure 33-3. If the Canadian government imposes a quota on imported cotton towels of the amount (Q3 - Q2), then foreign producers' revenues from their sales in Canada will be equal to the area 
+A) B + C + D.
+B) B + C + D + G + H + I.
+C) C + H.
+D) H.
+E) G + H + I.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+48) Refer to Figure 33-3. If the Canadian government imposes a quota on imported cotton towels of the amount (Q3 - Q2), then the deadweight loss to the Canadian economy is shown by the area
+A) B + C + D.
+B) B +D.
+C) C + H.
+D) H.
+E) G + H + I.
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+49) Refer to Figure 33-3. If the Canadian government imposes a quota on imported cotton towels of the amount (Q3 - Q2 ), then domestic towel producers' revenues will be equal to the area 
+A) A + B + C + D.
+B) A + B + C + E + F + G + H.
+C) A + B + E + F + G.
+D) E + F + G.
+E) E + F + G + H.
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+50) Refer to Figure 33-3. Consider the Canadian producers of towels currently in a free-trade situation in this market who then choose to lobby the government for protection of their industry. Suppose you are an advisor to this industry and are asked to recommend whether they should lobby for a tariff of $t per unit or an import quota of ( - ). What should you recommend if the producers want to increase their revenues?
+A) The tariff - their revenues will be higher.
+B) The import quota - their revenues will be higher.
+C) The tariff - the domestic producers will receive all of the revenue previously accruing to foreign suppliers.
+D) Either - it makes no difference to their revenues either way.
+E) Neither - their revenues will not increase with a tariff or an import quota.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+51) Refer to Figure 33-3. Consider the Canadian producers of towels currently in a free-trade situation in this market. Now suppose the producers have successfully lobbied the government for protection for their industry. Suppose you are an advisor to the government and are asked to recommend whether they should impose a tariff of $t per unit or an import quota of ( - ). What should you recommend?
+A) The import quota - the deadweight loss to the economy as a whole is smaller than with the tariff. 
+B) The tariff - the tariff revenues are collected by the government, rather than going to the foreign producers.
+C) The tariff - the domestic producers will receive all of the revenue previously accruing to foreign suppliers.
+D) Either - it makes no difference to the overall economy either way.
+E) The import quota - revenues accruing to domestic producers will be higher than with the tariff, which is better for the overall economy.
+Answer:  B
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+The diagram below shows supply and demand curves for bicycles in the domestic Canadian market.  Assume that all bicycles are identical.
+
+
+FIGURE 33-4
+
+52) Refer to Figure 33-4. Assume there is free trade in bicycles. If the world price of bicycles is $500, domestic consumption is ________ at a price of ________.
+A) 40 000; $500
+B) 40 000; $400
+C) 30 000; $500
+D) 50 000; $300
+E) 30 000; $300
+Answer:  C
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+53) Refer to Figure 33-4. Assume there is free trade in bicycles. If the world price of bicycles is $500, Canada will ________ bicycles per year.
+A) import 30 000
+B) import 20 000
+C) export 30 000
+D) export 20 000
+E) export 50 000
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+54) Refer to Figure 33-4. Assume there is free trade in bicycles. If the world price of bicycles is $200, domestic consumption is ________ and domestic production is ________.
+A) 20 000; 60 000
+B) 30 000; 50 000
+C) 40 000; 40 000
+D) 50 000; 30 000
+E) 60 000; 20 000
+Answer:  E
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+55) Refer to Figure 33-4. Assume there is free trade in bicycles. At a world price of $300, Canada will ________ bicycles per year.
+A) import 30 000
+B) import 20 000
+C) export 30 000
+D) export 20 000
+E) export 50 000
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+56) Refer to Figure 33-4. Suppose there is free trade in bicycles and the world price is $200. If Canada then imposes a 50% import tariff on bicycles, domestic consumption will 
+A) increase by 30 000.
+B) decrease by 10 000.
+C) increase by 20 000.
+D) decrease by 20 000.
+E) increase by 10 000.
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+57) Refer to Figure 33-4. Suppose the world price of bicycles is $200 and Canada has in place a 50% import tariff on this good. The Canadian government will collect tariff revenue in the amount of ________ per year.
+A) $0.5 million
+B) $1.0 million
+C) $1.5 million
+D) $2.0 million
+E) $2.5 million
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+58) Refer to Figure 33-4. Suppose the world price of bicycles is $200 and Canada has in place a 50% tariff on this good. The deadweight loss to the Canadian economy resulting from this tariff is ________ per year.
+A) $0
+B) $0.5 million
+C) $1.0 million
+D) $1.5 million
+E) $2.0 million
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+59) Refer to Figure 33-4. Suppose the world price of bicycles is $500 and Canada has in place a 50% tariff on this good. The deadweight loss to the Canadian economy resulting from this tariff is ________ per year.
+A) $0
+B) $0.5 million
+C) $1.0 million
+D) $1.5 million
+E) $2.0 million
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+60) The effect of a tariff on a specific imported good on (domestic) consumer and producer surplus can be summarized as follows:
+A) consumer surplus is increased and producer surplus is decreased.
+B) consumer surplus and producer surplus are both increased.
+C) consumer surplus and producer surplus are both decreased.
+D) consumer surplus is decreased and producer surplus is increased.
+E) there is no effect on either consumer or producer surplus.
+Answer:  D
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+61) Suppose Canada imposes a 20% tariff on imported textiles. Which of the following will occur?
+1) an increase in producer surplus for Canadian textile producers
+2) a reduction in the quantity of textiles imported
+3) a reduction in the consumption of textiles in Canada
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1, 2, and 3
+E) 2 and 3
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+62) When a country chooses to protect domestic industries from foreign competition, it will incur a cost in the form of
+A) the loss of revenue from tariffs.
+B) higher unemployment.
+C) the loss of jobs in the protected industries.
+D) lower average material living standards.
+E) the loss of those protected industries.
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+63) Which of the following methods of import protection leads to the largest deadweight loss for the importing country?
+A) dumping
+B) tariff
+C) countervailing duty
+D) quota
+E) import duty
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Recall
+User2:  Qualitative
+
+64) Suppose Canada has a 12% tariff on foreign-made cotton clothing. If the tariff is raised to 20%, there will be a ________ in the Canadian price of cotton clothing, ________ profits for domestic producers, and ________ in deadweight loss.
+A) rise; increased; a decrease
+B) fall; reduced; a decrease
+C) fall; increased; a decrease
+D) rise; increased; an increase
+E) rise; reduced; an increase
+Answer:  D
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+65) Suppose Canada eliminates a 15% tariff on foreign-made leather goods. There will be a ________ in the Canadian price of leather goods, ________ profits for domestic leather-goods producers, and ________ in the deadweight loss associated with the tariff.
+A) rise; increased; an increase
+B) fall; decreased; a decrease
+C) rise; increased; a decrease
+D) fall; increased; a decrease
+E) fall; decreased; an increase
+Answer:  B
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+66) Suppose the Canadian government imposes trade restrictions (tariffs or quotas) on the import of steel. Which of the following groups are likely to be in favour of this policy?
+A) Canadian automotive union
+B) Canadian consumers
+C) foreign steel producers
+D) foreign steel consumers
+E) Canadian steelworkers' union
+Answer:  E
+Diff: 1
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User2:  Qualitative
+
+The table below shows the prices in Canada of one kilogram of cheddar cheese produced in three different countries. Assume that all cheddar cheese is identical.
+
+Producing Country
+Canadian Price in  $
+Canadian Price in $
+
+Free Trade
+40% Import Tariff
+Canada
+10.00
+________
+United Kingdom
+  9.00
+________
+United States
+  8.00
+________
+
+TABLE 33-1
+
+67) Refer to Table 33-1. If Canada has a 40% tariff in place on the import of cheddar cheese, the price per kilogram of cheese from Canada, United Kingdom and United States respectively, is
+A) $10, $12.60 and $11.20.
+B) $10, $9.00 and $8.00.
+C) $14, $12.60 and $11.20.
+D) $14, $9.00 and $8.00.
+E) $10, $10 and $10.
+Answer:  A
+Diff: 2
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+68) Refer to Table 33-1. Assuming that a 40% tariff is in place and that Canadians buy only the lowest-priced cheddar cheese, from which country will Canada buy its cheese?
+A) all from United Kingdom
+B) all from the United States
+C) all from Canada
+D) from Canada and United States
+E) from United Kingdom and United States
+Answer:  C
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+69) Refer to Table 33-1. Suppose Canada and the United Kingdom negotiate a free-trade agreement in cheese. But Canada has a 40% tariff on cheese imported from other countries. From which country will Canada now buy its cheese?
+A) all from United Kingdom
+B) all from the United States
+C) all from Canada
+D) from Canada and United States
+E) from United Kingdom and United States
+Answer:  A
+Diff: 3
+Topic:  33.2a. tariffs and quotas
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+70) When a firm sells its product abroad for less than the price at which it sells it in its domestic market, it is often accused of 
+A) countervailing.
+B) cross-subsidization.
+C) dumping.
+D) predatory pricing.
+E) strategic selling.
+Answer:  C
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+71) A country that implements a voluntary export restriction (VER) 
+A) employs the "escape clause."
+B) sets a countervailing duty.
+C) sets a maximum on the quantity of some commodity that it may import each year.
+D) agrees to limit the amount of a commodity it sells to another country.
+E) sets a tariff to raise the price of an imported commodity.
+Answer:  D
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+72) In international trade, "dumping" is defined as charging
+A) a lower price in foreign markets than in the domestic market.
+B) a domestic retail price above the marginal cost faced by a firm importing the product at the wholesale level.
+C) export prices below average cost for a short period of time.
+D) export prices below average cost for any period of time.
+E) export prices below marginal cost for any period of time.
+Answer:  A
+Diff: 1
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+73) Suppose a Canadian brewery sells beer in both Canadian and American markets and that all prices are in Canadian dollars. The Canadian domestic price is $17.00 per case while in the American market it sells the same case for $13.00. The average total cost of production is $11.50. This brewery could be accused of
+A) bad management.
+B) dumping.
+C) exploiting the Canadian beer drinkers.
+D) exchange-rate manipulation.
+E) trying to reduce the American domestic price of beer.
+Answer:  B
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Applied
+User2:  Qualitative
+
+74) Trade-remedy policies commonly used to achieve a "level playing field" are
+A) countervailing duties.
+B) export taxes.
+C) export quotas.
+D) system-wide subsidies to domestic consumers.
+E) voluntary export restraints (VER).
+Answer:  A
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+75) Countervailing duties are a method of trade restriction designed to offset
+A) foreign tariffs.
+B) dumping.
+C) quotas.
+D) a trading partner's countervailing duties.
+E) subsidies by foreign governments to their exporting firms.
+Answer:  E
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+76) Suppose Canada implements new border procedures that require goods arriving from Country X to be held for 60 days in a bonded warehouse. This new policy is ________ and is likely to ________. 
+A) a voluntary export restriction; reduce imports from Country X
+B) an example of trade diversion; increase imports from Country X
+C) a non-tariff barrier; reduce imports from Country X
+D) a non-tariff barrier; drive down the price of imports from Country X
+E) an example of an anti-dumping measure; reduce exports from Country X
+Answer:  C
+Diff: 2
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Applied
+User2:  Qualitative
+77) What is the main difference between a tariff and an "equivalent" voluntary export restriction (VER)? A tariff
+A) allows the government of the importing country to appropriate the extra market value of the imported good, but with a VER the extra market value accrues to the good's foreign producers.
+B) allows the extra market value of the good to accrue to the supplier, but a VER allows the extra market value to be appropriated by the government of the importing country.
+C) restricts free trade between two countries and a VER does not.
+D) keeps the price in the importing country higher than it would otherwise be; a VER does not.
+E) allows the importing country to protect wages and other factor incomes in the affected industry, while a VER does not.
+Answer:  A
+Diff: 3
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+78) Which of the following actions (all of which affect international trade) would be undertaken by a private firm as opposed to a national government?
+A) dumping
+B) tariff
+C) countervailing duty
+D) quota
+E) import duty
+Answer:  A
+Diff: 1
+Topic:  33.2b. trade-remedy laws and non-tariff barriers
+Skill:  Recall
+User2:  Qualitative
+
+33.3  Current Trade Policy
+
+1) The General Agreement on Tariffs and Trade (GATT) was established in 1947. It has more recently been replaced by the
+A) European Union (EU).
+B) North American Free Trade Agreement (NAFTA).
+C) Second General Agreement on Trade and Tariffs (GATT 2).
+D) World Trade Organization (WTO).
+E) United Nations Council for Free and Fair Trade (UNCFFT).
+Answer:  D
+Diff: 1
+Topic:  33.3a. current trade policy
+Skill:  Recall
+User2:  Qualitative
+2) Canadian governments (provincial and federal) currently provide enormous protection (through tariffs) to which of the following domestic industries?
+A) textile
+B) steel
+C) lumber
+D) dairy
+E) electronic gaming
+Answer:  D
+Diff: 1
+Topic:  33.3a. current trade policy
+Skill:  Recall
+User2:  Qualitative
+
+3) Canada and the United States had a prolonged dispute about alleged government subsidies to the softwood lumber industry in Canada. Who loses and who gains from the situation in which Canadian governments impose taxes on Canadian exports of softwood lumber to the United States?
+A) U.S. users of lumber lose and U.S. producers of lumber gain.
+B) U.S. users of lumber gain and U.S. producers of lumber lose. 
+C) Canadian users of lumber lose and Canadian producers of lumber gain.
+D) Canadian users of lumber lose and U.S. producers of lumber lose.
+E) U.S. users of lumber gain and U.S. producers of lumber gain.
+Answer:  A
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Applied
+User2:  Qualitative
+
+4) What is the fundamental guiding principle of the North American Free Trade Agreement (NAFTA)?
+A) countervailing duties
+B) most-favoured-nation status
+C) national treatment
+D) protectionism
+E) strategic trade policy
+Answer:  C
+Diff: 1
+Topic:  33.3a. current trade policy
+Skill:  Recall
+User2:  Qualitative
+5) According to the principle of "national treatment" in the North American Free Trade Agreement (NAFTA), member countries
+A) have complete autonomy over their own laws and the way in which they are applied to any firm, domestic or foreign, operating on their soil.
+B) can establish new laws as they wish, as long as these laws apply equally to domestic and foreign-owned firms.
+C) must submit any new laws being considered to a cross-border judicial panel before the laws are enacted.
+D) cannot establish new laws which harm the domestic environment.
+E) can establish specific subsidies to favour their own national firms over international firms, as long as it applies only to domestic operations.
+Answer:  B
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Recall
+User2:  Qualitative
+
+6) Consider the North American Free Trade Agreement (NAFTA) between Canada, the United States and Mexico. Some industries in Canada, however, continue to have some trade protection. An example is 
+A) mining.
+B) beef.
+C) computer software.
+D) auto parts.
+E) dairy products.
+Answer:  E
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Recall
+User2:  Qualitative
+
+7) Suppose Canada imposed more stringent quality standards on pharmaceutical products being imported from Mexico than were imposed on firms producing the same products in Canada. This action would be
+A) an example of a countervailing duty.
+B) a breach of WTO trade guidelines.
+C) a violation of Canadian Competition Bureau rules.
+D) a violation of NAFTA's principle of national treatment. 
+E) an example of an unfair subsidy to domestic firms.
+Answer:  D
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Applied
+User2:  Qualitative
+8) Canada and the United States have been in a prolonged dispute about Canada's supply-managed agricultural industries, such as dairy and poultry. If the United States is successful in having Canada's "tariff equivalents" removed, who will lose and who will gain?
+A) American consumers lose and American poultry and dairy producers gain.
+B) American consumers gain and American poultry and dairy producers lose. 
+C) Canadian consumers lose and Canadian poultry and dairy producers gain.
+D) Canadian consumers gain Canadian poultry and dairy producers lose. 
+E) Canadian consumers gain and Canadian poultry and dairy producers gain.
+Answer:  D
+Diff: 3
+Topic:  33.3a. current trade policy
+Skill:  Applied
+User2:  Qualitative
+
+9) Suppose the Canadian government imposed more stringent environmental regulations on U.S.-owned pulp and paper mills than on Canadian-owned mills. This practice would be a violation of
+A) Canada's Charter of Rights and Freedoms.
+B) the NAFTA principle of national treatment.
+C) GATT rules.
+D) WTO rules.
+E) U.S. Environmental Protection Agency rules.
+Answer:  B
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Applied
+User2:  Qualitative
+
+10) Suppose the Canadian government began subsidizing wheat farmers by paying them $25 per bushel of wheat produced. According to existing international trade agreements, other countries would be allowed to react to this subsidy by imposing a
+A) VER.
+B) quota.
+C) trade diversion.
+D) non-tariff barrier.
+E) countervailing duty.
+Answer:  E
+Diff: 2
+Topic:  33.3a. current trade policy
+Skill:  Applied
+User2:  Qualitative
+11) An agreement among a group of countries to eliminate trade barriers among themselves, to present a common trading front to the rest of the world in terms of common barriers to trade, and to permit free movement of factors of production among member countries is called a
+A) confederation.
+B) common market.
+C) customs union.
+D) free-trade area.
+E) reciprocity association.
+Answer:  B
+Diff: 1
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+
+12) An agreement among a group of countries that allows for tariff-free trade among the members but leaves each member free to levy its own tariffs on imports from other countries is called a
+A) confederation.
+B) common market.
+C) customs union.
+D) free-trade area.
+E) reciprocity association.
+Answer:  D
+Diff: 1
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+
+13) The concept of "trade creation" refers to 
+A) the opening up of new trading routes.
+B) inefficient trade that follows the establishment of a free-trade area.
+C) trade based on comparative advantage that typically follows the reduction of trade barriers.
+D) increased exports and reduced imports as a result of a high-tariff policy.
+E) regional trade agreements.
+Answer:  C
+Diff: 1
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+
+14) The concept of "trade diversion" refers to 
+A) the main benefit of creating a free-trade area.
+B) the replacement of a low-cost foreign supplier with a high-cost one based on membership in a trade agreement.
+C) trade that is shifted between members of a customs union.
+D) something that is predicted by theory, but has never been observed in practice.
+E) an increase in economic efficiency that comes with a newly established trading relationship.
+Answer:  B
+Diff: 1
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+15) Suppose Canada has a 20% tariff on the import of carpets, and Canada currently imports this product from India at a with-tariff price of $22. The with-tariff price of identical carpets from the United States is $24. Now suppose a free-trade agreement with the U.S. eliminates the tariff and so the no-tariff price from the U.S. is $20. Canada now purchases carpets from the U.S. This is an example of
+A) dumping.
+B) trade diversion.
+C) a countervailing duty.
+D) trade creation.
+E) specialization.
+Answer:  B
+Diff: 2
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Applied
+User2:  Qualitative
+
+16) Suppose Canada has a 20% tariff on the import of carpets, and Canada currently imports this product from India at a with-tariff price of $22. The with-tariff price of identical carpets from the United States is $24. Now suppose a free-trade agreement with the U.S. eliminates the tariff and so the no-tariff price from the U.S. is $20. Canada now purchases carpets from the U.S. Is Canada made better off from this trade diversion?
+A) No, because it would still be cheaper for individual consumers to buy carpets from India. 
+B) Canada is not better or worse off. The gain in consumer surplus in Canada is identical to the loss in tariff revenue to the Canadian government. 
+C) Yes, because Canadian consumers are paying less for carpets and consumer surplus has increased.
+D) No, because before the agreement Canada was buying from India at a lower (pre-tariff) price and collecting tariff revenue.
+E) Yes, because Canada has diverted trade toward the United States. 
+Answer:  D
+Diff: 3
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Applied
+User2:  Qualitative
+
+17) What is potentially an important argument against regional trade agreements? 
+A) The benefits of trade creation may be outweighed by the costs of trade diversion.
+B) They are more difficult to negotiate than multilateral agreements at the WTO.
+C) The gains from trade can only be realized with global trade agreements. 
+D) Regional trade agreements lead to more volatile swings in national income. 
+E) Regional trade agreements are not legally enforceable.
+Answer:  A
+Diff: 2
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+The table below shows the prices in Canada of one kilogram of cheddar cheese produced in three different countries. Assume that all cheddar cheese is identical.
+
+Producing Country
+Canadian Price in  $
+Canadian Price in $
+
+Free Trade
+40% Import Tariff
+Canada
+10.00
+________
+United Kingdom
+  9.00
+________
+United States
+  8.00
+________
+
+TABLE 33-1
+
+18) Refer to Table 33-1. Assume there is free trade in cheddar cheese and Canada imports the lowest price cheese from the United States. If a 40% tariff is then imposed on U.S. imports, Canada would be likely to purchase its cheese from ________. This situation would be one of ________. 
+A) United States; trade creation
+B) United Kingdom; trade diversion
+C) United Kingdom; trade creation
+D) United States; trade diversion
+E) United States; free trade
+Answer:  B
+Diff: 2
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+19) An agreement among a group of countries to eliminate trade barriers among themselves, to present a common trading front to the rest of the world in terms of common tariffs, but which does not permit free movement of factors of production among member countries, is called a
+A) confederation.
+B) common market.
+C) customs union.
+D) free-trade area.
+E) reciprocity association.
+Answer:  C
+Diff: 2
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Recall
+User2:  Qualitative
+20) Suppose Canada entered into a free-trade arrangement with China and, as a result, Canadian imports from India were replaced with imports from China. This would be an example of
+A) trade diversion.
+B) trade creation.
+C) dumping.
+D) trade expansion.
+E) countervailing trade.
+Answer:  A
+Diff: 1
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Applied
+User2:  Qualitative
+
+21) Suppose five countries in Central America agree that products are to be freely traded across their borders, they will share a common set of import duties, and that the flow of people will continue to be restricted. This is an example of a
+A) common market.
+B) political union.
+C) customs union.
+D) free-trade area.
+E) trade association.
+Answer:  C
+Diff: 2
+Topic:  33.3b. regional trade, trade diversion and trade creation
+Skill:  Applied
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 45
+Copyright © 2017 Pearson Education, Inc.
+
+
+

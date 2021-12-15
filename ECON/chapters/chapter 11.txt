@@ -1,0 +1,1716 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 11   Imperfect Competition and Strategic Behaviour
+
+11.1  Imperfect Competition
+
+1) An example of a Canadian industry composed of a few large firms is
+A) the accounting profession.
+B) clothing retailing.
+C) gasoline retailing.
+D) restaurants.
+E) hair dressers.
+Answer:  C
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+
+2) A Canadian industry composed of many small firms is
+A) steel manufacturing.
+B) automobile production.
+C) gasoline retailing.
+D) restaurants.
+E) natural gas transmission.
+Answer:  D
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+
+3) By calculating a concentration ratio, economists measure the
+A) degree to which a monopolist's output is lower than in perfect competition.
+B) control of a monopolist over its input prices.
+C) fraction of total industry sales accounted for by the largest firms.
+D) degree to which firms in the industry use similar technologies.
+E) concentration of firms in one geographic location.
+Answer:  C
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+4) In Canada, concentration ratios are the highest in
+A) tobacco products.
+B) petroleum and coal products.
+C) mining.
+D) machinery.
+E) clothing industries.
+Answer:  B
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+
+The table below shows the market shares for the only firms in a domestic cement market.
+
+
+Market Share
+Firm A
+45%
+Firm B
+22%
+Firm C
+10%
+Firm D
+ 8%
+Firm E
+ 7%
+Firm F
+ 5%
+Firm G
+ 2%
+Firm H
+ 1%
+
+TABLE 11-1
+
+5) Refer to Table 11-1. The four-firm concentration ratio in this industry is ________%.
+A) 100
+B) 92
+C) 85
+D) 67
+E) 45
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User1:  Table
+User2:  Quantitative
+6) Refer to Table 11-1. The eight-firm concentration ratio in this industry is ________%. 
+A) 100
+B) 92
+C) 85
+D) 67
+E) 45
+Answer:  A
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User1:  Table
+User2:  Quantitative
+
+7) Suppose the 2-firm concentration ratio (measuring output) in a Canadian manufacturing industry is over 90%.  Why might the market power of these 2 firms be less than the concentration ratio suggests? 
+A) The product is purely domestic and there is no international trade.
+B) A high concentration ratio usually indicates low degrees of market power.
+C) The product is traded internationally and the two Canadian firms compete with many global rivals.
+D) The relevant market is regional and so the concentration ratio is not relevant.
+E) A 2-firm concentration ratio does not provide enough information.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+
+8) Suppose the market for gasoline retailing (gas stations) in an island economy has 12 firms.  The two largest firms each account for 30% of sales, the third accounts for 15%, the fourth for 7%, the fifth for 4% and the remaining firms for 2% each. What is the four-firm concentration ratio?
+A) 8%
+B) 60%
+C) 75%
+D) 82%
+E) 100%
+Answer:  D
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Quantitative
+9) Suppose the market for gasoline retailing (gas stations) in an island economy has 12 firms.  The two largest firms each account for 30% of sales, the third accounts for 15%, the fourth for 7%, the fifth for 4% and the remaining firms for 2% each.  Which of the following statements best describes the structure of this local industry?
+A) This industry is an oligopoly.
+B) This industry is perfectly competitive.
+C) This industry is a monopoly.
+D) This industry is monopolistically competitive.
+E) Either A or D could be correct.
+Answer:  E
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+Learning Obj.:  11-1 Recognize that Canadian industries typically have either a large number of small firms or a small number of large firms.
+User2:  Qualitative
+
+10) Which of the following products is best considered a differentiated product?
+A) wheat
+B) steel
+C) soap
+D) topsoil
+E) sugar
+Answer:  C
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+User2:  Qualitative
+
+11) An imperfectly competitive industry is often allocatively inefficient when compared to the performance of a competitive industry, because imperfect competitors
+A) maximize profits.
+B) make profits.
+C) obtain economies of scale.
+D) operate in the global economy.
+E) set price above the marginal cost.
+Answer:  E
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+12) A characteristic common to most imperfectly competitive markets is
+A) inelastic market demand curves.
+B) a homogeneous product.
+C) non-price competition among firms.
+D) unexploited economies of scale.
+E) common pricing among firms.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+13) In an imperfectly competitive market, changes in market conditions are often signalled to the individual firms by a change in the 
+A) firm's sales.
+B) price of the product.
+C) government policy.
+D) cost conditions.
+E) elasticity of supply.
+Answer:  A
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+14) A monopolistically competitive firm and a monopoly are similar because 
+A) both firms will earn zero profits in the long run.
+B) both firms always operate at their point of minimum average cost.
+C) each firm can raise its price without losing all of its sales.
+D) both firms must behave strategically toward other firms in the industry.
+E) each firm has a large number of competitors.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+15) A monopolistically competitive firm and a monopoly are similar because 
+A) both firms will earn zero profits in the long run.
+B) both firms always operate at their point of minimum average cost.
+C) they each face a downward-sloping demand curve.
+D) both firms must behave strategically toward other firms in the industry.
+E) each firm has a large number of competitors.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+16) In which market structure are price fluctuations most common?
+A) price fluctuations occur with the same frequency in all market structures
+B) monopoly
+C) oligopoly
+D) monopolistic competition
+E) perfect competition
+Answer:  E
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+17) In imperfectly competitive markets, "administered" prices usually change ________ than prices in perfectly competitive markets, because ________.
+A) more often; they are more flexible
+B) more often; perfectly competitive firms are price takers
+C) more often; price becomes a strategic choice
+D) less often; changing prices is costly
+E) less often; changing prices is costless
+Answer:  D
+Diff: 1
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+18) One difference between a perfectly competitive market and a monopolistically competitive market is that 
+A) there are no barriers to entry in monopolistic competition.
+B) there are no barriers to exit in monopolistic competition.
+C) there is no product differentiation in perfect competition
+D) there is no product differentiation in monopolistic competition
+E) there is strategic interaction among firms in monopolistic competition.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+19) Which of the following characteristics is NOT associated with imperfectly competitive markets?
+A) firms are price setters
+B) products are differentiated
+C) firms engage in non-price competition
+D) firms are price takers
+E) firms can shift the demand curve for their product by advertising
+Answer:  D
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+20) Which of the following characteristics is NOT typically associated with imperfectly competitive market structures?
+A) each firm faces a downward sloping demand curve
+B) products are differentiated
+C) firms engage in non-price competition
+D) each firm faces a horizontal demand curve for its product
+E) firms can shift the demand curve for their product by advertising
+Answer:  D
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+21) Consider the following characteristics of a particular industry:
+- each firm faces a demand curve with price elasticity greater than 10 000
+- each firm produces at a minimum efficient scale in long-run equilibrium
+This industry is likely to be
+A) an oligopoly.
+B) highly concentrated.
+C) monopolistically competitive.
+D) perfectly competitive.
+E) a cartel.
+Answer:  D
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+User2:  Qualitative
+
+22) Consider the following characteristics of a particular industry:
+- the four-firm concentration ratio is 78% (in the relevant market)
+- each firm produces output where P > MC
+- the products are highly differentiated
+This industry is likely to be
+A) an oligopoly.
+B) one where each firm has limited market power.
+C) monopolistic.
+D) perfectly competitive.
+E) a cartel.
+Answer:  A
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+User2:  Qualitative
+
+23) Consider the following characteristics of a particular industry:
+- there is freedom of entry and exit
+- in long-run equilibrium, each firm is producing a level of output where there are increasing returns to scale
+This industry is likely to be
+A) an oligopoly.
+B) highly concentrated.
+C) monopolistically competitive.
+D) perfectly competitive.
+E) a cartel.
+Answer:  C
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+User2:  Qualitative
+24) Consider the following characteristics of a particular industry:
+- the firms in the industry are maximizing their joint profits
+- entry of new firms is restricted
+This industry is likely to be
+A) a monopoly.
+B) one where each firm has limited market power.
+C) monopolistically competitive.
+D) perfectly competitive.
+E) a cartel.
+Answer:  E
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Recall
+User2:  Qualitative
+
+25) Consider the following characteristics of a particular industry:
+- there are natural barriers to entry
+- market price exceeds marginal cost of production
+- there is no strategic behaviour in the industry
+This industry is likely to be
+A) an oligopoly.
+B) a monopoly.
+C) monopolistically competitive.
+D) perfectly competitive.
+E) one where each firm has limited market power.
+Answer:  B
+Diff: 2
+Topic:  11.1. imperfectly competitive market structures
+Skill:  Applied
+User2:  Qualitative
+
+11.2  Monopolistic Competition
+
+1) A characteristic of a monopolistically competitive market is that
+A) each firm's marginal revenue curve lies above its demand curve.
+B) the firms in the industry engage in strategic, non-price competition.
+C) entry into the industry is difficult.
+D) each firm faces a downward-sloping demand curve.
+E) the firms sell an identical product.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+2) Which of the following is most characteristic of a monopolistically competitive market?
+A) Firms engage in strategic behaviour.
+B) There are many small firms in the industry.
+C) Economic profits are often positive in the long run.
+D) Each firm faces a horizontal demand curve.
+E) All firms are price takers.
+Answer:  B
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+3) If there are economic profits in a monopolistically competitive industry, they will generally be competed away through the 
+A) introduction of brand name products by existing firms.
+B) entry of new firms.
+C) increasing advertising budgets of existing firms.
+D) manipulation of the demand curve.
+E) exit of existing firms.
+Answer:  B
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+4) Suppose there are many independent dry cleaners in your city, each of which is earning economic profits. According to the theory of monopolistic competition, 
+A) existing dry cleaners will cooperate and maximize their joint profits.
+B) existing dry cleaners will engage in non-price competition and maintain their profits in the long run. 
+C) existing dry cleaners will expand until they reach the quantity associated with minimum long-run average cost. 
+D) existing dry cleaners will cooperate and restrict entry of new firms.
+E) new dry cleaners will enter this market until each firm is earning zero profits. 
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+5) Suppose there are many independent dry cleaners in your city, each of which provides essentially the same service. However, one offers local delivery, another offers free coffee in the shop, while another offers one-hour dry cleaning. Which of the following statements explains what is happening in this market? 
+A) These firms are perfectly competitive and are attempting to increase sales and maximize their profits.
+B) These firms are oligopolistic and are engaging in strategic behaviour. 
+C) These firms are perfectly competitive and are engaging in non-price competition. 
+D) These firms are monopolistically competitive and are attempting to differentiate their product. 
+E) These firms are perfectly competitive and are engaging in strategic behaviour. 
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+6) In a monopolistically competitive industry, the freedom of entry and exit leads to 
+A) a negatively sloped demand curve for the industry.
+B) strategic behaviour with regard to other firms in the industry.
+C) brand proliferation.
+D) zero profits in long-run equilibrium.
+E) deficient capacity in the industry.
+Answer:  D
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+7) Monopolistic competition is similar to perfect competition in that
+A) firms in both types of market structures produce a standardized product.
+B) strategic behaviour is common to both market structures.
+C) neither has significant barriers to entry.
+D) each firm faces a horizontal demand curve.
+E) firms in both types of market structure engage in non-price competition.
+Answer:  C
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+8) If entry into a monopolistically competitive industry occurs because of positive profits earned by the existing firms, the
+A) industry demand curve will shift to the left.
+B) industry demand curve will shift to the right.
+C) demand curve for each existing firm will shift to the left.
+D) demand curve for each existing firm will shift to the right.
+E) demand curves for the existing firms will remain unchanged.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+9) Compared with perfect competition, monopolistic competition results in
+A) a wider variety of the good produced, but at higher unit costs.
+B) the same degree of variety of the good, but higher unit costs.
+C) fewer varieties of the good produced at lower unit costs.
+D) fewer varieties of the good produced at higher unit costs.
+E) a clearly more efficient social outcome.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+10) A monopolistically competitive firm maximizes profits in the short run 
+A) by equating MC with price.
+B) by equating MC with MR.
+C) when P = AVC.
+D) when P = ATC.
+E) by maximizing total revenue.
+Answer:  B
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+11) Suppose that a monopolistically competitive firm decides to raise its price. The theory of monopolistic competition predicts that
+A) this firm would lose some, but not all of its customers.
+B) this firm would increase its profits.
+C) this firm would lose all of its customers.
+D) increasing the price has no effect on profits.
+E) a large loss of customers as the demand facing the firm is quite inelastic.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+12) The main difference between perfect competition and monopolistic competition is
+A) there are more firms in perfect competition.
+B) perfect competition has freedom of entry and exit.
+C) monopolistic competition has product differentiation.
+D) firms earn profits in the long run in monopolistic competition.
+E) monopolistic competition has lower costs.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+13) Of the following, which is the best example of a monopolistically competitive firm?
+A) Apple
+B) Air Canada
+C) Burger King
+D) a PEI potato farmer
+E) a local hair salon
+Answer:  E
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+14) The presence of significant scale economies in an industry implies that
+A) a large share of the market would be required by each firm to achieve the lowest possible cost per unit.
+B) the minimum efficient scale of operation occurs at fairly low output levels.
+C) barriers to entry in the industry are non-existent.
+D) this industry is more efficient than others.
+E) the firms in the industry will behave as perfect competitors.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+15) The demand curve facing a monopolistically competitive firm is quite elastic because
+A) there are many close substitutes to the good the firm is producing.
+B) goods that are complements to the good the firm is producing also have elastic demand curves.
+C) of the possibility of entry of new firms.
+D) the industry is producing a homogeneous product.
+E) firms are not behaving strategically.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+16) Consider an industry that is monopolistically competitive. In such a market, 
+A) only one firm is present in the industry. 
+B) firms set prices without any threat of competition. 
+C) firms set prices and are constrained by the existence of close substitutes for their product. 
+D) firms do not have any price-setting ability because the product is homogeneous. 
+E) firms can charge slightly different prices even though they produce identical goods. 
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+17) A good example of a monopolistically competitive firm is
+1) The Gap clothing store.
+2) a neighbourhood drycleaner.
+3) a Prince Edward Island potato farmer.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2 only
+E) 1 and 3 only
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+18) Which of the following are products that differ from each other enough that they can be sold at different prices, but are similar enough that they can be considered the same product?
+A) complementary products
+B) standardized products
+C) necessary products
+D) differentiated products
+E) inferior products
+Answer:  D
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+19) One prediction about monopolistic competition is that it has higher unit costs than perfect competition. But it is unreasonable to conclude that monopolistic competition is therefore bad for consumers because
+A) consumers benefit from lower prices.
+B) consumers benefit from an increased variety of products.
+C) consumers benefit because of an increase in quantity available.
+D) consumers benefit from products becoming more homogeneous.
+E) higher production costs means more employment.
+Answer:  B
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+20) A monopolistically competitive firm is predicted to earn positive profits
+A) because there are barriers to entry.
+B) only in the long run.
+C) only in the short run.
+D) only if it advertises its own product.
+E) only if it maintains excess capacity in the production of it product.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+21) A monopolistically competitive firm has some degree of market power because
+A) it always makes positive profits.
+B) there are few firms in the industry.
+C) of natural barriers to entry.
+D) of legal barriers to entry.
+E) it sells a differentiated product.
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+The diagram below shows selected cost and revenue curves for a firm in a monopolistically competitive industry.
+
+
+FIGURE 11-1
+
+22) Refer to Figure 11-1.  What price will this profit-maximizing firm set?
+A) $5
+B) $10
+C) $15
+D) $20
+E) $25
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Quantitative
+
+23) Refer to Figure 11-1.  What quantity of output will this profit-maximizing firm choose to sell?
+A) 80 units
+B) 100 units
+C) 120 units
+D) 140 units
+E) 150 units
+Answer:  B
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Quantitative
+24) Refer to Figure 11-1. Assuming this firm is producing its profit-maximizing level of output, what is the per-unit profit being earned by this firm?
+A) -$5
+B) -$10
+C) $20
+D) $10
+E) $5
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+25) Refer to Figure 11-1.  Assuming that this firm is producing its profit-maximizing level of output, what are the profits or losses being earned by this firm?
+A) -$500
+B) -$1000
+C) $2000
+D) $1000
+E) $500
+Answer:  E
+Diff: 3
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Quantitative
+
+
+	FIGURE 11-2
+
+26) Refer to Figure 11-2. A perfectly competitive firm with zero economic profits is depicted in diagram
+A) A.
+B) B.
+C) C.
+D) D.
+E) B or D
+Answer:  C
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+27) Refer to Figure 11-2. In diagram B, the firm's short-run supply curve is
+A) ATC above AVC.
+B) MC above AVC.
+C) MC above ATC.
+D) AR.
+E) MC.
+Answer:  B
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+28) Refer to Figure 11-2. In diagram A, the profit-maximizing output for a competitive firm is one where
+A) ATC is at the minimum.
+B) P > MC.
+C) P < MC.
+D) AR = ATC.
+E) P = AR = MC.
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 11-2. In diagram D, the profit-maximizing output for a single-price monopolist occurs where
+A) P = MR.
+B) P > AR.
+C) P > MC.
+D) P = MC.
+E) P < MC.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+30) Refer to Figure 11-2. In diagram B, at the short-run profit-maximizing position, the firm
+A) is making profits.
+B) should produce zero output.
+C) is losing money.
+D) should raise its price.
+E) should increase output.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+31) Refer to Figure 11-2. Diagram C depicts a typical firm in long-run equilibrium in
+A) a perfectly competitive industry.
+B) monopolistic industry.
+C) monopolistically competitive industry.
+D) oligopolistic industry.
+E) an imperfectly competitive industry
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 11-2. Diagram D depicts the only possible long-run equilibrium for a typical firm in 
+A) a perfectly competitive industry.
+B) a monopolistic industry.
+C) a monopolistically competitive industry.
+D) an oligopolistic industry.
+E) None of the above - it is not a long-run equilibrium.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+33) Refer to Figure 11-2. The position of a typical firm when the industry is in long-run equilibrium with free entry and exit and product differentiation is exhibited in diagram
+A) A.
+B) B.
+C) C.
+D) D.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+34) In long-run equilibrium, a monopolistically competitive industry is characterized by
+A) positive profits for all firms in the industry.
+B) a perfectly elastic demand curve facing each firm in the industry.
+C) zero profits for all firms in the industry.
+D) positive profits as a result of barriers to entry.
+E) all firms operating at the minimum point of their long-run average cost curves.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+35) When a monopolistically competitive industry is in long-run equilibrium, each firm will be operating where price is
+A) greater than average total cost but equal to marginal cost.
+B) greater than average total cost and greater than marginal cost.
+C) equal to average total cost and to marginal cost.
+D) greater than marginal cost but equal to average total cost.
+E) less than marginal cost and equal to average total cost.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+36) When a monopolistically competitive industry is in long-run equilibrium, the excess capacity in an individual firm is indicated by the difference between
+A) price and marginal cost.
+B) the output at which ATC is at a minimum and the output at which price equals marginal cost.
+C) zero and the output at which the demand curve is tangent to the ATC curve.
+D) price and average cost.
+E) the output at which ATC is at a minimum and the output at which marginal revenue is equal to marginal cost.
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+37) In the long run, a monopolistically competitive firm will
+A) lose money.
+B) operate where price = marginal cost.
+C) earn positive economic profits.
+D) produce where price exceeds the minimum of average costs.
+E) produce the output where average costs are minimized.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+The diagram below shows demand and cost curves for a monopolistically competitive firm.
+
+
+FIGURE 11-3
+
+38) Refer to Figure 11-3. In the long run, a monopolistically competitive firm will
+A) produce Q2 at Price P1.
+B) produce Q1 at Price P2.
+C) produce Q1 at Price P1.
+D) produce Q2 at Price P2.
+E) produce the output where AC is at its minimum.
+Answer:  C
+Diff: 1
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+39) Refer to Figure 11-3. In the long run, a monopolistically competitive firm will
+A) make profit by producing at Q2 and charging price P1.
+B) lose money by producing at Q1 and charging price P2.
+C) maximize profit and make positive profit by producing at Q1 and charging price P1. 
+D) maximize profit but only break even by producing at Q1 and charging price P1. 
+E) maximize profit by producing output level Q2, the minimum point of its LRAC curve.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+40) Refer to Figure 11-3. A monopolistically competitive firm is allocatively inefficient because in the long-run equilibrium
+A) LRAC is not at its minimum.
+B) MC is greater than price.
+C) price is greater than MC at Q1.
+D) price is greater than LRAC at Q1.
+E) None of the above - the long-run equilibrium is allocatively efficient.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+41) Refer to Figure 11-3. A monopolistically competitive firm is said to be inefficient because in the long-run equilibrium
+A) MC is greater than LRAC.
+B) MC is greater than price.
+C) price is greater than MC at Q1.
+D) price is greater than LRAC at Q1.
+E) LRAC at Q1 is not at its minimum.
+Answer:  E
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+42) Refer to Figure 11-3. If an increase in industry demand led to an outward shift in each firm's demand curve, and no change to the firm's costs, the typical firm would 
+A) be making profits and new firms would enter the industry in the long run.
+B) be making losses and some firms would exit the industry in the long run.
+C) would expand its output in the long run.
+D) increase costs in order to break even at P1 and Q1 in the long run. 
+E) decrease costs in order to break even at P1 and Q1 in the long run.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+43) Refer to Figure 11-3. If a decrease in industry demand led to an inward shift of each firm's demand curve, a typical firm would 
+A) be making profits and new firms would enter the industry in the long run.
+B) be making losses and some firms would exit the industry in the long run.
+C) exit the industry and the industry would shut down.
+D) increase costs in order to break even at PL and QL in the long run. 
+E) decrease costs in order to break even at PL and QL in the long run.
+Answer:  B
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+
+The diagram below shows selected cost and revenue curves for a firm in a monopolistically competitive industry.
+
+
+
+FIGURE 11-4
+
+44) Refer to Figure 11-4. How is the excess-capacity theorem demonstrated in this diagram?
+A) The short-run equilibrium occurs where the firm is producing output at , which is less than that corresponding to the lowest point on its LRAC curve.
+B) The long-run equilibrium occurs where the firm is producing output at , which is the same as for a perfectly competitive industry.
+C) In long-run equilibrium the firm is earning positive profits, but has unexploited economies of scale.
+D) In long-run equilibrium, this firm has excess capacity because they are selling output at a price below their LRAC.
+E) The long-run equilibrium occurs where the firm is producing output at , which is less than that corresponding to the lowest point on its LRAC curve.
+Answer:  E
+Diff: 3
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+45) Refer to Figure 11-4.  Which of the following best describes this industry if all firms have the same cost and revenue curves and are producing output of ?
+A) firms are earning positive profits and new firms will enter the industry until all firms are operating at their minimum LRAC
+B) all firms are earning positive profits and there is no incentive for firms to enter or exit the industry 
+C) firms are earning zero profits and there is no incentive for firms to enter or leave the industry
+D) all firms will try to minimize costs and move toward minimum LRAC
+E) firms are incurring losses and firms will exit this industry
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+46) Refer to Figure 11-4. Assuming this firm is producing its profit-maximizing level of output, what are the profits or losses being earned by this firm?
+A) $0 per unit
+B) $7 per unit
+C) $13 per unit
+D) $6 per unit
+E) $20 per unit
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+The diagram below shows selected cost and revenue curves for a firm in a monopolistically competitive industry.
+
+
+FIGURE 11-1
+
+47) Refer to Figure 11-1.  If this firm is maximizing its profits, does the diagram depict a long-run equilibrium situation?
+A) Yes, because this firm is producing where MC = MR and is earning zero profits.
+B) Yes, because this firm is producing where MC = MR and is earning economic profits.
+C) No, because this firm is earning profits which will attract new firms to this market.
+D) No, because this firm is suffering losses and firms will exit this market.
+E) No, because this firm is a natural monopoly.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User1:  Graph
+User2:  Qualitative
+48) Refer to Figure 11-1. Which of the following statements best describes the long-run equilibrium for this firm?
+A) New firms will enter, causing this firm's demand curve to shift to the left until its profits are eliminated.
+B) The firm will continue to earn its existing level of profits.
+C) The firm will continue to earn its existing level of profits because it can prevent the entry of new firms to the market.
+D) Firms with similar cost structures will exit the industry until profits are zero.
+E) The AC curve will shift down in the long run and profits for this particular firm will increase.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+49) With regard to the long-run equilibrium in the two market structures, the higher unit costs in monopolistic competition relative to perfect competition implies that
+A) society would be better off if there were fewer, and more homogeneous, goods produced at the scale at which average costs are minimized.
+B) resources are being used inefficiently in perfect competition.
+C) there is a tradeoff between product variety and the ability to minimize cost per unit.
+D) firms are restricting output to extract positive economic profits.
+E) the government should force monopolistically competitive firms to behave like perfectly competitive firms.
+Answer:  C
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+50) In long-run equilibrium, a monopolistically competitive industry operates where
+A) P > LRAC.
+B) MR > MC.
+C) LRAC is increasing.
+D) LRAC > minimum average cost.
+E) LRAC = MC.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Applied
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+51) If a monopolistically competitive industry is in long-run equilibrium, then for each firm
+A) the demand curve is tangent to its LRAC curve.
+B) the MC curve intersects MR at the minimum level of its LRAC curve.
+C) price equals MC at the minimum level of the firm's LRAC curve.
+D) the demand curve cuts the MC curve at the minimum level of the LRAC curve.
+E) positive profits are being earned.
+Answer:  A
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+52) The excess-capacity theorem predicts that
+A) when price-taking firms maximize their profits by setting price equal to marginal cost, each firm operates with some excess capacity.
+B) long-run equilibrium in a monopolistically competitive industry occurs with all firms producing at a lower output level than that which minimizes average total costs.
+C) profit-maximizing firms will always choose to operate with some degree of excess capacity, in order to be flexible in the face of shifts in demand.
+D) monopolistic firms will achieve positive economic profits by restricting output below the economically efficient level at which average total costs are minimized.
+E) all firms in a perfectly competitive industry will produce at a lower output level than that which minimizes average total costs.
+Answer:  B
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+53) If firms are able to freely enter and exit a monopolistically competitive industry, then we can predict
+A) a negatively sloped demand curve for the industry.
+B) strategic behaviour with regard to other firms in the industry.
+C) brand proliferation.
+D) zero profits in long-run equilibrium.
+E) that exit will occur until no firm has excess capacity.
+Answer:  D
+Diff: 2
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+54) Consider the following statement: "A monopolistically competitive market in which there are no entry barriers will have the identical long-run equilibrium as if the market were perfectly competitive." Is this statement correct?
+A) No, because firms in the monopolistically competitive market will not reach their minimum efficient scale as they would in perfect competition - the result is higher prices and lower output. 
+B) No, because firms in the monopolistically competitive market do not produce at an output level where MC = MR, as in perfect competition, which leads to a different price and output in long-run equilibrium. 
+C) No, firms in the monopolistically competitive market earn economic profits in the long run because they are facing a downward-sloping demand curve, whereas in perfect competition they earn zero profits. 
+D) Yes, in the absence of entry barriers, new firms enter the industry until industry price and output are identical to perfect competition. 
+E) Yes, in the absence of entry barriers, firms in the monopolistically competitive market will expand until they are producing at the minimum of their LRAC curves, just as in perfect competition. 
+Answer:  A
+Diff: 3
+Topic:  11.2. monopolistic competition
+Skill:  Recall
+Learning Obj.:  11-3 Describe the key elements of the theory of monopolistic competition.
+User2:  Qualitative
+
+11.3  Oligopoly and Game Theory
+
+1) One characteristic of oligopolistic markets is
+A) ease of entry and exit.
+B) zero profits in the long run.
+C) mutual interdependence between firms.
+D) a horizontal demand curve facing each individual firm.
+E) a large number of firms in the industry.
+Answer:  C
+Diff: 1
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+2) Oligopolists make decisions after taking into account the expected reaction of their competitors. In doing this, oligopolists are exhibiting
+A) non-strategic behaviour.
+B) collusive behaviour.
+C) cooperative behaviour.
+D) non-cooperative behaviour.
+E) strategic behaviour.
+Answer:  E
+Diff: 1
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+3) Unlike perfectly competitive and monopolistically competitive firms, oligopolists
+A) operate where MR = MC.
+B) take account of the likely reactions of their competitors to their actions.
+C) always make positive profits.
+D) always have differentiated products.
+E) earn zero profits in the long run.
+Answer:  B
+Diff: 2
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+4) A duopoly is
+A) an oligopoly with only two products.
+B) an oligopoly with only two sellers.
+C) an oligopoly with only two buyers.
+D) a monopoly firm that has only two suppliers.
+E) a monopolist that has two related products.
+Answer:  B
+Diff: 1
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+5) When the firms in an oligopoly are in a cooperative equilibrium and are maximizing their joint profits, which of the following statements is true?
+A) An individual firm could increase profits by cheating.
+B) P > MC for each individual firm.
+C) MR > MC for each individual firm.
+D) The firms in the industry will jointly be earning monopoly profits.
+E) All of the above statements are true.
+Answer:  E
+Diff: 2
+Topic:  11.3a. oligopoly
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+6) For firms in an oligopoly, the main advantage of explicit collusion is that it
+A) removes much of the uncertainty about rivals' reactions.
+B) makes all firms more productively efficient.
+C) leads to greater product differentiation.
+D) reduces the cost per unit of advertising.
+E) eliminates the gains from cheating. 
+Answer:  A
+Diff: 1
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+7) Which of the following is a characteristic of oligopoly?
+A) Firms compete solely on the basis of price.
+B) The pricing policies of one firm have no impact on pricing policies of other firms.
+C) There are large numbers of significantly sized sellers.
+D) The industry usually has a low concentration ratio.
+E) Prices are usually above marginal costs.
+Answer:  E
+Diff: 2
+Topic:  11.3a. oligopoly
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+8) Consider an example of the prisoner's dilemma where 2 firms are making sealed bids on a contract and each firm is allowed to bid either $100 or $180. If both firms bid the same price, the job is shared equally and each firm earns half the value of its bid. Otherwise the lowest bidder wins the contract and receives the full value of its bid (and the other bidder earns zero). The non-cooperative outcome in this situation is
+A) both firms bid $100.
+B) both firms bid $180.
+C) one firm bids $100, the other firm bids $180.
+D) both firms bid $50.
+E) both firms bid $90.
+Answer:  A
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Quantitative
+
+9) Consider an example of the prisoner's dilemma where 2 firms are making sealed bids on a contract and each firm is allowed to bid either $100 or $180. If both firms bid the same price, the job is shared equally and each firm earns half the value of its bid. Otherwise the lowest bidder wins the contract and receives the full value of its bid (and the other bidder earns zero). The cooperative outcome in this situation is
+A) both firms bid $100.
+B) both firms bid $180.
+C) one firm bids $100, the other firm bids $180.
+D) both firms bid $50.
+E) both firms bid $90.
+Answer:  B
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Quantitative
+
+10) Consider an example of the prisoner's dilemma where 2 firms are making sealed bids on a highway-construction contract and each firm is allowed to bid either $100 million or $120 million.  If both firms bid the same price, the job is shared equally and each firm earns half the value of its bid. Otherwise the lowest bidder wins the contract and receives the full value of its bid (and the other bidder earns zero). The non-cooperative outcome in this situation is
+A) both firms bid $50 million.
+B) both firms bid $60 million.
+C) one firm bids $100 million, the other firm bids $120 million.
+D) both firms bid $100 million.
+E) both firms bid $120 million.
+Answer:  D
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Quantitative
+11) Consider an example of the prisoner's dilemma where 2 firms are making sealed bids on a highway-construction contract and each firm is allowed to bid either $100 million or $120 million.  If both firms bid the same price, the job is shared equally and each firm earns half the value of its bid. Otherwise the lowest bidder wins the contract and receives the full value of its bid (and the other bidder earns zero). The cooperative outcome in this situation is
+A) both firms bid $50 million.
+B) both firms bid $60 million.
+C) one firm bids $100 million, the other firm bids $120 million.
+D) both firms bid $100 million.
+E) both firms bid $120 million.
+Answer:  E
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Quantitative
+
+12) Which of the following is an incorrect statement about a Nash equilibrium?
+A) A Nash equilibrium is an example of a non-cooperative equilibrium.
+B) In a Nash equilibrium, all players are maximizing their payoffs given the current behaviour of the other players.
+C) In a Nash equilibrium, all players are better off than they would be with any other combination of strategies.
+D) A Nash equilibrium is a self-policing equilibrium.
+E) Once a Nash equilibrium is established, no individual firm has an incentive to depart from it.
+Answer:  C
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Recall
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Qualitative
+
+13) Which of the following statements is the best description of a Nash equilibrium? 
+A) An equilibrium outcome achieved by cooperation between players in the game. 
+B) An outcome where each player's best strategy is to maintain its present behaviour given the present behaviour of the other players. 
+C) An outcome that is achieved when players in the game have jointly maximized profits and divided those profits according to market share of each player. 
+D) An outcome where each player's strategy depends on the behaviour of its opponents. 
+E) An equilibrium outcome that is achieved by collusion, and no party has an incentive to change their behaviour. 
+Answer:  B
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Recall
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Qualitative
+Suppose two firms, Allstom from France, and Bombardier from Canada, are bidding on a contract to replace train cars for the subway system in Mexico City. If they bid the same amount, they share the contract—otherwise, the low bid wins. The figure below shows the payoff matrix for this contest.
+	
+
+
+FIGURE 11-5
+
+14) Refer to Figure 11-5. If Allstom and Bombardier co-operated with each other when bidding on the contract, then the likely outcome is that
+A) each firm bids $35 million, and earns profit of $2.5 million.
+B) each firm bids $50 million, and earns profit of $10 million.
+C) Bombardier bids $50 million, and earns profit of $0, while Allstom bids $35 million and earns profit of $5 million.
+D) Bombardier bids $35 million, and earns profit of $5 million, while Allstom bids $50 million and earns profit of $0.
+Answer:  B
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 11-5. What is the Nash equilibrium in this bidding contest between Allstom and Bombardier?
+A) The two firms will co-operate and maximize their joint profits at $10 million each.
+B) Each firm will bid the high price, expecting a larger total profit.
+C) Each firm will bid the low price, and each will earn a profit of $2.5 million.
+D) There is no Nash equilibrium in this bidding contest, because each firm can expect to earn at least $5 million.
+E) both A and C are Nash equilibria.
+Answer:  E
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Graph
+User2:  Qualitative
+16) Refer to Figure 11-5. Given the information provided in the figure, what is the cost to either firm of completing this project on its own?
+A) $2.5 million
+B) $5 million
+C) $10 million
+D) $20 million
+E) $30 million
+Answer:  E
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Graph
+User2:  Quantitative
+
+17) What is a Nash equilibrium?
+A) an example of a cooperative equilibrium
+B) a situation where all players are maximizing their payoffs given the current behaviour of the other players
+C) a situation where all players are better off than they would be with any other combination of strategies
+D) is an unstable equilibrium
+E) will in general produce the greatest payoff for the players
+Answer:  B
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Recall
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Qualitative
+The payoff matrix below shows the payoffs for Firm A and Firm B, each of whom can either "cooperate" or "cheat." The numbers in parentheses are (payoff for A, payoff for B). 
+
+	     Firm B
+Firm A	
+
+TABLE 11-2
+
+18) Refer to Table 11-2. Of the choices provided below, what is the minimum value for x in order for both firms' cheating to be a Nash equilibrium? 
+A) 25
+B) 40
+C) 60
+D) 70
+E) 80
+Answer:  B
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 11-2. If Firm A is indifferent between cheating or cooperating when Firm B chooses to cooperate, x must be equal to 
+A) 0. 
+B) 10. 
+C) 20. 
+D) 30. 
+E) 40. 
+Answer:  D
+Diff: 2
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Table
+User2:  Quantitative
+20) Refer to Table 11-2. If x = 40, what is the Nash equilibrium in this game? 
+A) (Firm A: cooperate, Firm B: cooperate) 
+B) (Firm A: cooperate, Firm B: cheat) 
+C) (Firm A: cheat, Firm B: cooperate) 
+D) (Firm A: cheat, Firm B: cheat) 
+E) there is no Nash equilibrium for this value of x
+Answer:  D
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Table
+User2:  Quantitative
+
+The payoff matrix below shows the payoffs to Firms A and B from producing different levels of output. The numbers in parentheses are (payoff to A, payoff to B). 
+
+
+
+TABLE 11-3
+
+21) Refer to Table 11-3. From the payoff matrix we can infer that 
+A) it is optimal for Firm A to produce 1000 units of output regardless of what Firm B is doing. 
+B) both firms are indifferent between an equilibrium (Produce 1000 units, Produce 1000 units) and (Produce 2000 units, Produce 2000 units). 
+C) it is optimal for Firm A to produce 2000 units of output regardless of what Firm B is doing. 
+D) it is optimal for Firm B to produce 1000 units of output regardless of what Firm A is doing. 
+E) there is no Nash equilibrium in the game. 
+Answer:  C
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Table
+User2:  Quantitative
+22) Refer to Table 11-3. The Nash equilibrium in this game is 
+A) (Firm A: produce 1000 units, Firm B: produce 1000 units). 
+B) (Firm A: produce 2000 units, Firm B: produce 1000 units). 
+C) (Firm A: produce 2000 units, Firm B: produce 2000 units). 
+D) (Firm A: produce 1000 units, Firm B: produce 2000 units). 
+E) non-existent. 
+Answer:  C
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User1:  Table
+User2:  Quantitative
+
+23) Suppose there are only two firms in an industry. If they each set a high price, they each earn $5000. If they each set a low price, they each earn $2500. If one firm sets a low price while the other sets a high price, the low-price firm earns $7000 while the high-price firm earns $1000. Does a prisoners' dilemma exist? 
+A) yes, because there is always a prisoner's dilemma in game theory
+B) it cannot be determined from the information provided 
+C) yes, the Nash equilibrium does not maximize the joint payoff 
+D) no, the Nash equilibrium does not maximize the joint payoff 
+E) no, the Nash equilibrium does not maximize the individual payoff 
+Answer:  C
+Diff: 3
+Topic:  11.3b. game theory
+Skill:  Applied
+Learning Obj.:  11-5 Provide examples of the nature of the competition among oligopolists and the most common entry barriers.
+User2:  Quantitative
+
+11.4 Oligopoly in Practice
+
+1) Tacit collusion in an oligopolistic industry 
+A) occurs when firms make an explicit agreement to cooperate.
+B) results in a non-cooperative equilibrium.
+C) occurs when firms achieve the cooperative outcome without an explicit agreement.
+D) results in competitive behaviour.
+E) is a form of predatory pricing.
+Answer:  C
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+2) Explicit collusion in an oligopolistic industry
+A) occurs when firms make an explicit agreement to cooperate.
+B) results in a non-cooperative equilibrium.
+C) occurs when firms achieve the cooperative outcome without an explicit agreement.
+D) results in competitive behaviour.
+E) is a form of predatory pricing.
+Answer:  A
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+3) Suppose Proctor and Gamble introduces a new brand of laundry detergent.  Brand proliferation is an example of
+A) explicit collusion.
+B) tacit collusion.
+C) a Nash equilibrium.
+D) a firm-created barrier to entry.
+E) a cooperative outcome.
+Answer:  D
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+4) If joint profits are to be maximized in an oligopolistic industry with a homogeneous product, the firms
+A) can produce whatever output they want at the agreed-upon price.
+B) need to determine the output each firm will produce.
+C) must form a cartel in order to be legal.
+D) have no individual incentive to cheat on the agreement.
+E) None of the above — differentiated products are required for joint-profit maximization in oligopoly.
+Answer:  B
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+5) An ineffective means of discouraging the entry of new firms by existing firms in an oligopolistic industry is
+A) producing a wide range of brands of their products.
+B) carrying out industrial sabotage.
+C) spending heavily on advertising.
+D) raising their prices.
+E) seeking greater patent protection.
+Answer:  D
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+6) "Brand proliferation" in an oligopolistic industry 
+A) allows easier entry to a new entrant with small sales.
+B) can shift the average total cost curve down and raise the overall minimum scale of operation.
+C) allows new entrants to the industry to gain significant market share.
+D) will generally reduce the expected market share of new entrants to the industry.
+E) allows firms to cooperate to maximize their joint profits.
+Answer:  D
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+7) "Brand proliferation" is an example of
+A) an economy of scale.
+B) a firm-created barrier to entry.
+C) an absolute cost advantage.
+D) collusive behaviour.
+E) predatory pricing.
+Answer:  B
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+8) Advertising by existing firms in an oligopolistic industry 
+A) will increase the expected market share of new entrants to the industry. 
+B) can be an effective entry barrier to potential entrants to the industry.
+C) only exists where natural entry barriers are weak.
+D) allows easy entry to a new entrant with small sales.
+E) maximizes joint profits for firms in the industry.
+Answer:  B
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+9) An oligopolistic firm often detects a change in the demand for its product by first observing a change in
+A) average cost.
+B) market price.
+C) marginal revenue.
+D) marginal cost.
+E) sales.
+Answer:  E
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+10) Which of the following industries in Canada can best be thought of as oligopolies?
+1) breweries
+2) women's clothing retailers
+3) automobile manufacturers
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 3 only
+E) 1, 2, and 3
+Answer:  D
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+11) The process of "creative destruction" in an oligopolistic industry suggests that 
+A) profits are driven to zero by the entry of new firms.
+B) no firm can survive in the long run.
+C) firms can enter and leave without incurring any sunk costs of entry.
+D) there are no costs of exit in oligopoly.
+E) the prospect of keeping the resulting profits provides an incentive for firms to innovate.
+Answer:  E
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+12) The theory of oligopoly suggests that 
+A) entry into the industry is an important force preventing the exploitation of market power by existing firms.
+B) oligopoly may be the best of the feasible alternative market structures when major scale economies exist.
+C) the tendency toward joint maximization of profits is greater for a large number of sellers than for a small number of sellers.
+D) game theory is interesting theory but not useful for real corporate managers.
+E) innovation is weak when there is no price competition.
+Answer:  B
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+13) Both empirical evidence and everyday observation suggest that oligopolies contribute to economic growth in the very-long-run by
+A) achieving allocative efficiency.
+B) consistently producing at full-capacity output.
+C) achieving technological improvements and innovations through research and development.
+D) decreasing minimum efficient scale.
+E) rarely laying off workers.
+Answer:  C
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+14) The following statements describe a cooperative equilibrium in an oligopoly where the firms are jointly maximizing profits by restricting output. Which statement is false?
+A) An individual firm could increase profits by cheating.
+B) P > MC for each individual firm.
+C) MR > MC for each individual firm.
+D) The firms in the industry will jointly be earning monopoly profits.
+E) No individual firm will have an incentive to change output.
+Answer:  E
+Diff: 3
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+15) In an oligopolistic industry, which of the following is an example of a firm-created entry barrier?
+A) LRAC curve negatively sloped over a large range of output
+B) large set-up costs
+C) brand proliferation
+D) decreasing demand for the product
+E) price competition
+Answer:  C
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+16) In a typical oligopolistic market, there are 
+A) no barriers to entry, but firms sell differentiated products.
+B) substantial barriers to entry and firms interact strategically with each other.
+C) no barriers to entry and firms sell homogeneous products.
+D) substantial entry barriers, and firms are too large to strategically interact with each other.
+E) no barriers to entry and firms interact strategically with each other.
+Answer:  B
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+17) An oligopolistic firm can earn positive profits
+A) because there are barriers to entry.
+B) only in the long run.
+C) only in the short run.
+D) only if it advertises its own product.
+E) only if it maintains excess capacity in the production of it product.
+Answer:  A
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+18) One reason an oligopolistic firm may have market power is that
+A) it always makes positive profits.
+B) it produces a significant fraction of total industry output.
+C) the market may be "contestable."
+D) it has dis-economies of scale.
+E) there are many similar producers.
+Answer:  B
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+19) A special kind of imperfectly competitive market that has only two firms is called 
+A) an incidental monopoly. 
+B) a two-tier competitive structure. 
+C) a duopoly. 
+D) a dublet. 
+E) a natural monopoly. 
+Answer:  C
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+20) Consider the three largest cell-phone service providers in Canada - Bell, Telus, and Rogers. If we observe that all three companies increase their monthly service fees simultaneously, we might conclude that
+A) there is tacit collusion among these firms. 
+B) these firms have monopolized the industry.
+C) they are perfect competitors and they are unable to set the price. 
+D) they are engaged in predatory pricing. 
+E) they are creating entry barriers to prevent entry by new firms. 
+Answer:  A
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+21) Assume that the world's largest smart-phone producers (Apple, Nokia, Samsung, etc.) operate in an oligopolistic industry. In the long run, which of the following is the most important form of competition between these firms?
+A) predatory pricing
+B) tacit collusion
+C) product innovation
+D) brand proliferation
+E) advertising
+Answer:  C
+Diff: 1
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+22) Suppose there are only five construction companies in a particular region that are each large enough to take on large public infrastructure projects (roads, bridges, sewers, etc.). Representatives of these companies meet regularly for coffee or on the golf course and agree on which company will submit the lowest bid for a particular project. This type of firm behaviour is an example of
+A) cooperative behaviour that results in higher output and lower prices.
+B) cooperative behaviour that results in increased consumer welfare. 
+C) tacit collusion, and is legal as long as output is not restricted.
+D) predatory pricing, and is meant to prevent new entrance to the industry. 
+E) explicit collusion and is illegal.
+Answer:  E
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+23) The sugar industry in Canada is effectively a duopoly with two large firms competing with each other for market share. Suppose the two firms collude and successfully restrict joint output to that of a profit-maximizing monopolist. As a result, they each realize an increase in their profits. Why would this collusive agreement be difficult to sustain? 
+A) Because each firm has an incentive to break the agreement by further restricting output in order to increase the price, thereby increasing their own profits. 
+B) Because each firm has an incentive to break the agreement by increasing output in order to increase their own profits. 
+C) Because the firm with the lower long-run average costs will be able to capture all sales, driving the second firm out of the market. 
+D) Because a non-cooperative outcome is inevitable in which output is further restricted and each firm's profit is reduced. 
+Answer:  B
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Applied
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+24) In what way can an oligopolistic market structure be beneficial to society? 
+A) Oligopolistic firms compete through advertising, which increases economic efficiency.
+B) Oligopolistic firms are able to exploit all existing economies of scale and operate at the minimum of long-run average costs, and thereby reduce the use of society's resources. 
+C) An oligopolistic market structure is most conducive to non-competitive behaviour which leads to lower prices for consumers in the long run. 
+D) An oligopolistic market structure is most adaptive to today's rapid rate of technological change. 
+E) Oligopolistic firms compete through innovation, which is a driving force of economic growth and increasing living standards. 
+Answer:  E
+Diff: 2
+Topic:  11.4. oligopoly in practice
+Skill:  Recall
+Learning Obj.:  11-4 Understand game theory to explain the difference between cooperative and non-cooperative outcomes among oligopolists.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 48
+Copyright © 2017 Pearson Education, Inc.
+
+
+

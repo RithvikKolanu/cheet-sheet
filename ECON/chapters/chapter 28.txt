@@ -1,0 +1,1583 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 28   Monetary Policy in Canada
+
+28.1  How the Bank of Canada Implements Monetary Policy
+
+1) Any central bank, including the Bank of Canada, can implement its monetary policy by directly influencing either ________ or ________, but not both.
+A) money supply; money demand
+B) aggregate supply; aggregate demand
+C) the money supply; the interest rate
+D) aggregate demand; the interest rate
+E) the price level; the interest rate
+Answer:  C
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+2) In general, if a central bank chooses to target the money supply in its implementation of monetary policy, then 
+A) the interest rate is determined by monetary equilibrium, and cannot be precisely predicted because of possible shocks to money demand.
+B) the interest rate can be more carefully controlled.
+C) implementation of policy is more straightforward because money supply is more easily controlled than the interest rate.
+D) the interest rate is determined by the Minister of Finance.
+E) the implementation of policy is more straightforward because the central bank can control the process of deposit creation.
+Answer:  A
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+User2:  Qualitative
+
+3) In general, if a central bank chooses to target the interest rate in its implementation of monetary policy, then 
+A) it is more difficult to communicate this policy to the public than a change in money supply.
+B) the central bank can more easily control the process of deposit creation by the commercial banks. 
+C) the money supply is determined by the Minister of Finance.
+D) the implementation of policy is more straightforward because the central bank knows precisely the slope and position of the money demand curve.
+E) it conducts the necessary open-market operations to accommodate the resulting change in money demand.
+Answer:  E
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+User2:  Qualitative
+4) Consider the implementation of monetary policy. One difficulty in attempting to stabilize the economy by controlling the money supply is that 
+A) firms may be sensitive to changes in the rate of interest.
+B) the Bank of Canada can print more money.
+C) the commercial banks may choose not to hold excess reserves.
+D) the money demand function may be unstable.
+E) the Canadian government requires long-term loans.
+Answer:  D
+Diff: 3
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+5) If the Bank of Canada chooses to expand M2 by exactly $1 million, it could do so by
+A) buying $1 million worth of government securities on the open market.
+B) selling $1 million worth of government securities on the open market.
+C) increasing reserves at the commercial banks by $1 million.
+D) decreasing reserves at the commercial banks by $1 million.
+E) None of the above - the Bank of Canada cannot precisely control the money supply.
+Answer:  E
+Diff: 3
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+6) In practice, it is not possible for the Bank of Canada to control the money supply because
+A) the resulting effects on the value of the Canadian dollar are difficult to predict.
+B) it cannot control the process of deposit creation carried out by the commercial banks.
+C) it cannot control the amount of cash reserves that are injected into or withdrawn from the banking system.
+D) it does not have the legal power to do so.
+E) None of the above—the Bank of Canada could control the money supply if it chose to do so.
+Answer:  B
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+7) Suppose the Bank of Canada were to implement an expansionary monetary policy by buying government securities on the open market, thereby increasing cash reserves in the banking system. If the commercial banks do not expand their lending in response, then
+1) there would be no change in the money supply at all;
+2) the Bank of Canada could force the commercial banks to expand their lending, based on regulations in the Bank Act;
+3) the increase in the overall money supply would be smaller than the Bank of Canada may have intended.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 or 2
+E) 2 or 3
+Answer:  C
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+8) One reason that the Bank of Canada does not try to influence the money supply directly is that
+A) the Bank of Canada has many other policy tools with which it can influence aggregate demand.
+B) the Bank of Canada does not have the mandate to change the money supply.
+C) because the money demand curve is almost horizontal, changes in the money supply would have little or no effect on the interest rate.
+D) because the investment demand curve is almost vertical, any change in the interest rate resulting from a change in money supply would have little or no effect on desired investment expenditure.
+E) the slope of the money demand curve is not precisely known, and so the effect on the interest rate of a change in money supply is uncertain. 
+Answer:  E
+Diff: 3
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+9) Most central banks, including the Bank of Canada, implement monetary policy by
+A) controlling the money supply directly.
+B) influencing a short-term interest rate directly.
+C) influencing investment demand directly.
+D) influencing the demand for money directly.
+E) controlling the process of deposit creation in the commercial banking system.
+Answer:  B
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+10) The Bank of Canada chooses to influence interest rates directly rather than influencing the money supply directly because 
+A) the former method does not require knowledge of the position of the money demand curve. 
+B) the deposit creation mechanism in the banking system is outside the full control of the Bank of Canada. 
+C) it is easier to communicate policy actions to the public by setting the interest rate. 
+D) the former method does not require knowledge of the slope of the money demand curve. 
+E) all of the above. 
+Answer:  E
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+The diagrams below illustrate two alternative approaches to implementing monetary policy.  The economy begins in monetary equilibrium with the interest rate equal to 2% and the money supply equal to .
+
+
+
+FIGURE 28-1
+
+11) Refer to Figure 28-1. If the Bank of Canada raises the target interest rate to 3%, as shown in part (i), then it must accommodate the resulting ________ in quantity of money demanded by ________ in financial markets. 
+A) increase; selling government securities
+B) decrease; selling government securities
+C) increase; buying government securities
+D) decrease; buying government securities
+Answer:  B
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User1:  Graph
+User2:  Qualitative
+12) Refer to Figure 28-1. If the Bank of Canada pursues a(n) ________ monetary policy and raises the target interest rate from 2% to 3%, then the quantity of money demanded will ________.
+A) contractionary; rise
+B) contractionary; fall
+C) expansionary; not change
+D) expansionary; rise
+E) expansionary; fall
+Answer:  B
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 28-1. If the Bank of Canada's goal is to increase the target interest rate from 2% to 3%, then the most effective approach is to
+A) reduce the money supply to , as shown in part (ii), and then let the interest rate adjust to 3%.
+B) increase the money supply to , as shown in part (ii), and then let the interest rate adjust to 3%.
+C) allow the money supply to shift to  by market forces, which will cause the interest rate to rise to 3%.
+D) raise the interest rate to 3%, as shown in part (i), and then buy government securities in financial markets to accommodate the decline in the quantity of money demanded.
+E) raise the interest rate to 3%, as shown in part (i), and then sell government securities in financial markets to accommodate the decline in the quantity of money demanded.
+Answer:  E
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 28-1. The Bank of Canada must be able to easily communicate its monetary policy actions to the public. Which approach is more amenable to this requirement, and why?
+A) part (ii) - targeting the money supply: because an announcement of a 1% decrease in the money supply is more easily understood than an increase in the interest rate.
+B) part (i) - targeting the interest rate: because the Bank of Canada can more easily instruct the commercial banks to raise their interest rates.
+C) part (ii) - targeting the money supply: because the public can more easily understand that a decrease in reserves in the banking system makes it more difficult to get a loan or mortgage.
+D) part (i) - targeting the interest rate: because changes in the interest rate are much more meaningful and understandable to the public than changes in the money supply.
+Answer:  D
+Diff: 1
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 28-1. One advantage of implementing monetary policy by targeting the interest rate as shown in part (i), rather than targeting the money supply as shown in part (ii), is that 
+A) it is easier to get political support for changes in interest rates than for changes in the money supply.
+B) it is almost impossible to change the money supply without passing new legislation.
+C) the overall change in interest rates, and thus on aggregate demand, is more certain.
+D) changes in interest rates have a stronger impact on aggregate demand than do changes in the money supply.
+E) the position and slope of the money demand curve are known with certainty.
+Answer:  C
+Diff: 2
+Topic:  28.1a. money supply vs. the interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User1:  Graph
+User2:  Qualitative
+16) In practice, the Bank of Canada uses monetary policy to reduce undesirable fluctuations in real GDP by
+A) controlling business investment expenditures directly.
+B) controlling government spending.
+C) influencing market interest rates through changes in its target for the overnight interest rate.
+D) directly influencing the money supply which affects the interest rate and hence, consumption and investment.
+E) targeting the money supply directly.
+Answer:  C
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+17) What is the "bank rate"?
+A) The interest rate at which the Bank of Canada will lend funds to the Canadian government.
+B) The interest rate at which the Bank of Canada will lend funds to commercial banks.
+C) The interest rate that commercial banks charge their best customers.
+D) The interest rate that the Bank of Canada pays on deposits from the commercial banks.
+E) It is the same as a margin requirement.
+Answer:  B
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+18) Loans from the Bank of Canada are
+A) made only to the Canadian federal government and to provincial governments.
+B) made to commercial banks at the bank rate.
+C) made to commercial banks at the prime rate and are short-term in nature.
+D) made to large non-bank corporations.
+E) the Bank's major policy instrument.
+Answer:  B
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+19) To reduce short-term market interest rates, the Bank of Canada could
+A) reduce its target for the overnight rate.
+B) decrease the commercial banks' reserves.
+C) decrease the money supply directly.
+D) adjust the rate paid on Treasury bills. 
+E) reduce the commercial banks' reserve requirements.
+Answer:  A
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+20) The Bank of Canada determines the "bank rate" by setting it equal to the upper end of a 50 basis-point-range that the 
+A) Government of Canada pays for short term loans to meet interest payments on the public debt.
+B) Bank of Canada announces as a target range for the overnight interest rate. 
+C) Bank of Canada announces as a target range for the exchange rate between the Canadian Dollar and the US Dollar.
+D) Bank of Canada announces as the target range for the five-year mortgage rate.
+E) Bank of Canada announces as its target for the core rate of inflation.
+Answer:  B
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+21) To raise short-term market interest rates, the Bank of Canada could
+A) purchase government securities in the open market.
+B) increase its target for the overnight rate.
+C) increase the commercial banks' required reserves.
+D) adjust the rate paid on Treasury bills.
+E) lower the reserve requirement.
+Answer:  B
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+22) In practice, the Bank of Canada implements its monetary policy by
+A) directly influencing the overnight interest rate.
+B) directly influencing the excess reserves in the commercial banking system.
+C) setting the money supply.
+D) directly influencing the price level.
+E) influencing the slope of the money demand curve.
+Answer:  A
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+23) The term structure of interest rates refers to
+A) the general observation that the yield on 30-year government bonds is less than the yield on 90-day Treasury bills. 
+B) the variance of the different interest rates available in the economy.
+C) the composition of the market interest rate.
+D) the variation of the market interest rate over the span of one year.
+E) the pattern of interest rates that corresponds to the varying terms to maturity of government securities.
+Answer:  E
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+24) The interest rate that commercial banks charge each other for the shortest period of borrowing or lending is called the
+A) term interest rate.
+B) prime rate.
+C) overnight interest rate.
+D) bank rate.
+E) preferred lending rate.
+Answer:  C
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+25) The interest rate that the Bank of Canada charges commercial banks for loans is called the
+A) term interest rate.
+B) prime rate.
+C) overnight interest rate.
+D) bank rate.
+E) preferred lending rate.
+Answer:  D
+Diff: 1
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+26) Suppose the Bank of Canada announces its target for the overnight interest rate at 2.5%. In that case, the Bank of Canada is willing to lend to commercial banks at ________% and is willing to pay ________% on deposits it receives from commercial banks.
+A) 2.25; 2.5
+B) 2.5; 2.0
+C) 2.5; 2.5
+D) 2.75; 2.25
+E) 3.5; 1.5
+Answer:  D
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+27) The Bank of Canada establishes a rate at which they will lend to commercial banks and a rate at which they will borrow from commercial banks. By doing so, 
+A) the Bank of Canada can ensure that the actual overnight interest rate will never fall below 2%.
+B) the Bank of Canada can ensure that the commercial banks will not be earning excess profits.
+C) the Bank of Canada can ensure that money demand remains at the level necessary for monetary equilibrium.
+D) the Bank of Canada establishes a spread, into which all interest rates in the economy fall.
+E) the Bank of Canada can ensure that the actual overnight interest rate will fall between these two interest rates.
+Answer:  E
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+28) Suppose the Bank of Canada lowers its target for the overnight interest rate and longer-term rates in the market fall as a result. Households' and firms' demand for new loans from the commercial banks would ________. In order to make the new loans, the commercial banks require more ________.
+A) rise; government securities
+B) fall; currency
+C) rise; cash reserves
+D) remain stable; excess reserves
+E) fall; excess reserves
+Answer:  C
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+29) Suppose the Bank of Canada raises its target for the overnight interest rate and longer-term rates in the market rise as a result. Households' and firms' demand for loans from the commercial banks would ________. In order to accommodate this change, the commercial banks require ________.
+A) rise; more government securities
+B) fall; more cash reserves
+C) rise; more currency
+D) remain stable; no change to their reserves
+E) fall; fewer cash reserves
+Answer:  E
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+30) Suppose the Bank of Canada lowers its target for the overnight interest rate and longer-term interest rates in the market fall as a result. When this occurs, the commercial banks respond to
+A) an increase in the demand for loans by buying government securities from the Bank of Canada, against which they can extend new loans.
+B) an increase in the demand for loans by selling government securities to the Bank of Canada in exchange for cash, with which they can extend new loans.
+C) a decrease in the demand for loans by selling government securities to the Bank of Canada and calling in existing loans.
+D) a decrease in the demand for loans by buying government securities from the Bank of Canada in exchange for cash, and calling in existing loans.
+E) an increase in the demand for loans by borrowing cash from the Bank of Canada with which they can extend new loans.
+Answer:  B
+Diff: 3
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+31) Suppose the actual overnight interest rate is 3.5%. If the Bank of Canada raises its target for the overnight interest rate to 4%, and longer-term interest rates in the market rise as a result,
+A) the demand for loans from commercial banks falls, the commercial banks sell government securities to the Bank of Canada, and the money supply falls.
+B) the demand for loans from commercial banks rises, the commercial banks buy government securities from the Bank of Canada, and the money supply falls.
+C) the demand for loans from commercial banks rises, the commercial banks sell government securities to the Bank of Canada, and the money supply rises.
+D) the demand for loans from commercial banks falls, the commercial banks buy government securities from the Bank of Canada, and the money supply falls.
+E) the demand for loans from commercial banks rises the commercial banks buy government securities from the Bank of Canada, and the money supply rises.
+Answer:  D
+Diff: 3
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+32) Suppose the actual overnight interest rate is 4%. If the Bank of Canada lowers its target for the overnight rate to 3.75%, the money supply will eventually 
+A) increase as a result of open-market operations.
+B) increase as a result of an increase in excess reserves in the banking system.
+C) decrease as a result of an increase in excess reserves in the banking system.
+D) decrease as a result of open-market operations.
+E) decrease as a result of a decrease in the demand for new loans.
+Answer:  A
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+33) If the Bank of Canada wants to influence real economic variables in the short run, it uses
+A) policy instruments such as the exchange rate and investment to influence the economy.
+B) its only policy instrument—the overnight interest rate target—to influence aggregate demand.
+C) policy variables such as the exchange rate and investment to influence aggregate demand.
+D) policy variables such as open-market operations to influence aggregate demand.
+E) policy variables such as the money supply to influence investment and aggregate supply.
+Answer:  B
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+34) The overnight interest rate is crucial to the Bank of Canada when it implements its monetary policy because
+A) the Bank of Canada's first priority is to ensure the solvency of commercial banks. 
+B) its changes in the overnight interest rate generally lead to changes in longer-term interest rates.
+C) overnight loans constitute a major source for open-market operations. 
+D) the Bank of Canada has no ability to influence other interest rates.
+E) it is the result of the Bank of Canada's regular changes in the money supply. 
+Answer:  B
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+35) Suppose the Bank of Canada announces its target for the overnight interest rate at 2.75%. What is the Bank's target range for the overnight interest rate?
+A) 1.75 - 3.75%
+B) 2.25 - 3.25%
+C) 2.5 - 3.00%
+D) 2.7 - 2.8%
+E) 2.74 - 2.76%
+Answer:  C
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Applied
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Quantitative
+
+36) Suppose the Bank of Canada's announced target for the overnight interest rate is 2.75%. Why should we expect commercial banks to borrow and lend overnight funds at a rate very close to this target?
+A) Because the Bank of Canada Act requires that commercial banks borrow from each other at a rate no higher than 0.25% above the target rate. 
+B) Because commercial banks know that they can borrow from the Bank of Canada at 3.00%, and lend to the Bank at 2.50% so the rate they charge each other will stay within that range. 
+C) Because the Bank of Canada chooses its target rate based on the anticipated borrowing needs of the commercial banks. 
+D) Because it is not legal for commercial banks to transact between each other at any rate outside of the Bank of Canada's target range. 
+E) Because commercial banks face regulatory obstacles if they borrow from each other at any rate outside of the Bank of Canada's target range. 
+Answer:  B
+Diff: 3
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+37) How does the Bank of Canada communicate its target for the overnight interest rate to the public?
+A) monthly announcements at fixed announcement dates (FADs)
+B) in its quarterly publication, "Monetary Policy Report"
+C) announcements made 8 times per year at pre-specified fixed announcement dates (FADs)
+D) the target is communicated to the minister of finance for approval and then released to the public on a quarterly basis
+E) the target is communicated to the Prime Minister for approval and then released to the public at 8 pre-specified fixed announcement dates (FADs)
+Answer:  C
+Diff: 2
+Topic:  28.1b. the overnight interest rate
+Skill:  Recall
+Learning Obj.:  28-1 Explain why the Bank of Canada chooses to directly target interest rates rather than the money supply.
+User2:  Qualitative
+
+38) In Canada, open-market operations are
+A) government actions aimed at creating competition within the banking industry.
+B) loans made by the Bank of Canada to the commercial banks.
+C) conducted to enforce the reserve requirements of commercial banks.
+D) no longer carried out.
+E) the buying and selling of government securities by the Bank of Canada.
+Answer:  E
+Diff: 1
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+39) The Bank of Canada's purchases and sales of government securities, when they occur, are referred to as
+A) increases and decreases in government expenditure.
+B) margin requirements.
+C) open-market operations.
+D) reserve requirements.
+E) the setting of the bank rate.
+Answer:  C
+Diff: 1
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+40) If the Bank of Canada chooses to expand the money supply directly, it could
+A) sell government securities on the open market.
+B) sell some of its foreign currency assets.
+C) reduce its deposits at commercial banks.
+D) buy government securities on the open market.
+E) change the price level.
+Answer:  D
+Diff: 2
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+41) When the Bank of Canada enters the open market and buys or sells government securities, we refer to this as 
+A) monetary policy.
+B) commercial lending.
+C) changing the target reserve ratio.
+D) setting the target ratio.
+E) open-market operations.
+Answer:  E
+Diff: 1
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+42) The Bank of Canada conducts its open-market operations directly in response to
+A) changes in aggregate demand.
+B) orders from Parliament.
+C) its announced changes in the money supply.
+D) changes in the price level.
+E) the changing demand for cash reserves from the commercial banks.
+Answer:  E
+Diff: 2
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+43) The amount of currency in circulation in the Canadian economy is described as being endogenous to the system. This is because
+A) the process of deposit creation by the commercial banks is determined by the Bank of Canada.
+B) the commercial banks determine the currency in circulation in response to the Bank of Canada's changes to the money supply.
+C) the Bank of Canada conducts its open-market operations in response to the changing demand for cash from the commercial banks.
+D) the Bank of Canada targets the money supply directly.
+E) the Bank of Canada targets the currency in circulation directly.
+Answer:  C
+Diff: 3
+Topic:  28.1c. open-market operations
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+44) Suppose the Bank of Canada reduces its target for the overnight interest rate by 0.50 percentage points. In this situation, the Bank will likely need to accommodate the eventual resulting change in the demand for money by
+A) increasing the supply of money by buying government securities on the open market.
+B) increasing the supply of money by selling government securities on the open market.
+C) decreasing the supply of money by buying government securities on the open market.
+D) decreasing the supply of money by selling government securities on the open market.
+E) maintaining the current supply of money which will increase the effectiveness of the change in the overnight interest rate.
+Answer:  A
+Diff: 2
+Topic:  28.1c. open-market operations
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Quantitative
+
+45) Suppose the Bank of Canada increases its target for the overnight interest rate by 0.25 percentage points. In this situation, the Bank will likely need to accommodate the resulting change in the demand for money by
+A) increasing the supply of money by buying government securities on the open market.
+B) increasing the supply of money by selling government securities on the open market.
+C) decreasing the supply of money by buying government securities on the open market.
+D) decreasing the supply of money by selling government securities on the open market.
+E) maintaining the current supply of money which will increase the effectiveness of the change in the overnight interest rate.
+Answer:  D
+Diff: 2
+Topic:  28.1c. open-market operations
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Quantitative
+46) An expansionary monetary policy by the Bank of Canada could include
+A) moral suasion to increase the commercial banks' target reserve ratio.
+B) moral suasion to reduce lending by commercial banks.
+C) an open-market sale of government securities.
+D) a reduction of the Bank's target for the overnight interest rate.
+E) None of the above would be expansionary.
+Answer:  D
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+47) An expansionary monetary policy would ________ and would eventually increase the money supply.
+A) reduce short-term interest rates 
+B) involve selling foreign-currency reserves in the foreign-exchange market 
+C) involve selling government bonds on the open market
+D) increase short-term interest rates 
+E) involve increasing the target for the overnight interest rate
+Answer:  A
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+48) Suppose the Canadian economy had an inflationary gap. To decrease the level of aggregate desired investment, the Bank of Canada could
+A) buy securities in the open market.
+B) lower short-term interest rates.
+C) reduce its spending.
+D) raise its target for the overnight interest rate.
+E) raise the price level.
+Answer:  D
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+49) Suppose the Canadian economy had a recessionary gap. To increase the level of desired aggregate expenditure, the Bank of Canada could
+A) raise the bank rate.
+B) increase its spending.
+C) increase the reserve requirements of the commercial banks.
+D) sell securities in the open market.
+E) reduce its target for the overnight interest rate.
+Answer:  E
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+50) The best description of the cause-and-effect chain of a contractionary monetary policy in the short run is that it will 
+A) lower the interest rate, increase investment spending, and increase real GDP.
+B) raise the interest rate, decrease investment spending, and decrease real GDP.
+C) lower the interest rate, lower investment spending, and decrease real GDP.
+D) raise the interest rate, decrease investment spending, and increase real GDP.
+E) raise the interest rate, increase investment spending, and decrease real GDP.
+Answer:  B
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+51) The best description of the cause-and-effect chain of an expansionary monetary policy is that it will 
+A) lower the interest rate, raise investment spending, and increase real GDP.
+B) raise the interest rate, decrease investment spending, and increase real GDP.
+C) raise the interest rate, increase investment spending, and increase real GDP.
+D) lower the interest rate, increase investment spending, and reduce real GDP.
+E) raise the interest rate, decrease investment spending, and decrease real GDP.
+Answer:  A
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+52) To remove an inflationary gap, the Bank of Canada would probably seek to 
+A) increase its target for the money supply.
+B) decrease its target for the overnight interest rate.
+C) increase its target for the overnight interest rate.
+D) decrease the bank rate.
+E) buy government securities through open-market operations.
+Answer:  C
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+53) To remove a recessionary gap, the Bank of Canada would probably seek to 
+A) increase its target for the overnight interest rate.
+B) increase the bank rate.
+C) decrease its target for the overnight interest rate.
+D) sell government securities through open-market operations.
+E) decrease its target for the money supply.
+Answer:  C
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+54) If there were a large and persistent recessionary gap, an appropriate monetary policy could include
+A) increasing the bank rate.
+B) increasing the overnight lending rate.
+C) decreasing reserves available to the commercial banks.
+D) the Bank of Canada reducing its target for the overnight interest rate.
+E) the Bank of Canada selling government securities to the public.
+Answer:  D
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+55) Changes in monetary aggregates such as M2 and M2+ can be a poor guide to the stance of monetary policy if
+A) commercial bank reserves are rising.
+B) interest rates are changing rapidly.
+C) interest rates are constant.
+D) money demand is changing in unpredictable ways.
+E) money demand is constant.
+Answer:  D
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+56) If desired investment spending is relatively sensitive to changes in interest rates, then monetary policy could be very useful because it would 
+A) be very effective in reducing expenditure during inflationary periods and very effective in expanding expenditure during recessionary periods.
+B) be very effective in reducing expenditure during inflationary periods and ineffective in expanding expenditure during recessionary periods.
+C) be very ineffective in reducing expenditure during inflationary periods and very effective in expanding expenditure during recessionary periods.
+D) be very ineffective in reducing expenditure during inflationary periods and very ineffective in expanding expenditure during recessionary periods.
+E) be somewhat effective in reducing expenditure during inflationary periods and very ineffective in expanding expenditure during recessionary periods.
+Answer:  A
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+57) If we observe that the bank rate has increased, we can conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) Bank of Canada has adjusted the rate it pays on Treasury bills.
+Answer:  B
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+58) If we observe that the bank rate has fallen, we can conclude that the 
+A) Bank of Canada has implemented a contractionary monetary policy.
+B) Bank of Canada has abandoned its inflation target.
+C) Government of Canada has reduced the money supply.
+D) Bank of Canada has implemented an expansionary monetary policy.
+E) Bank of Canada has adjusted the rate it pays on Treasury bills.
+Answer:  D
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+59) If we observe a small increase in the actual overnight interest rate over a several-day period, we can definitely conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) It is not possible to conclude any of the above.
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+60) If we observe a small decrease in the actual overnight interest rate over a several-day period, we can definitely conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) It is not possible to conclude any of the above.
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+61) If we observe that the actual rate of CPI inflation has fallen, we can certainly conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) It is not possible to conclude any of the above.
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+62) If we observe that the actual rate of CPI inflation has increased, we can certainly conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) It is not possible to conclude any of the above.
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+63) If we observe that short-term market interest rates have fallen, we can certainly conclude that the 
+A) Bank of Canada has implemented an expansionary monetary policy.
+B) Bank of Canada has implemented a contractionary monetary policy.
+C) Bank of Canada has abandoned its inflation target.
+D) Government of Canada has reduced the money supply.
+E) It is not possible to conclude any of the above.
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+64) The monetary transmission mechanism describes how changes in the the money market (possibly caused by monetary policy) cause changes in the interest rate, which then cause changes in
+1) aggregate demand and real GDP;
+2) desired investment and net exports;
+3) the price level.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1, 2, and 3
+Answer:  E
+Diff: 3
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+65) The Bank of Canada initially implements an expansionary monetary policy by
+A) directly increasing the money supply.
+B) selling government securities on the open market.
+C) buying government securities on the open market.
+D) reducing its target for the overnight interest rate.
+E) raising its target for the overnight interest rate.
+Answer:  D
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+66) The Bank of Canada initially implements a contractionary monetary policy by
+A) directly decreasing the money supply.
+B) raising its target for the overnight interest rate.
+C) selling government securities on the open market.
+D) buying government securities on the open market.
+E) reducing its target for the overnight interest rate.
+Answer:  B
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+67) Suppose the economy is experiencing an inflationary gap. Which of the following describes a likely policy response by the Bank of Canada?
+A) A contractionary monetary policy which leads to a lower interest rate, reduced investment demand, and a shift to the left of the AD curve.
+B) An expansionary monetary policy which leads to an increase in investment demand, and a shift to the right of the AD curve.
+C) An expansionary monetary policy which leads to a decrease in investment demand, and a shift to the left of the AD curve.
+D) A contractionary monetary policy which leads to an increase in investment demand, and a shift to the right of the AD curve.
+E) A contractionary monetary policy which leads to a reduction in investment demand, and a shift to the left of the AD curve.
+Answer:  E
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Applied
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+68) How does the Bank of Canada set in motion the monetary transmission mechanism? 
+A) by altering its target for the overnight interest rate
+B) by altering the price level
+C) by influencing the demand for money directly
+D) by influencing the exchange rate directly
+E) by influencing aggregate supply directly
+Answer:  A
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+Learning Obj.:  28-2 Understand why many central banks have adopted formal inflation targets.
+User2:  Qualitative
+
+69) When the Bank of Canada reduces the interest rate we call this an expansionary monetary policy. Why?
+A) The lower interest rate leads to an increase in the level of national saving.
+B) The lower interest rate causes an expansion of money demand.
+C) The lower interest rate leads to a rightward shift of the aggregate demand curve.
+D) The lower interest rate causes the money demand curve to shift to the right.
+E) The lower interest rate causes the money supply curve to shift to the left.
+Answer:  C
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+User2:  Qualitative
+
+70) When the Bank of Canada increases the interest rate we call this a contractionary monetary policy. Why?
+A) The higher interest rate leads to an increase in the level of national saving.
+B) The higher interest rate causes a contraction of money demand.
+C) The higher interest rate causes the money demand curve to shift to the left.
+D) The higher interest rate leads to a leftward shift of the aggregate demand curve.
+E) The higher interest rate causes the money supply curve to shift to the right.
+Answer:  D
+Diff: 2
+Topic:  28.1d. expansionary and contractionary monetary policy
+Skill:  Recall
+User2:  Qualitative
+28.2  Inflation Targeting
+
+1) Most central banks accept that, in the long run, monetary policy has an effect on
+A) the level of aggregate demand.
+B) the price level and the inflation rate only.
+C) the level of investment demand.
+D) all real economic variables.
+E) real GDP and the price level.
+Answer:  B
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+2) Many central banks have established formal targets for the rate of inflation because of the following fundamental observations about economic relationships:
+	1. there are high costs associated with inflation
+	2. high inflation causes high unemployment
+	3. monetary policy is the cause of sustained inflation
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 3 only
+E) 1, 2, and 3
+Answer:  D
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+3) High inflation is costly to firms and individuals. Of the following, who is most adversely affected by high inflation?
+A) a homeowner with a 25-year fixed-rate mortgage
+B) a student with student loans repayable in nominal terms at a fixed rate of interest
+C) a student with student loans repayable on an indexed basis at a variable rate of interest
+D) a senior whose retirement income is an indexed pension plan
+E) a senior whose retirement income is fixed in dollar terms
+Answer:  E
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+4) Which of the following describes the cause of a sustained inflation?
+A) the monetary transmission mechanism
+B) an aggregate demand shock significant enough to cause a substantial rise in the price level
+C) continual monetary expansion
+D) an aggregate supply shock significant enough to cause a substantial rise in the price level
+E) simultaneous AD and AS shocks
+Answer:  C
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+5) Given its existing policy regime of "inflation targeting," the Bank of Canada would likely react to a large positive aggregate demand shock by
+A) lowering the bank rate.
+B) buying bonds from the open market.
+C) increasing its target for the overnight interest rate.
+D) decreasing its target for the overnight interest rate.
+E) ignoring the shock and allowing the economy to adjust.
+Answer:  C
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+6) Given its existing policy regime of "inflation targeting," the Bank of Canada would likely react to a large negative AD shock by
+A) raising the bank rate.
+B) selling bonds on the open market.
+C) increasing its target for the overnight interest rate.
+D) decreasing its target for the overnight interest rate.
+E) ignoring the shock and allowing the economy to adjust.
+Answer:  D
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+7) The long-run target currently used by the Bank of Canada is to set
+A) M2 = real GDP/M1.
+B) a long-run target range for the overnight lending rate.
+C) a long-run target range for the Canadian-U.S. exchange rate.
+D) a long-run target range for the 5-year mortgage rate.
+E) a long-run target range for the inflation rate.
+Answer:  E
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+8) Consider the following statement about inflation targeting: A policy of inflation targeting acts as an automatic stabilizer in the economy, just like the automatic fiscal stabilizers. Choose the most appropriate response to this statement. The statement is
+A) true, because an inflationary gap is met with a contractionary monetary policy.
+B) true, because a recessionary gap is met with an expansionary monetary policy.
+C) not true, because inflation targeting requires active policy decisions by the Bank of Canada, whereas fiscal stabilizers need no policy implementation.
+D) not true, because inflation targeting automatically maintains inflation within the target range, whereas fiscal stabilizers require government policy decisions.
+E) true, because inflation targeting and fiscal stabilizers are essentially the same policy tool.
+Answer:  C
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+9) Because of the volatility of food and energy prices, the Bank of Canada pays more attention in the short run to changes in ________ than to changes in ________. 
+A) core inflation; total CPI inflation
+B) total CPI inflation; core inflation
+C) total CPI inflation; inflation of the GDP deflator
+D) inflation of the GDP deflator; total CPI inflation 
+E) the nominal exchange rate; the real exchange rate
+Answer:  A
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+10) One problem with focusing on the CPI when conducting monetary policy is that 
+A) many elements in the CPI change for reasons unrelated to the state of the Canadian economy.
+B) it is closely related to the value of M2.
+C) changes in monetary policy have little effect on the CPI, especially in the long run.
+D) the CPI is too stable to accurately reflect the changes occurring in the Canadian economy.
+E) the CPI distorts the value of commercial bank reserves.
+Answer:  A
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+11) Most central banks in the developed countries focus their attention on 
+A) the elimination of output gaps.
+B) reducing unemployment.
+C) the reduction and control of inflation.
+D) alleviating the harmful effects of inflation.
+E) the growth of potential output.
+Answer:  C
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+12) High and uncertain inflation is damaging to the economy because
+A) the price system is no longer capable of effectively signalling changes in relative scarcity through changes in relative prices.
+B) individuals who receive their incomes in fixed nominal terms are made worse off.
+C) there can be unexpected reallocations of real income between workers and firms.
+D) there can be unexpected reallocations of real income between borrowers and lenders.
+E) All of the above.
+Answer:  E
+Diff: 1
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+13) It is widely accepted by economists that monetary policy is the most important determinant of a country's 
+A) level of real GDP.
+B) level of potential output.
+C) aggregate supply curve.
+D) long-run rate of inflation.
+E) long-run rate of economic growth.
+Answer:  D
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+14) As of 2015, the Bank of Canada's policy objective is to maintain inflation at or near the target of
+A) 0%.
+B) 1%.
+C) 2%.
+D) 3%.
+E) 4%.
+Answer:  C
+Diff: 1
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+15) The Bank of Canada's formal policy target is ________. It's current target is to keep the annual inflation rate close to ________%. 
+A) core inflation; 1
+B) core inflation; 0
+C) the money supply; 2
+D) CPI inflation; 2
+E) the money supply; 1
+Answer:  D
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+16) In an effort to maintain inflation at its targeted level the Bank of Canada designs its policies, in the short run, to
+A) eliminate all unemployment.
+B) keep real GDP close to potential output.
+C) minimize the growth of the money supply.
+D) allow the aggregate supply curve to close any output gaps.
+E) eliminate all negative shocks to the economy.
+Answer:  B
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+17) An example of how inflation targeting by the Bank of Canada helps to stabilize the economy is
+A) firms and households are aware of the announced inflation target and adjust their behaviour so as to maintain this level of actual inflation.
+B) when a recessionary gap reduces the rate of inflation (below the target level) the Bank of Canada will implement an expansionary monetary policy, which helps to close the gap.
+C) when the actual inflation rate falls below the targeted level of inflation, then commercial banks automatically increase deposit creation.
+D) when an output gap opens in the economy, the inflationary target adjusts to close the gap.
+E) when an output gap opens in the economy, the Bank of Canada chooses the inflation target appropriate for closing the gap.
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+18) In the short run the Bank of Canada aims to ________, in an effort to ________.
+A) enhance any positive shocks; keep inflation within its target band
+B) reduce any positive or negative output gaps; keep inflation close to the official target
+C) ignore any shocks as they are automatically adjusting; keep GDP growth constant
+D) keep actual output within 1%-3% of potential output; keep the money supply growing at a constant rate
+E) ignore any shocks as they are automatically adjusting; keep inflation within its target band
+Answer:  B
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+19) The economic variables that the Bank of Canada tries to influence are ________ in the short run and ________ in the long run.
+A) the distribution of income; the unemployment rate
+B) real GDP; the path of the price level
+C) the distribution of income; economic efficiency
+D) real GDP; the exchange rate
+E) the exchange rate; the rate of inflation
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+20) Inflation targeting
+A) is irrelevant to the stability of the economy because of the long-run neutrality of money.
+B) is a destabilizing policy because it requires the Bank of Canada to engage in inappropriate policy responses.
+C) is a stabilizing policy because the Bank of Canada's policy adjustments act to stabilize real GDP growth.
+D) should be replaced with fiscal policy targeting because of the long-run neutrality of money.
+E) creates output gaps that must be then offset with fiscal policy stabilizers. 
+Answer:  C
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+21) Suppose output is at its potential level and then there is a sudden increase in food and energy prices. This increase
+A) makes inflation targeting easier because it makes these problems less relevant.
+B) makes inflation targeting harder because these are closely related to excess demand in the economy.
+C) would be unlikely to lead to an immediate policy response because it would not appear in "core" inflation.
+D) would be offset by a decline in the Canadian dollar, making these price increases irrelevant.
+E) is closely related to changes in core inflation so the Bank of Canada uses these for targeting inflation. 
+Answer:  C
+Diff: 2
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+22) Inflation that is fully anticipated by workers, firms, and consumers 
+A) leads to reductions in real incomes for all workers. 
+B) is hard to predict. 
+C) improves the efficiency of the price system. 
+D) does not impact the purchasing power of individuals whose incomes are fully indexed to inflation. 
+E) has no real or nominal effects in the economy. 
+Answer:  D
+Diff: 1
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+23) Which of the following goods are included in Canada's measure of "core inflation"?
+A) natural gas
+B) a new car
+C) fresh vegetables
+D) excise tax on gasoline
+E) coffee
+Answer:  B
+Diff: 1
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+24) Consider a central bank that chooses to implement its monetary policy by expanding the money supply by a fixed percentage amount in every year. One important disadvantage with this approach to monetary policy is that it may 
+A) lead to sustained inflation.
+B) be destabilizing if the demand for money is unstable.
+C) lead to stable growth of national income.
+D) be inconsistent with the Bank of Canada Act.
+E) create a recessionary output gap.
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+25) Most economists now accept the proposition that
+A) an ideal monetary policy would allow the money supply to grow at a constant rate.
+B) to reduce the long-run rate of inflation there must be a sustained monetary contraction.
+C) monetary policy leaves real GDP and the overnight lending rate unaffected in the short run.
+D) lowering the Bank Rate will have no effect on desired investment in the short run but will have a direct effect on core inflation. 
+E) monetary policy is the only policy tool available for influencing aggregate demand.
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Recall
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+26) Suppose Canadian real GDP is currently equal to potential GDP. Then, because of events elsewhere in the world, European investors decide to hold fewer Canadian financial assets, which leads to a sustained depreciation of the Canadian dollar. If the Bank of Canada is committed to its inflation target then it should 
+A) implement an expansionary monetary policy by increasing its target for the overnight interest rate. 
+B) implement an expansionary monetary policy by decreasing its target for the overnight interest rate. 
+C) not intervene in the economy at all since this shock will not have any real effects in the short run. 
+D) implement a contractionary monetary policy by increasing its target for the overnight interest rate. 
+E) implement a contractionary monetary policy by decreasing its target for the overnight interest rate. 
+Answer:  D
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+27) Suppose Canadian real GDP is currently equal to potential GDP. Then the Canadian dollar depreciates due to the reduced demand by European producers to purchase Canadian-made raw materials. If the Bank of Canada is committed to its inflation target then it should 
+A) implement an expansionary monetary policy by increasing its target for the overnight interest rate. 
+B) implement an expansionary monetary policy by decreasing its target for the overnight interest rate. 
+C) not intervene in the economy at all since this shock will not have any real effects in the short run. 
+D) implement a contractionary monetary policy by increasing its target for the overnight interest rate. 
+E) implement a contractionary monetary policy by decreasing its target for the overnight interest rate. 
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+28) Which of the following events would justify the Bank of Canada implementing an expansionary monetary policy, while maintaining its commitment to its inflation target? 
+A) An appreciation of the Canadian dollar due to increases in the world prices of Canadian exports.
+B) A depreciation of the Canadian dollar due to persistent current account deficits of Canada. 
+C) An oil-price shock that results in Canadian inflation. 
+D) The U.S. economy increasing its demand for Canadian goods and services. 
+E) A major decline in the Canadian stock market. 
+Answer:  E
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+29) Suppose Canadian real GDP is equal to potential GDP. An appreciation of the Canadian dollar then implies that the Bank of Canada should engage in
+A) a loosening of monetary policy because of the excess demand for Canadian products that is creating the appreciation.
+B) a tightening of monetary policy because of the excess demand for Canadian products that is creating the appreciation.
+C) no change in monetary policy because the exchange rate is always allowed to float freely.
+D) an increase in inflation because of the higher cost of imports.
+E) either a contractionary or an expansionary policy, depending on the cause of the appreciation. 
+Answer:  E
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+30) Suppose Canadian real GDP is equal to potential GDP. A significant and sustained appreciation of the Canadian dollar on the foreign-exchange market then requires the Bank of Canada to
+A) engage in expansionary monetary policy to counter the rise in the dollar.
+B) engage in contractionary monetary policy to counter the rise in the dollar.
+C) identify the cause of the change in the exchange rate before taking any action to adjust policy.
+D) increase the target band for the inflation rate.
+E) increase the target band for the overnight lending rate.
+Answer:  C
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+31) Suppose Canadian real GDP is equal to potential GDP. A significant and sustained appreciation of the Canadian dollar would likely lead the Bank to engage in a contractionary monetary policy if the Bank's policy experts traced the cause of the appreciation to
+A) a decrease in the overnight lending rate.
+B) an increase in the desire of non-residents to purchase Canadian financial assets.
+C) an increase in the desire of non-residents to purchase more Canadian goods and services.
+D) a reduction in Canada's core inflation rate.
+E) a recession in Canada.
+Answer:  C
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+32) Suppose Canadian real GDP is equal to potential GDP. A significant and sustained appreciation of the Canadian dollar would likely lead the Bank to engage in an expansionary monetary policy if the Bank's policy experts traced the cause of the appreciation to
+A) a decrease in the overnight lending rate.
+B) an increase in the desire of non-residents to purchase Canadian financial assets.
+C) an increase in the desire of non-residents to purchase more Canadian goods and services.
+D) a reduction in Canada's core inflation rate.
+E) a recession in Canada.
+Answer:  B
+Diff: 3
+Topic:  28.2. inflation targeting
+Skill:  Applied
+Learning Obj.:  28-3 Explain how the Bank of Canada's policy of inflation targeting helps to stabilize the economy.
+User2:  Qualitative
+
+28.3  Long and Variable Lags
+
+1) Time lags in the conduct of monetary policy can cause
+A) monetary policy to work in the opposite direction to what was initially predicted by economists.
+B) an expansionary policy to have a smaller effect than what was expected by policymakers.
+C) monetary expansions to work very quickly but cause monetary contractions to work very slowly.
+D) difficulty in the timing of appropriate policy and can even lead to destabilization.
+E) short-term monetary policy to work more effectively than long-term targeting.
+Answer:  D
+Diff: 2
+Topic:  28.3. time lags in monetary policy
+Skill:  Recall
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+
+2) Economists at the Bank of Canada estimate that time lags in monetary policy imply that 
+A) monetary policy is totally ineffective in changing overnight lending rates in the short run.
+B) monetary policy is totally ineffective in changing core inflation rates in the long run.
+C) monetary policy can cause changes in real GDP to occur in 9-12 months and changes in core inflation to occur in 18-24 months.
+D) monetary policy can cause changes in core inflation to occur in 9-12 months and changes in the exchange rate to occur in 18-24 months.
+E) monetary policy can cause changes in core inflation to occur in 9 to 12 months and changes in real GDP to occur in 18-24 months.
+Answer:  C
+Diff: 3
+Topic:  28.3. time lags in monetary policy
+Skill:  Recall
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+3) If an economist supports targeting inflation as opposed to monetary fine-tuning, this economist probably believes that time lags in the implementation of monetary policy are
+A) short but predictable.
+B) short but unpredictable.
+C) long and unpredictable.
+D) long but predictable.
+E) predictable in their short-run effects but unpredictable in the long run.
+Answer:  C
+Diff: 2
+Topic:  28.3. time lags in monetary policy
+Skill:  Recall
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+
+4) If the Bank of Canada were required to gain approval for all changes in monetary policy from Parliament before implementing them, this would result in
+A) higher inflation in the long run.
+B) longer time lags in monetary policy.
+C) permanently higher unemployment.
+D) permanently higher exchange rates for the Canadian dollar.
+E) temporary reductions in the interest rate.
+Answer:  B
+Diff: 1
+Topic:  28.3. time lags in monetary policy
+Skill:  Applied
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+
+5) It might take a while before the effects of changes in monetary policy are realized in the economy because it takes a while for 
+A) the overnight interest rate and longer-term interest rates to adjust. 
+B) investment expenditures and net exports to adjust. 
+C) government purchases to adjust. 
+D) monetary policy to be implemented via open-market operations. 
+E) the exchange rate to adjust. 
+Answer:  B
+Diff: 2
+Topic:  28.3. time lags in monetary policy
+Skill:  Recall
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+6) Suppose the Bank of Canada is criticized for implementing a contractionary monetary policy at a time when the inflation rate is at or near its target level. One explanation for this policy decision is likely that
+A) the Bank regularly maintains a contractionary policy stance in order to keep inflation at or near its target.
+B) it is extremely difficult to predict future events and a contractionary policy is the safest policy choice.
+C) the Bank anticipates a decrease in Canadian net exports and is acting now because of the unavoidable time lags.
+D) the Bank anticipates a decrease in investment spending and is acting now because of the unavoidable time lags. 
+E) the Bank anticipates a rise in inflation and is acting now because of the unavoidable time lags. 
+Answer:  E
+Diff: 2
+Topic:  28.3. time lags in monetary policy
+Skill:  Applied
+Learning Obj.:  28-4 Describe why monetary policy affects real GDP and the price level only after long time lags.
+User2:  Qualitative
+
+28.4  Thirty Years of Canadian Monetary Policy
+
+1) Most economists now accept the proposition that
+	1) to reduce the long-run rate of inflation there must be a sustained monetary contraction;
+	2) monetary policy should be aimed at controlling the inflation rate in the long run, with a short-run focus on reducing output gaps;
+	3) high inflation, even if it is largely expected, can generate significant costs for the economy.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 and 3
+E) 1, 2 and 3
+Answer:  E
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+2) In 1980, the annual inflation rate in Canada was
+A) over 12%.
+B) roughly 8%.
+C) roughly 6%.
+D) roughly 2%.
+E) roughly zero.
+Answer:  A
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+3) In the early 1980s, the Bank of Canada contracted the rate of growth of the money supply in an attempt to reduce inflation. One problem with this policy was that
+A) an unexpected increase in the demand for money caused the policy to be more contractionary than necessary, leading to a recession.
+B) an unexpected increase in the demand for money caused the policy to be more expansionary than necessary, leading to further inflation.
+C) the demand for money dropped at the same time, causing the policy to be more contractionary than necessary, leading to an undesirable boom.
+D) the demand for money dropped at the same time, causing the policy to be more expansionary than necessary, leading to further inflation.
+E) it proved completely ineffective in influencing either real GDP or the price level.
+Answer:  A
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+4) During a period of renewed inflation fears in 1988, the governor of the Bank of Canada, Mr. John Crow, announced that monetary policy would henceforth be guided more by 
+A) exchange rate targets since depreciation of the Canadian dollar tends to be inflationary.
+B) real GDP growth.
+C) the goal of long-term "price stability."
+D) the level of real income growth and "price stability."
+E) unemployment levels and the level of prices.
+Answer:  C
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+5) During the period of economic recovery between 1983 and 1987, the main challenge for the Bank of Canada was to
+A) accommodate the recovery, and the associated growth in money demand, without increasing the money supply so much as to refuel inflation.
+B) decrease the money supply to dampen inflationary expectations.
+C) increase the money supply so that only a mild form of inflation would reappear.
+D) stabilize the exchange rate between the U.S. and Canadian dollars.
+E) stabilize the unemployment rate.
+Answer:  A
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+6) The decision by the Bank of Canada and many other central banks to target the rate of inflation partly reflects the evidence of the
+A) long-run neutrality of money. 
+B) link between the money supply and the exchange rate.
+C) power of the overnight lending rate to affect long-run investment.
+D) power of the overnight interest rate to affect consumer borrowing.
+E) link between the output gap and the money supply.
+Answer:  A
+Diff: 3
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+7) In the early 1980s, when the Bank of Canada was focusing its attention on reducing the growth rate of the money supply, an unplanned surge in ________ led to an unintended tight monetary policy which caused ________. 
+A) money demand; decreased inflation and a serious recession
+B) money supply; a drop in the overnight lending rate and increased investment
+C) desired investment; inflation to increase
+D) desired investment; the Bank of Canada to adopt a core inflation targeting policy
+E) money supply; the Bank of Canada to apologize to the public for its policy error
+Answer:  A
+Diff: 3
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+8) In 1994, Gordon Thiessen was appointed as the new governor of the Bank of Canada. Governor Thiessen proceeded to 
+A) continue the tough and unpopular contractionary monetary policy of his predecessor.
+B) continue the popular low overnight lending policy of his predecessor.
+C) abandon the tough and unpopular contractionary monetary policy of his predecessor in favour of a policy designed to depreciate the Canadian dollar.
+D) abandon the tough and unpopular contractionary monetary policy of his predecessor in favour of a low-interest-rate policy.
+E) increase the overnight lending rate in order to stabilize the Canadian-U.S. exchange rate. 
+Answer:  A
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+9) What is the policy response by the Bank of Canada to an inflationary gap in one region of Canada (e.g. the West) when at the same time a recessionary gap exists in another region of Canada (e.g. Ontario)?
+A) Each regional office of the Bank of Canada implements the appropriate monetary policy for that region.
+B) The Bank of Canada implements monetary policy in each region of Canada as required.
+C) There are automatic stabilizers inherent in monetary policy that allow the policy to adjust to close the output gap. 
+D) The Bank of Canada consults with the commercial banks on the appropriate level of deposit creation for each region of the country.
+E) The Bank of Canada responds to the average level of inflation in the country and implements a single monetary policy.
+Answer:  E
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+10) In 2007 and 2008, Canada was affected by the global financial crisis that had begun with the U.S. housing collapse. What actions did the Bank of Canada take between the fall of 2007 and the end of 2008 in an attempt to maintain the level of economic activity in Canada? The Bank of Canada
+A) maintained its target for the overnight rate and made short-term loans to financial institutions more accessible.
+B) implemented a large fiscal stimulus program to counteract the sharp rise in interest rates that had occurred.
+C) reduced its target for the overnight rate by over 3.5 percentage points and made short-term loans to financial institutions more accessible.
+D) reduced its target for the overnight rate by over 5 percentage points and purchased "toxic" assets from Canadian commercial banks.
+E) purchased "toxic" assets from Canadian commercial banks and implemented a large fiscal stimulus program.
+Answer:  C
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+11) In 2007 and 2008, Canada was affected by the global financial crisis that had begun with the U.S. housing collapse. By the spring of 2009, the Bank of Canada had reached a practical minimum for its nominal policy interest rate of ________%.
+A) 0
+B) 0.25
+C) 0.50
+D) 0.75
+E) 1.00
+Answer:  B
+Diff: 1
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+12) In 2007 and 2008, Canada was affected by the global financial crisis that had begun with the U.S. housing collapse. By early 2009, the Canadian economy was in a recession with Y < Y*. What economic policies were implemented to close the output gap?
+A) expansionary monetary policy
+B) expansionary fiscal policy 
+C) contractionary monetary policy and contractionary fiscal policy
+D) contractionary monetary policy and expansionary fiscal policy
+E) expansionary monetary policy and expansionary fiscal policy
+Answer:  E
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+13) In 2007 and 2008, Canada was affected by the global financial crisis that had begun with the U.S. housing collapse. By 2009, the Canadian economy had entered a recession, largely due to a reduction in investment and a ________. The policy objective for the Bank of Canada and the government at this time was to ________.
+A) fall in net exports; shift the AD curve to the right to close the recessionary output gap
+B) fall in consumption; shift the AD curve to the right to close the inflationary output gap
+C) fall in consumption; shift the AD curve to the left to close the recessionary output gap
+D) fall in net exports; shift the AS curve to close the inflationary output gap
+E) fall in housing starts; shift the AD curve to the left to close the recessionary output gap
+Answer:  A
+Diff: 2
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Recall
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+14) During the financial crisis that began in 2008 the Bank of Canada took actions to increase the amount of reserves in the banking system. (They were "injecting liquidity.") However, the money supply (M2+) did not increase as predictably as it would have at other times. Why not?
+A) The banks formally increased their target reserve ratios to over 40% due to the increased risks in the Canadian economy. 
+B) The panic in the world's financial sector led to a massive reduction in all types of lending from financial institutions. 
+C) The banks formally increased their target reserve ratios to 20% due to the increased risks in the Canadian economy. 
+D) The large and sudden increase in excess reserves at the commercial banks led to a significant increase in lending and a subsequent reduction in M2+. 
+E) The panic in the world's financial sector led to a massive increase in all types of lending from financial institutions. 
+Answer:  B
+Diff: 3
+Topic:  28.4. 30 years of Canadian monetary policy
+Skill:  Applied
+Learning Obj.:  28-5 Discuss the main economic challenges that the Bank of Canada has faced over the past three decades.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 42
+Copyright © 2017 Pearson Education, Inc.
+
+
+

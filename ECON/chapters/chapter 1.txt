@@ -1,0 +1,1755 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 1   Economic Issues and Concepts
+
+1.1  What Is Economics?
+
+1) Which of the following statements provides the best definition of economics?
+A) The study of the most equitable distribution of scarce resources.
+B) The study of the use of scarce resources to satisfy unlimited human wants.
+C) The study of the production of goods and services.
+D) The study of the productive capacity of a nation's factors of production. 
+E) The study of production and increasing its efficiency. 
+Answer:  B
+Diff: 1
+Topic:  1.1a. economics/resources
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+2) Society's resources are often divided into broad categories. They are
+A) goods and services.
+B) factors of consumption.
+C) land, labour, and capital.
+D) population and natural resources.
+E) tangible commodities and intangible commodities.
+Answer:  C
+Diff: 1
+Topic:  1.1a. economics/resources
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+3) Consider the following list: a worker with training in video gaming technology, 10 hectares of arable land in southern Ontario, a fishing trawler in Nova Scotia, an ice-cream truck at a park in Quebec. Each of these is an example of 
+A) a factor of production.
+B) a capital resource.
+C) a commodity.
+D) goods and services.
+E) an economic service.
+Answer:  A
+Diff: 1
+Topic:  1.1a. economics/resources
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+4) A basic underlying point in economics is that
+A) people have unlimited wants in the face of limited resources.
+B) there are unlimited resources.
+C) governments should satisfy the needs of the people.
+D) people have limited wants in the face of limited resources.
+E) governments should never interfere in the workings of a market economy.
+Answer:  A
+Diff: 1
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+5) Which of the following best describes the study of economics?
+A) how to plan an economy
+B) how to limit human wants so that scarce resources are sufficient
+C) why resources are scarce
+D) the allocation of scarce resources among alternative uses
+E) how to distribute income as equally as possible
+Answer:  D
+Diff: 1
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+6) Economics can best be described as 
+A) the study of how a society ought to allocate its resources.
+B) the study of the use of scarce resources to satisfy unlimited human wants.
+C) the application of sophisticated mathematical models to address social problems.
+D) a normative science.
+E) the study of how to reduce inflation and unemployment.
+Answer:  B
+Diff: 1
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+7) Scarcity is likely to be
+A) a problem that will be solved by the proper use of available resources.
+B) unique to the twentieth century.
+C) a problem that will always exist.
+D) a result of the work ethic.
+E) eliminated with a better understanding of economics.
+Answer:  C
+Diff: 2
+Topic:  1.1b. scarcity and choice
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+8) Which of the following statements best describes the economic concept of scarcity?
+A) Society is not employing all of its available resources in an efficient manner.
+B) People's wants can never be satisfied by the available resources.
+C) Scarcity afflicts only poor countries.
+D) Too many frivolous goods and services are produced at the expense of socially desirable goods and services.
+E) Production is efficient, but distribution is inefficient.
+Answer:  B
+Diff: 2
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+9) Which of the following statements best describes the underlying feature in most economic problems?
+A) People have unlimited wants in the face of limited resources.
+B) There are unlimited resources.
+C) Our country is rich; we just don't realize it.
+D) People have limited wants in the face of limited resources.
+E) Governments should never interfere in the workings of a market economy.
+Answer:  A
+Diff: 1
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+10) Because resources are scarce, individuals are required to
+A) make choices among alternatives.
+B) use resources inefficiently.
+C) sacrifice production but not consumption.
+D) improve distribution but not production.
+E) improve production but not distribution.
+Answer:  A
+Diff: 2
+Topic:  1.1b. scarcity and choice
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+With a budget of $200 million, the government can choose to purchase 4 helicopters or repair 200 km of highway. 
+
+
+FIGURE 1-1
+
+11) Refer to Figure 1-1. For the government, the opportunity cost of one search and rescue helicopter is
+A) 0 kilometres of highway repair.
+B) 50 kilometres of highway repair.
+C) 100 kilometres of highway repair.
+D) 150 kilometres of highway repair.
+E) 200 kilometres of highway repair.
+Answer:  B
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+12) Refer to Figure 1-1. For the government, the opportunity cost of one kilometre of highway repair is
+A) 1 search and rescue helicopter.
+B) 1/2 of a search and rescue helicopter.
+C) 1/10 of a search and rescue helicopter.
+D) 1/50 of a search and rescue helicopter.
+E) 1/100 of a search and rescue helicopter.
+Answer:  D
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+13) Refer to Figure 1-1. If the government chooses to allocate all $200 million to highway repair, we can say that
+A) the opportunity cost of the highway repair is uncertain.
+B) the opportunity cost of the highway repair is $0.
+C) the opportunity cost of the highway repair is 4 search and rescue helicopters.
+D) there is no opportunity cost involved because the government has achieved its objectives.
+E) there is no opportunity cost involved because the government stayed within its budget.
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+14) Refer to Figure 1-1. Which of the following combinations of kilometres of highway repair and helicopters is unaffordable, given the government's budget of $200 million?
+A) B
+B) D
+C) E
+D) F
+E) G
+Answer:  E
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+With a budget of $500 000, a school board can choose to purchase 20 000 textbooks or 2000 laptop computers (or some intermediate combination) for use in classrooms.
+
+
+
+FIGURE 1-2
+
+15) Refer to Figure 1-2. For the school board, what is the opportunity cost of one additional laptop computer? 
+A) 0 textbooks
+B) 1/10 of a textbook
+C) 10 textbooks
+D) 20 textbooks
+E) 2000 textbooks
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+16) Refer to Figure 1-2. For the school board, what is the opportunity cost of one additional textbook?
+A) 2000 laptops
+B) 1000 laptops
+C) 1/100 of a laptop
+D) 1/1000 of a laptop
+E) 1/10 of a laptop
+Answer:  E
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+17) Refer to Figure 1-2. Suppose the school board chooses to allocate all $500 000 to the purchase of laptop computers. What is the opportunity cost of this entire purchase? 
+A) The opportunity cost is 2000 laptops.
+B) The opportunity cost is 20,000 textbooks.
+C) The opportunity cost is uncertain.
+D) The opportunity cost is $0.
+E) There is no opportunity cost because the purchase was made within the available budget.
+Answer:  B
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+18) Refer to Figure 1-2. Which of the following combinations of textbooks and laptops is unaffordable, given the school board's budget of $500 000?
+A) A
+B) B
+C) C
+D) D
+E) E
+Answer:  D
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+19) Refer to Figure 1-2. What is the price of a textbook in this example? 
+A) $25
+B) $40
+C) $50
+D) $100
+E) $250
+Answer:  A
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+20) Refer to Figure 1-2. What is the price of a laptop computer in this example? 
+A) $25
+B) $40
+C) $50
+D) $100
+E) $250
+Answer:  E
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+The table below illustrates that, in one day, Tristan can produce either 12 fishing lures or mow 3 lawns, while Thomas can produce either 6 fishing lures or mow 6 lawns.
+
+
+Fishing Lures
+Mowed Lawns
+Tristan
+12
+3
+Thomas
+6
+6
+  
+TABLE 1-1 
+
+21) Refer to Table 1-1. What is Tristan's opportunity cost of producing one fishing lure?
+A) one mowed lawn
+B) 3 mowed lawns
+C) 1/3 of a mowed lawn
+D) 1/4 of a mowed lawn
+E) 4 mowed lawns
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Quantitative
+22) Refer to Table 1-1. What is Thomas's opportunity cost of producing one fishing lure?
+A) 5 lures
+B) 1 mowed lawn
+C) 1/6 of a lure
+D) 1/6 of a mowed lawn
+E) there is no opportunity cost
+Answer:  B
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Quantitative
+
+23) Refer to Table 1-1. What is Tristan's opportunity cost of producing one mowed lawn?
+A) one fishing lure
+B) 3 fishing lures
+C) 4 fishing lures
+D) 6 fishing lures
+E) 12 fishing lures
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 1-1. What is Thomas's opportunity cost of producing one mowed lawn?
+A) 0 fishing lures
+B) 1/6 fishing lure
+C) one fishing lure
+D) 6 fishing lures
+E) 12 fishing lures
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Quantitative
+25) Refer to Table 1-1. If Tristan and Thomas want to maximize their joint output from one day of work, how should they specialize their production?
+A) Tristan produces 3 mowed lawns; Thomas produces 6 mowed lawns
+B) Tristan produces 6 lures; Thomas produces 6 lures
+C) Tristan produces 6 lures and 3 mowed lawns
+D) Tristan produces 12 lures; Thomas produces 6 mowed lawns
+E) Tristan produces nothing, Thomas produces 6 lures and 6 mowed lawns
+Answer:  D
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Quantitative
+
+26) Refer to Table 1-1. Which of the following statements about Tristan's and Thomas's opportunity costs is correct?
+A) Tristan has a higher opportunity cost of producing mowed lawns.
+B) Thomas has a higher opportunity cost of producing mowed lawns.
+C) Tristan has a higher opportunity cost of producing fishing lures.
+D) Thomas has a higher opportunity cost of producing fishing lures.
+E) Both A and D are correct.
+Answer:  E
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Table
+User2:  Qualitative
+Madeleine allows herself $100 per month for purchasing coffee. The diagram below illustrates the choices available to her in each month.
+
+
+
+FIGURE 1-3
+
+27) Refer to Figure 1-3.  For Madeleine, the opportunity cost of one regular coffee is 
+A) 1/4 of a regular coffee.
+B) 20 lattes.
+C) 4 lattes.
+D) 1/4 of a latte.
+E) 80 lattes.
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+28) Refer to Figure 1-3.  For Madeleine, the opportunity cost of one latte is
+A) 1/4 of a regular coffee.
+B) 1/4 of a latte.
+C) 8 regular coffees.
+D) 80 regular coffees.
+E) 4 regular coffees.
+Answer:  E
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+29) Refer to Figure 1-3.  If Madeleine chooses to allocate all $100 to buying lattes, we can say that her opportunity cost in one month is 
+A) zero because she bought what she desired.
+B) zero because she stayed within her budget.
+C) 80 cups of regular coffee.
+D) 40 cups of regular coffee.
+E) 20 cups of regular coffee.
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+
+30) Refer to Figure 1-3.  Which of the following combinations of regular coffees and lattes is affordable over the one-month period, given Madeleine's budget?
+A) 15 lattes and 30 coffees
+B) 16 lattes and 16 coffees
+C) 8 lattes and 50 coffees
+D) 4 lattes and 66 coffees
+E) 20 lattes and 80 coffees
+Answer:  B
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Quantitative
+31) Refer to Figure 1-3. What is the price of a regular coffee in this example?
+A) $0.80
+B) $1.25
+C) $2.00
+D) $5.00
+E) $8.00
+Answer:  B
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+32) Refer to Figure 1-3. What is the price of a coffee latte in this example?
+A) $0.80
+B) $1.00
+C) $1.25
+D) $2.00
+E) $5.00
+Answer:  E
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+33) Suppose you own a courier service and you use two types of delivery vehicles - Model A, which costs $30 000 to purchase, and Model B, which costs $50 000 to purchase.  You have a budget of $300 000 for the purchase of new vehicles.  If you were to draw a budget line to illustrate the choice between Model A and Model B vehicles, with A on the vertical axis and B on the horizontal axis, the vertical intercept and the horizontal intercept, respectively, would be 
+A) 10 and 10.
+B) 6 and 6.
+C) 0 and 10.
+D) 0 and 0.
+E) 10 and 6.
+Answer:  E
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User2:  Quantitative
+34) Suppose you own a courier service and you use two types of delivery vehicles - Model A, which costs $30 000 to purchase, and Model B, which costs $50 000 to purchase.  You have a budget of $300 000 for the purchase of new vehicles. What is the opportunity cost of one Model A vehicle?
+A) 0
+B) 3/5 ths of a Model B vehicle
+C) 5/3rds of Model B vehicle
+D) 5 Model B vehicles
+E) 3 Model B vehicles
+Answer:  B
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User2:  Quantitative
+
+35) Suppose you own a courier service and you use two types of delivery vehicles - Model A, which costs $30 000 to purchase, and Model B, which costs $50 000 to purchase.  You have a budget of $300 000 for the purchase of new vehicles. What is the opportunity cost of one Model B vehicle?
+A) 0
+B) 3/5ths of a Model A vehicle
+C) 5/3rds of a Model A vehicle
+D) 5 Model A vehicles
+E) 3 Model A vehicles
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User2:  Quantitative
+
+36) Suppose you own a courier service and you use two types of delivery vehicles - Model A, which costs $30 000 to purchase, and Model B, which costs $50 000 to purchase.  You have a budget of $300 000 for the purchase of new vehicles. Which of the following statements best describes the shape of your budget line?
+A) The budget line is concave to the origin, indicating that the opportunity cost of each model of vehicle increases with each additional unit purchased.
+B) The budget line is convex to the origin, indicating that the opportunity cost of each vehicle decreases with each additional unit purchased.
+C) The budget line is a straight line, indicating that the opportunity cost of each vehicle decreases with each additional unit purchased.
+D) The budget line is a straight line, indicating that the opportunity cost of each model of vehicle is independent of how many are purchased.
+E) The budget line is a straight line, indicating that the opportunity cost of each vehicle increases with each additional unit purchased.
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User2:  Quantitative
+37) Scarcity arises from limited resources. For this reason, all economic choices involve
+A) a value judgement.
+B) an educated decision.
+C) an opportunity cost.
+D) complementary ends.
+E) greed.
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Recall
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+38) The opportunity cost of going to college or university for four years is
+A) equal to the wage rate a person will earn after graduation.
+B) the least valued alternative one forfeits to attend.
+C) the cost of tuition and books and four years of lost wages from employment.
+D) the cost of tuition, residence fees and books.
+E) zero.
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+39) Suppose there are only three alternatives to attending a "free" social event: read a novel (you value this at $10), go to work (you could earn $20), or watch videos with some friends (you value this at $25). The opportunity cost of attending the social event is
+A) $10.
+B) $20.
+C) $25.
+D) $45.
+E) $55.
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+40) The opportunity cost of producing good A is defined to be 
+A) the money cost of the factors of production used in good A.
+B) the retail price of good A.
+C) the cheapest method of producing good A.
+D) what must be sacrificed of other goods to get an additional unit of good A.
+E) the cost of having to get by using something else in place of good A.
+Answer:  D
+Diff: 1
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+41) Suppose that one unit of labour can produce either 5 units of wool or 2 pineapples. What is the opportunity cost of producing 1 pineapple?
+A) 5 units of wool
+B) 2 units of wool
+C) 2/5 unit of wool
+D) 5/2 units of wool
+E) zero
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+
+42) A small landscaping firm purchases a tractor that, in one day, is capable of drilling 60 fence-post holes or removing 12 tree stumps (or some intermediate combination). For this landscaper, what is the opportunity cost of removing one extra tree stump? 
+A) 1/12th of the cost of the tractor
+B) 1/5 of the cost of the tractor
+C) drilling 12 fence-post holes
+D) drilling 5 fence-post holes
+E) there is no opportunity cost
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+43) Suppose that a bakeshop with 5 employees can produce both pies and cakes. In one day, if all resources are devoted to baking pies, the shop can produce 125 pies; if all resources are devoted to baking cakes, the shop can produce 50. What is the shop's opportunity cost of producing any one cake? 
+A) 0.4 pies
+B) 0.25 pies
+C) 2.5 pies
+D) 0.4 cakes
+E) 2.5 cakes
+Answer:  C
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+
+44) Suppose that a bakeshop with 5 employees can produce both pies and cakes. In one day, if all resources are devoted to baking pies, the shop can produce 125 pies; if all resources are devoted to baking cakes, the shop can produce 50. What is the shop's opportunity cost of producing any one pie?
+A) 125 pies
+B) 0.4 cakes
+C) 2.5 pies
+D) 0.4 pies
+E) 50 cakes
+Answer:  B
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+
+45) Katie and Hugh are producing pies and jars of pickles. Katie can produce either 200 jars of pickles or 100 pies per month. Hugh can produce either 800 jars of pickles or 200 pies per month.  Which of the following statements is correct?
+A) Katie's opportunity cost of producing 1 jar of pickles is 2 pies.
+B) Katie's opportunity cost of producing 1 jar of pickles is 1/2 of a pie.
+C) Hugh's opportunity cost of producing 1 jar of pickles is 4 pies.
+D) Hugh's opportunity cost of producing 1 pie is 1/4 jar of pickles.
+E) Hugh's and Katie's opportunity costs of producing are the same.
+Answer:  B
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+46) Suppose Andrea has a job that pays her $25 000 per year (after taxes). She is considering quitting her job and going to university full time for four years. Tuition fees and books will cost $12 000 per year. Living expenses in either situation will cost $10 000 per year. What is the opportunity cost of Andrea's four-year university degree?
+A) $88 000
+B) $100 000
+C) $120 000
+D) $148 000
+E) $188 000
+Answer:  D
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+
+47) Suppose Amin has a job that pays him $87 000 per year (after taxes). He is considering taking an unpaid leave of absence from his job to complete a 12-month MBA program. Tuition is $75 000 and books and materials will cost $5000. Living expenses for the 12-month period will be cheaper by $500 per month, mostly due to lower apartment rental costs. What is the opportunity cost of Amin's 1-year MBA program?
+A) $75 000
+B) $76 000
+C) $161 000
+D) $167 000
+E) $175 000
+Answer:  C
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+User2:  Quantitative
+
+48) It has been observed that university enrollment in Canada is higher during periods of high unemployment. A possible explanation for this is that
+A) when prospects for getting a job are poor, the opportunity cost of getting a job is lower.
+B) when prospects for getting a job are poor, the opportunity cost of doing nothing is higher.
+C) during periods of high unemployment, tuition fees are reduced.
+D) during periods of high unemployment, the opportunity cost is no longer relevant.
+E) when prospects for getting a job are poor, the opportunity cost of going to university is lower.
+Answer:  E
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+49) Chantal has a full-time job as a geological engineer and earns an annual after-tax salary of $85 000. She decides to leave her job for 6 months to scuba dive on the Great Barrier Reef in Australia, and incurs costs of $7500 for course equipment and certification, $2500 for airfare, and $12 000 for regular living expenses in Australia (equal to her living expenses at home). What is Chantal's opportunity cost for this 6-month, unpaid leave of absence? 
+A) $12 000
+B) $22 000
+C) $42 000
+D) $52 500
+E) $65 000
+Answer:  D
+Diff: 3
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+
+50) During economic recessions, the opportunity cost of going to university ________ because the wages a student can expect to earn working in the best alternative ________. 
+A) increases; decrease
+B) decreases; increase
+C) increases; increase
+D) decreases; decrease
+E) remains the same; remain the same
+Answer:  D
+Diff: 2
+Topic:  1.1c. opportunity cost
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+51) A country's production possibilities boundary shows that 
+A) when a society combines its resources efficiently, it cannot produce more of one good without producing less of the other good.
+B) when a society combines its resources inefficiently, it cannot produce more of one good without producing less of the other good.
+C) when a society combines its resources efficiently, it is always possible to produce more of all goods.
+D) all points inside the boundary are preferred to all points on the boundary.
+E) the supply for goods always exceeds the demand.
+Answer:  A
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+52) Consider a production possibilities boundary showing the possible combinations of military goods and civilian goods that a country can produce. Suppose that the country is currently at a point on the boundary. If the production of military goods is increased, the production of civilian goods will necessarily
+A) decrease.
+B) remain the same.
+C) increase.
+D) increase at a decreasing rate.
+E) increase at a increasing rate.
+Answer:  A
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+53) A point lying inside the production possibilities boundary is one at which
+A) there is no scarcity.
+B) the opportunity cost of producing more output is negative.
+C) it is not possible to produce more output with existing resources.
+D) the economy has run out of resources.
+E) more output could be produced with existing resources.
+Answer:  E
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+54) If a country's production possibilities boundary is drawn as a straight (downward-sloping) line it indicates
+A) decreasing opportunity cost of producing more of either good.
+B) the use of the scarce resources in an economy.
+C) constant opportunity cost of producing more of either good.
+D) an unfair distribution of resources in an economy.
+E) increasing opportunity cost of producing more of either good.
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+The diagram below shows two production possibilities boundaries for Country X.
+
+
+
+FIGURE 1-4
+
+55) Refer to Figure 1-4. The production possibilities boundaries are drawn concave to the origin. What does this shape of the PPB demonstrate?
+A) the decreasing opportunity cost of producing more of either good
+B) the scarcity of resources in the economy
+C) the constant opportunity cost of producing more of either good
+D) the unfair distribution of resources in the economy
+E) the increasing opportunity cost of producing more of either good
+Answer:  E
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+56) Refer to Figure 1-4. If Country X, constrained by the production possibilities boundary PPB1, is producing the combination of goods indicated at point F, it can produce more consumer goods by moving to one of the points
+A) A or E.
+B) D or E.
+C) A, B, or C.
+D) A or B, but not C.
+E) A, B, C, D, or E.
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+57) Refer to Figure 1-4. If Country X is currently producing at point A, it could move to point B if
+A) the cost of producing capital goods were to increase.
+B) some resources were switched from the capital goods industries to the consumer goods industries.
+C) the cost of producing consumer goods were to increase.
+D) some resources were switched from the consumer goods industries to the capital goods industries.
+E) Country X is no longer able to produce the quantity of capital goods at point A.
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+58) Refer to Figure 1-4. If Country X were producing at point C,
+A) the opportunity cost of moving to point B is to give up some consumption goods.
+B) the opportunity cost of moving to point A is zero.
+C) the opportunity cost of moving to point A is to give up some capital goods.
+D) this is the maximum output possible from given resources.
+E) it is not possible to move to any point on PPB1 or PPB2 without technological progress.
+Answer:  B
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+59) Refer to Figure 1-4. At point B, 
+A) the price of capital goods is higher than the price of consumer goods.
+B) Country X is producing too many consumer goods and too few capital goods.
+C) the price of consumer goods is equal to the price of capital goods.
+D) the opportunity cost of producing an extra unit of capital goods is higher than at point A.
+E) the opportunity cost of producing an extra unit of consumer goods is higher than at point A.
+Answer:  E
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+60) Refer to Figure 1-4. If Country X, constrained by the production possibilities boundary PPB1, is currently producing at point A, it can produce more capital goods by moving to point
+A) F.
+B) E.
+C) D.
+D) C.
+E) B.
+Answer:  A
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+61) Refer to Figure 1-4.  Suppose that Country X is currently producing at point E. Country X could achieve production at point D if
+A) the given resources were fully employed.
+B) the given resources were more efficiently employed.
+C) sufficient improvements in technology occurred in either the capital goods industry or the consumer goods industries. 
+D) firms reduced output of capital goods.
+E) the prices of capital goods and consumption goods fell.
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+62) Refer to Figure 1-4. A shift of the production possibilities boundary from PPB1 to PPB2 implies
+A) a movement from full employment to some unemployment.
+B) that if point E is the new choice of outputs, productivity has increased in the consumer goods industry.
+C) that technology in the capital goods industries has improved.
+D) an inevitable decrease in total output.
+E) that technology in the consumer goods industry has improved.
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+63) Refer to Figure 1-4. Growth in the country's productive capacity is illustrated by 
+A) a point like D outside the boundary.
+B) a movement from a point inside the boundary such as C to the boundary.
+C) the movement between points on a given boundary.
+D) a single point such as A on the boundary.
+E) an outward shift of the boundary, for example from PPB1 to PPB2.
+Answer:  E
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+64) Refer to Figure 1-4. An outward shift of the production possibilities boundary from to  indicates which of the following?
+A) an increase in the price of raw materials for consumer goods
+B) growth in the country's productive capacity
+C) an increase in the price of raw material for capital goods
+D) more of the country's resources are being used 
+E) the country's resources are being used less efficiently
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User2:  Qualitative
+
+
+FIGURE 1-5
+
+65) Refer to Figure 1-5.  Suppose that the relevant production possibilities boundary is the one labelled B. This boundary implies that
+A) the concept of opportunity cost is not at work in this economy.
+B) the opportunity cost of producing either capital goods or consumer goods does not depend on how much of each good is produced.
+C) consumer goods are preferred to capital goods.
+D) in this society the resources are not efficiently employed.
+E) capital goods are preferred to consumer goods.
+Answer:  B
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+66) Refer to Figure 1-5.  Which production possibilities boundaries are consistent with increasing opportunity costs?
+A) boundary A only
+B) boundaries A and B
+C) boundary C only
+D) boundaries B and C
+E) boundaries A, B, and C
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+67) Refer to Figure 1-5.  Which production possibilities boundaries exhibit decreasing opportunity costs?
+A) boundary B only
+B) boundaries A and C
+C) boundaries A and B
+D) boundary A only
+E) boundary C only
+Answer:  D
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+68) If there is always a three-for-one trade-off between the production of goods X and Y, then the production possibilities boundary for X and Y is
+A) a downward-sloping curve convex to the origin.
+B) semi-circular.
+C) a downward-sloping straight line.
+D) a downward-sloping straight line that is broken at one point.
+E) a downward-sloping curve concave to the origin.
+Answer:  C
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Quantitative
+69) On a diagram of a production possibilities boundary, the concept of scarcity is illustrated by the
+A) points on the boundary.
+B) area within the boundary.
+C) distance from the origin to the boundary.
+D) negative slope of the boundary.
+E) unattainable points outside the boundary.
+Answer:  E
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+70) On a diagram of a production possibilities boundary, the concept of opportunity cost is illustrated by the
+A) distance from the origin to the boundary.
+B) negative slope of the boundary.
+C) boundary being concave to the origin.
+D) unattainable points outside the boundary.
+E) area bounded by the two axes and the boundary.
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+71) A straight-line production possibilities boundary differs from a concave boundary in which of the following ways?
+A) The straight-line boundary illustrates constant opportunity costs, whereas the concave boundary illustrates increasing opportunity costs.
+B) The concave boundary illustrates constant opportunity costs, whereas the straight-line boundary illustrates decreasing opportunity costs.
+C) The straight-line boundary does not show scarcity, whereas the concave boundary does.
+D) The straight-line boundary shows opportunity cost, whereas the concave boundary does not.
+E) A straight-line boundary is associated with a command economy, whereas a concave boundary is associated with a free-market economy.
+Answer:  A
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+72) Consider Canada's production possibilities boundary. Suppose a scientific breakthrough leads to a lower-cost method of producing battery-operated cars in Canada. The likely effect would be to move Canada's current production
+A) to a point beyond its new production possibilities boundary.
+B) to a point inside its new production possibilities boundary.
+C) possibilities boundary outward.
+D)  possibilities boundary inward.
+E) above the level of U.S. production.
+Answer:  C
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+73) Consider Canada's production possibilities boundary. Suppose fire destroys many millions of hectares of valuable Canadian forest. The effect on the Canadian economy would be best illustrated by ________ the production possibilities boundary.
+A) a movement inside
+B) a movement along
+C) a movement to a point beyond 
+D) a shift outward of
+E) an inward shift of
+Answer:  E
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+74) Consider Canada's production possibilities boundary. During the nineteenth and early twentieth centuries, millions of people immigrated to western Canada. The effect on the Canadian economy was to
+A) move it to a point beyond its new production possibilities boundary.
+B) move it inside its new production possibilities boundary.
+C) shift its production possibilities boundary inward.
+D) shift its production possibilities boundary outward.
+E) move it along an unchanged production possibilities boundary.
+Answer:  D
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+75) In recent years, several large Canadian-owned mining and resource companies have been sold to foreign owners. The immediate effect on Canada's production possibilities boundary is
+A) a shift outward.
+B) a shift inward.
+C) no change.
+D) a movement along.
+E) a movement to a point beyond the boundary.
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+76) The world price of oil fell in 2014-2015 from over $100 per barrel to less than $50. As a producer of oil, what effect did this change have on Canada's production possibilities boundary?
+A) a shift outward 
+B) a shift inward
+C) movement to a point beyond the boundary
+D) movement to a point within the boundary
+E) no change
+Answer:  E
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User2:  Qualitative
+
+77) A move from inside the production possibilities boundary to the boundary itself could be caused by
+A) the employment of previously idle resources.
+B) a reallocation of resources from military to civilian goods.
+C) technological progress.
+D) an increase in the labour supply.
+E) an improvement in the government's ability to control its spending.
+Answer:  A
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+78) Consider a production possibilities boundary showing the quantity of military goods and the quantity of civilian goods on the two axes. A movement along the production possibilities boundary could be caused by
+A) the employment of previously idle resources.
+B) the reallocation of resources between military and civilian goods.
+C) the growth of productive capacity.
+D) an increase in the labour supply.
+E) technological progress.
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+The downward-sloping line in the diagram below shows the combinations of health care and education expenditures that the government can afford with a given amount of tax revenue.
+
+
+
+FIGURE 1-6
+
+79) Refer to Figure 1-6. The levels of health and education expenditures at point C
+A) are less than at point D.
+B) are equal to those of point A and point B.
+C) are more cost-effective than those at points A, B, and D.
+D) could be achieved if the prices of health and/or education increased.
+E) are not attainable with the government's current budget.
+Answer:  E
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+80) Refer to Figure 1-6. If the government's spending on health and education is given by point B, a move to point A must involve
+A) less spending on health.
+B) zero opportunity cost.
+C) less spending on education.
+D) less spending in total.
+E) more spending on education.
+Answer:  C
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+81) Refer to Figure 1-6. Suppose the government's current spending is shown by point D. In this case,
+A) the government is not spending its total budget.
+B) more education expenditures can be achieved only by sacrificing some health expenditures.
+C) more health expenditures can be achieved only by sacrificing some education expenditures.
+D) the government should spend its total budget so as to get to point B, since more health spending and more education spending are both clearly desirable.
+E) the prices of education and health care have increased beyond the government's ability to pay.
+Answer:  A
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User1:  Graph
+User2:  Qualitative
+
+82) Consider the production possibilities boundary (PPB) of an economy.  Economic growth is illustrated by
+A) the negative slope of the PPB.
+B) an outward shift of the PPB.
+C) a movement onto the PPB.
+D) a movement along the PPB.
+E) the movement to a point outside of the PPB.
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+83) Suppose drought destroys many millions of acres of valuable Canadian farmland. The effect on the Canadian economy would be to move
+A) it along its production possibilities boundary.
+B) its production possibilities boundary inward.
+C) it beyond its production possibilities boundary.
+D) its production possibilities boundary outward.
+E) None of the above. There would be no change in Canada's production possibilities boundary.
+Answer:  B
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+
+84) Suppose there are only two goods produced in our economy—snowplows and helicopters. If there is always a two-for-one tradeoff between the production of these two goods (in terms of opportunity cost), then the production possibilities boundary between snowplows and helicopters is
+A) a downward-sloping curve convex to the origin.
+B) circular.
+C) a downward-sloping straight line.
+D) a downward-sloping straight line with slope equal to -1.
+E) a downward-sloping curve concave to the origin.
+Answer:  C
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+Learning Obj.:  1-1 Explain the importance of scarcity, choice, and opportunity cost, and how each is illustrated by the production possibilities boundary.
+User2:  Qualitative
+Figure 1-7 shows the production possibilities boundary for an economy that produces two goods -  cotton and bananas.
+
+
+
+FIGURE 1-7
+
+85) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year.  Suppose the economy is currently producing at point A.  What is the opportunity cost to this economy of increasing production of bananas by 100 tonnes?
+A) there is no opportunity cost
+B) 60 tonnes of cotton
+C) 100 tonnes of cotton
+D) 1440 tonnes of bananas
+E) 1500 tonnes of bananas
+Answer:  B
+Diff: 1
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+86) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year.  Suppose the economy is currently producing at point D. What is the opportunity cost of increasing production of bananas by 100 tonnes?
+A) 420 tonnes of cotton
+B) 100 tonnes of cotton
+C) there is no opportunity cost
+D) 60 tonnes of cotton
+E) 920 tonnes of cotton
+Answer:  E
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+87) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year. Suppose this economy is currently producing 1280 tonnes of cotton and 200 tonnes of bananas.  What is the opportunity cost of increasing production of bananas by 100 tonnes?
+A) 100 tonnes of cotton
+B) 360 tonnes of cotton
+C) 360 tonnes of bananas
+D) 920 tonnes of cotton
+E) there is no opportunity cost
+Answer:  B
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+88) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year. Suppose this economy moves from point D to point F, where it is then producing bananas exclusively.  Which of the following explanations best describes the opportunity cost involved in producing this extra 100 tonnes of bananas?
+A) The opportunity cost is very high in this case because resources that are probably much better suited to producing cotton are now being devoted to producing bananas.
+B) The opportunity cost is very low in this case because resources that are probably much better suited to producing cotton are now being devoted to producing bananas.
+C) The opportunity cost is very high in this case because resources that are probably much better suited to producing bananas are now being devoted to producing cotton.
+D) The opportunity cost is very low in this case because resources that are probably much better suited to producing bananas are now being devoted to producing cotton.
+E) The opportunity cost of producing the extra bananas is independent of the amount being produced.
+Answer:  A
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+89) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year.  If the economy moves from point C to point D, what is the opportunity cost of each extra tonne of bananas produced?
+A) 0.036 tonnes of cotton
+B) 0.36 tonnes of cotton
+C) 3.6 tonnes of cotton
+D) 36 tonnes of cotton
+E) 360 tonnes of cotton
+Answer:  C
+Diff: 3
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+90) Refer to Figure 1-7.  A production possibilities boundary is shown for an economy that produces two goods - cotton and bananas, both measured in tonnes produced per year. Which of the following statements best describes the difference in opportunity costs that this economy faces at point A compared to point E?
+A) The opportunity cost is 1500 tonnes of cotton at point A, compared to 500 tonnes at point E.
+B) The opportunity cost is 500 tonnes of cotton at point A, compared to 1500 tonnes at point E.
+C) The opportunity cost of producing an extra tonne of bananas is much higher at point A than at point E.
+D) The opportunity cost of producing an extra tonne of bananas is much lower at point A than at point E.
+E) The opportunity cost of producing an extra tonne of bananas is the same at point A as at point E.
+Answer:  D
+Diff: 2
+Topic:  1.1d. production possibilities boundary
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+1.2  The Complexity of Modern Economics
+
+1) A modern economy like Canada's is largely organized by
+A) governments at all levels coordinating the activities of firms and citizens.
+B) individuals forming cooperative enterprises and labour unions.
+C) individuals following their own self interest, doing what seems best for themselves.
+D) benevolent individuals pursuing the public interest.
+E) the self-interested behaviour of a small number of individuals.
+Answer:  C
+Diff: 2
+Topic:  1.2a. self-organizing economy
+Skill:  Recall
+Learning Obj.:  1-2 View the market economy as self-organizing in the sense that order emerges from a large number of decentralized decisions.
+User2:  Qualitative
+2) An insight first fully developed by Adam Smith is that
+A) without benevolence production would not occur.
+B) all individuals are motivated solely by self-interest.
+C) self-interest, not benevolence, is the foundation of economic order.
+D) self-interest undermines effective economic order.
+E) individual self-interest is the only necessary force for social order.
+Answer:  C
+Diff: 1
+Topic:  1.2a. self-organizing economy
+Skill:  Recall
+Learning Obj.:  1-2 View the market economy as self-organizing in the sense that order emerges from a large number of decentralized decisions.
+User2:  Qualitative
+
+3) In the Canadian economy, most decisions regarding resource allocation are made by
+A) consumers and producers interacting in the price system.
+B) the various levels of government.
+C) negotiation between unions and firms.
+D) business firms only.
+E) legal contract.
+Answer:  A
+Diff: 1
+Topic:  1.2a. self-organizing economy
+Skill:  Recall
+Learning Obj.:  1-2 View the market economy as self-organizing in the sense that order emerges from a large number of decentralized decisions.
+User2:  Qualitative
+
+4) The famous economist who first described the division of labour was
+A) Karl Marx.
+B) Milton Friedman.
+C) David Ricardo.
+D) John Maynard Keynes.
+E) Adam Smith.
+Answer:  E
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+5) Which of the following statements about specialization and trade are correct?
+A) They developed only in the twentieth century.
+B) They exist only in capitalist economies.
+C) They arose as humans changed from nomadic and self-sufficient food gatherers to settled food producers.
+D) They developed only where government and political institutions were stable.
+E) They occur only in the private sector.
+Answer:  C
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+6) If an economy exhibits the specialization of labour, we know that
+A) a barter economy is more suitable.
+B) most production is artisanal in nature.
+C) each worker is self-sufficient.
+D) job security is ensured.
+E) different individuals are producing different products.
+Answer:  E
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+7) Which of the following statements best describes a barter system of exchange?
+A) It involves the trading of goods directly for other goods.
+B) It requires the use of money.
+C) It does not involve the double coincidence of wants.
+D) It developed late in history.
+E) It is the most efficient form of exchange.
+Answer:  A
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+8) Specialization of labour led to greater efficiency in the allocation of resources because of
+A) greater reliance on self-sufficiency.
+B) the use of barter.
+C) the principle of comparative advantage.
+D) an increase in total work effort.
+E) the opportunity cost of labour increased.
+Answer:  C
+Diff: 2
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+9) A greater specialization of labour leads to which of the following major results? 
+A) the overall output of the economy declines
+B) there is an increased need for government to intervene in the marketplace
+C) the circular flow of income contracts
+D) there is a greater need for trade
+E) each worker must become more self-sufficient
+Answer:  D
+Diff: 2
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+10) A farmer selling tomatoes and corn at a roadside, and a currency trader in Hong Kong are each participating in
+A) barter.
+B) a market.
+C) an involuntary transaction.
+D) flexible manufacturing.
+E) international trade.
+Answer:  B
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Applied
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+11) Which of the following has most contributed to the globalization of the economy?
+A) the decreased importance of agriculture
+B) reductions in transportation and communication costs
+C) the shift toward a market economy in China
+D) tariffs and trade barriers
+E) the decline in the relative importance of manufacturing
+Answer:  B
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+12) Which of the following results from the introduction of money for use in transactions?
+A) exchange becomes easier and this promotes the specialization of labour
+B) an increased use of barter
+C) the specialization of labour becomes more difficult
+D) self-sufficiency is assured
+E) society is able to satisfy all wants
+Answer:  A
+Diff: 2
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+13) The barter system of exchange is inefficient because
+A) "fair" values cannot be defined without the use of money.
+B) bargaining power is unequal between rich and poor.
+C) the double coincidence of wants may not exist.
+D) markets do not exist.
+E) exchange partners need to know each other.
+Answer:  C
+Diff: 2
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Applied
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+14) Which of the point(s) below is (are) true of money?
+1) Money eliminated the need for barter.
+2) Money allowed for specialization of labour and expansion of trade.
+3) Money facilitated the development of a market economy.
+4) Trade did not take place before the introduction of money.
+A) only 1.
+B) only 1 and 2
+C) Only 1 and 4
+D) Only 1, 2, and 3.
+E) All of the points are true.
+Answer:  D
+Diff: 2
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+15) Money facilitates trade and specialization by
+A) allowing an efficient barter system to develop.
+B) increasing the value of gold.
+C) eliminating the need for barter.
+D) reducing the shift of resources between uses.
+E) providing employment for coin makers.
+Answer:  C
+Diff: 1
+Topic:  1.2c. division of labour, specialization and trade
+Skill:  Recall
+Learning Obj.:  1-3 Explain how specialization gives rise to the need for trade, and how trade is facilitated by money.
+User2:  Qualitative
+
+16) With reference to the circular flow of income, how is the allocation of resources largely decided?
+A) by central authorities only
+B) by central authorities and firms only
+C) by firms and households acting independently
+D) by political parties and firms only
+E) by individuals only
+Answer:  C
+Diff: 1
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+17) The key decision makers in a market economy are
+A) households, firms, and government.
+B) individual citizens, non-profit organizations, and the Bank of Canada.
+C) governments and all institutions under government control.
+D) large corporations and labour organizations.
+E) corporations and governments.
+Answer:  A
+Diff: 1
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+
+18) Economists usually assume that households and firms, respectively, maximize
+A) income and sales.
+B) savings and profits.
+C) wages and revenues.
+D) utility and profits.
+E) expenditures and profits.
+Answer:  D
+Diff: 2
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+
+19) In general, which of the following statements is an accurate description of economists' assumptions about households? Households
+A) make consistent decisions, maximize utility, and are the principal owners of the factors of production.
+B) do not make consistent decisions, maximize satisfaction, and are the principal owners of the factors of production.
+C) make consistent decisions, maximize profits, and are the principal users of the factors of production.
+D) do not make consistent decisions, maximize profits, and are the principal users of the factors of production.
+E) make consistent decisions, maximize savings, and are the principal users of the factors of production.
+Answer:  A
+Diff: 2
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+20) Which of the following is illustrated by the circular flow of income?
+A) the flows of expenditures and income in a household
+B) that firms own the factors of production
+C) the interaction of households and firms through the factors and goods markets
+D) that the flow of payments moves in the same direction as the flow of goods
+E) that there is no relationship between goods markets and factor markets
+Answer:  C
+Diff: 2
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+
+21) Which of the following represents a typical "real" flow (as opposed to a financial flow) in the circular flow of income?
+A) goods going from producers to consumers
+B) factor services going from producers to consumers
+C) goods going from consumers to producers
+D) money payments going from consumers to producers
+E) money payments going from producers to consumers
+Answer:  A
+Diff: 1
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Recall
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+
+22) If some income earned by households is not spent on output, or if some income earned by firms is not spent on factor services, the circular flow of income will
+A) stop.
+B) run over.
+C) expand.
+D) contract.
+E) explode.
+Answer:  D
+Diff: 2
+Topic:  1.2b. circular flow of income and expenditure
+Skill:  Applied
+Learning Obj.:  1-4 Identify the economy's decision makers and see how their actions create a circular flow of income and expenditure.
+User2:  Qualitative
+1.3  Is There an Alternative to the Market Economy?
+
+1) An economic system that relies primarily upon custom and habit in economic decision making is referred to as a
+A) market system.
+B) traditional system.
+C) command system.
+D) mixed system.
+E) communist system.
+Answer:  B
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+2) In practice, the term "centrally planned economy" refers to an economy in which
+A) the government makes ALL production and consumption decisions.
+B) the mix of market and command principles is heavily weighted towards the latter.
+C) all commodities are rationed.
+D) the military is in control of the government.
+E) economic decisions are made in the geographic centre of the country.
+Answer:  B
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+3) Karl Marx argued that
+A) centrally planned economies could provide a more equitable distribution of total output than capitalist economies.
+B) technological change was not important in improving living standards.
+C) a free-market system would produce a low level of total output.
+D) benevolence, not self-interest, produced an effective economic order.
+E) the unfettered market system driven by self-interest leads to the best social outcome.
+Answer:  A
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+4) When discussing types of economic systems the Canadian economy is best described as 
+A) primarily a public ownership economy.
+B) primarily free-market decision making.
+C) traditional.
+D) a command economy.
+E) a mixed economic system.
+Answer:  E
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Applied
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+5) With regard to various economic systems, most economists agree that
+A) the mix of market and command principles that exists in Canada is the best.
+B) the optimal mix of market and command systems remains constant over time.
+C) most production and consumption decisions are more efficiently coordinated by markets than through central planning.
+D) government intervention in the economy is only justified in time of war.
+E) command economies have been very successful in distributing income in socially just ways.
+Answer:  C
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+6) Which countries have mostly public ownership of resources?
+A) United States and Canada
+B) Cuba and North Korea
+C) France and Germany
+D) Sweden and Norway
+E) Brazil and Argentina
+Answer:  B
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+7) Behaviour in free-market economies is 
+A) determined by a central authority.
+B) based primarily on custom and habit.
+C) mostly directed by self interest.
+D) mostly affected by elements of tradition and government command.
+E) random and unpredictable.
+Answer:  C
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+8) In command economies, economic behaviour is 
+A) largely determined by a central authority.
+B) based primarily on custom and habit.
+C) directed by individual self interest.
+D) largely affected by elements of tradition and market incentives.
+E) random and unpredictable.
+Answer:  A
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+9) In mixed economies, economic behaviour is 
+A) largely determined by a central authority.
+B) based primarily on custom and habit.
+C) directed only by self interest.
+D) affected by elements of tradition, government command, and market incentives.
+E) random and unpredictable.
+Answer:  D
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+10) In traditional economies, economic behaviour is 
+A) largely determined by a central authority.
+B) based primarily on custom and habit.
+C) directed only by self interest.
+D) affected by elements of tradition, government command, and market incentives.
+E) random and unpredictable.
+Answer:  B
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+11) Complex economic plans for many economic sectors are most associated with a
+A) free-market system.
+B) mixed market system.
+C) command economy.
+D) feudal system.
+E) traditional economy.
+Answer:  C
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+12) Most modern economies in the world today 
+A) have pure market exchange.
+B) are similar to feudal systems.
+C) are mostly run by government decree.
+D) have a mix of traditional, command and market elements.
+E) are complex systems that defy description and analysis.
+Answer:  D
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+13) In the current Canadian economy, the majority of choices on how resources are allocated are made by
+A) consumers and firms through the price system.
+B) the various levels of government.
+C) negotiation between unions and firms.
+D) business firms only.
+E) legal contracts.
+Answer:  A
+Diff: 1
+Topic:  1.3. alternative economic systems
+Skill:  Applied
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+14) Comparison of economic systems indicates that
+A) most nations have either a purely socialist economy or a purely capitalist economy.
+B) most countries have mixed economies.
+C) socialist economies are clearly superior in producing consumer goods.
+D) capitalist economies are clearly superior in distributing income.
+E) all countries have largely traditional economies.
+Answer:  B
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+15) Many economies in central and Eastern Europe, including the countries of the former Soviet Union, are still in the process of moving from a command economy to a market economy. In the first years of this transition, most of these countries experienced sharp drops in output and reductions in living standards. Economists generally see this as
+A) the failure of the market system.
+B) the triumph of capitalism over communism.
+C) an indication of the extreme difficulty of transition from one type of economic system to another.
+D) an indication that these economies should return to being command economies.
+E) the difficulty of corruption in non-market economies.
+Answer:  C
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+16) In a pure market economy, the role of government is limited to provision of :
+i) a basic legal and institutional structure.
+ii) intervention in the allocation of resources in some areas of the economy.
+iii) redistribution of income.
+iv) stabilization of economic conditions generally.
+
+Which of the above points is true?
+A) Only i).
+B) Only i) and ii).
+C) Only i) and iv).
+D) Only i), ii), and iv).
+E) All of the points are provided by government in a pure market economy.
+Answer:  A
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+17) Income redistribution in a mixed economy
+A) is supported by all individuals.
+B) rarely occurs.
+C) is only accomplished through government intervention.
+D) risks reducing individual incentives to work and produce.
+E) is not allowed.
+Answer:  D
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+18) In a modern mixed economy the government ensures that key institutions are in place to facilitate voluntary transactions between economic agents.  These key institutions are
+A) labour and capital markets.
+B) the House of Commons and the Senate.
+C) the Department of Finance and the Bank of Canada.
+D) securities regulators and the court system.
+E) private property and freedom of contract.
+Answer:  E
+Diff: 2
+Topic:  1.3. alternative economic systems
+Skill:  Recall
+Learning Obj.:  1-5 Describe how all actual economies are mixed economies, having elements of free markets, tradition, and government intervention.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 51
+Copyright © 2017 Pearson Education, Inc.
+
+
+

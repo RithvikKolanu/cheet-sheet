@@ -1,0 +1,1618 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 16   Market Failures and Government Intervention
+
+16.1  Basic Functions of Government
+
+1) Which of the following roles of the government is most fundamental to a society's ability to function safely and carry on normal economic and social life?
+A) provider of health care
+B) provider of education
+C) provider of a justice system
+D) holder of a monopoly of violence
+E) regulator of free markets
+Answer:  D
+Diff: 1
+Topic:  16.1. basic functions of government
+Skill:  Recall
+Learning Obj.:  16-1 Discuss the importance of the government's "monopoly of violence."
+User2:  Qualitative
+
+2) The concept of "institution building" is becoming more prominent. Which of the following best describes the aim of institution building?
+A) In Canada, for example, the strengthening of existing financial institutions is key to the country's economic well-being.
+B) Canada's aid to developing countries is being focused on creating the economic institutions, such as a central bank, that are key to a country's economic growth.
+C) The rich, developed countries focus their assistance to developing countries on creating stable political infrastructures.
+D) The rich, developed countries focus on the success of institutions that are global in nature, such as the United Nations, The World Bank and the International Monetary Fund.
+Answer:  C
+Diff: 2
+Topic:  16.1. basic functions of government
+Skill:  Recall
+Learning Obj.:  16-1 Discuss the importance of the government's "monopoly of violence."
+User2:  Qualitative
+
+3) Which of the following statements about free-market economies is false? 
+A) An efficiently functioning market economy will correct temporary shortages and surpluses. 
+B) Markets tend to be impersonal and to decentralize economic power. 
+C) The government has a role to play in correcting market failures. 
+D) In a free-market economy there is no role for government intervention. 
+E) The existence of profits and losses provides signals to other economic agents. 
+Answer:  D
+Diff: 1
+Topic:  16.1. basic functions of government
+Skill:  Recall
+Learning Obj.:  16-1 Discuss the importance of the government's "monopoly of violence."
+User2:  Qualitative
+16.2  The Case for Free Markets
+
+1) The essential coordinating mechanism of a free-market economy is
+A) allocative efficiency.
+B) productive efficiency.
+C) profit maximization.
+D) the price system.
+E) opportunity cost.
+Answer:  D
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+2) The "formal defence" of free markets includes the argument that competitive markets
+A) lead to allocative efficiency.
+B) provide automatic coordination of the actions of decentralized decision makers.
+C) provide a stimulus to innovation and economic growth because of the pursuit of profits.
+D) permit a decentralization of economic power.
+E) lead to political freedom.
+Answer:  A
+Diff: 2
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+3) The "informal defence" of free markets includes the argument that markets
+A) provide automatic coordination of the actions of decentralized decision makers.
+B) achieve the maximum feasible rate of economic growth.
+C) lead to allocative efficiency.
+D) permit a centralization of economic power.
+E) lead to productive efficiency.
+Answer:  A
+Diff: 2
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+4) The "informal defence" of free markets includes the argument that competitive markets
+1) lead to allocative efficiency;
+2) provide automatic coordination of the actions of decentralized decision makers;
+3) provide a stimulus to innovation and economic growth because of the pursuit of profits.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  E
+Diff: 2
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+5) Which of the following statements about market economies is true?
+A) Most present-day economists advocate extensive government intervention in most parts of market economies.
+B) Externalities make free-market outcomes socially efficient.
+C) An important characteristic of the market system is its ability to set in motion forces that tend to correct disequilibrium.
+D) Market failure means that a market economy is incapable of satisfying human wants.
+E) Pure market economies provide the best social outcome.
+Answer:  C
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+6) In a competitive market economy with no externalities, allocative efficiency would exist if 
+A) prices equal total cost in all markets.
+B) prices equal marginal revenue in all markets.
+C) prices equal marginal costs in all markets.
+D) prices equal average variable cost in all markets.
+E) stringent government intervention exists. 
+Answer:  C
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+7) Economic losses in an industry are a signal that
+A) too few resources are allocated to the industry.
+B) all of the firms should leave the industry.
+C) a government subsidy is necessary.
+D) will lead resources to leave the industry (until the losses disappear).
+E) the economy is in a recession.
+Answer:  D
+Diff: 2
+Topic:  16.2. the case for free markets
+Skill:  Applied
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+8) If typical firms in a competitive industry are earning economic profits, the industry
+A) is in a long-run equilibrium.
+B) has too many resources allocated to it.
+C) must be experiencing an increase in monopoly power.
+D) can be expected to experience the entry of new firms.
+E) is allocatively efficient.
+Answer:  D
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+9) Which of the following statements about the price system is most accurate? The price system
+A) is automatic and functions perfectly in reallocating economic resources.
+B) is automatic, although it does not function perfectly.
+C) depends on planned coordination between firms and governments.
+D) operates only in a laissez-faire economy.
+E) is the only feasible method of allocating resources.
+Answer:  B
+Diff: 2
+Topic:  16.2. the case for free markets
+Skill:  Applied
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+10) Economists describe prices as "signals" in a market economy because
+A) prices are the only mechanism through which supply and demand will balance.
+B) changes in these signals bring about changes in economic behaviour.
+C) changes in these signals bring about changes in market structure.
+D) they tell consumers how to act to keep the market system functioning well.
+E) they tell government agents how to act to keep the market system functioning well.
+Answer:  B
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Applied
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+11) One part of the "informal defence" of the market system is the argument, made forcefully by the late Milton Friedman, that free markets provide for the
+A) greatest equality in income distribution.
+B) decentralization of economic power.
+C) greatest security for members of society.
+D) government with the highest tax revenues.
+E) greatest scope for international trade.
+Answer:  B
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+12) Profit-motivated product and process innovation is primarily a characteristic of ________ systems.
+A) market
+B) centrally planned
+C) oligopolistic
+D) socialist
+E) monopolistic
+Answer:  A
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+13) In a free-market economy, 
+A) temporary shortages and surpluses become permanent.
+B) economic power is centralized.
+C) market failures are automatically corrected.
+D) there is no role for government intervention.
+E) the existence of profits and losses provide signals to other economic agents.
+Answer:  E
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+14) When prices are determined in a free-market system 
+A) changes in the economy can be foreseen by officials.
+B) resources are allocated without conscious central coordination.
+C) firms respond to changes in the economy mainly by altering the wage rate.
+D) demand shifts, caused by price changes, coordinate all necessary changes in the economy.
+E) supply shifts, caused by price changes, coordinate all necessary changes in the economy. 
+Answer:  B
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+15) In a free-market economy that is continually adjusting toward equilibrium, a primary force driving this adjustment is 
+A) opportunity costs. 
+B) diminishing returns. 
+C) the pursuit of allocative efficiency. 
+D) the scarcity of resources. 
+E) the pursuit of profits. 
+Answer:  E
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+16) In a free-market system, a disequilibrium in one market
+A) provides evidence that the market system does not work.
+B) shows that government intervention is always necessary to restore the market to equilibrium.
+C) suggests that no seller or buyer has an incentive to alter his or her behaviour.
+D) produces forces that eventually bring that market back to equilibrium.
+E) means that the economy will fall into chaos.
+Answer:  D
+Diff: 1
+Topic:  16.2. the case for free markets
+Skill:  Recall
+Learning Obj.:  16-2 Describe the "informal" defence of free markets.
+User2:  Qualitative
+
+16.3  Market Failures
+
+1) Economists use the term "market failure" to refer to those free-market situations where 
+A) income is not distributed equitably.
+B) allocatively efficient outcomes are not achieved. 
+C) externalities are present in the economy. 
+D) the economy is not in equilibrium. 
+E) government has intervened in the economy. 
+Answer:  B
+Diff: 1
+Topic:  16.3a. market failure
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+2) A free-market economy with perfect allocative efficiency does not exist in reality because 
+A) government intervention in the economy prevents the economic forces that would eventually bring the market to an allocatively efficient outcome.
+B) the assumption of profit-maximization is not a realistic assumption about the behaviour of firms.
+C) the assumption of utility maximization is not a realistic assumption about the behaviour of consumers.
+D) firms in many industries have some degree of market power and face negatively sloped demand curves, and produce a level of output where P > MC.
+E) the decentralization of economic power in a free-market economy does not allow for allocative efficiency.
+Answer:  D
+Diff: 2
+Topic:  16.3a. market failure
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+3) What is meant by the term "market failure"?
+A) that a small group in society is affected
+B) that allocative efficiency has not been achieved
+C) that the market economy is a failure
+D) that one or more markets are not in equilibrium
+E) that the free market has failed to achieve desirable social goals
+Answer:  B
+Diff: 1
+Topic:  16.3a. market failure
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+4) The existence of imperfectly competitive firms implies a market failure because
+A) they do not produce a productively efficient level of output.
+B) their market power allows them to deceive consumers.
+C) they lead to a socially undesirable distribution of income.
+D) there is no way to prevent these firms from abusing their market power.
+E) those firms will maximize profits by setting price above marginal cost.
+Answer:  E
+Diff: 2
+Topic:  16.3a. market failure
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+5) Government intervention in an effort to promote allocative efficiency in all industries would likely impose a cost in terms of economic growth. One explanation for this is that
+A) some policies to promote allocative efficiency will lead to increased income inequality.
+B) some policies to promote allocative efficiency will lead to decreased income inequality.
+C) correcting externalities inevitably reduces the economy's growth rate.
+D) firms in perfectly competitive industries that are already allocatively efficient would also be affected by the intervention and become inefficient.
+E) much of the innovation and productivity growth that leads to economic growth comes from oligopolistic firms.
+Answer:  E
+Diff: 3
+Topic:  16.3a. market failure
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+6) Which of the following phenomena is NOT an example of market failure? 
+A) moral hazard
+B) a positive externality
+C) asymmetric information
+D) diminishing marginal returns
+E) public goods
+Answer:  D
+Diff: 1
+Topic:  16.3a. market failure
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+7) Government intervention in a particular industry is unnecessary if each of the industry's firms is operating where
+A) there are no positive externalities.
+B) there are no negative externalities.
+C) price is equal to private marginal cost.
+D) marginal social benefit is equal to marginal social cost.
+E) the demand curve is perfectly elastic.
+Answer:  D
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+8) The problem with externalities is essentially one of 
+A) a discrepancy between private and social costs.
+B) asymmetric information.
+C) the inability of a firm in an industry characterized by increasing returns to scale to make positive profits if it sets price equal to marginal cost.
+D) a failure of the market to generate socially valued outcomes.
+E) the failure of the market to solve social problems.
+Answer:  A
+Diff: 1
+Topic:  16.3b. externalities
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+9) A plausible example of market failure due to an externality is
+A) the cost of building new highways outside of major cities.
+B) the despoiling of rivers and lakes by nitrogen run-off from agricultural fertilizers.
+C) the high salaries enjoyed by professional athletes.
+D) the line-ups at the theatre when a good movie is playing.
+E) a farmer with an apple orchard who also keeps bees.
+Answer:  B
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+10) A homeowner decides to buy three large dogs that sleep outdoors and howl at the moon. An externality associated with this decision is
+A) the increased work for the homeowner in yard cleanup.
+B) the cost of purchasing the dogs.
+C) the neighbours' lost sleep.
+D) the homeowner's lost sleep.
+E) the veterinary costs of keeping the dogs healthy.
+Answer:  C
+Diff: 1
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+11) Consider an industry producing good X. The quantity of good X produced in a competitive free market will be greater than the socially optimal level if
+A) the production of good X generates a positive externality. 
+B) the consumption of good X generates a positive externality. 
+C) the production of good X generates a negative externality. 
+D) the government has imposed a tax on the production of good X. 
+E) good X is a public good. 
+Answer:  C
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+12) Consider an industry producing good X. The quantity of good X produced in a competitive free market will be less than the socially optimal level if
+A) the consumption of good X generates a negative externality. 
+B) the consumption of good X generates a positive externality. 
+C) the production of good X generates a negative externality. 
+D) the government is subsidizing the production of good X. 
+E) good X has negative third party effects associated with its consumption. 
+Answer:  B
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+
+FIGURE 16-1
+
+13) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC1 and MB0, respectively, then there exists
+A) a negative external benefit.
+B) a negative external cost.
+C) a positive external benefit.
+D) a positive external cost.
+E) no externalities at all.
+Answer:  B
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 16-1. Suppose the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC0 and MB0, respectively, then there exists
+A) a negative external benefit.
+B) a negative external cost.
+C) a positive external benefit.
+D) a positive external cost.
+E) no externality whatsoever.
+Answer:  E
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC0 and MB1, respectively, then there exists
+A) an external benefit.
+B) an external cost.
+C) an external benefit and an external cost.
+D) a social cost that exceeds the private cost.
+E) no external benefits or costs.
+Answer:  A
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+16) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC0 and MB0, respectively, then
+A) the competitive price is too high.
+B) the competitive price is too low.
+C) the competitive quantity is too high.
+D) the competitive quantity is too low.
+E) the competitive price and quantity are consistent with allocative efficiency.
+Answer:  E
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+17) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC2 and MB0, respectively, then the competitive equilibrium quantity is 
+A) too low for allocative efficiency.
+B) too high for allocative efficiency.
+C) consistent with allocative efficiency.
+D) not enough information to determine allocative efficiency.
+Answer:  A
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+18) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC0 and MB1, respectively, then the competitive equilibrium quantity is 
+A) too low for allocative efficiency.
+B) too high for allocative efficiency.
+C) consistent with allocative efficiency.
+D) not enough information to determine allocative efficiency.
+Answer:  A
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+19) Refer to Figure 16-1. Suppose that the perfectly competitive market with no government intervention achieves equilibrium at point A. If the social marginal costs and social marginal benefits are represented by MC1 and MB0, respectively, then the competitive equilibrium quantity is 
+A) too low for allocative efficiency.
+B) too high for allocative efficiency.
+C) consistent with allocative efficiency.
+D) not enough information to determine allocative efficiency.
+Answer:  B
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+20) For a production process that involves a positive externality, it is true that
+A) a per unit tax could be imposed on the producer to achieve the socially optimal level of production.
+B) marginal social benefit is less than marginal private benefit.
+C) marginal social cost is more than marginal private cost.
+D) without government intervention the market will produce too much of this good.
+E) a subsidy to producers could increase production to the socially optimal level.
+Answer:  E
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+21) If a firm produces a good and its consumption generates external benefits, then at the competitive market equilibrium
+A) the government could subsidize the production of this good to improve efficiency.
+B) the marginal private benefit is greater than the marginal cost of producing the last unit.
+C) the output would be more than the socially optimal amount.
+D) the firm will not produce an additional amount if it can internalize the external benefits.
+E) the marginal social benefit is less than the marginal cost of producing the last unit.
+Answer:  A
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+The diagram below shows demand and supply curves for some perfectly competitive market.
+
+
+
+FIGURE 16-2
+
+22) Refer to Figure 16-2. Suppose that the marginal benefit curve (MB) includes all social benefits and that there are no externalities in production. In this case, ________ for allocative efficiency.
+A) P1 and Q1 are appropriate
+B) the price P1 is appropriate but the quantity Q1 is too low
+C) the price P1 is appropriate but the quantity Q1 is too high
+D) the price P1 is too low but the quantity Q1 is appropriate
+E) the price P1 is too high but the quantity Q1 is appropriate
+Answer:  A
+Diff: 1
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+23) Refer to Figure 16-2. Suppose that the marginal benefit curve (MB) includes all social benefits and that there is a negative externality in production. In this case, ________ for allocative efficiency.
+A) P1 and Q1 are appropriate
+B) the price P1 is appropriate but the quantity Q1 is too low
+C) the price P1 is appropriate but the quantity Q1 is too high
+D) the price P1 is too low and the quantity Q1 is too high
+E) the price P1 is too high and the quantity Q1 is too low
+Answer:  D
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+24) Refer to Figure 16-2. Suppose that the marginal benefit curve (MB) includes all social benefits and that there is a positive externality in production. In this case, ________ for allocative efficiency.
+A) P1 and Q1 are appropriate
+B) the price P1 is appropriate but the quantity Q1 is too low
+C) the price P1 is appropriate but the quantity Q1 is too high
+D) the price P1 is too low and the quantity Q1 is too high
+E) the price P1 is too high and the quantity Q1 is too low
+Answer:  E
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+25) Consider a product (say, tulip bulbs) that generates positive externalities when it is consumed (other people enjoy looking at them). In this case,
+A) the government could tax the production of this good to improve efficiency.
+B) at market equilibrium, the marginal social benefit is less than the marginal cost of producing the last unit.
+C) at the market equilibrium, the output would be greater than the socially optimal amount.
+D) too few tulips will be produced and consumed unless external benefits are internalized.
+E) at the market equilibrium, the price is too high to be allocatively efficient.
+Answer:  D
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+26) If a homeowner uses wood to heat his house, 
+A) he may generate an external cost if the smoke bothers his neighbours.
+B) the price of the wood represents an external cost to the homeowner.
+C) the price of the wood represents an external cost to the homeowner, unless he harvests the wood himself.
+D) he may generate an external benefit if the smoke bothers his neighbours.
+E) he may generate an external benefit if the price of heating oil goes down in his region.
+Answer:  A
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+27) A flu vaccine has an associated ________ externality. In the absence of government intervention, the quantity of flu vaccines purchased will be ________ the socially optimal quantity.
+A) positive; the same as
+B) negative; the same as
+C) negative; less than
+D) positive; less than
+E) positive; more than
+Answer:  D
+Diff: 2
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+The diagram below shows the supply and demand diagrams for the competitive market for honey in one region.  MC0 represents private marginal cost and MB0 represents private marginal benefit.
+
+
+FIGURE 16-3
+
+28) Refer to Figure 16-3. Assume there are two types of firms in this region - beekeepers that produce honey and orchard keepers that produce peaches. The bees provide a benefit to the orchard keepers by pollinating their peach trees. In the absence of any government intervention, the equilibrium price and quantity in the honey market are
+A) $5 and 60 kg.
+B) $5 and 100 kg.
+C) $7 and 80 kg.
+D) $9 and 60 kg.
+E) $11 and 80 kg.
+Answer:  C
+Diff: 1
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+29) Refer to Figure 16-3. Assume there are two types of firms in this region - beekeepers that produce honey and orchard keepers that produce peaches. The bees provide a benefit to the orchard keepers by pollinating their peach trees. We can say that there is a ________ externality in the production of honey. The curve ________ represents the ________ marginal benefit of honey.
+A) positive; MB1; social
+B) negative; MB1; private 
+C) negative; MB2; social
+D) positive; MB2; social
+E) positive; MB2; private
+Answer:  D
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Qualitative
+
+30) Refer to Figure 16-3. Assume there are two types of firms in this region - beekeepers that produce honey and orchard keepers that produce peaches. The bees provide a benefit to the orchard keepers by pollinating their peach trees. If the government subsidizes the beekeepers so as to fully internalize the externality, the equilibrium price of honey would be ________ and the allocatively efficient output would be ________.
+A) 3; 80
+B) 5; 100
+C) 7; 100
+D) 9; 60
+E) 11; 80
+Answer:  B
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+
+31) Refer to Figure 16-3. Assume there are two types of firms in this region - beekeepers that produce honey and orchard keepers that produce peaches. The bees provide a benefit to the orchard keepers by pollinating their peach trees. If MB2 represents the social marginal benefit of honey, the external benefit associated with producing one unit of honey is 
+A) $1.
+B) $2.
+C) $3.
+D) $4.
+E) $5.
+Answer:  D
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+32) Refer to Figure 16-3. Assume there are two types of firms in this region - beekeepers that produce honey and orchard keepers that produce peaches. The bees provide a benefit to the orchard keepers by pollinating their peach trees. If the external marginal benefit is $4 per unit of honey, then what is the allocatively efficient output?
+A) 40 kg
+B) 60 kg
+C) 80 kg
+D) 100 kg
+E) 120 kg
+Answer:  D
+Diff: 3
+Topic:  16.3b. externalities
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User1:  Graph
+User2:  Quantitative
+
+33) An example of a common-property resource is 
+A) a congested toll highway.
+B) a national park with an entrance fee.
+C) privately owned ranch land.
+D) an unregulated sport-fishing river in BC.
+E) privately owned cattle grazing land in Alberta.
+Answer:  D
+Diff: 1
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+34) Which of the following best describes the reason for over fishing in Canadian offshore fisheries?
+A) Fishing has depleted fish stocks leading to smaller catches.
+B) The private marginal cost incurred by current fishermen is less than the social marginal cost.
+C) The private marginal cost incurred by future generations of fishermen is greater than the private marginal cost incurred by current fishermen.
+D) The Canadian government encourages foreign fishing within the Canadian offshore boundary.
+E) None of the above can explain overfishing.
+Answer:  B
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+35) An example of a rivalrous good is
+A) toxic emissions from a factory smokestack. 
+B) an empty toll highway.
+C) an uncrowded beach.
+D) a visit to the dentist.
+E) the weather forecast.
+Answer:  D
+Diff: 1
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+36) Consider an ordinary rivalrous good, provided in a competitive market. At the socially optimal level of provision of this good, the marginal
+A) cost of production of this good is zero.
+B) cost of production of the last unit of the good is equal to the consumers' marginal willingness to pay.
+C) sacrifice society needs to make to supply the last unit of the good is more than each consumer's marginal willingness to pay.
+D) cost of production of the last unit of the good is more than all consumers' combined marginal willingness to pay.
+E) cost of production of the last unit of the good is equal to all consumers' combined marginal willingness to pay.
+Answer:  B
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+37) Consider a non-rivalrous good, like national defence, provided by the government. At the socially optimal level of provision of this good, the marginal
+A) cost of production of this good is zero.
+B) cost of production of the last unit of the good is equal to the consumers' marginal willingness to pay.
+C) sacrifice society needs to make to supply the last unit of the good is more than each consumer's marginal willingness to pay.
+D) cost of production of the last unit of the good is more than all consumers' combined marginal willingness to pay.
+E) cost of production of the last unit of the good is equal to all consumers' combined marginal willingness to pay.
+Answer:  E
+Diff: 3
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+38) The price charged for access to an uncongested, excludable, non-rivalrous good should be ________ because ________.
+A) positive; consumers receive a positive marginal benefit from consuming the good
+B) positive; marginal cost and marginal benefit for this good are both positive
+C) positive; more than one person can consume this good at the same time
+D) zero; it is inefficient to exclude people from consuming this good once it has been supplied
+E) zero; the marginal benefit of the last unit consumed is zero
+Answer:  D
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+39) Which of the following best explains why it is sometimes efficient to charge a positive price for the use of some products such as museums, beaches, and roads?
+A) Since these products are non-excludable, it is sometimes efficient to charge a positive price.
+B) Once these products become congested they become rivalrous, marginal cost is positive, and a positive price is then efficient.
+C) Each person consuming the product has a positive marginal benefit and should therefore pay a positive price.
+D) Since these products are excludable, marginal cost is always positive, and a positive price is appropriate.
+E) Since these products are excludable and non-rivalrous, it is always efficient to charge a positive price. 
+Answer:  B
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+40) Why might it be economically efficient to offer access to an uncongested art gallery or museum at a price of zero? 
+A) because they are non-rivalrous and non-excludable and therefore should be provided at a price of zero
+B) because the marginal benefit received by the visitor is zero, and marginal benefits and marginal cost should be equal 
+C) because the marginal cost of providing access to one more visitor is zero, while the visitor has a positive marginal benefit
+D) because it is good for society if more people visit art galleries and museums
+E) because they are public goods, which would not be provided by the free market
+Answer:  C
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+41) Economists consider a product such as a university education to be ________, whereas a product such as your local library is generally considered to be ________.
+A) non-rivalrous and non-excludable; rivalrous and non-excludable
+B) rivalrous and non-excludable; rivalrous and excludable
+C) rivalrous and excludable; non-rivalrous and excludable
+D) rivalrous and excludable; rivalrous and non-excludable
+E) non-rivalrous and excludable; non-rivalrous and excludable
+Answer:  C
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+42) Common-property fishing grounds are
+A) often underexploited because non-excludability means there is little investment in the resource.
+B) always efficiently exploited because fishermen now understand the dangers of over-fishing.
+C) often overexploited because individual fishermen have no incentive to leave fish for the "next" fisherman.
+D) often overexploited because fishing grounds are rivalrous and excludable.
+E) often overexploited because fishermen are concerned with preserving fish stocks for future fishermen.
+Answer:  C
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+43) Consider a remote village with a limited, freely available water supply and no government intervention in the allocation of water. In this case, each individual has an incentive to use water until their 
+A) private marginal benefit is zero.
+B) private marginal cost is zero.
+C) social marginal benefit is maximized.
+D) social marginal cost is minimized.
+E) private and social marginal costs are equal. 
+Answer:  A
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+44) Consider a remote village with a limited, freely available water supply and no government intervention in the allocation of water. Economic theory predicts that the water will be
+A) allocated efficiently because users will tend to use the water until marginal cost and marginal benefit are both equal to zero. 
+B) overexploited because users will tend to use the water until the marginal cost of providing the water is zero. 
+C) allocated efficiently because users will tend to use the water until the supply and demand are in equilibrium. 
+D) overexploited because users will tend to use the water until their marginal benefit is zero. 
+E) allocated efficiently because users will tend to use the water as though it were a public good. 
+Answer:  D
+Diff: 3
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+45) Consider a remote village with a limited, freely available water supply and no government intervention in the allocation of water. In economics, the resulting outcome of a situation such as this is often referred to as 
+A) the Coase theorem.
+B) the tragedy of the commons.
+C) moral hazard. 
+D) adverse selection. 
+E) asymmetric information.
+Answer:  B
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Applied
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+46) Which of the following are characteristics of a common-property resource?
+A) rivalrous and excludable
+B) non-rivalrous and non-excludable
+C) non-rivalrous and excludable
+D) rivalrous and non-excludable
+Answer:  D
+Diff: 1
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+47) If you consume some good, and by doing so you diminish other people's possible use of that good, we say that the good is
+A) rivalrous.
+B) excludable. 
+C) a common resource. 
+D) not productively efficient. 
+E) a public good. 
+Answer:  A
+Diff: 2
+Topic:  16.3c. rivalry and excludability of goods
+Skill:  Recall
+Learning Obj.:  16-3 Explain why externalities lead to allocative inefficiency.
+User2:  Qualitative
+
+48) In economics, the term "public good" refers to a product 
+A) that only private producers will provide.
+B) which consumers cannot be excluded from using.
+C) that is produced by a publicly owned corporation.
+D) that is widely advertised.
+E) that has a very low marginal cost of production.
+Answer:  B
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+49) A public good is a product that is
+A) produced by the government.
+B) excludable but nonrivalrous.
+C) nonexcludable and nonrivalrous.
+D) rivalrous but nonexcludable.
+E) excludable and rivalrous.
+Answer:  C
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+50) A good example of a product that is both nonexcludable and nonrivalrous is 
+A) grazing land.
+B) public information.
+C) electricity.
+D) food.
+E) natural gas.
+Answer:  B
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+51) How might a government intervene in a market to prevent the overuse of a common-property resource, such as an ocean fishery?
+A) subsidies to the consumers of fish
+B) reducing the marginal social cost such that marginal social cost equals marginal social benefit, thereby establishing allocative efficiency
+C) subsidies to the firms catching the fish
+D) a system of licences and quotas for fishers
+E) encouraging the use of larger, more efficient trawlers to reduce the marginal private cost to fishers
+Answer:  D
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+User2:  Qualitative
+
+52) Under what circumstances would it be efficient to charge a positive price for drivers to cross the Champlain Bridge in Montreal or the Lion's Gate Bridge in Vancouver?
+A) when it is possible to exclude drivers from the bridge
+B) when it is not possible to exclude drivers from the bridge
+C) when the sum of marginal benefits to all drivers is positive
+D) when the marginal private benefit to the last driver is greater than the marginal private cost to that driver
+E) when congestion on the bridge means that the marginal cost of providing access to one more driver is positive
+Answer:  E
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+User2:  Qualitative
+
+53) Why are goods that are non-rivalrous and excludable (such as an uncrowded library or art gallery) often provided by the government?
+A) Because when these goods are used beyond capacity, they would not be provided by private firms.
+B) The marginal cost to society of providing access to one more user is zero, so it is allocatively efficient to provide this good at a price of zero.
+C) Because the government can provide these goods with fewer resources, so it is productively efficient.
+D) The marginal private benefit to the last user is greater than the marginal private cost.
+E) The marginal benefit to society of providing access to one more user is zero, so it is allocatively efficient to provide this good at a price of zero.
+Answer:  B
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+User2:  Qualitative
+54) Which of the following statements about public goods is true?
+A) They cannot be publicly provided.
+B) They are unlikely to be provided by private, profit-seeking firms.
+C) They are essentially negative externalities.
+D) They respond to market signals.
+E) The firms producing them must be listed on a public stock exchange.
+Answer:  B
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+55) Which of the following is the best example of a public good?
+A) a municipal swimming pool
+B) a seat on an airplane flight
+C) light from a lighthouse
+D) a school bus
+E) a publicly owned subway system
+Answer:  C
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+56) An example of a public good is
+A) apples on a tree in a public park.
+B) insurance.
+C) street lighting.
+D) air travel.
+E) municipal transit service.
+Answer:  C
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+57) One reason that national defence is a classic example of a public good is that
+A) all citizens want national defence.
+B) society deems it to be too important to be provided by the private sector.
+C) the benefits of national defence cannot be kept from those who do not pay.
+D) military technology is too expensive for private firms to provide.
+E) it would be immoral for private firms to provide this essential commodity.
+Answer:  C
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+58) One reason that national defence is a classic example of a public good is that
+A) all citizens want national defence.
+B) society deems it to be too important to be provided by the private sector.
+C) the benefits that accrue to one person do not diminish the benefits available to others.
+D) military technology is too expensive for private firms to provide.
+E) it would be immoral for private firms to provide this essential commodity.
+Answer:  C
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+59) An efficient amount of a public good is unlikely to be produced in a free market because	
+A) there is no way to prevent a person who is not willing to pay for the good from receiving benefits from the good.
+B) of the high cost of producing the public good.
+C) social benefits exceed social costs.
+D) of the existence of moral hazard.
+E) of the existence of adverse selection.
+Answer:  A
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+60) Private markets will always provide too few public goods because
+A) the private marginal cost is less than the social marginal cost.
+B) it is unlawful for private firms to provide public goods.
+C) of the negative externalities associated with these goods.
+D) private markets will never provide goods at a price of zero, which is the efficient price. 
+E) private markets will never provide goods that they know the government could provide.
+Answer:  D
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+61) An efficient level of provision of a public good is achieved when 
+A) the cost of providing an extra unit of the good is equal to the valuation of each consumer of the extra unit.
+B) the cost of providing an extra unit of the good is equal to the sum of the valuations of all consumers for that unit.
+C) the cost of providing an extra unit of the good is equal to the price of the good.
+D) the valuation of each consumer for the last unit of the good produced is zero.
+E) voters are satisfied that an adequate amount of the good is being produced.
+Answer:  B
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+62) The fact that it is difficult to prevent people from using public goods once they are produced, even if they have not paid, is known as
+A) the easy-rider problem.
+B) the over-consumption problem.
+C) moral hazard.
+D) the free-rider problem.
+E) adverse selection.
+Answer:  D
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+63) Consider a childhood vaccination program that is fully effective if all children are vaccinated. Now suppose that all children except one are vaccinated — and as a result that one child will not contract the disease. In economics, we can compare this situation to
+A) moral hazard. 
+B) adverse selection. 
+C) the free-rider problem. 
+D) asymmetric information. 
+E) common property problem. 
+Answer:  C
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+64) Which of the following is the best description of a "free rider"? Someone who
+A) pays for a good but does not receive any benefit from the good. 
+B) receives the benefit of a good without having to pay for it. 
+C) does not produce any goods but is able to consume them. 
+D) consumes a good until the marginal benefit received from the last unit is zero. 
+E) consumes a good until the marginal benefit received from the last unit is equal to the marginal cost of producing the good. 
+Answer:  B
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+65) Because of the free-rider problem, 
+A) the private market will generally produce the efficient amount of a public good.
+B) too many people will over-consume a public good.
+C) government will not be able to produce an efficient amount of a public good.
+D) it is difficult to make people pay for a public good, and thus private markets will tend not to produce it.
+E) people need to pay a government user fee to pay for the good's production.
+Answer:  D
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+66) It is inefficient for the government to charge a price for consuming public health information because
+A) too much of the information will be produced.
+B) the price cannot be set to cover all research costs.
+C) no one will be willing to pay to use this information.
+D) the cost of providing this information to an additional person is essentially zero.
+E) the marginal costs of producing it exceed the marginal benefits of using it. 
+Answer:  D
+Diff: 1
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+67) The efficient price to charge consumers for their use of a public good is 
+A) equal to the average per-person cost of providing this good.
+B) equal to the cost of providing the good to one additional consumer.
+C) equal to the highest individual marginal benefit from consuming a unit of the good.
+D) that price that prevents free riding by some consumers. 
+E) equal to the price that the free market would achieve.
+Answer:  B
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+The diagram below shows the marginal benefit and marginal cost of a public good. This economy has 3 individuals, A, B and C. The diagram shows the MB for each individual and a summation of their marginal benefits.
+
+
+
+FIGURE 16-4
+
+68) Refer to Figure 16-4. What is the optimal quantity of this public good to provide?
+A) Q
+B) Q1
+C) Q2
+D) Q3
+E) Q4
+Answer:  E
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+69) Refer to Figure 16-4. The curve MBABC is derived by
+A) a vertical summation of the marginal benefits of all individuals at each level of output.
+B) observation of the consumption of public goods at a price of zero.
+C) observation of the consumption of public goods at the optimal price.
+D) a horizontal summation of the marginal benefits of all individuals at each given price level.
+E) determining the private marginal cost of the public good.
+Answer:  A
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+
+70) Refer to Figure 16-4. Suppose the optimal amount of this good is provided, but that Individual B was only consuming Q2 units of the good. What would be the marginal cost of Individual B consuming an extra unit of this good?
+A) P2
+B) P4
+C) P4-P2
+D) MB
+E) zero
+Answer:  E
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+
+71) Refer to Figure 16-4. Suppose the government provides Q4 units of the public good. If the government was able to require consumers to pay a price of P4, then 
+A) the market would clear, although not enough would be produced.
+B) the inefficient quantity would be being produced.
+C) the appropriate price would be achieved, although not enough would be consumed.
+D) consumers would not use the public good at all, and this would be socially optimal.
+E) consumers would use too little of the public good, and this would be inefficient for society. 
+Answer:  E
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+72) Refer to Figure 16-4. Suppose the government provides Q4 units of the public good. If the government was able to require consumers to pay a price of P1, then 
+A) the market would clear, although not enough would be produced.
+B) an inefficient quantity would be being produced.
+C) consumers would use too little of the public good, and the outcome would be inefficient for society.
+D) consumers would not use the public good at all, and this would be socially optimal.
+E) the appropriate price would be achieved, although not enough would be consumed.
+Answer:  C
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+
+73) Refer to Figure 16-4. Suppose the government provides Q4 units of the public good. If consumers were then required to pay a price of zero for the good, 
+A) the market would clear, although not enough would be produced.
+B) the inefficient quantity would be being produced.
+C) consumers would use too little of the public good, and the outcome would be inefficient for society.
+D) consumers would use the public good until their marginal benefit was zero, and this would be socially optimal.
+E) the appropriate price would be achieved, although not enough would be consumed.
+Answer:  D
+Diff: 3
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+
+74) Refer to Figure 16-4. Once some quantity of this public good is provided, the efficient price to charge for its use is 
+A) approximately zero.
+B) P1.
+C) P2.
+D) P3.
+E) P4.
+Answer:  A
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User1:  Graph
+User2:  Qualitative
+75) Why would it be inefficient for the government to charge a price for consuming a public good such as national defence?
+A) Too much defence will be provided. 
+B) The price cannot be set to cover all defence costs. 
+C) No one will be willing to pay to consume any national defence. 
+D) The marginal cost of providing national defence is zero. 
+E) Too little national defence will be provided. 
+Answer:  D
+Diff: 2
+Topic:  16.3d. public goods
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+76) Moral hazard is said to exist when one party to a transaction
+A) is not able to take advantage of the other party.
+B) has the incentive to, and is able to, shift costs to another party in the transaction.
+C) is subject to a hostile corporate takeover.
+D) purchases insurance because they know they are involved in risky activities.
+E) has no morals.
+Answer:  B
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+77) Moral hazard often arises in the case of insurance because
+A) people generally underestimate the amount of insurance coverage needed.
+B) insured people will not take sufficient care to reduce risks because the private benefit of reducing risks exceeds the private cost of reducing risks.
+C) insured people will not take sufficient care to reduce risks because the private cost of reducing risks exceeds the private benefit of reducing risks.
+D) insurance companies have no incentive to investigate fraudulent claims.
+E) people who are in the most need of insurance have the most trouble obtaining insurance coverage.
+Answer:  C
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+78) The concept of moral hazard was publicly discussed in the context of the 2007-2008 financial crisis because 
+A) it was claimed that moral hazard was necessary to prevent large U.S. financial institutions from going bankrupt.
+B) it was argued that the U.S. government should invoke moral hazard to sustain the financial sector.
+C) it was feared that government bailouts of financial institutions would encourage the institutions to continue their risky behaviour.
+D) it was feared that government bailouts of financial institutions would reduce competition in financial markets.
+E) it was feared that the U.S. government was taking advantage of its special knowledge in the financial markets.
+Answer:  C
+Diff: 3
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+79) Adverse selection is said to exist when an individual
+A) is not able to take advantage of another individual.
+B) has the incentive to, and is able to, shift costs to another individual.
+C) selects a product which has adverse externalities.
+D) purchases a lot of insurance because he/she knows that he/she is at high risk.
+E) is averse to certain products.
+Answer:  D
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Recall
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+80) An example of adverse selection is
+A) asking a private pilot about the safety of his plane.
+B) asking a doctor if you are sick.
+C) purchasing more dental insurance when you know your teeth are especially bad.
+D) asking your lawyer if you should sue your doctor for malpractice.
+E) purchasing the required homeowner's insurance when you buy a condo.
+Answer:  C
+Diff: 1
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+81) Suppose an advertising firm purchases additional insurance against theft, and as a result, the partners are not very careful about locking their office doors when they leave. This is an example of 
+A) the free-rider problem.
+B) adverse selection.
+C) a public good.
+D) a common property resource.
+E) moral hazard.
+Answer:  E
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+82) Export Development Canada (EDC) provides insurance to Canadian exporters for their accounts receivable from foreign buyers. If EDC charges an insurance premium that reflects the average level of risk of the exporting firms, it is only the most risky firms that will tend to purchase insurance. This is an example of 
+A) the free-rider problem.
+B) adverse selection.
+C) a public good.
+D) a common property resource.
+E) moral hazard.
+Answer:  B
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+
+83) Which of the following proposals could be an example of an effort to correct for an adverse selection problem? 
+A) The government imposes a tax on factory-emissions of a toxic substance.
+B) The government subsidizes the consumption of fitness activities. 
+C) An employer requires all employees to submit to drug testing. 
+D) The government subsidizes the development of eco-friendly production methods. 
+E) An employer that requires all employees to purchase the employer-sponsored dental insurance program. 
+Answer:  E
+Diff: 2
+Topic:  16.3e. adverse selection and moral hazard
+Skill:  Applied
+Learning Obj.:  16-4 Explain why public goods are underprovided by private markets.
+User2:  Qualitative
+16.4  Broader Social Goals
+
+1) Services such as those within the justice system are usually provided by the government. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  B
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+
+2) Governments usually provide a system of unemployment insurance. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  A
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+
+3) The Canadian government operates a progressive personal income-tax system. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  A
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+4) All Canadian provincial governments have legislated minimum wages. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  A
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+
+5) The government has seatbelt and airbag requirements in cars, and laws requiring individual drivers to use them. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  C
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+
+6) In the context of government intervention in the economy, an example of paternalism is
+A) taxation law.
+B) regulation to reduce pollution.
+C) economic regulation of monopolies.
+D) the provision of public goods.
+E) laws requiring the use of bicycle helmets.
+Answer:  E
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+7) The government prohibits individuals from paying someone else to replace them when they are selected to perform jury duty. What broader social goal is being met in this case?
+A) income distribution
+B) preference for public provision
+C) protecting individuals from others or themselves
+D) social responsibility
+E) regulation of an imperfectly competitive economic activity
+Answer:  D
+Diff: 1
+Topic:  16.4. social goals of government
+Skill:  Applied
+Learning Obj.:  16-5 Understand why free markets may not achieve some desirable social goals.
+User2:  Qualitative
+
+16.5  Government Intervention
+
+1) The construction of the TransCanada highway is an example of government intervention through
+A) public provision.
+B) redistribution.
+C) regulation.
+D) restructuring of economic incentives.
+E) subsidization.
+Answer:  A
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Applied
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+2) Providing subsidies to for-profit firms that offer day-care services represents government intervention through
+A) public provision.
+B) the influencing of economic incentives.
+C) regulation.
+D) merit-goods allowances.
+E) progressive taxation.
+Answer:  B
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Applied
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+3) Provincial laws that mandate a minimum drinking age (for alcohol) are an example of government intervention through
+A) public provision and price control.
+B) redistribution and reorganization.
+C) regulation.
+D) communism.
+E) merit-goods control.
+Answer:  C
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Applied
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+4) Which of the following statements concerning cost-benefit analysis is true?
+A) Large potential benefits, regardless of their time horizon, always justify government intervention.
+B) Large potential costs, regardless of their time horizon, always preclude government intervention.
+C) Though benefits from a government policy can be accurately measured, costs are usually impossible to quantify.
+D) Cost-benefit analysis can be used effectively by private firms but should not be used in the public sector.
+E) Though it is often difficult to estimate costs and benefits with precision, cost-benefit analysis can be useful in determining whether to implement a given government policy.
+Answer:  E
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+5) The direct resource costs of government intervention include the
+A) increased costs of production arising from compliance with regulations.
+B) resulting loss of productivity in the private sector.
+C) opportunity costs of forgone investment.
+D) salaries of government regulators.
+E) rent seeking.
+Answer:  D
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+6) The total costs of government intervention in the market economy include
+A) compliance costs.
+B) direct resource costs, such as the salaries of civil servants.
+C) the costs of rent seeking.
+D) extra costs arising from regulation.
+E) all of the above.
+Answer:  E
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+7) Examples of direct costs of government intervention include
+A) the production cost of meeting new emission standards on new cars.
+B) the regulatory affairs departments of many Canadian corporations.
+C) the time spent by Canadians completing their income-tax forms.
+D) the government's administrative costs of conducting the Census.
+E) costs of complying with provincial sales taxes.
+Answer:  D
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+8) "Rent-seeking" is a problem of
+A) pure free-market economies.
+B) centrally planned economies.
+C) all economies, given the existence of government.
+D) private organizations in which ownership is not identical to management.
+E) landlords and tenants.
+Answer:  C
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+9) Attempts by professional lobbyists in Ottawa to influence the government's subsidy to the shipbuilding industry, even when such a subsidy is not in the national interest, represents
+A) an inefficient public choice.
+B) the government acting like a monopolist.
+C) rent seeking.
+D) an externality.
+E) asymmetric information.
+Answer:  C
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Applied
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+10) Which of the following is the best example of "rent seeking"?
+A) The government imposes a pollution tax on firms to eliminate a negative externality.
+B) A municipal government chooses the lowest bid for construction of a new water system.
+C) Owners of aerospace firms receive government subsidies to make the firms more competitive in world markets.
+D) Costly renovations are made to the roof of the Parliament Buildings in Ottawa.
+E) Taxpayer funds are used for snow removal on public streets.
+Answer:  C
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Applied
+User2:  Qualitative
+
+11) Most economists who study "public choice theory" now agree that an important possible source of "government failure" is 
+A) that it is not possible for civil servants to determine the allocatively efficient provision of government services.
+B) that most civil servants are incompetent.
+C) that politicians and civil servants have their own objectives that may conflict with the national interest. 
+D) governments govern undemocratically.
+E) politicians are incompetent or corrupt.
+Answer:  C
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+12) Economists generally agree that government intervention in the economy is appropriate 
+A) whenever there is a market failure.
+B) whenever the costs of market failure are greater than the benefits of the existence of markets.
+C) whenever the benefits of the correction of the market failure through intervention are greater than the costs of the intervention itself.
+D) only when the market fails to provide a socially useful good.
+E) whenever the costs of the intervention are greater than the value of the correction of the market failure.
+Answer:  C
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Applied
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+13) Governments continue to provide public support to some farmers, even in the absence of market failures. Choose the best explanation for this practice according to public choice theory.
+A) The marginal social cost of providing support is equal to the marginal social benefit.
+B) Government support goes to consumers in the form of price controls, which balances the support given to farmers.
+C) All consumers are willing to pay higher prices in order to provide financial support to some farmers.
+D) Vote-maximizing governments are not rational in their response to powerful lobbying.
+E) The benefits of the support are concentrated among a small and vocal group of farmers and the costs are widely dispersed among millions of consumers.
+Answer:  E
+Diff: 2
+Topic:  16.5. government intervention
+Skill:  Applied
+User2:  Qualitative
+
+14) The main point about public choice theory is that
+A) most politicians are corrupt.
+B) most civil servants act solely in the public interest.
+C) there is adverse selection in the selection of elected officials.
+D) elected officials never compromise the public interest in order to gain votes.
+E) the choices of public officials may be governed more by their own self-interest than the public interest.
+Answer:  E
+Diff: 1
+Topic:  16.5. government intervention
+Skill:  Recall
+Learning Obj.:  16-6 Identify the direct and indirect costs of government intervention, and some of the important causes of government failure.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 42
+Copyright © 2017 Pearson Education, Inc.
+
+
+

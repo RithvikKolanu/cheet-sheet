@@ -1,0 +1,2204 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 4   Elasticity
+
+4.1  Price Elasticity of Demand
+
+1) The price elasticity of demand measures the responsiveness of 
+A) quantity demanded to changes in the price.
+B) the price to changes in quantity demanded.
+C) demand to supply changes.
+D) supply to demand changes.
+E) equilibrium changes.
+Answer:  A
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+2) Consider two demand curves and the same price change for both. If the resulting percentage change in quantity demanded is greater for one (D1) than the other (D2), we can conclude 
+A) that D1 is inelastic and D2 is elastic.
+B) that D1 is elastic and D2 is inelastic.
+C) that D2 is more elastic than D1.
+D) that D1 is more elastic than D2.
+E) nothing about their relative elasticities.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+3) When the percentage change in quantity demanded is greater than the percentage change in price that brought it about, demand is said to be
+A) zero elastic.
+B) unelastic.
+C) inelastic.
+D) unit elastic.
+E) elastic.
+Answer:  E
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+4) When the percentage change in quantity demanded is less than the percentage change in price that brought it about, demand is said to be
+A) zero elastic.
+B) unelastic.
+C) inelastic.
+D) unit elastic.
+E) elastic.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+5) The formula for the price elasticity of demand for a commodity can be written as which of the following?
+A) 
+B) 
+C) 
+D) 
+E) 
+Answer:  C
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+6) If demand is unit elastic at all prices, then the demand curve is
+A) a straight line.
+B) a parabola.
+C) a rectangular hyperbola.
+D) upward sloping.
+E) perfectly horizontal.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+7) A demand curve that is the shape of a rectangular hyperbola
+A) is elastic over the whole curve.
+B) is inelastic over the whole curve.
+C) is unit elastic over the whole curve.
+D) has the same elasticity as a straight-line demand curve.
+E) has an elasticity of 100% over the whole curve.
+Answer:  C
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+8) If household income increases by 50% and desired household expenditure on vacation travel increases by 15%, the price elasticity of demand for vacation travel is
+A) elastic.
+B) inelastic.
+C) unity.
+D) positive.
+E) not determinable from the information given.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+9) If the price elasticity of demand is 0.5, then a 10% increase in price results in a 
+A) 50% reduction in quantity demanded.
+B) 5% increase in quantity demanded.
+C) 5% decrease in total revenues.
+D) 5% decrease in quantity demanded.
+E) 0.5% decrease in quantity demanded.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+10) Suppose that the quantity of a good demanded rises from 90 units to 110 units when the price falls from $1.20 to 80 cents per unit. The price elasticity of demand for this product is
+A) 0.5.
+B) 1.0.
+C) 1.5.
+D) 2.0.
+E) 4.0.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+11) Suppose the price elasticity of demand for some good is 1.4.  A 10% increase in the price of the good results in
+A) a 1.4% decrease in the quantity demanded.
+B) a 1.4% increase in the quantity demanded.
+C) a 14% increase in the quantity demanded.
+D) a 14% decrease in the quantity demanded.
+E) There is not enough information to answer this question.
+Answer:  D
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+12) If the value of the price elasticity of demand is 0.6, demand is said to be
+A) elastic.
+B) partially elastic.
+C) inelastic.
+D) partially inelastic.
+E) somewhat inelastic.
+Answer:  C
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+13) Suppose that the quantity of lemonade demanded falls from 103 000 litres per week to 97 000 litres per week as a result of a 10% increase in its price. The price elasticity of demand for lemonade is therefore 
+A) 0.6.
+B) 6.0.
+C) 1.97.
+D) 1.03.
+E) impossible to compute unless we know the before and after prices.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+14) Suppose that the quantity demanded of skipping ropes rises from 1250 to 1750 units when the price falls from $1.25 to $0.75 per unit. The price elasticity of demand for this product is
+A) 1/3.
+B) 2/3.
+C) 1.
+D) 3/2.
+E) 2.
+Answer:  B
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+The table below shows the demand schedule for museum admissions in a small city.
+
+Price
+(per visit per person)
+Quantity Demanded
+(thousands of person-visits per year)
+$10
+  2
+  $8
+  4
+  $6
+  6
+  $4
+  8
+  $2
+10
+	
+TABLE 4-1
+
+15) Refer to Table 4-1. The elasticity of demand for museum admissions is
+A) greater at higher prices than at lower prices.
+B) elastic at all points on the demand curve.
+C) inelastic at all points on the demand curve.
+D) greater at lower prices than at higher prices.
+E) constant at all points on the demand curve.
+Answer:  A
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Qualitative
+16) Refer to Table 4-1. Between the prices of $8 and $10, the elasticity of demand is
+A) 1/3.
+B) 2/3.
+C) 1.
+D) 2.
+E) 3.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 4-1. Between the prices of $4 and $6 the price elasticity of demand is
+A) 0.50.
+B) 0.71.
+C) 1.00.
+D) 1.40.
+E) 0.40.
+Answer:  B
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+
+18) Refer to Table 4-1. Between the prices of $2 and $4 the price elasticity of demand is
+A) 1/3.
+B) 2/3.
+C) 1.
+D) 2.
+E) 3.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 4-1. Between the prices of $8 and $6 the price elasticity of demand is 
+A) 0.5.
+B) 0.71.
+C) 1.00.
+D) 1.40.
+E) 0.40.
+Answer:  D
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+20) If the price elasticity of demand for some good is 2.7, a 10% increase in the price results in
+A) a 2.7% decrease in the quantity demanded.
+B) a 2.7% increase in the quantity demanded.
+C) a 27% increase in the quantity demanded.
+D) a 27% decrease in the quantity demanded.
+E) There is not enough information to answer this question.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+21) As the price for some product increases from $4.00 to $5.00 per unit, quantity demanded decreases from 400 to 300 units per month. For this segment of the demand curve, the price elasticity of demand is 
+A) 7/9.
+B) 1.
+C) 9/7.
+D) 7.
+E) 9.
+Answer:  C
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+22) As the price for some product decreases from $4.00 to $3.00 per unit, quantity demanded increases from 400 to 500 units per day. For this segment of the demand curve, the price elasticity of demand is
+A) 7/9.
+B) 1.
+C) 9/7.
+D) 7.
+E) 9.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+23) Which of the following illustrates elastic demand?
+A) A 10% increase in price causes a 5% decrease in quantity demanded.
+B) A 10% increase in price causes a 20% decrease in quantity demanded.
+C) a price elasticity of 0.8
+D) a price elasticity of 1.0
+E) A 10% increase in price causes a 10% reduction in quantity demanded.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+24) If per capita income increases by 10% and household expenditure on fur coats increases by 15%, one can conclude that the price elasticity of demand for fur coats is
+A) elastic.
+B) inelastic.
+C) unity.
+D) positive.
+E) not determinable from the information given.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+
+	FIGURE 4-1
+
+25) Refer to Figure 4-1, which shows two demand curves, one linear and the other a rectangular hyperbola. In diagram 1, the price elasticity of demand
+A) at point A is equal to that at point C.
+B) at point A is less than at point C.
+C) at point A is greater than at point C.
+D) is equal at points A, B, and C.
+E) at point A is equal to that at point B.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 4-1, which shows two demand curves, one linear and the other a rectangular hyperbola. The price elasticity of demand is equal to one along the entire demand curve in
+A) diagram 1 only.
+B) diagram 2 only.
+C) both diagrams.
+D) neither diagram.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+27) A perfectly horizontal demand curve shows that the price elasticity of demand is
+A) zero.
+B) unity.
+C) less than one.
+D) infinite.
+E) not defined.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+28) A vertical demand curve shows that the price elasticity of demand is
+A) zero.
+B) unity.
+C) less than one.
+D) infinity.
+E) not defined.
+Answer:  A
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+29) The price elasticity of demand for a product tends to be greater the
+A) lower its price.
+B) more broadly the product is defined.
+C) fewer close substitutes for it there are.
+D) more close substitutes for it there are.
+E) shorter the time span being considered.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+30) Which of the following statements would you expect to be true about the demand elasticities for cornflakes and food?
+A) Compared with food, cornflakes have a lower price elasticity of demand because it is specifically defined.
+B) Because cornflakes is food, but not all food is cornflakes, cornflakes would have a lower price elasticity of demand.
+C) Food has a higher price elasticity of demand because it is a necessity.
+D) Because cornflakes is food, cornflakes would have the same price elasticity of demand as food.
+E) Food has a lower price elasticity of demand than cornflakes because it is more broadly defined.
+Answer:  E
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+31) With a downward-sloping straight-line demand curve, price elasticity of demand is 
+A) rising continuously with price increases.
+B) decreasing continuously with price increases.
+C) increasing to the midpoint of the curve and then decreasing.
+D) constant everywhere on it.
+E) indeterminate.
+Answer:  A
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+32) Which of the following statements about price elasticity of demand is true?
+A) It is greater than one if the percentage increase in the commodity's price is greater than the percentage decline in quantity demanded.
+B) It is very small when good substitutes are readily available for the commodity.
+C) It usually increases over time.
+D) It is a positive number because price and quantity demanded move in the same direction.
+E) It is higher for an entire group of related products than it is for a particular product in that group.
+Answer:  C
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+33) Suppose you are shown two intersecting demand curves that are drawn on the same scale. At the point of intersection, one of the demand curves is steeper than the other. Which of the following could explain the difference in slopes?
+A) The steeper one has a higher income elasticity of demand.
+B) The steeper one is probably the demand curve for a luxury good.
+C) The steeper one applies for the short run whereas the flatter one applies for the long run.
+D) The flatter one is for a good with no close substitutes.
+E) It is not possible to compare the slopes of different demand curves.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+34) Suppose egg producers succeed in permanently raising the price of their product by 15%, and as a result the quantity demanded falls by 15% in the short run. In the long run we can expect the quantity demanded to fall by
+A) 0%.
+B) 15%.
+C) between 0 and 15%.
+D) more than 15%.
+E) 100%.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+35) Suppose that the quantity demanded of a good rises from 40 units to 60 units per month when the price falls from $1.05 to 95 cents per unit. The price elasticity of demand for this product is
+A) 0.5.
+B) 1.0.
+C) 1.5.
+D) 2.0.
+E) 4.0.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+36) Which of the following statements would you expect to be true about price elasticities of demand for T-shirts and clothing?
+A) Compared with clothing, T-shirts have a lower price elasticity of demand because they are specifically defined.
+B) Because T-shirts are clothing, but not all clothing is T-shirts, T-shirts would have a lower price elasticity of demand than clothing.
+C) Clothing has a higher price elasticity of demand because it is a necessity.
+D) T-shirts would have the same price elasticity of demand as clothing.
+E) Clothing has a lower price elasticity of demand because it is more broadly defined.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Qualitative
+
+37) Which of the following illustrates elastic demand?
+A) A 5% increase in price causes a 2.5% decrease in quantity demanded.
+B) A 5% increase in price causes a 10% decrease in quantity demanded.
+C) a price elasticity of 0.8
+D) a price elasticity of 1.0
+E) A 10% increase in price causes a 10% reduction in quantity demanded.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+38) Suppose that the quantity demanded of paperback novels rises from 80 000 to 120 000 units per month when the price falls from $11 to $9 per unit. The price elasticity of demand for this product is
+A) 1/3.
+B) 1.
+C) 2/3.
+D) 3/2.
+E) 2.
+Answer:  E
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+Demand Schedule for Ski Tickets
+
+Price
+($)
+Quantity Demanded
+(no. of tickets)
+120
+    0
+110
+ 100
+100
+ 200
+  90
+ 300
+  80
+ 400
+  70
+ 500
+  60
+ 600
+  50
+ 700
+  40
+ 800
+  30
+ 900
+  20
+1000
+  10
+1100
+   0
+1200
+
+TABLE 4-2
+
+39) Refer to Table 4-2. Using the data provided to plot the demand curve for ski tickets results in a ________ demand curve. Price elasticity along this demand curve is therefore ________ as price is falling.
+A) horizontal; constant at a value of 8
+B) vertical; constant at a value of 0
+C) rectangular hyperbola; constant at a value of 1
+D) downward sloping and linear; continuously increasing
+E) downward sloping and linear; continuously decreasing
+Answer:  E
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 4-2. Total expenditure for ski tickets reaches a maximum at a price/quantity demanded combination of
+A) $30/90.
+B) $60/600.
+C) $100/200.
+D) $20/1000.
+E) $80/400.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+41) Refer to Table 4-2. The price elasticity of demand over the interval of the demand curve between prices of $40 and $20 is
+A) 3.0.
+B) -3.0.
+C) 1.0.
+D) 0.33.
+E) 0.
+Answer:  D
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+
+42) Refer to Table 4-2. Price elasticity over the interval of the demand curve between prices of $90 and $70 is
+A) 0.5.
+B) 2.0.
+C) -0.5.
+D) 4.0.
+E) 1.0.
+Answer:  B
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Table
+User2:  Quantitative
+
+
+	FIGURE 4-2
+
+43) Refer to Figure 4-2. In diagram 1, the elasticity of demand over the price range $14 to $16 is 
+A) 0.
+B) less than 1.
+C) 1.
+D) greater than 1.
+E) infinity.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+44) Refer to Figure 4-2. In diagram 1, the elasticity of demand over the price range $12 to $14 is 
+A) 0.
+B) less than 1.
+C) 1.
+D) greater than 1.
+E) infinity.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+
+45) Refer to Figure 4-2. In diagram 1, the elasticity of demand for prices below $10 is 
+A) 0.
+B) less than 1.
+C) 1.
+D) greater than 1.
+E) infinity.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+
+46) Refer to Figure 4-2. In diagram 1, the elasticity of demand at $10 is
+A) 0.
+B) less than 1.
+C) exactly 1.
+D) greater than 1.
+E) infinity.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+47) Refer to Figure 4-2. In diagram 3, the elasticity of demand between prices $10 and $20 is
+A) 0.
+B) less than 1.
+C) exactly 1.
+D) greater than 1.
+E) infinity.
+Answer:  C
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+
+48) Refer to Figure 4-2. In diagram 3, the elasticity of demand between prices $5 and $10 is
+A) 0.
+B) less than 1.
+C) exactly 1.
+D) greater than 1.
+E) infinity.
+Answer:  C
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+
+49) Refer to Figure 4-2. In diagram 2, the price elasticity of demand is
+A) 0.
+B) less than -1.
+C) exactly 1.
+D) greater than 1.
+E) infinity.
+Answer:  A
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+50) Refer to Figure 4-2. The price elasticity of demand is continuously decreasing as the price falls in diagram(s)
+A) 1.
+B) 2.
+C) 1, 2, and 3.
+D) 2, 3, and 4.
+E) 1 and 2. 
+Answer:  A
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+51) Refer to Figure 4-2. The price elasticity of demand is continuously increasing as the price falls in diagram(s)
+A) 1.
+B) 2.
+C) 1, 2, and 3.
+D) 2, 3, and 4.
+E) none of the above
+Answer:  E
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+52) Refer to Figure 4-2. The price elasticity of demand is constant as price changes in diagram(s)
+A) 1.
+B) 2.
+C) 1, 2, and 3.
+D) 2, 3, and 4.
+E) none of the above
+Answer:  D
+Diff: 1
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+53) Refer to Figure 4-2. Demand is inelastic
+A) over the entire demand curve in diagram 1.
+B) over the entire demand curve in diagram 3.
+C) over section (a) of the demand curve in diagram 1.
+D) over section (b) of the demand curve in diagram 1.
+E) at the midpoint between sections (a) and (b) of the demand curve in diagram 1.
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 4-2. There is good reason to suppose that, of the four goods whose demand curves are shown in diagrams 1-4 of the figure, the good that has the fewest close substitutes is shown in 
+A) diagram 1.
+B) diagram 2.
+C) diagram 3.
+D) diagram 4.
+E) There is not enough information to determine this.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 4-2. There is good reason to suppose that, of the four goods whose demand curves are shown in diagrams 1-4 of the figure, the good that has the fewest close substitutes is shown in 
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) diagram 4
+E) There is not enough information to determine this.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+56) Suppose you are advising the government on changes in the gasoline market. The current price is $1.00 per litre and the quantity demanded is 2.5 million litres per day. Short-run price elasticity of demand is constant at 0.3. If the supply of gasoline is reduced so that the price rises to $1.50 per litre, then quantity demanded is predicted to fall in the short run by
+A) 15%, and total expenditure will rise.
+B) 15%, and total expenditure will fall.
+C) 50%, and total expenditure will fall.
+D) 12%, and total expenditure will rise.
+E) 13.3%, and total expenditure will rise.
+Answer:  D
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+57) Suppose you are advising the government on changes in the gasoline market. The current price is $1.00 per litre and the quantity demanded is 2.5 million litres per day. Long-run price elasticity of demand is constant at 0.8. If the supply of gasoline is reduced so that the price rises to $1.50 per litre, then quantity demanded is predicted to fall in the long run by
+A) 12%, and total expenditure will fall.
+B) 32%, and total expenditure will rise.
+C) 15%, and total expenditure will rise.
+D) 15%, and total expenditure will fall.
+E) 50%, and total expenditure will rise.
+Answer:  B
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+58) Suppose you are advising the government on changes in the gasoline market. The current price is $1.00 per litre and the long-run price elasticity of demand is constant at 0.8. If a tax on gasoline causes the price to rise to $1.50 per litre, then quantity demanded is predicted to fall in the long run by
+A) 12% and total expenditure will fall.
+B) 24% and total expenditure will fall.
+C) 32% and total expenditure will fall.
+D) 24% and total expenditure will rise.
+E) 50% and total expenditure will rise.
+Answer:  C
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User2:  Quantitative
+59) Suppose a fast-food chain determines that the price elasticity of demand for its hamburgers is 1.7, and the price of the hamburger is currently $4.00. What will be the effect on quantity demanded and total expenditure on this chain's hamburgers if the price is increased to $6.00?
+A) Quantity demanded will fall by 68% and total expenditure will decrease.
+B) Quantity demanded will fall by 11.76% and total expenditure will decrease.
+C) Quantity demanded will fall by 17% and total expenditure will increase.
+D) Quantity demanded will fall by 1.7% and total expenditure will increase.
+E) Quantity demanded will fall by 34% and total expenditure will decrease.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+60) Suppose a fast-food chain determines that the price elasticity of demand for its hamburgers is 0.75, and the price of the hamburger is currently $4.00. What will be the effect on quantity demanded and total expenditure on this chain's hamburgers if the price is increased to $6.00?
+A) Quantity demanded will fall by 30%, and total expenditure will increase.
+B) Quantity demanded will fall by 40%, and total expenditure will increase.
+C) Quantity demanded will fall by 75%, and total expenditure will increase.
+D) Quantity demanded will fall by 0.3%, and total expenditure will decrease.
+E) Quantity demanded will fall by 0.4%, and total expenditure will decrease.
+Answer:  A
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User2:  Quantitative
+
+61) Rania is selling boxes of cookies door to door in her neighbourhood. At a price of $10 per box she sold 40 boxes per day. When the price was reduced to $4 per box she sold 100 boxes per day.  Assuming that the demand conditions were unchanged, what is the price elasticity of demand for Rania's cookies?
+A) -1.7
+B) 0
+C) 0.85
+D) 1
+E) 1.17
+Answer:  D
+Diff: 3
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+62) Every month Olivier buys exactly 6 take-out pizzas even though the price may fluctuate significantly. Apparently, Olivier's price elasticity of demand for take-out pizza is 
+A) -1.
+B) 0.
+C) 1.
+D) 6.
+E) infinity.
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+
+63) Suppose the price of take-out pizza has been stable for many months at exactly $12.50 per pizza - and Olivier buys 6 pizzas per month at this price. When the price rises to $12.55 per pizza, Olivier's quantity demanded drops to zero. Apparently, Olivier's price elasticity of demand for take-out pizza is
+A) -1.
+B) 0.
+C) 100
+D) 6.
+E) higher than 10 000.
+Answer:  E
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User2:  Quantitative
+
+64) Suppose an analysis of the possible effects of increases in university tuition fees predicts that a 10% increase in tuition fees will result in a 3% decline in enrolment. What is the implied price elasticity of demand for university attendance?
+A) 0
+B) 0.3
+C) 3
+D) 7
+E) 10
+Answer:  B
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-1 Explain what price elasticity of demand is and how it is measured.
+User2:  Quantitative
+65) Elasticity of demand for prescription drugs is estimated to be much lower than elasticity of demand for one particular brand of over-the-counter cough medicine.  One reason for this is
+A) there are many substitutes for prescription drugs in the short run.
+B) there are many substitutes for prescription drugs in the long run.
+C) there are no substitutes for one brand of cough medicine in the short run.
+D) there are no substitutes for one brand of cough medicine in the long run.
+E) there are few substitutes for the broad category of prescription drugs while there are many substitutes for one brand of cough medicine.
+Answer:  E
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User2:  Qualitative
+
+66) Which of the following situations could explain why product X has a relatively high price elasticity of demand in the short run?
+A) the price of product X is too low
+B) the price of product X is too high
+C) the prices of substitute products are constant
+D) there are many substitutes for product X and consumers have an ability to switch quickly to those substitutes
+E) there are few substitutes for product X in the short run
+Answer:  D
+Diff: 2
+Topic:  4.1a. price elasticity of demand
+Skill:  Applied
+User2:  Qualitative
+
+67) Suppose an analysis of the possible effects of increases in university tuition fees predicts that a 10% increase in tuition fees will result in a 3% decline in enrolment. Given the information this provides about price elasticity of demand, what is the predicted effect on total expenditure on tuition fees?
+A) total expenditure will decrease
+B) total expenditure will decrease by 7%
+C) total expenditure will decrease by 3%
+D) total expenditure will increase
+E) total expenditure will remain constant
+Answer:  D
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+
+
+	FIGURE 4-2
+
+68) Refer to Figure 4-2. As price decreases, total expenditure increases, reaches a maximum, and then decreases for the demand curve in diagram(s)
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 1 and 3.
+Answer:  A
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User1:  Graph
+User2:  Qualitative
+69) Refer to Figure 4-2. As price decreases, total expenditure remains constant in diagram(s)
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 2 and 4.
+Answer:  C
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User1:  Graph
+User2:  Qualitative
+
+70) A demand curve for which any price-quantity combination yields the same total expenditure reveals a price elasticity of demand equal to
+A) infinity.
+B) zero.
+C) one.
+D) some value greater than one but less than infinity.
+E) not enough information to know.
+Answer:  C
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+
+71) If price elasticity of demand for good X is equal to 0.4, then an increase in price will cause total expenditure on good X to 
+A) increase.
+B) remain constant.
+C) decrease.
+D) fall to zero.
+E) be negative.
+Answer:  A
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Recall
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+72) When a product's price has an inverse relationship with total expenditure, then demand has a price elasticity of
+A) zero.
+B) less than one.
+C) greater than one.
+D) one.
+E) inverse proportions.
+Answer:  C
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+
+73) If total expenditure on a product rises and falls directly with a product's price, then demand for this product has an elasticity of 
+A) zero.
+B) less than one.
+C) greater than one.
+D) one.
+E) direct proportions.
+Answer:  B
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+
+74) If the total expenditure on photocopiers increases when the price of photocopiers rises, the price elasticity of demand is
+A) greater than one (demand is elastic).
+B) less than one (demand is inelastic).
+C) equal to one (demand is unit elastic).
+D) exactly zero.
+E) not determinable from the information given.
+Answer:  B
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+75) If the total expenditure on perfume increases when the price of perfume falls, the price elasticity of demand is
+A) greater than one (demand is elastic).
+B) less than one (demand is inelastic).
+C) unity (demand is unit elastic).
+D) exactly zero.
+E) not determinable from the information given.
+Answer:  A
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+
+76) If the total expenditure on cars increases when the price of cars rises, the price elasticity of demand for cars is
+A) greater than one (demand is elastic).
+B) less than one (demand is inelastic).
+C) equal to one (demand is unit elastic).
+D) exactly zero.
+E) not determinable from the information given.
+Answer:  B
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+
+77) Suppose the current level of output of some good is 100 units. If market demand is inelastic at that quantity, total expenditure on this product would be higher if output was 
+A) maximized.
+B) kept constant.
+C) greater than 100 units.
+D) less than 100 units.
+E) minimized.
+Answer:  D
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+78) The president of a major nickel-producing company says that an increase in the price of nickel would have no effect on the total amount spent on nickel. If this is true, the price elasticity of demand for nickel is
+A) more than one.
+B) exactly one.
+C) less than zero.
+D) infinitely elastic.
+E) not calculable from the information given.
+Answer:  B
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+
+79) Suppose Statistics Canada reports that total income earned by Canadian barley farmers has declined as a result of a partial crop failure that has driven up the Canadian price of barley. We can conclude that the price elasticity of demand for barley in Canada is
+A) greater than one.
+B) exactly one.
+C) less than zero.
+D) less than one.
+E) exactly zero.
+Answer:  A
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Quantitative
+
+80) If the total expenditure on clothing decreases when the price of clothing falls, the price elasticity of demand is
+A) greater than one (demand is elastic).
+B) less than one (demand is inelastic).
+C) unity (demand is unit elastic).
+D) exactly zero.
+E) not determinable from the information given.
+Answer:  B
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+81) If household expenditures on electricity remain constant when the price of electricity increases, the price elasticity for electricity is
+A) greater than one (demand is elastic).
+B) less than one (demand is inelastic).
+C) one (demand is unit elastic).
+D) exactly zero.
+E) not determinable from the information given.
+Answer:  C
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+
+82) If the total revenue of producers rises for an initial cut in the price of their product but falls for further reductions in price, the price elasticity of demand for the product
+A) declines as price falls.
+B) is zero.
+C) is unity.
+D) rises as price falls.
+E) rises and then falls.
+Answer:  A
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+Learning Obj.:  4-2 Explain the relationship between total expenditure and price elasticity of demand.
+User2:  Qualitative
+
+83) What does the following statement imply about price elasticity of demand? "Cherry producers in British Columbia experienced a healthy increase in revenues this year, despite a reduced harvest due to poor weather conditions." 
+A) elastic demand for B.C. cherries
+B) elasticity of demand equal to one for B.C. cherries
+C) inelastic demand for B.C. cherries
+D) elasticity of demand equal to zero for B.C. cherries
+E) infinite elasticity of demand for B.C. cherries
+Answer:  C
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+User2:  Quantitative
+84) What does the following statement imply about price elasticity of demand? "Airlines experiencing higher traffic with reduced fares, but are struggling with fall in revenue."
+A) demand for airline travel is price inelastic
+B) elasticity of demand for airline travel is equal to one
+C) elasticity of demand for airline travel is constant
+D) elasticity of demand for airline travel is equal to zero
+E) demand for airline travel is price elastic
+Answer:  E
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+User2:  Quantitative
+
+85) What does the following statement imply about price elasticity of demand?  "An unexpected spike in world oil prices leads to dramatic increase in revenue for the world's oil producers."
+A) short-run demand for oil is inelastic
+B) short-run demand for oil is elastic
+C) elasticity of demand for oil is equal to one
+D) elasticity of demand for oil is constant
+E) elasticity of demand for oil is equal to zero
+Answer:  A
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+User2:  Quantitative
+
+86) What does the following statement imply about price elasticity of demand?  "Consumers unfazed by 400 percent increase in price of table salt — grocers see no change in sales!"
+A) elasticity of demand for salt is equal to one
+B) demand for salt is elastic
+C) salt is too narrowly defined to determine price elasticity of demand
+D) demand for salt is almost perfectly inelastic in the relevant price range
+E) salt is too broadly defined to determine price elasticity of demand
+Answer:  D
+Diff: 2
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+User2:  Qualitative
+
+87) What does the following statement imply about price elasticity of demand?  "Government tries to reduce cigarette consumption with an extra 50 cent tax per pack. Policy raises government revenue but fails to curb smoking."
+A) demand for cigarettes is elastic
+B) demand for cigarettes is inelastic
+C) elasticity of demand for cigarettes is equal to one
+D) elasticity of demand for cigarettes is close to infinity
+E) elasticity of demand for cigarettes equals 0.5
+Answer:  B
+Diff: 3
+Topic:  4.1b. elasticity and total expenditure
+Skill:  Applied
+User2:  Quantitative
+4.2  Price Elasticity of Supply
+
+1) The elasticity of supply for a given commodity is calculated as
+A) 
+B) 
+C) 
+D) 
+E) 
+Answer:  A
+Diff: 1
+Topic:  4.2a. price elasticity of supply
+Skill:  Recall
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+2) A value of zero for the elasticity of supply of some product implies that
+A) the supply curve is horizontal.
+B) supply is highly responsive to price.
+C) the supply curve is vertical.
+D) the product will not be supplied at any price.
+E) there is no supply.
+Answer:  C
+Diff: 1
+Topic:  4.2a. price elasticity of supply
+Skill:  Recall
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+3) If the demand for some good fluctuates, but supply is constant, then which of the following combinations would generally yield the greatest price fluctuations?
+A) small demand fluctuations and elastic supply
+B) large demand fluctuations and elastic supply
+C) small demand fluctuations and inelastic supply
+D) large demand fluctuations and inelastic supply
+E) small demand fluctuations and a unit elastic supply
+Answer:  D
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+4) If the demand for some good fluctuates, but the supply curve is stable, then which of the following combinations would generally yield the greatest quantity fluctuations?
+A) large demand fluctuations and inelastic supply
+B) small demand fluctuations and unit elastic supply
+C) small demand fluctuations and inelastic supply
+D) small demand fluctuations and elastic supply
+E) large demand fluctuations and elastic supply
+Answer:  E
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+5) Suppose that as the price of some product increases from $4.00 to $5.00 per unit the quantity supplied rises from 500 to 1000 units per month. The price elasticity of supply for this product is
+A) 0.33.
+B) 2.0.
+C) 2.5.
+D) 3.0.
+E) 1.0.
+Answer:  D
+Diff: 3
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Quantitative
+
+6) The elasticity of supply for some product will tend to be larger
+A) the higher is the elasticity of demand for the product.
+B) the lower is the elasticity of demand for the product.
+C) the harder it is for firms to shift from the production of this product to another.
+D) the easier it is for firms to shift from the production of this product to another.
+E) the less time firms have to adjust to price changes.
+Answer:  D
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+7) Consider a firm's price elasticity of supply. If firms' costs rise rapidly as output increases, the
+A) supply curve will tend to be flat.
+B) demand curve will tend to be steep.
+C) elasticity of demand will tend to be low.
+D) price elasticity of supply will tend to be high.
+E) price elasticity of supply will tend to be low.
+Answer:  E
+Diff: 3
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+8) An upward-sloping straight-line supply curve through the origin has an elasticity of
+A) one.
+B) greater than one.
+C) less than one.
+D) infinity.
+E) zero.
+Answer:  A
+Diff: 3
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Quantitative
+
+9) A value of infinity for the elasticity of supply of some product implies that
+A) the supply curve is horizontal.
+B) supply is very unresponsive to price.
+C) the supply curve is vertical.
+D) the product will be supplied at any price.
+E) no product will be supplied at any price.
+Answer:  A
+Diff: 1
+Topic:  4.2a. price elasticity of supply
+Skill:  Recall
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+10) Suppose an increase in world demand for potash (used in the production of fertilizer) increases the price by 22 percent. Annual Canadian production increases by 33 percent. What is the elasticity of supply of Canadian potash?
+A) 0.22
+B) 0.33
+C) 0.67
+D) 1.0
+E) 1.5
+Answer:  E
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+User2:  Quantitative
+11) Suppose a decrease in world demand for potash (used in the production of fertilizer) decreases the price by 5 percent. Annual Canadian production decreases by 2 percent. What is the elasticity of supply of Canadian potash?
+A) 0.2
+B) 0.4
+C) 0.5
+D) 1.0
+E) 2.5
+Answer:  B
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+User2:  Quantitative
+
+12) Suppose an increase in world demand for potash (used in the production of fertilizer) increases the price from $285 per tonne to $315 per tonne. Annual Canadian production increases from 15 million tonnes to 17 million tonnes. What is the elasticity of supply of Canadian potash?
+A) 0.5
+B) 0.8
+C) 1.0
+D) 1.25
+E) 2.5
+Answer:  D
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+User2:  Quantitative
+
+13) Suppose a decrease in world demand for potash (used in the production of fertilizer) decreases the price from $400 per tonne to $240 per tonne. Annual Canadian production decreases from 12 million tonnes to 8 million tonnes. What is the elasticity of supply of Canadian potash?
+A) 0.4
+B) 0.8
+C) 0.75
+D) 1.0
+E) 1.25
+Answer:  B
+Diff: 2
+Topic:  4.2a. price elasticity of supply
+Skill:  Applied
+User2:  Quantitative
+14) Given that elasticity of supply changes over time, in the short run an increase in demand will generally cause
+A) the price to rise above its long-run equilibrium value.
+B) the price to rise to a level below its long-run equilibrium value.
+C) the quantity exchanged to rise above its long-run equilibrium value.
+D) both price and quantity exchanged to rise above their long-run equilibrium values.
+E) supply to change.
+Answer:  A
+Diff: 3
+Topic:  4.2b. short-run and long-run responses
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User2:  Qualitative
+
+
+
+FIGURE 4-3
+
+15) Refer to Figure 4-3. The diagram shows a rightward shift in the demand curve for some good, and the short-run and long-run supply curves (SS and SL, respectively). In the new short-run equilibrium after the increase in demand, producers' revenue
+A) is unambiguously lower than in the long-run equilibrium at EL.
+B) could be higher or lower than at E0, depending on the short-run elasticity of supply.
+C) is unambiguously higher than at E0.
+D) is unambiguously lower than at E0.
+E) is unambiguously higher than at EL.
+Answer:  C
+Diff: 3
+Topic:  4.2b. short-run and long-run responses
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+16) Refer to Figure 4-3, which shows a demand shift and the short-run and long-run supply curves for some good. The diagram illustrates the general principle that
+A) supply is less elastic in the long run.
+B) demand is less elastic in the long run.
+C) supply is more elastic in the long run.
+D) both demand and supply are less elastic in the long run.
+E) demand is more elastic in the long run.
+Answer:  C
+Diff: 1
+Topic:  4.2b. short-run and long-run responses
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User1:  Graph
+User2:  Qualitative
+
+17) Refer to Figure 4-3, which shows a demand shift and the short-run and long-run supply curves for some product. In the new long-run equilibrium at EL, producers' revenue 
+A) is unambiguously lower than at ES.
+B) could be higher or lower than at ES, depending on the price elasticity of demand.
+C) is unambiguously lower than at E0.
+D) could be higher or lower than at E0, depending on the price elasticity of demand.
+E) is unambiguously higher than at ES.
+Answer:  B
+Diff: 3
+Topic:  4.2b. short-run and long-run responses
+Skill:  Applied
+Learning Obj.:  4-3 Explain what price elasticity of supply is and how it is measured.
+User1:  Graph
+User2:  Quantitative
+
+4.3  Elasticity Matters for Excise Taxes
+
+1) The imposition of an excise tax usually causes the price paid by consumers to ________, while the price received by sellers ________.
+A) rise; remains unchanged
+B) rise; falls
+C) rise; rises
+D) fall; remains unchanged
+E) fall; falls
+Answer:  B
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+2) Consumers will bear a larger burden of an excise tax if
+A) demand is relatively elastic and supply is relatively inelastic.
+B) demand is relatively inelastic and supply is relatively elastic.
+C) both demand and supply are relatively inelastic.
+D) both demand and supply are relatively elastic.
+E) the tax is collected by firms rather than remitted directly to the government by consumers.
+Answer:  B
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+
+3) The imposition of an excise tax will cause the least burden on consumers when demand is 
+A) elastic.
+B) unit elastic.
+C) perfectly inelastic.
+D) perfectly elastic.
+E) vertical.
+Answer:  D
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+
+4) The "economic incidence" of an excise tax illustrates
+A) who is legally responsible for paying it to the government.
+B) the legislative process through which it must be passed.
+C) the economic costs associated with avoiding the tax.
+D) who bears the burden of the tax.
+E) the political process for implementing a tax.
+Answer:  D
+Diff: 1
+Topic:  4.3. burden of an excise tax
+Skill:  Recall
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+5) Suppose a market is in equilibrium at price P0, and then an excise tax of t dollars per unit of the good is imposed. At a price of (P0 + t) there will be excess ________ for the good unless the demand curve is ________.
+A) supply; horizontal
+B) supply; vertical
+C) demand; horizontal
+D) demand; vertical
+E) tax; unit elastic
+Answer:  B
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+
+6) Suppose the market supply curve for some good is upward sloping. If the imposition of an excise tax causes no change in the equilibrium quantity sold in the market, the good's demand curve must be ________, meaning that the burden of the tax has fallen completely on the ________.
+A) vertical; firms
+B) vertical; consumers
+C) horizontal; firms
+D) horizontal; consumers
+E) unit elastic; government
+Answer:  B
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+
+7) Producers will bear a larger burden of a sales tax if
+A) demand is relatively elastic and supply is relatively inelastic.
+B) demand is relatively inelastic and supply is relatively elastic.
+C) both demand and supply are relatively inelastic.
+D) both demand and supply are relatively elastic.
+E) the tax is collected by firms rather than remitted directly to the government by consumers.
+Answer:  A
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Qualitative
+8) Consider an excise tax imposed on daily parking charges in the downtown of a small city. Before the imposition of the tax, equilibrium price and quantity are $15 and 100 cars parked. (P = $15, Q = 100). The city government imposes a tax of $3 per car parked per day. Market equilibrium adjusts to P = $16 and Q = 95. How much tax revenue does the city government collect per day?
+A) $95
+B) $100
+C) $285
+D) $300
+E) $1710
+Answer:  C
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Quantitative
+
+9) Consider an excise tax imposed on daily parking charges in the downtown of a small city. Before the imposition of the tax, equilibrium price and quantity are $15 and 100 cars parked. (P = $15, Q = 100). The city government imposes a tax of $3 per car parked per day. Market equilibrium adjusts to P = $16 and Q = 95. After imposition of the tax, what is the daily after-tax price received by the seller per car parked?
+A) $1
+B) $3
+C) $13
+D) $15
+E) $16
+Answer:  C
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Quantitative
+
+10) Consider an excise tax imposed on daily parking charges in the downtown of a small city. Before the imposition of the tax, equilibrium price and quantity are $15 and 100 cars parked. (P = $15, Q = 100). The city government imposes a tax of $3 per car parked per day. Market equilibrium adjusts to P = $16 and Q = 95. What is the total after-tax revenue received per day by the seller after imposition of the tax?
+A) $1235
+B) $1600
+C) $1500
+D) $1520
+E) $1425
+Answer:  A
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Quantitative
+11) Consider an excise tax imposed on daily parking charges in the downtown of a small city. Before the imposition of the tax, equilibrium price and quantity are $15 and 100 cars parked per day. (P = $15, Q = 100). The city government then imposes a tax of $3 per car parked per day. Market equilibrium adjusts to P = $16 and Q = 95. Which of the following statements about the burden of the tax is correct?
+A) Supply is less elastic relative to demand and therefore more of the burden falls on the consumer.
+B) Supply is more elastic relative to demand and therefore more of the burden falls on the seller.
+C) Supply is more elastic relative to demand and therefore more of the burden falls on the consumer.
+D) Supply is less elastic relative to demand and therefore more of the burden falls on the seller.
+Answer:  D
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Quantitative
+
+12) Consider an excise tax imposed on daily parking charges in the downtown of a small city. Before the imposition of the tax, equilibrium price and quantity are $15 and 100 cars parked. (P = $15, Q = 100). The city government imposes a tax of $3 per car parked per day. Market equilibrium adjusts to P = $18 and Q = 100. Which of the following statements about the burden of the tax is correct?
+A) Price elasticity of supply is 0 and therefore the entire burden of the tax falls on the consumer.
+B) Elasticity of demand is 0 and therefore the entire burden of the tax falls on the consumer.
+C) Elasticity of supply is 1 and therefore the entire burden of the tax falls on the seller.
+D) Price elasticity of demand is 1 and therefore the entire burden of the tax falls on the seller
+E) The burden of the tax is shared equally by the seller and the consumer.
+Answer:  B
+Diff: 2
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User2:  Quantitative
+There have been proposals that a tax be imposed on sugar-laden soft drinks in an attempt to reduce their consumption. Assume for simplicity that all bottled soft drinks are the same size. Suppose the initial market equilibrium is P = $2.00 and Q = 1000.
+
+
+
+FIGURE 4-4
+
+13) Refer to Figure 4-4. Suppose the government imposes a tax of $0.60 per soft drink purchased. The price paid by the consumer becomes
+A) $1.80.
+B) $2.00.
+C) $2.20.
+D) $2.40.
+E) $2.60.
+Answer:  D
+Diff: 1
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User1:  Graph
+User2:  Quantitative
+14) Refer to Figure 4-4.  Suppose the government imposes a tax of $0.60 per soft-drink purchased. The after-tax price received by the seller becomes
+A) $1.80.
+B) $2.00.
+C) $2.20.
+D) $2.40.
+E) $2.60.
+Answer:  A
+Diff: 1
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User1:  Graph
+User2:  Quantitative
+
+15) Refer to Figure 4-4. Suppose the government imposes a tax of $0.60 per soft drink purchased. The change in total expenditure on soft drinks is 
+A) a decrease of $80.
+B) a decrease of $160.
+C) an increase of $320.
+D) an increase of $480.
+E) No change in total expenditure.
+Answer:  A
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User1:  Graph
+User2:  Quantitative
+
+16) Refer to Figure 4-4. Suppose the government imposes a tax of $0.60 per soft drink purchased. Given the change in total expenditure on soft drinks after imposition of the excise tax, what do we know about the price elasticity of demand (η) for soft drinks?
+A) η is equal to 1
+B) η is equal to 0
+C) η is greater than 1
+D) η is less than 1
+E) There is not enough information to determine.
+Answer:  C
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User1:  Graph
+User2:  Quantitative
+17) Refer to Figure 4-4. Suppose the government imposes a tax of $0.60 per soft drink purchased. Which of the following statements most accurately describes the economic incidence of this tax?
+A) The consumer bears more of the burden because demand is elastic relative to supply.
+B) The seller bears more of the burden because supply is inelastic relative to demand.
+C) The consumer bears more of the burden because demand is inelastic relative to supply.
+D) The seller bears more of the burden because supply is elastic relative to demand.
+E) The burden is shared equally between consumer and seller because the slopes of the supply and demand curves are the same.
+Answer:  C
+Diff: 3
+Topic:  4.3. burden of an excise tax
+Skill:  Applied
+Learning Obj.:  4-4 See how elasticity of demand and supply determine the effects of an excise tax.
+User1:  Graph
+User2:  Quantitative
+
+4.4  Other Demand Elasticities
+
+1) The formula for income elasticity of demand may be written as which of the following?
+A) 
+B) 
+C) 
+D) 
+E) 
+Answer:  C
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+2) Income elasticity measures the change in quantity demanded of some product with respect to changes in
+A) the demand of the product.
+B) the price of another related product.
+C) its price.
+D) the supply of the product.
+E) households' income.
+Answer:  E
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+3) Income elasticity of demand measures the extent to which
+A) the price of a good changes when there is a change in income.
+B) the quantity demanded of a good changes when income changes.
+C) real household income changes when there is a change in the price of a good.
+D) one household's income changes when there is a change in the income of another household.
+E) quantity demanded changes when there is a change in price.
+Answer:  B
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+4) If a product's income elasticity of demand is -1.7, then we can conclude that
+A) an increase in income will lead to an increase in demand for the product.
+B) the product is certainly a necessity.
+C) the product is a luxury good.
+D) a decrease in income will lead to an increase in demand for the product.
+E) the product is a normal good.
+Answer:  D
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+5) If a product's income elasticity of demand is 1.7, we can conclude that
+A) an increase in income will lead to an increase in demand for the product.
+B) the product is certainly a necessity.
+C) the product is an inferior good.
+D) a decrease in income will lead to an increase in demand for the product.
+E) an increase in income will lead to an increase in quantity demanded of this product by 1.7%.
+Answer:  A
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+User2:  Quantitative
+6) Nancy's income has just risen from $950 per week to $1050 per week. As a result, she decides to double the number of movies she attends each week. Nancy's demand for movies is
+A) price elastic.
+B) income elastic.
+C) price inelastic.
+D) income inelastic.
+E) positively cross inelastic.
+Answer:  B
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+7) If the income elasticity of demand for some good is 2.4, a 10% increase in income results in
+A) a 24% increase in the quantity demanded.
+B) a 2.4% increase in the quantity demanded.
+C) a 240% increase in the quantity demanded.
+D) a 24% decrease in quantity demanded.
+E) a 240% decrease in quantity demanded.
+Answer:  A
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+8) When national income falls, sales of vacation packages also fall, even at constant prices. This fact suggests that the ________ elasticity of demand for vacation packages is ________.
+A) income; positive
+B) income; negative
+C) price; positive
+D) price; negative
+E) cross; positive
+Answer:  A
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+9) For a normal good, the quantity demanded
+A) responds inversely to changes in income.
+B) rises when income rises.
+C) rises when income falls.
+D) falls when income rises.
+E) does not change when income rises or falls.
+Answer:  B
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+10) Which of the following tends to be true of the income elasticity of demand for food?
+A) It tends to be well below unity only at low levels of income.
+B) It tends to be well above unity only at high levels of income.
+C) At low levels of income, it tends to be fairly high; but as the level of income rises, it tends to fall.
+D) It tends to remain fairly constant at all levels of income.
+E) It is usually zero, since we can only eat so much.
+Answer:  C
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+11) If the demand for a product has an income elasticity of -3.4, we can conclude that
+A) an increase in income will lead to an increase in demand for the product.
+B) the product is certainly a necessity.
+C) the product is a normal good.
+D) the product has a rising income-consumption curve.
+E) a decrease in income will lead to an increase in demand for the product.
+Answer:  E
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+12) If the income elasticity of demand for a good is 1.25, a 10% increase in income results in
+A) a 12.5% increase in the quantity demanded.
+B) a 12.5% decrease in the quantity demanded.
+C) a 125% increase in the quantity demanded.
+D) a decrease in quantity demanded.
+E) There is not enough information to answer this question.
+Answer:  A
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+13) An increase in income will
+A) increase the demand for SUVs if SUVs are inferior goods.
+B) always increase the demand for SUVs.
+C) increase the supply of SUVs.
+D) decrease the demand for SUVs if SUVs have a very low price.
+E) increase the demand for SUVs if SUVs are normal goods.
+Answer:  E
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+14) We can expect that the income elasticity of demand for gourmet catered meals would be ________ the income elasticity of demand for basic groceries.
+A) equivalent to
+B) not comparable to
+C) less than
+D) higher than
+E) lower than
+Answer:  D
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+15) If Vicky's income increases by 8% and she increases her consumption of music downloads by 4%, then her income elasticity of demand for music downloads is
+A) 4.0.
+B) -0.5.
+C) -2.0.
+D) 2.0.
+E) 0.5.
+Answer:  E
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+Consider the following data for a hypothetical economy.
+
+Year
+Average 
+Household Income
+ ($)
+Price 
+of Gasoline 
+($/litre)
+Quantity Demanded 
+of Gasoline 
+(millions of litres)
+2012
+78 000
+1.30
+1940
+2013
+82 000
+1.30
+2060
+
+TABLE 4-3
+
+16) Refer to Table 4-3. The income elasticity of demand for gasoline in this economy is
+A) 6.0.
+B) 0.5.
+C) 0.6.
+D) 8.3.
+E) 1.2.
+Answer:  E
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User1:  Table
+User2:  Quantitative
+Consider the following data for a hypothetical economy.
+
+Year
+Average Household Income ($)
+Price of Transit Passes ($)
+Quantity Demanded  Transit Passes
+2012
+78 000
+60
+ 99 000
+2013
+82 000
+60
+101 000
+
+TABLE 4-4
+
+17) Refer to Table 4-4. The income elasticity of demand for transit passes in this economy is
+A) 0.4.
+B) 0.5.
+C) 2.5.
+D) 2.5%.
+E) 3.0%.
+Answer:  A
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User1:  Table
+User2:  Quantitative
+
+18) Suppose the supply curve for breakfast cereals is upward sloping. Suppose also that as average household income increases we observe a fall in the price of breakfast cereal. We can conclude that breakfast cereal is a(n)
+A) luxury good.
+B) substitute good.
+C) inferior good.
+D) normal good.
+E) necessity good.
+Answer:  C
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+19) Normal goods
+A) have positive income elasticity of demand.
+B) have negative income elasticity of demand.
+C) have negative elasticity of supply.
+D) do not have elasticity of demand.
+E) are sometimes also inferior goods.
+Answer:  A
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+20) An inferior good has
+A) a positive income elasticity of demand.
+B) a negative income elasticity of demand.
+C) an income elasticity of demand greater than zero but less than 1.
+D) a positive income elasticity of demand and a price elasticity of demand greater than 1.
+E) a negative price elasticity of demand.
+Answer:  B
+Diff: 1
+Topic:  4.4a. income elasticity
+Skill:  Recall
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+21) If a producer knew his product to be an inferior good and he also knew average household income was falling, he might 
+A) decrease output because the demand for his product would rise.
+B) increase output because the demand for his product would rise.
+C) keep his output the same.
+D) cut output immediately because the demand for his product would surely fall.
+E) close down, because inferior goods are the first to be eliminated from household budgets when income falls.
+Answer:  B
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Qualitative
+
+22) Suppose national income is rising steadily at 2% per year over a 5-year period. Over the same time period, suppose quantity demanded for iPods and iPhones increases at 5% per year, but no other relevant variables are changing.  We can conclude that the income elasticity for these products is ________ and that these products are ________ goods.
+A) 0.4; inferior
+B) 4.0; normal
+C) 2.5; luxury
+D) 10.0; necessities
+E) 4.0; necessities
+Answer:  C
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+23) If the income elasticity of demand for a good is - 3.4, a 25% increase in income results in 
+A) a 4% increase in quantity demanded.
+B) a 0.85% increase in quantity demanded.
+C) an 8.5% decrease in quantity demanded.
+D) an 85% decrease in the quantity demanded.
+E) There is not enough information to answer this question.
+Answer:  D
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+24) If the income elasticity of demand for a good is 0.75, a 25% increase in income results in 
+A) an 18.75% increase in quantity demanded.
+B) a 3% increase in quantity demanded.
+C) a 0.1875% increase in quantity demanded.
+D) a 3% decrease in quantity demanded.
+E) There is not enough information to answer.
+Answer:  A
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+User2:  Quantitative
+
+25) Suppose the price elasticity of demand for good X is 1.5. If household income increases by 25%, ceteris paribus, what is the change in quantity demanded for good X?
+A) a 37.5% increase in quantity demanded
+B) a 3.75% increase in quantity demanded
+C) a 0.375% increase in quantity demanded
+D) no change in quantity demanded
+E) There is not enough information to answer this question.
+Answer:  E
+Diff: 3
+Topic:  4.4a. income elasticity
+Skill:  Applied
+Learning Obj.:  4-5 Measure the income elasticity of demand and be able to distinguish between normal and inferior goods.
+User2:  Quantitative
+
+26) Suppose empirical analysis concludes that the income elasticity of demand for Kraft Dinner (KD) is -0.2.  The interpretation of this result is that
+A) a 10% increase in income will lead to a 2% decrease in quantity demanded of KD.
+B) a 10% increase in income will lead to a 20% decrease in quantity demanded of KD.
+C) a 10% increase in income will lead to a 0.2% decrease in quantity demanded of KD.
+D) a 10% increase in income will lead to a 2% increase in quantity demanded of KD.
+E) a 10% increase in income will lead to a 20% increase in quantity demanded of KD.
+Answer:  A
+Diff: 2
+Topic:  4.4a. income elasticity
+Skill:  Applied
+User2:  Quantitative
+27) Cross-price elasticity of demand may be defined as
+A) .
+B) .
+C) .
+D) .
+E) .
+Answer:  C
+Diff: 1
+Topic:  4.4b. cross elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+
+28) If two goods, X and Y, have a negative cross elasticity of demand, then we know that they
+A) are substitutes.
+B) are complements.
+C) are both inferior goods.
+D) each have a price elasticity greater than one.
+E) are both normal goods.
+Answer:  B
+Diff: 1
+Topic:  4.4b. cross elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+
+29) If two goods, X and Y, have a positive cross elasticity of demand, then we know that they
+A) are both normal goods.
+B) are complements.
+C) are both inferior goods.
+D) each have a price elasticity greater than one.
+E) are substitutes.
+Answer:  E
+Diff: 1
+Topic:  4.4b. cross elasticity of demand
+Skill:  Recall
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+30) Suppose the cross elasticity of demand between two goods, X and Y, is negative. If the price of X decreases, the quantity demanded will
+A) rise for both goods.
+B) fall for both goods.
+C) rise for X and fall for Y.
+D) fall for X and rise for Y.
+E) not change.
+Answer:  A
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+
+31) Suppose the cross elasticity of demand for two goods, X and Y, is positive. If the price of Y falls, then quantity demanded will
+A) rise for both goods.
+B) fall for both goods.
+C) rise for X and fall for Y.
+D) fall for X and rise for Y.
+E) remain the same for both goods.
+Answer:  D
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+
+32) If pizza and beer are complementary goods, we can conclude that
+A) the income elasticity of demand is positive.
+B) their cross-elasticity of demand is positive.
+C) both goods are inferior goods.
+D) the income elasticity of demand is negative.
+E) their cross-elasticity of demand is negative.
+Answer:  E
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+33) For which of the following pairs of products would we expect the cross elasticity of demand to be negative?
+A) printers and toner cartridges
+B) iPhones and BlackBerry smartphones
+C) butter and margarine
+D) LCD TVs and plasma TVs
+E) acetaminophen and ibuprofen
+Answer:  A
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Quantitative
+
+34) During the 1970s, OPEC's output restrictions caused gasoline prices to increase sharply. Coincidentally, demand for gas-guzzling cars fell. A likely explanation for these observations is that gasoline and cars had a ________ elasticity of demand that was ________.
+A) cross; negative
+B) cross; positive
+C) income; negative
+D) income; positive
+E) price; negative
+Answer:  A
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+
+35) Suppose the cross-price elasticity of demand between raspberry jam and strawberry jam is 7.5. The interpretation of this result is that
+A) a 10% increase in the price of strawberry jam leads to a 7.5% increase in quantity demanded of raspberry jam.
+B) a 10% increase in the price of strawberry jam leads to a 0.75% increase in quantity demanded of raspberry jam.
+C) a 10% increase in the price of strawberry jam leads to a 75% increase in quantity demanded of raspberry jam.
+D) a 10% increase in the price of strawberry jam leads to a 7.5% decrease in quantity demanded of raspberry jam.
+E) a 10% increase in the price of strawberry jam leads to a 75% decrease in quantity demanded of raspberry jam.
+Answer:  C
+Diff: 2
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+User2:  Quantitative
+36) The price of apples at a local market rises from $2.95 to $3.05 per kilogram, and as a result the quantity of oranges that households purchase increases from 3950 to 4050 kilograms per week. The cross-price elasticity is
+A) -1.33.
+B) -0.75.
+C) 0.75.
+D) 1.33.
+E) 1.5.
+Answer:  C
+Diff: 3
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Quantitative
+
+37) Suppose the cross-elasticity of demand for two goods, domestic cheese and imported cheese, is positive. If the price of imported cheese falls, then quantity demanded will
+A) rise for both domestic and imported cheese.
+B) fall for both domestic and imported cheese.
+C) rise for domestic cheese and fall for imported cheese.
+D) fall for domestic cheese and rise for imported cheese.
+E) There is not enough information to answer this question.
+Answer:  D
+Diff: 3
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User2:  Qualitative
+Consider the following data for a hypothetical economy.
+
+Year
+Average Household Income 
+($)
+Price of Transit Passes 
+($)
+Quantity Demanded of Transit Passes
+Price of Gasoline ($/litre)
+Quantity Demanded of Gasoline (millions of litres)
+2012
+80 000
+60
+ 99 000
+0.95
+1940
+2013
+80 000
+60
+101 000
+1.05
+2060
+
+TABLE 4-5
+
+38) Refer to Table 4-5. The cross-price elasticity of demand for transit passes in terms of the price of gasoline is ________. We can therefore conclude that these two goods are ________.
+A) 0.5; substitutes
+B) 0.2; substitutes
+C) 5.0; complements
+D) 0.2; complements
+E) 0.33; substitutes
+Answer:  B
+Diff: 3
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User1:  Table
+User2:  Quantitative
+
+39) Refer to Table 4-5. The cross-price elasticity of demand for transit passes in terms of the price of gasoline is ________.  A rise in the price of gasoline causes the demand curve for transit passes to shift to the ________.
+A) 5.0; right
+B) 0.33; right
+C) 0.33; left
+D) 0.2; right
+E) 0.2; left
+Answer:  D
+Diff: 3
+Topic:  4.4b. cross elasticity of demand
+Skill:  Applied
+Learning Obj.:  4-6 Measure cross elasticity of demand and be able to distinguish between substitute and complement goods.
+User1:  Table
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 58
+Copyright © 2017 Pearson Education, Inc.
+
+
+

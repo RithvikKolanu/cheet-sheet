@@ -1,0 +1,2135 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 7   Producers in the Short Run
+
+7.1  What Are Firms?
+
+1) A single proprietorship is a form of business organization which 
+A) has one owner-manager who is personally responsible for the firm's actions and debts.
+B) has a single owner but has directors who are responsible for the firm's debts.
+C) has limited liability.
+D) has unlimited access to money capital.
+E) allows easy transferability of ownership by the trading of shares.
+Answer:  A
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+2) Which of the following statements describes an advantage to the owner of a single proprietorship? 
+A) The owner's liability is limited to the amount he or she actually invests in the firm.
+B) He or she has limited liability.
+C) The owner can readily maintain full and complete control over every aspect of the firm's operation.
+D) The firm has a legal existence separate from its owner.
+E) Shares of the firm can be traded on any stock exchange.
+Answer:  C
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+3) A firm that has two or more owners who share decision-making power as well as the firm's profits is called
+A) a single proprietorship.
+B) a partnership.
+C) a corporation.
+D) a non-profit organization.
+E) a joint-stock company.
+Answer:  B
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+4) A limited partnership differs from an ordinary partnership by
+A) having a limited number of partners.
+B) having a limited number of partners, each with limited liability.
+C) including some partners whose liability is restricted to the amount that they invested in the firm.
+D) having limited liability of all partners.
+E) having unlimited liability for all partners.
+Answer:  C
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+5) Which of the following items is part of a firm's financial capital as distinct from its real capital?
+A) a new bulldozer
+B) a $500 000 balance in a bank account
+C) a network of personal computers
+D) a fleet of delivery trucks
+E) inventory of goods valued at $1 000 000 
+Answer:  B
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Applied
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+6) Which of the following statements is NOT true of a corporation?
+A) It can enter into contracts.
+B) It is an entity separate from the individuals who own it.
+C) It can incur debt that is an obligation of the corporation but not of its individual owners.
+D) It has the right to sue and be sued.
+E) It is legally obliged to distribute all profits to shareholders.
+Answer:  E
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+7) A firm can raise financial capital without incurring debt by
+A) issuing bonds.
+B) making extra dividend payments.
+C) issuing new shares.
+D) increasing its bank loans.
+E) investing in new capital equipment.
+Answer:  C
+Diff: 2
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+8) Which of the following statements about the organization of firms is true?
+A) Partnerships are the most common form of business organization in Canada.
+B) Owners of a corporation have unlimited liability.
+C) Corporations have limited access to money markets.
+D) Owners of a corporation are not personally liable for the firm's actions, though its directors may be.
+E) Crown corporations are never interested in increasing profits because they have other goals.
+Answer:  D
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+9) Churches, the YMCA, the Salvation Army, and the Nature Conservancy are examples of
+A) single proprietorship.
+B) partnership.
+C) non-profit organizations.
+D) limited partnership.
+E) corporations.
+Answer:  C
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Applied
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+10) An example of "real" capital is
+A) shares in a corporation.
+B) corporate bonds.
+C) a firm's balance in a bank account.
+D) a firm's computer systems.
+E) a firm's retained earnings.
+Answer:  D
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Applied
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+11) Real capital includes
+A) a firm's physical assets.
+B) corporate bonds.
+C) corporate stock.
+D) a firm's balance in its bank account.
+E) owner's equity.
+Answer:  A
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+12) Undistributed profits of a firm are 
+A) earnings that are used to pay dividends to shareholders.
+B) earnings that are used to cover the costs of production.
+C) earnings that are used to cover interest expenses of the firm.
+D) profits that are paid out to owners of the firm.
+E) profits that are available to be reinvested in the firm's operations.
+Answer:  E
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+13) When a corporation issues a bond
+A) the purchaser of the bond assumes ownership rights in the corporation.
+B) it is making a promise to pay interest each year and to repay the principal at a stated time in the future.
+C) it is called equity capital.
+D) it is called financing through the stock market.
+E) it is making a promise to pay interest each year but not repay the principal.
+Answer:  B
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+14) An example of debt financing for any form of business organization is
+A) issuing new stock.
+B) buying back bonds.
+C) borrowing from a bank.
+D) using undistributed profits.
+E) buying back previously issued stock.
+Answer:  C
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+15) It is assumed in standard economic theory that a firm makes decisions in an effort to 
+A) become as large as possible.
+B) have a highly diversified product.
+C) be favoured politically.
+D) maximize its revenue.
+E) maximize its profits.
+Answer:  E
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+16) "An objective of firms is to maximize profits." This statement 
+A) has been proven by empirical testing to be always true.
+B) is an assumption used by economists to predict the behaviour of firms.
+C) is a normative statement and thus cannot be tested.
+D) applies only to corporations.
+E) is an unrealistic assumption, and therefore of little use to economists.
+Answer:  B
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+17) The theory of the firm is based on the following two key assumptions:
+A) Firms seek to become as large as possible, and they seek to maximize total revenue.
+B) Each firm has a highly diversified product, and this leads to profit maximization.
+C) Firms seek to maximize profit, and to distribute the maximum value in dividends.
+D) Firms seek to maximize profits, and the firm is a single, consistent decision-making unit.
+E) Firms seek to maximize revenues, and to maximize undistributed profits.
+Answer:  D
+Diff: 2
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Recall
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+
+18) Which of the following is the best example of an input to production that is an intermediate product?
+A) 40 acres of farmland
+B) the skills and training of a web designer
+C) computer circuit boards
+D) a textile factory
+E) a sewing machine
+Answer:  C
+Diff: 1
+Topic:  7.1. organization, financing, and goals of firms
+Skill:  Applied
+Learning Obj.:  7-1 Identify the various forms of business organization and discuss the different ways that firms can be financed.
+User2:  Qualitative
+7.2  Production, Costs, and Profits
+
+1) The relationship between factors of production used in the production process and the resulting output is called a(n)
+A) consumption possibilities boundary.
+B) economic function.
+C) production boundary.
+D) cost function.
+E) production function.
+Answer:  E
+Diff: 1
+Topic:  7.2a. production functions
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+2) Economists use the notation Q = f(L,K) to describe
+A) the flow of labour (L) and capital (K) services that are available when output is (Q).
+B) the financial relationship between the inputs that a firm uses and the outputs that it produces.
+C) the arithmetic relationship between the outputs that a firm uses and the inputs that it produces.
+D) the technological relationship between the inputs that a firm uses and the outputs that it produces.
+E) the level of output (Q) required to fully employ labour (L) and capital (K).
+Answer:  D
+Diff: 2
+Topic:  7.2a. production functions
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+3) The equation Q = 0.5KL - (0.4)L + 2L2 is an example of
+A) a factor of production equation.
+B) an economic input function.
+C) a technological change equation.
+D) an arithmetic expression of output quantities.
+E) a production function.
+Answer:  E
+Diff: 1
+Topic:  7.2a. production functions
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+4) Suppose a production function for a firm takes the following algebraic form: Q = 2KL - (0.2)L2, where Q is the output of sweaters per day. Now suppose the firm is operating with 8 units of capital (K=8) and 10 units of labour (L=10). What is the output of sweaters?
+A) 30 sweaters per day
+B) 60 sweaters per day
+C) 80 sweaters per day
+D) 140 sweaters per day
+E) 155 sweaters per day
+Answer:  D
+Diff: 2
+Topic:  7.2a. production functions
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Quantitative
+
+5) Suppose a production function for a firm takes the following algebraic form: Q = (0.5)KL - 40L, where Q is the output of paintbrushes per week. Now suppose the firm is operating with 100 units of capital (K = 100) and 30 000 units of labour (L = 30 000). What is the output of paintbrushes per week?
+A) 30 000
+B) 300 000
+C) 1 200 000
+D) 1 500 000
+E) 3 000 000
+Answer:  B
+Diff: 2
+Topic:  7.2a. production functions
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Quantitative
+
+6) Suppose a production function for a firm takes the following algebraic form: Q = (0.25)K × (1.5)L2, where Q is the output of garage doors produced per month. Now suppose the firm is operating with 10 units of capital (K = 10) and 8 units of labour (L = 8). What is the output of garage doors per month?
+A) 24
+B) 240
+C) 300
+D) 2400
+E) 3000
+Answer:  B
+Diff: 2
+Topic:  7.2a. production functions
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Quantitative
+7) The opportunity cost of any factor of production is
+A) its accounting cost.
+B) the money actually paid to the factors of production.
+C) the benefit forgone by not using it in its worst alternative.
+D) the benefit forgone by not using it in its best alternative.
+E) its explicit cost.
+Answer:  D
+Diff: 1
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+8) The choices listed below involve costs to the firm. For which is the implicit cost potentially different than its explicit cost?
+A) The use of firm-owned assets.
+B) The services of hired workers.
+C) The use of rented land.
+D) The interest paid on borrowed money.
+E) The purchase of raw materials used in production.
+Answer:  A
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+9) The opportunity cost to a firm of using an asset is zero if
+A) the asset is already owned by the firm.
+B) no money was spent to acquire the asset.
+C) the asset has no alternative uses.
+D) the asset has zero sunk costs associated with it.
+E) the asset was given to the firm for free.
+Answer:  C
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+10) The opportunity cost of money that a firm's owner has invested in the firm is an example of
+A) direct production costs.
+B) accounting costs.
+C) sunk costs.
+D) implicit costs.
+E) explicit costs.
+Answer:  D
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+11) If a firm uses factor inputs that are personally owned by the firm's owner, then economists refer to the opportunity cost of these inputs as
+A) direct production costs.
+B) accounting costs.
+C) sunk costs.
+D) implicit costs.
+E) inverted costs.
+Answer:  D
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+12) Economic profits are less than accounting profits because the calculation of economic profit 
+A) includes an amount for depreciation.
+B) includes an explicit charge for risk taking.
+C) includes the implicit charges for the use of capital owned by the firm and for risk taking.
+D) includes the implicit charges for the use of capital owned by the firm and for income taxes.
+E) is stipulated in regulations set forth by the Canada Revenue Agency.
+Answer:  C
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+13) We can predict that resources will move into an industry whenever
+A) accounting profits for firms in that industry are greater than zero.
+B) accounting profits for firms in that industry are zero.
+C) economic profits for firms in that industry are zero.
+D) economic profits for firms in that industry are greater than zero.
+E) economic losses for firms in that industry are minimized.
+Answer:  D
+Diff: 1
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+14) If Michelle used $1000 from her savings account, which was paying 6% interest annually, to invest in her brother's new sporting-goods store, the opportunity cost of her investment on an annual basis would be
+A) $60.
+B) $1000.
+C) $1060.
+D) her share of the store's profits.
+E) the dividend paid to her by her brother.
+Answer:  A
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Quantitative
+
+15) Consider the production costs for a firm, one of which is the cost of depreciation. Depreciation costs are 
+A) payments to outside suppliers.
+B) the cost of money borrowed to buy a durable asset.
+C) an estimate of the loss of value of the firm's physical capital.
+D) a measure of the depreciation of financial assets of the firm.
+E) irrelevant to an accounting of the firm's total costs.
+Answer:  C
+Diff: 2
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+The table below provides the annual revenues and costs for a family-owned firm producing catered meals.
+
+Total Revenues ($)
+500 000
+
+
+Total Costs ($)
+
+- wages and salaries
+200 000
+- risk-free return of 6% on owners' capital of 250 000
+15 000
+- rent
+105 000
+- depreciation of capital equipment
+25 000
+ - risk premium of 8% on owners' capital of 250 000
+20 000
+- intermediate inputs    
+150 000
+- forgone wages of owners in alternative employment   
+80 000
+- interest on bank loan 
+10 000
+
+TABLE 7-1
+
+16) Refer to Table 7-1. The explicit costs for this family-owned firm are
+A) $115 000.
+B) $490 000.
+C) $500 000.
+D) $505 000.
+E) $605 000.
+Answer:  B
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 7-1. The implicit costs for this family-owned firm are
+A) $35 000.
+B) $80 000.
+C) $100 000.
+D) $115 000.
+E) $490 000.
+Answer:  D
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 7-1. The accounting profits for this family-owned firm are
+A) -$15 000.
+B) $0.
+C) $10 000.
+D) $30 000.
+E) $500 000.
+Answer:  C
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 7-1. The economic profits for this family-owned firm are
+A) $115 000.
+B) $10 000.
+C) $0.
+D) -$10 000.
+E) -$105 000.
+Answer:  E
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 7-1. To an accountant, this family-owned catering company is earning ________. To an economist, the same firm is earning ________.
+A) zero profit; economic losses
+B) zero profit; normal profits
+C) positive profits; economic losses
+D) economic profits; economic profits
+E) economic profits; economic losses
+Answer:  C
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+The table below provides the total revenues and costs for a small landscaping company in a recent year.
+
+Total Revenues ($)
+250 000
+
+
+Total Costs ($)
+
+- wages and salaries
+150 000
+- risk-free return of 2% on owner's capital of $20 000
+400
+- interest on bank loan
+1500
+- cost of supplies
+27 000
+- depreciation of capital equipment
+8000
+- additional wages the owner could have earned in next
+   best  alternative
+30 000
+- risk premium of 4% on owner's capital of $20 000
+800
+
+TABLE 7-2
+
+21) Refer to Table 7-2. The explicit costs for this firm are
+A) $178 500.
+B) $186 500.
+C) $186 900.
+D) $217 300.
+E) $217 700.
+Answer:  B
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+22) Refer to Table 7-2.  The implicit costs for this firm are
+A) $31 200.
+B) $30 800.
+C) $30 400.
+D) $400.
+E) $800.
+Answer:  A
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+23) Refer to Table 7-2.  The accounting profits for this firm are
+A) $32 300.
+B) $32 700.
+C) $63 100.
+D) $63 500.
+E) $71 500.
+Answer:  D
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 7-2.  The economic profits for this firm are
+A) $63 500.
+B) $32 700.
+C) $33 500.
+D) $31 200.
+E) $32 300.
+Answer:  E
+Diff: 3
+Topic:  7.2b. economic vs. accounting profits
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User1:  Table
+User2:  Quantitative
+
+25) With regard to economic decision making for firms, the short run is
+A) a definite number of months.
+B) a period over which the quantities of all factors of production and technology are variable.
+C) a period over which the quantity of at least one significant factor of production is fixed.
+D) a period over which the quantities of all factors of production are variable but technology is fixed.
+E) less than one year.
+Answer:  C
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+26) With regard to economic decision making for firms, the long run is a period in which
+A) all factors of production are variable but technology is fixed.
+B) technology is variable.
+C) only some of the factors of production are variable.
+D) technology may be variable, but some factors of production are fixed.
+E) only capital is variable.
+Answer:  A
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+27) Which of the following is most likely a long-run decision for a firm?
+A) The hours a store should stay open. 
+B) How many warehouses to build.
+C) The number of workers to hire.
+D) The amount of inventory to stock.
+E) The price at which to sell the product.
+Answer:  B
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Applied
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+28) The period of time over which at least one factor of production is fixed is called the
+A) very-short run.
+B) short run.
+C) long run.
+D) very-long run.
+E) immediate run.
+Answer:  B
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+29) The period of time over which the firm can vary any of its inputs for a given production technology is called the 
+A) very-short run.
+B) short run.
+C) long run.
+D) very-long run.
+E) immediate run.
+Answer:  C
+Diff: 2
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+30) Which of the following factors of production is most likely to be variable in the short run?
+A) capital equipment
+B) land
+C) labour
+D) entrepreneurship
+E) technology
+Answer:  C
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+31) The period of time over which all factors of production and technology are variable is known as the
+A) very-short run.
+B) short run.
+C) long run.
+D) very-long run.
+Answer:  D
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+
+32) The period of time over which the firm can vary its technology of production is the
+A) very-short run.
+B) short run.
+C) long run.
+D) very-long run.
+E) none of the above; technology cannot be varied.
+Answer:  D
+Diff: 1
+Topic:  7.2c. time horizons for firms
+Skill:  Recall
+Learning Obj.:  7-2 Distinguish between accounting profits and economic profits.
+User2:  Qualitative
+7.3  Production in the Short Run
+
+1) What information is provided by average, marginal, and total product curves?
+A) They demonstrate that each of these measures of output increase as more inputs are applied.
+B) They demonstrate that, in the short run, all inputs are variable.
+C) They relate the prices of inputs (factors of production) to the prices of products.
+D) They relate the price of output to the quantity supplied.
+E) They express relationships between physical inputs and physical outputs.
+Answer:  E
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+2) Consider a firm in the short run. Average product is at its maximum when
+A) total product is maximized.
+B) marginal product is maximized.
+C) the maximum quantity of the variable input is employed.
+D) diminishing returns cease to operate.
+E) average product equals marginal product and marginal product is falling.
+Answer:  E
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+3) Consider a firm in the short run. If total product is at its maximum, then
+A) average product must equal marginal product.
+B) average product must be rising and must lie above marginal product.
+C) marginal product must be greater than zero and must be falling.
+D) marginal product must be falling and be equal to zero.
+E) average product must be falling and be equal to zero.
+Answer:  D
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+4) Consider a firm in the short run. If the AP curve is rising, then the MP curve
+A) must lie above the average-product curve over this range and must also be rising.
+B) must lie above the average-product curve over this range.
+C) can be either above or below the average-product curve, although it must be rising over the entire range.
+D) must lie below the average-product curve over this range.
+E) must be falling.
+Answer:  B
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+5) Consider a firm in the short run. If AP = MP and both are positive, then total product
+A) is at a maximum.
+B) is decreasing as extra units of the variable factor are employed.
+C) is increasing as extra units of the variable factor are employed.
+D) may be either increasing or decreasing as extra units of the variable factor are employed.
+E) is at its minimum.
+Answer:  C
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+6) Consider a firm in the short run. When the total-product curve is increasing at an increasing rate
+A) average product is zero.
+B) marginal product is positive but declining.
+C) the marginal-product curve lies below the average-product curve.
+D) marginal product is positive and increasing.
+E) average product is falling.
+Answer:  D
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+7) Which of the following statements about the relationship between marginal product and average product is correct?
+A) When average product exceeds marginal product, marginal product must be rising.
+B) When marginal product is falling, average product is falling.
+C) When marginal product exceeds average product, average product must be rising.
+D) Average product equals marginal product at marginal product's lowest point.
+E) Average product equals marginal product when marginal product is at its maximum.
+Answer:  C
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+FIGURE 7-1
+
+8) Refer to Figure 7-1. The marginal product of labour curve intersects the average product of labour curve when
+A) the firm is at its capacity.
+B) the firm achieves increasing returns.
+C) average product is at its maximum.
+D) diminishing returns sets in.
+E) total product is at its maximum.
+Answer:  C
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Graph
+User2:  Qualitative
+
+9) Refer to Figure 7-1. Total product is increasing at an increasing rate 
+A) from 0 to 32 units of output.
+B) from 0 to 140 units of output.
+C) between 140 to 200 units of output.
+D) between 200 to 250 units of output.
+E) over the whole production range.
+Answer:  B
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 7-1. Total product is increasing at a decreasing rate 
+A) from 0 to 20 units of output.
+B) from 0 to 32 units of output.
+C) between 140 to 200 units of output.
+D) between 140 to 250 units of output.
+E) over the whole production range.
+Answer:  D
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Graph
+User2:  Qualitative
+11) Refer to Figure 7-1. If the firm hires the 15th unit of labour,
+A) the extra output will be zero.
+B) average product will rise.
+C) marginal product will be unchanged.
+D) the firm will reach its capacity.
+E) output will increase by 2 units of output.
+Answer:  A
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Graph
+User2:  Qualitative
+
+12) Refer to Figure 7-1.  Suppose each unit of labour represents one worker for one month.  What is the maximum number of workers the firm could hire so that the final worker hired still raises the average product of the other workers?
+A) 7
+B) 8
+C) 9
+D) 11
+E) 15
+Answer:  C
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Graph
+User2:  Quantitative
+
+13) In the short run, the firm's product curves show
+A) AP is at its minimum when MP = AP.
+B) TP is at its maximum when MP = O.
+C) TP begins to decrease when AP begins to decrease.
+D) when MP > AP, AP is decreasing.
+E) when the MP curve cuts the AP curve from below, the AP curve begins to fall.
+Answer:  B
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+14) In the short run, the firm's product curves show 
+A) AP is at its minimum when MP = AP.
+B) TP is at its maximum when MP is at its maximum.
+C) TP begins to decrease when AP begins to decrease.
+D) when MP < AP, AP is increasing.
+E) when the MP curve cuts the AP curve from above, the AP curve begins to fall.
+Answer:  E
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+15) Suppose that when a firm hires one additional unit of labour, total product increases from 100 to 110 units of output per month. Marginal product must therefore be
+A) increasing.
+B) positive.
+C) decreasing.
+D) constant.
+E) zero.
+Answer:  B
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+The following data show the total output for a firm when different amounts of labour are combined with a fixed amount of capital.  Assume that the wage per unit of labour is $10 and the cost of the capital is $50.
+
+Labour per period
+Total output per period
+0
+  0
+1
+ 10
+2
+ 30
+3
+ 90
+4
+132
+5
+150
+
+TABLE 7-3
+
+16) Refer to Table 7-3. The marginal product of labour is at its maximum when the firm changes the amount of labour hired from
+A) 0 to 1 unit.
+B) 1 to 2 units.
+C) 2 to 3 units.
+D) 3 to 4 units.
+E) 4 to 5 units.
+Answer:  C
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 7-3. The average product of labour is highest when the firm hires
+A) 1 unit of labour.
+B) 2 units of labour.
+C) 3 units of labour.
+D) 4 units of labour.
+E) 5 units of labour.
+Answer:  D
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 7-3. What is the marginal product of the 4th unit of labour hired by the firm?
+A) 42
+B) 60
+C) 132
+D) 900
+E) 1320
+Answer:  A
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 7-3. What is the total output per period when this firm is employing labour such that the marginal product of labour is at its maximum?
+A) 30
+B) 60
+C) 90
+D) 132
+E) 150
+Answer:  D
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 7-3. Diminishing marginal product of labour is first observed when the firm changes the amount of labour hired from
+A) 0 to 1 units.
+B) 1 to 2 units.
+C) 2 to 3 units.
+D) 3 to 4 units.
+E) 4 to 5 units.
+Answer:  E
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+21) Refer to Table 7-3. The average product of labour when the firm hires 3 units of labour is ________. The average product of labour when the firm hires 4 units of labour is ________.
+A) 30; 33
+B) 90; 132
+C) 60; 42
+D) 90; 222
+E) 30; 90
+Answer:  A
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+The following data show the total output for a firm when specified amounts of labour are combined with a fixed amount of capital. When answering the questions, you are to assume that the wage per unit of labour is $25 and the cost of the capital is $100.
+
+Labour per unit of time
+Total output
+0
+  0
+1
+ 25
+2
+ 75
+3
+175
+4
+250
+5
+305
+
+TABLE 7-4
+
+22) Refer to Table 7-4. The marginal product of labour is at its maximum when the firm changes the amount of labour hired from
+A) 0 to 1 unit.
+B) 1 to 2 units.
+C) 2 to 3 units.
+D) 3 to 4 units.
+E) 4 to 5 units.
+Answer:  C
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+23) Refer to Table 7-4. Diminishing marginal productivity of labour is first observed when the firm changes the amount of labour hired from
+A) 0 to 1 unit.
+B) 1 to 2 units.
+C) 2 to 3 units.
+D) 3 to 4 units.
+E) 4 to 5 units.
+Answer:  D
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 7-4. The average product of labour is highest when the firm hires ________ units of labour.
+A) 1 
+B) 2
+C) 3
+D) 4
+E) 5
+Answer:  D
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 7-4. The marginal product of labour curve intersects the average product of labour curve from above when the firm changes the amount of labour per unit of time from
+A) 0 to 1 units.
+B) 1 to 2 units.
+C) 2 to 3 units.
+D) 3 to 4 units.
+E) 4 to 5 units.
+Answer:  E
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+26) Refer to Table 7-4.  Marginal product of labour begins decreasing with the ________ unit of labour hired. Average product of labour begins decreasing with the ________ unit of labour hired.
+A) 4th; 3rd
+B) 3rd; 2nd
+C) 2nd; 3rd
+D) 3rd; 4th
+E) 4th; 5th
+Answer:  E
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User1:  Table
+User2:  Quantitative
+
+27) Suppose NHL hockey player Jarome Iginla is averaging three points per game going into the last game of the season in which he collects four points, thereby changing his average for the season. To use an analogy in economics, it could be said that average product increases
+A) when total product increases.
+B) when marginal product exceeds average product.
+C) when average product exceeds marginal product.
+D) when marginal product increases.
+E) whenever marginal product is positive.
+Answer:  B
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+28) Consider a basket-producing firm with fixed capital. If the firm can produce 36 baskets per day with 3 workers and then increases productivity to 44 baskets per day with 4 workers, then which of the following statements is true?
+A) The marginal product of the fourth worker is 11.
+B) The firm has passed the point of diminishing average productivity.
+C) The marginal product is above the average product.
+D) The firm has not yet reached the point of diminishing marginal productivity.
+E) With 4 workers, the firm's average product of labour is 13.
+Answer:  B
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Quantitative
+29) Consider a basket-producing firm with fixed capital. If the firm can produce 36 baskets per day with 3 workers and then increases production to 44 baskets per day with 4 workers, then which of the following statements is true?
+A) The marginal product of the fourth worker is 11. 
+B) With 4 workers, the marginal product is above the average product.
+C) The firm has not yet reached the point of diminishing marginal productivity.
+D) The firm has passed the point of diminishing marginal productivity. 
+E) With 4 workers, the firm's average product of labour is 8. 
+Answer:  D
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Quantitative
+
+30) Consider a basket-producing firm with fixed capital. If the firm can produce 24 baskets per day with 3 workers and then increases production to 36 baskets per day with 4 workers, then which of the following statements is definitely true? 
+A) The firm has passed the point of diminishing marginal productivity. 
+B) The marginal productivity of the fourth worker is 9.
+C) The firm has passed the point of diminishing average productivity. 
+D) With 4 workers, the average product is greater than the marginal product. 
+E) With 4 workers, the marginal product is greater than the average product. 
+Answer:  E
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Quantitative
+
+31) Consider a basket-producing firm with fixed capital. If the firm can produce 24 baskets per day with 3 workers and then increases production to 36 baskets per day with 4 workers, then which of the following statements is definitely true? 
+A) Marginal product for this firm is rising.
+B) The marginal product of the fourth worker is 9.
+C) Average product for this firm is rising. 
+D) The firm has passed the point of diminishing marginal productivity.
+E) With 4 workers, the average product is greater than the marginal product. 
+Answer:  C
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Quantitative
+32) Consider a house-construction firm with fixed capital.  The firm can build 8 houses per year with 16 workers and 8.8 houses per year with 17 workers. If it is currently building 8.8 houses per year, which of the following is true?
+A) Average product is at a maximum with 16 workers.
+B) Average product is at a maximum with 17 workers.
+C) The marginal product is below the average product.
+D) The firm has already passed the point of diminishing marginal productivity.
+E) The firm has not yet reached the point of diminishing average productivity.
+Answer:  E
+Diff: 3
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Quantitative
+
+33) If increasing quantities of a variable factor are applied to a given quantity of fixed factors, then the law of diminishing returns tells us that
+A) the marginal product and the average product of the variable factor will eventually decrease.
+B) the marginal product will eventually decrease with constant average product.
+C) the average product will eventually decrease with constant marginal product.
+D) the average product will eventually decrease, but only if total product is held constant.
+E) total product will eventually begin to fall.
+Answer:  A
+Diff: 1
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+34) When a firm's total-product curve is increasing at a decreasing rate
+A) average product is zero.
+B) marginal product is positive but declining.
+C) the marginal-product curve lies below the average-product curve.
+D) marginal product is negative and decreasing.
+E) average product is falling.
+Answer:  B
+Diff: 2
+Topic:  7.3a. total product, average product, and marginal product
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+35) Diminishing marginal product of labour is said to exist when there is 
+A) an increase in the amount of capital available for each unit of labour.
+B) a reduction in the level of labour input that causes output to increase.
+C) an increase in the division and specialization of labour.
+D) technological advancement.
+E) a successively smaller increase in output with each successive unit increase in labour input.
+Answer:  E
+Diff: 2
+Topic:  7.3b. law of diminishing returns
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+36) The law of diminishing returns states that if increasing quantities of a variable factor are applied to a given quantity of fixed factors, then
+A) the MP and the AP of the variable factor will eventually decrease.
+B) the MP will eventually decrease with constant AP.
+C) the AP will eventually decrease with constant MP.
+D) the AP will eventually decrease, but only if TP is held constant.
+E) TP will eventually begin to fall.
+Answer:  A
+Diff: 2
+Topic:  7.3b. law of diminishing returns
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+37) The point of diminishing marginal productivity is the point where
+A) marginal product has reached its maximum.
+B) average product has reached its maximum.
+C) the marginal product begins to fall at an increasing rate.
+D) the total product begins to fall.
+E) the marginal product curve lies below the average product curve.
+Answer:  A
+Diff: 2
+Topic:  7.3b. law of diminishing returns
+Skill:  Recall
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+38) Suppose sport-fishermen on the Campbell River in British Columbia are catching fewer fish and are having to fish many more hours to catch them. However, the total number of fish caught on the river continues to increase. The river is experiencing
+A) diminishing total returns.
+B) constant marginal returns.
+C) increasing marginal returns.
+D) diminishing marginal returns.
+E) increasing average returns.
+Answer:  D
+Diff: 2
+Topic:  7.3b. law of diminishing returns
+Skill:  Applied
+Learning Obj.:  7-3 Understand the relationships among total product, average product, and marginal product; and the law of diminishing marginal returns.
+User2:  Qualitative
+
+7.4  Costs in the Short Run
+
+1) In economics, the term "fixed costs" means
+A) implicit costs.
+B) opportunity costs.
+C) costs that are never accounted for.
+D) costs incurred in the past that involve no implicit costs.
+E) costs that do not vary with the level of output produced.
+Answer:  E
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+The following data show the total output for a firm when specified amounts of labour are combined with a fixed amount of capital. When answering the questions, you are to assume that the wage per unit of labour is $25 and the cost of the capital is $100.
+
+Labour per unit of time
+Total output
+0
+  0
+1
+ 25
+2
+ 75
+3
+175
+4
+250
+5
+305
+
+TABLE 7-4
+
+2) Refer to Table 7-4. Average fixed costs for 305 units of output is approximately
+A) 33 cents.
+B) 41 cents.
+C) 45 cents.
+D) 74 cents.
+E) $3.05.
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+3) Refer to Table 7-4. Average variable costs for 175 units of output is approximately
+A) 25 cents.
+B) 32 cents.
+C) 43 cents.
+D) 57 cents.
+E) $1.00.
+Answer:  C
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+4) Refer to Table 7-4. The average total cost for 250 units of output is approximately
+A) 33 cents.
+B) 40 cents.
+C) 63 cents.
+D) 80 cents.
+E) $1.00.
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+5) Refer to Table 7-4. The total cost of producing 175 units of output is
+A) $75.
+B) $100.
+C) $150.
+D) $175.
+E) $350.
+Answer:  D
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+6) Refer to Table 7-4. The average total cost of producing 75 units of output is
+A) $1.
+B) $2.
+C) $0.80.
+D) $0.67.
+E) $1.33.
+Answer:  B
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+7) Refer to Table 7-4. The total variable cost of producing 305 units of output is
+A) $100.
+B) $125.
+C) $225.
+D) $305.
+E) $325.
+Answer:  B
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+8) Refer to Table 7-4. The total fixed cost of producing 305 units of output is
+A) $100.
+B) $125.
+C) $112.50.
+D) $225
+E) $305.
+Answer:  A
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+9) In the short run time horizon for a firm, total fixed costs
+A) decrease and then increase as output increases.
+B) decrease as output increases.
+C) do not vary with output.
+D) increase and then decrease as output increases.
+E) are equal to total variable costs.
+Answer:  C
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+10) Jodi recently went into business producing widgets. Which of the following would be a fixed cost for her firm?
+1. labour costs of $1000 per month
+2. raw material costs of $5000 per month
+3. a one-year lease on a building of $12 000
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2 
+E) 2 and 3 
+Answer:  C
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+11) Marginal cost is defined as the
+A) change in total cost resulting from an additional unit of output.
+B) change in fixed cost resulting from an additional unit of output.
+C) difference between average total cost and average variable cost.
+D) cost per unit when the firm is operating at capacity.
+E) cost of an additional unit of a variable factor of production.
+Answer:  A
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+12) A firm's short-run cost curves, as conventionally drawn, show that
+A) AFC increases as output increases.
+B) ATC = TFC + TVC.
+C) AVC decreases as long as MC > AVC.
+D) the MC curve intersects the AVC and ATC curves at their maximum points.
+E) ATC decreases and then increases as output increases.
+Answer:  E
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+13) Consider a firm's short-run cost curves. If average total cost is increasing as output rises, then
+A) total fixed costs must be increasing.
+B) average fixed costs must be increasing.
+C) average variable cost must be increasing.
+D) marginal cost must be below average total cost.
+E) average total cost is no longer equal to the sum of average variable cost and average fixed cost.
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+14) Consider a firm's short-run cost curves. Which one of the following types of cost declines over the whole range of output?
+A) average fixed cost
+B) marginal cost
+C) total fixed cost
+D) average variable cost
+E) total variable cost
+Answer:  A
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+15) The vertical distance between the total cost curve and the total variable cost curve is
+A) marginal cost.
+B) average fixed cost.
+C) average total cost.
+D) total fixed cost.
+E) average variable cost.
+Answer:  D
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+16) Suppose a firm is producing 100 units of output, incurring a total cost of $10 000 and total variable cost of $6000. It can be concluded that average fixed cost is
+A) $40.
+B) $60.
+C) $100.
+D) $160.
+E) $4000.
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+
+17) Suppose a firm is producing 500 units of output, incurring a total cost of $700 000 and total fixed cost of $100 000.  It can be concluded that average variable cost is
+A) $200.
+B) $600.
+C) $1200.
+D) $1400.
+E) $1600.
+Answer:  C
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+
+18) Suppose a firm is producing 250 units of output. At this level of output, average fixed costs are $20 per unit and average variable costs are $80 per unit. It can be concluded that total cost is 
+A) $100.
+B) $0.40 per unit.
+C) $40 per unit.
+D) $2500.
+E) $25 000.
+Answer:  E
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+19) Suppose a firm is producing 10 000 units of output. At this level of output, average total cost is $200 and average fixed cost is $20. It can be concluded that total variable cost is
+A) $180.
+B) $1800.
+C) $18 000.
+D) $180 000.
+E) $1 800 000.
+Answer:  E
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+
+20) Suppose a firm with the usual U-shaped cost curves is producing a level of output such that its short-run costs are as follows:
+	ATC = $0.37 per unit
+	AVC = $0.32 per unit
+	AFC = $0.05 per unit
+	MC = $0.43 per unit
+Given these short-run costs, as the firm increases its output, which of the following statements is true?
+A) Marginal product of the variable factor must be decreasing.
+B) Marginal product of the variable factor must be increasing.
+C) The point of diminishing average product of the variable factor has not yet been reached.
+D) Average product of the variable factor must be increasing. 
+E) Marginal product of the variable factor is at its minimum point. 
+Answer:  A
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+21) Suppose a firm with the usual U-shaped cost curves is producing a level of output such that its short run costs are as follows:
+	ATC = $0.37 per unit
+	AVC = $0.32 per unit
+	AFC = $0.05 per unit
+	MC = $0.43 per unit
+Given these short run costs, which of the following statements is true? 
+A) The firm is operating with excess capacity.
+B) The firm is operating at capacity.
+C) The firm is operating above capacity.
+D) The firm has no capacity constraints.
+E) The firm is producing a level of output where capacity is increasing. 
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Quantitative
+
+22) Consider the short-run costs of a firm. Suppose the firm's total fixed costs are $100 and average variable costs are constant regardless of output. Which of the following is then true?
+A) Marginal cost will equal average total cost.
+B) Average total cost will decrease when output is increased.
+C) Marginal cost will be less than average variable cost.
+D) Average total costs will be constant.
+E) Marginal cost will be rising as output rises.
+Answer:  B
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+23) Suppose that a firm's capital is fixed and one more unit of labour is hired, thereby increasing the firm's total output. Which of the following statements can be correct?
+1. Marginal cost would remain constant.
+2. Marginal cost would increase.
+3. Marginal cost would decrease.
+A) 1 only
+B) 2 only
+C) 3 only
+D) Any of 1, 2, and 3 is possible.
+E) None are possible.
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+24) A firm's capacity is defined as the level of output where
+A) the upper limit on what can be produced is reached.
+B) average total cost is at its maximum.
+C) marginal cost equals average variable cost.
+D) average fixed costs are at a minimum.
+E) short-run average total cost is at its minimum.
+Answer:  E
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+25) When a plant is operating at the level of output where its short-run average total cost is at its minimum,
+A) average fixed cost is at a minimum.
+B) marginal cost is at a minimum.
+C) average variable cost is at a minimum.
+D) the plant is operating at its capacity.
+E) more of the variable factor of production should be employed.
+Answer:  D
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+26) Short-run cost curves for a firm are eventually upward-sloping because of the effects of
+A) the increasing price of variable inputs.
+B) diminishing marginal product.
+C) increasing fixed costs.
+D) increasing marginal productivity of the variable inputs.
+E) decreasing total product.
+Answer:  B
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+27) A firm's short-run marginal cost curve is decreasing when
+A) average fixed cost is increasing.
+B) total fixed cost is decreasing.
+C) marginal product is decreasing.
+D) marginal product is increasing.
+E) capacity is reached.
+Answer:  D
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+28) When a firm's marginal cost is rising, we know that
+A) average fixed cost must be rising.
+B) average variable cost must be rising.
+C) average total cost must be rising.
+D) marginal product must be zero.
+E) marginal product must be falling.
+Answer:  E
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+29) Consider a firm's short-run cost curves. When capital is a fixed factor, a rise in the cost of labour
+A) shifts the marginal cost curve upwards.
+B) shifts the AVC curve down.
+C) shifts the total product curve downwards.
+D) leaves the MC curve unchanged.
+E) leaves the ATC curve unchanged.
+Answer:  A
+Diff: 1
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+30) Suppose Jodi's widget business is using two inputs, labour and capital. If the price of labour increases, which of the following will happen?
+A) Jodi will shut down her business.
+B) The firm's average total cost curve will shift upward.
+C) The firm's marginal cost curve will remain unchanged.
+D) Jodi will hire more labour.
+E) The firm's average fixed cost curve will shift upward.
+Answer:  B
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+31) Suppose a firm producing digital cameras is operating such that marginal costs are higher than average costs. If the firm produces one more camera, average costs will
+A) rise.
+B) fall.
+C) reach a point of diminishing returns.
+D) remain constant.
+E) reach their maximum.
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+
+32) A firm that is maximizing its profits by producing a certain level of output must also be
+A) minimizing its cost of producing that output.
+B) maximizing its sales. 
+C) minimizing its variable costs. 
+D) maximizing its output. 
+E) maximizing its revenue.
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User2:  Qualitative
+The following data show the total output for a firm when different amounts of labour are combined with a fixed amount of capital.  Assume that the wage per unit of labour is $10 and the cost of the capital is $50.
+
+Labour per period
+Total output per period
+0
+  0
+1
+ 10
+2
+ 30
+3
+ 90
+4
+132
+5
+150
+
+TABLE 7-3
+
+33) Refer to Table 7-3. The average total cost when producing 150 units of output is approximately
+A) 33 cents.
+B) 40 cents.
+C) 67 cents.
+D) 80 cents.
+E) $1.50.
+Answer:  C
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+34) Refer to Table 7-3. The average total cost when producing 90 units of output is approximately
+A) 27 cents.
+B) 30 cents.
+C) 33 cents.
+D) 89 cents.
+E) $26.67.
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+35) Refer to Table 7-3. The average total cost when this firm is producing zero units of output is  
+A) $50.
+B) $0.
+C) undefined.
+D) $1.
+E) There is not enough information to determine this.
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+36) Refer to Table 7-3. The average total cost when this firm is producing 10 units of output is 
+A) 60 cents.
+B) $1.
+C) $6.
+D) $10.
+E) $60.
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+37) Refer to Table 7-3.  The average variable cost when this firm is producing 10 units of output is 
+A) $0.10.
+B) $0.50.
+C) $0.60.
+D) $1.00.
+E) $6.00.
+Answer:  D
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+38) Refer to Table 7-3.  The average variable cost when this firm is producing 90 units of output is 
+A) 17 cents.
+B) 33 cents.
+C) 68 cents.
+D) 89 cents.
+E) 98 cents.
+Answer:  B
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+39) Refer to Table 7-3. The average variable cost when producing 132 units of output is approximately 
+A) 24 cents.
+B) 30 cents.
+C) 45 cents.
+D) 68 cents.
+E) 89 cents.
+Answer:  B
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 7-3.  If this firm is producing 20 units of output per period its marginal cost is
+A) $1.00.
+B) 50 cents.
+C) $1.67.
+D) 16.7 cents.
+E) $10.00.
+Answer:  B
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+41) Refer to Table 7-3.  If this firm is producing 111 units of output per period, its marginal cost is
+A) $1.00.
+B) 16.7 cents.
+C) 76 cents.
+D) 24 cents.
+E) 38 cents.
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+42) Refer to Table 7-3. At what level of output does average variable cost reach a minimum?
+A) 30
+B) 90
+C) 132
+D) 150
+E) AVC declines continuously over the range of output shown.
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+43) Refer to Table 7-3. At what level of output does average total cost reach a minimum?
+A) 30
+B) 90
+C) 132
+D) 150
+E) ATC declines continuously over the range of output shown.
+Answer:  E
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+The diagram below shows some short-run cost curves for a firm.
+
+
+FIGURE 7-2
+
+44) Refer to Figure 7-2. Which of the following choices correctly identifies the cost curves in part (i) of the figure?
+A) Curve 1 is the total cost curve.
+Curve 2 is the total variable cost curve.
+Curve 3 is the total fixed cost curve.
+B) Curve 1 is the total fixed cost curve.
+Curve 2 is the total variable cost curve.
+Curve 3 is the total cost curve.
+C) Curve 1 is the total variable cost curve.
+Curve 2 is the total cost curve.
+Curve 3 is the total fixed cost curve.
+D) Curve 1 is the total marginal cost curve.
+Curve 2 is the total average cost curve.
+Curve 3 is the total average fixed cost curve.
+E) Curve 1 is the total cost curve.
+Curve 2 is the total variable cost curve.
+Curve 3 is the average fixed cost curve.
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Graph
+User2:  Qualitative
+
+45) Refer to Figure 7-2. Which of the following choices correctly identifies the cost curves in part (ii) of the figure?
+A) Curve 4 is the marginal cost curve.
+Curve 5 is the average fixed cost curve.
+Curve 6 is the average variable cost curve.
+Curve 7 is the average total cost curve.
+B) Curve 4 is the average total cost curve.
+Curve 5 is the marginal cost curve.
+Curve 6 is the average variable cost curve.
+Curve 7 is the average fixed cost curve.
+C) Curve 4 is the average fixed cost curve.
+Curve 5 is the average total cost curve.
+Curve 6 is the marginal cost curve.
+Curve 7 is the average variable cost curve.
+D) Curve 4 is the marginal cost curve.
+Curve 5 is the average total cost curve.
+Curve 6 is the average variable cost curve.
+Curve 7 is the average fixed cost curve.
+E) Curve 4 is the marginal cost curve.
+Curve 5 is the average variable cost curve.
+Curve 6 is the average fixed cost curve.
+Curve 7 is the average total cost curve.
+Answer:  D
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Recall
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Graph
+User2:  Qualitative
+The table below provides information on output per month and short-run costs for a firm producing outdoor wooden lounge chairs. All costs are in dollars.
+
+Q
+Total Fixed Cost 
+Total Variable Cost
+Total Cost
+  5
+200
+200
+400
+10
+200
+220
+420
+15
+200
+240
+ 440
+20
+200
+260
+ 460
+25
+200
+350
+ 550
+30
+200
+810
+1010
+
+TABLE 7-5
+
+46) Refer to Table 7-5. What is the average variable cost of producing 10 chairs?
+A) $22
+B) $42
+C) $200
+D) $220
+E) $420
+Answer:  A
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+47) Refer to Table 7-5. What is the average variable cost of producing 20 chairs?
+A) $22
+B) $23
+C) $260
+D) $460
+E) $13
+Answer:  E
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+48) Refer to Table 7-5. What is the average total cost of producing 25 chairs?
+A) $13
+B) $14
+C) $22
+D) $23
+E) $550
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+49) Refer to Table 7-5. What is the average total cost of producing 30 chairs?
+A) $13
+B) $14
+C) $22
+D) $23
+E) $33.67
+Answer:  E
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+50) Refer to Table 7-5. Given the information in the table about short-run costs, this firm would minimize the average variable cost of production when producing
+A) 10 chairs.
+B) 15 chairs.
+C) 20 chairs.
+D) 25 chairs.
+E) 30 chairs.
+Answer:  C
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+51) Refer to Table 7-5. Given the information in the table about short-run costs, this firm would minimize the average total cost of production when producing
+A) 10 chairs.
+B) 15 chairs.
+C) 20 chairs.
+D) 25 chairs.
+E) 30 chairs.
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+52) Refer to Table 7-5. At what level of output is this firm at its capacity?
+A) 10 chairs
+B) 15 chairs
+C) 20 chairs
+D) 25 chairs
+E) 30 chairs
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+The table below shows output, marginal cost, and average variable cost for the production of pairs of shoes. All costs are in dollars.
+
+Output
+Marginal
+ Cost
+Average Variable Cost
+50
+60
+140
+70
+45
+115
+90
+35
+  95
+110
+30
+  80
+130
+35
+  65
+150
+60
+  60
+170
+105
+  65
+190
+180
+  75
+210
+230
+  90
+230
+290
+110
+
+TABLE 7-6
+
+53) Refer to Table 7-6. The firm's marginal product of its variable factor is maximized when it produces ________ units of output. 
+A) 50 
+B) 90 
+C) 100 
+D) 110 
+E) 170 
+Answer:  D
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+54) Refer to Table 7-6. Suppose there are no fixed costs. The firm reaches it's capacity level of output when its output is equal to ________ units. 
+A) 50
+B) 110
+C) 150
+D) 190
+E) 210
+Answer:  C
+Diff: 2
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+55) Refer to Table 7-6. If the firm produces 130 pairs of shoes, and the fixed cost is $550, then the firm's total cost is 
+A) $7000. 
+B) $8000. 
+C) $9000. 
+D) $10 000. 
+E) $12 000. 
+Answer:  C
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+56) Refer to Table 7-6.  Suppose this firm is producing 210 pairs of shoes per time period and that the variable factor of production is labour.  Which of the following statements best describes this firm's production?
+A) Additional units of labour employed will increase the average variable cost of producing shoes.
+B) Marginal cost is higher than average variable cost, so average product must be rising.
+C) Marginal cost is higher than average variable cost, so marginal product must be rising.
+D) Each additional unit of labour employed reduces the average variable cost of the pairs of shoes.
+E) The firm is producing below its capacity. 
+Answer:  A
+Diff: 3
+Topic:  7.4. short-run costs and cost-curves
+Skill:  Applied
+Learning Obj.:  7-4 Explain the difference between fixed and variable costs, and the relationships among total costs, average costs, and marginal costs.
+User1:  Table
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 53
+Copyright © 2017 Pearson Education, Inc.
+
+
+

@@ -1,0 +1,1808 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 13   How Factor Markets Work
+
+13.1  The Demand for Factors
+
+1) For any firm in any market structure, a factor's marginal revenue product is 
+A) the average product of the factor multiplied by the price of the output.
+B) the change in revenue caused by the sale of the product contributed by an additional unit of input.
+C) the change in revenue caused by the sale of an additional unit of output.
+D) the increase in output resulting from the use of an additional unit of the factor multiplied by the cost of that factor.
+E) marginal revenue multiplied by total product.
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+2) Suppose the last unit of a factor of production employed has a marginal product of 12. The factor's price is $8, and the product's competitive market price is $6. This factor's marginal revenue product is
+A) $6.
+B) $36.
+C) $48.
+D) $72.
+E) $96.
+Answer:  D
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+3) The marginal revenue product of labour is the change in the value of the firm's output resulting from
+A) a change in the product's price.
+B) an increase in the marginal physical product of labour.
+C) a change in the wage rate paid to labour.
+D) producing one more unit of output.
+E) hiring one more unit of labour input.
+Answer:  E
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+4) A condition for the profit-maximizing use of any factor of production is
+(where MP = marginal product, w = the price of a factor of production, p = price of one unit of the firm's output, MR = marginal revenue, MC = marginal cost, MRP = marginal revenue product):
+A) MRP = MP × p
+B) MR = 
+C) MC = MR × w
+D) w = MP × p
+E) MRP = MR × MC
+Answer:  D
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+5) Consider labour that is hired for $18 per hour. If the last hour of labour hired produces 8 units of output which sells for $10 per unit, that labour-hour's marginal revenue product is
+A) $1.20.
+B) $4.44.
+C) $64.
+D) $80.
+E) $144.
+Answer:  D
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+6) Consider labour that is hired for $18 per hour.  If the last hour of labour hired produces 8 units of output which sells for $10 per unit, that labour-hour adds ________ to the firm's profit and so ________ labour should be hired.
+A) $80; more
+B) -$80; less
+C) $62; less
+D) $62; more
+E) $0; no
+Answer:  D
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+7) Consider labour that is hired for $18 per hour. If the last hour hired produces 8 units of output which sells for $2 per unit, ________ labour should be hired in this situation since the wage is ________ MRP.
+A) more; greater than
+B) more; less than
+C) less; greater than
+D) less; less than
+E) no; equal to
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+8) Consider labour that is hired for $18 per hour. If the last hour hired produces 8 units of output which sells for $2 per unit, that labour-hour adds ________ to the firm's profit and so ________ labour should be hired.
+A) -$128; more
+B) -$2; less
+C) $16; less
+D) $16; more
+E) $0; no
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+9) Consider labour hired for $18 per hour. If the last hour of labour hired produces 8 units of output which sells for $10 per unit, ________ labour should be hired in this situation since the wage is ________ MRP.
+A) more; greater than
+B) more; less than
+C) less; greater than
+D) less; less than
+E) no; equal to
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+10) Consider labour hired for $1000 per week. If the last week of labour hired produces 0.25 units of output which sells for $5000 per unit, ________ labour should be hired in this situation since the wage is ________ MRP.
+A) more; greater than
+B) more; less than
+C) less; greater than
+D) less; less than
+E) no; equal to
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+11) Consider a small firm that is producing winter jackets.  It can lease an additional sewing machine for one month for $750.  With this additional machine, the firm can produce an additional 6 jackets during that time period that it sells for $125 each.  Hiring the marginal machine adds ________ to the firm's profit and so it should ________ the machine. 
+A) -$750; not lease
+B) -$750; lease
+C) $0; be indifferent as to whether to lease
+D) $750; not lease
+E) $750; lease
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+12) Consider a small firm that is producing winter jackets.  It can lease an additional sewing machine for one month for $1200.  With this additional machine, the firm can produce an additional 7 jackets during that time period that it sells for $250 each.  Hiring the marginal machine adds ________ to the firm's profit and so it should ________ the machine. 
+A) -$1200; not lease
+B) $0; be indifferent as to whether to lease 
+C) $1200; lease
+D) $550; lease
+E) $1750; lease
+Answer:  D
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+13) Consider a small firm that is producing winter jackets.  It can lease an additional sewing machine for one month for $2400.  With this additional machine, the firm can produce an additional 4 jackets during that time period that it sells for $550 each.  Hiring the marginal machine adds ________ to the firm's profit and so it should ________ the machine. 
+A) -$2400; not lease
+B) -$200; not lease
+C) $0; be indifferent as to whether to lease
+D) $200; lease
+E) $2400; lease
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Quantitative
+
+Consider the following production and cost schedule for a firm. The first column shows the number of units of a variable factor of production employed by the firm.
+
+Total Number of Units of the Factor
+Total Number of Units of Output
+Price per Unit
+of Output
+10
+20
+$10
+11
+44
+$10
+12
+64
+$10
+13
+78
+$10
+14
+84
+$10
+15
+86
+$10
+	
+TABLE 13-1
+
+14) Refer to Table 13-1. The marginal product of the 15th unit of the factor of production is 
+A) -2.
+B) 0.
+C) 2.
+D) 82.
+E) 84.
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+15) Refer to Table 13-1. The marginal product of the 12th unit of the factor of production is 
+A) 4.
+B) 14.
+C) 20.
+D) 44.
+E) 64.
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Qualitative
+
+16) Refer to Table 13-1. The total revenue of the output produced by 12 units of the factor is 
+A) $120.
+B) $520.
+C) $640.
+D) $768.
+E) $1440.
+Answer:  C
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 13-1. The total revenue of the output produced by 15 units of the factor is 
+A) $860.
+B) $150.
+C) $640.
+D) $780.
+E) $1440.
+Answer:  A
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 13-1. The marginal revenue product of the 14th unit of the factor is 
+A) -$60.
+B) $60.
+C) $140.
+D) $700.
+E) $840.
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 13-1. The marginal revenue product of the 15th unit of the factor is 
+A) -$20.
+B) $20.
+C) $60.
+D) $150.
+E) $820.
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 13-1. Diminishing marginal returns are present for which units of the factor of production? 
+A) 10th unit only
+B) 11th unit only
+C) 12th unit only
+D) 13th unit only
+E) all units shown in the table
+Answer:  E
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+21) Refer to Table 13-1. How many units of this factor of production would the profit-maximizing firm choose to hire?
+A) 11
+B) 12
+C) 13
+D) 14
+E) It is not possible to determine with the data provided.
+Answer:  E
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+Consider the following table for a firm. The first column shows the number of units of a variable factor of production employed by the firm.
+
+Total Number of Units of the Factor
+Total Number of Units of Output
+2
+100
+3
+110
+4
+128
+5
+148
+6
+162
+7
+170
+8
+166
+
+TABLE 13-2
+
+22) Refer to Table 13-2. The marginal product of the 7th unit of the factor is
+A) -8.
+B) 0.
+C) 8.
+D) 162.
+E) 170.
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+23) Refer to Table 13-2. Suppose the firm is a perfect competitor and faces a given price of the product equal to $2 per unit. The marginal revenue product of the 5th unit of the factor is
+A) $128.
+B) $148.
+C) $20.
+D) $40.
+E) $2.
+Answer:  D
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+24) Refer to Table 13-2. This firm begins to experience diminishing marginal productivity when it hires the ________ unit of the factor.
+A) 3rd
+B) 4th
+C) 5th
+D) 6th
+E) 7th
+Answer:  D
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+25) Refer to Table 13-2. Suppose this firm is a perfect competitor and faces a given price of the product equal to $10 per unit. The marginal revenue product of the 3rd unit of the factor is
+A) $30.
+B) $100.
+C) $110.
+D) $1000.
+E) $1100.
+Answer:  B
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+26) Refer to Table 13-2. Suppose this firm is a perfect competitor and faces a given price of the product equal to $15 per unit. The marginal revenue product of the 5th unit of the factor is
+A) $30.
+B) $100.
+C) $75.
+D) $300.
+E) $2220.
+Answer:  D
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+Consider the following production and cost schedule for a firm. The first column shows the number of units of a variable factor of production employed by the firm.
+
+Total Number of Units of the Factor
+Total Number of Units of Output
+Price per Unit 
+of Output
+Total Cost 
+of Production
+2
+12
+$10
+$50
+3
+20
+ $9
+$55
+4
+26
+ $8
+$60
+5
+30
+ $7
+$65
+6
+32
+ $6
+$70
+7
+32
+ $5
+$75
+
+TABLE 13-3
+
+27) Refer to Table 13-3. The marginal product of the 4th unit of the factor of production is
+A) 4.
+B) 6.
+C) 8.
+D) 26.
+E) 30.
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+28) Refer to Table 13-3. The marginal product of the 6th unit of the factor of production is
+A) -2.
+B) 2.
+C) 4.
+D) 8.
+E) 32.
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 13-3. The total revenue obtained if the 5th unit of the factor of production is hired is
+A) $160.
+B) $180.
+C) $192.
+D) $202.
+E) $210.
+Answer:  E
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+30) Refer to Table 13-3. The total revenue obtained if the 7th unit of the factor of production is hired is
+A) $160.
+B) $180.
+C) $192.
+D) $202.
+E) $210.
+Answer:  A
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+31) Refer to Table 13-3. The rise in total revenue generated by hiring the 4th unit of the factor of production is
+A) -$11.00.
+B) $2.00.
+C) $3.67.
+D) $7.50.
+E) $28.00.
+Answer:  E
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+32) Refer to Table 13-3. The increase in total revenue generated by hiring the 5th unit of the factor of production is 
+A) -$11.00.
+B) -$2.00.
+C) $2.00.
+D) $7.50.
+E) $11.00.
+Answer:  C
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+33) Refer to Table 13-3. A profit-maximizing firm would never hire more than the ________ unit of this factor of production.
+A) 3rd
+B) 4th
+C) 5th
+D) 6th
+E) 7th
+Answer:  B
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+34) Profit-maximizing firms increase production up to the point at which the last unit of the variable factor employed adds
+A) nothing to marginal cost.
+B) nothing to marginal revenue.
+C) positive economic profits.
+D) just as much to revenue as to profit.
+E) just as much to revenue as to cost.
+Answer:  E
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+35) If a firm is a perfect competitor in its product market, the marginal product of a factor multiplied by the product's price equals
+A) marginal cost.
+B) marginal profit.
+C) total revenue.
+D) marginal revenue.
+E) marginal revenue product.
+Answer:  E
+Diff: 1
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+36) The marginal revenue product curve for a monopolist would be ________ its marginal product curve because ________.
+A) steeper than; its MR decreases as output increases
+B) steeper than; its product's price increases as output increases
+C) flatter than; it must pay a higher wage to labour
+D) flatter than; its product's price decreases as output increases
+E) the same as; the MRP curve always has the same shape as the MP curve
+Answer:  A
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+37) The shape of the marginal revenue product curve for a perfectly competitive firm would be ________ its marginal product curve because ________. 
+A) the same as; MR is constant as output increases
+B) steeper than; MR decreases as output increases
+C) steeper than; its product's price increases as output increases
+D) flatter than; its product's price decreases as output increases
+E) flatter than; it must pay a higher wage to the variable factor as output increases
+Answer:  A
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+38) Which of the following is the best definition of the marginal revenue product (MRP) of a factor of production?
+A) the average product of the factor multiplied by the price of the output
+B) the change in revenue generated by the sale of the product produced by an additional unit of input
+C) the change in revenue caused by the sale of an additional unit of output
+D) the increase in output resulting from the use of an additional unit of the factor multiplied by the cost of that factor
+E) marginal revenue multiplied by total product
+Answer:  B
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+The table below shows the total production for varying numbers of hours worked producing yo-yos. The firm sells its product and hires its workers in competitive markets.
+
+Number of 
+Hours Worked
+Number of 
+Yo-Yos Produced
+Wage Rate 
+per Hour ($)
+Price of Yo-Yos
+($)
+10
+60
+10
+5
+11
+70
+10
+5
+12
+78
+10
+5
+13
+84
+10
+5
+14
+88
+10
+5
+15
+90
+10
+5
+
+TABLE 13-4
+
+39) Refer to Table 13-4. What is the MRP for the 13th hour worked?
+A) $78
+B) $84
+C) $5
+D) $30
+E) $10
+Answer:  D
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 13-4. What is the marginal cost of the variable factor employed by this firm?
+A) $0
+B) $5
+C) $10
+D) $20
+E) $30
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+41) Refer to Table 13-4. A profit-maximizing firm will continue to hire labour to produce yo-yos until they have equated
+A) the price of yo-yos and the wage rate per hour.
+B) the marginal product of an additional hour of labour and the price of the yo-yos.
+C) the wage rate per hour and the value of the yo-yos produced by hiring one additional hour of labour.
+D) the marginal revenue product of an additional hour of labour and the price of yo-yos.
+E) the wage rate per hour and the marginal product of labour.
+Answer:  C
+Diff: 2
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+42) Refer to Table 13-4.  Which of the following statements best describes the situation of this firm when it is employing 12 hours of labour?  The 12th hour of labour hired
+A) adds $10 to revenue and costs $10 to hire, so this firm is maximizing its profit at 12 hours of labour.
+B) adds $5 to revenue, but costs $10 to hire, so this firm should hire less labour.
+C) adds $30 to revenue, but only costs $10 to hire, so this firm should hire more labour.
+D) adds $8 to revenue, but costs $10 to hire, so this firm should hire less labour.
+E) adds $40 to revenue, but only costs $10 to hire, so this firm should hire more labour.
+Answer:  E
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+43) Refer to Table 13-4. Which of the following statements best describes the situation of this firm when it is employing 15 hours of labour? The 15th hour of labour hired
+A) adds $5 to revenue, but costs $10 to hire, so this firm should hire less labour. 
+B) adds $20 to revenue, but only costs $10 to hire, so this firm should hire more labour. 
+C) adds $10 to revenue and costs $10 to hire, so this firm is maximizing its profit at 15 hours of labour. 
+D) adds $50 to revenue, but only costs $10 to hire, so this firm should hire more labour. 
+E) adds $2 to revenue, but costs $10 to hire, so this firm should hire less labour. 
+Answer:  C
+Diff: 3
+Topic:  13.1a. marginal product and marginal revenue product
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+44) Refer to Table 13-4.  If plotted on a graph, the marginal revenue product curve for the "number of hours worked" would be the same as
+A) the firm's marginal product curve, and would be downward sloping and concave to the origin.
+B) the firm's marginal product curve, and would be downward sloping and convex to the origin.
+C) the firm's demand curve for hours worked, and would be downward sloping and linear.
+D) the firm's demand curve for yo-yos, and would be downward sloping and linear.
+E) the firm's marginal revenue curve, and would be horizontal at $5 because this firm is operating in a competitive labour market.
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+45) Refer to Table 13-4. How many worker-hours should this profit-maximizing firm hire?
+A) 11
+B) 12
+C) 13
+D) 14
+E) 15
+Answer:  E
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+46) Refer to Table 13-4. If the market price of yo-yos drops to $2.50, how many worker-hours should this profit-maximizing firm hire?
+A) 11
+B) 12
+C) 13
+D) 14
+E) 15
+Answer:  D
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+47) In a competitive labour market, an increase in the demand for labour might be due to an increase in the
+A) supply of labour.
+B) wage rate.
+C) supply of the product that labour produces.
+D) demand for the product that labour produces.
+E) supply of the other factors.
+Answer:  D
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+48) A demand for a factor of production is said to be "derived" because the factor's demand depends
+A) entirely on the cost of the factor.
+B) entirely on corporate advertising.
+C) heavily on government policy.
+D) heavily on public choice.
+E) on the demand for the good or services it helps to make.
+Answer:  E
+Diff: 1
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+49) Which of the following is the best example of a derived demand?
+A) A decrease in interest rates increases the demand for housing.
+B) An increase in the wage rate causes firms to substitute capital for labour.
+C) An increase in demand for cars will increase the demand for auto workers.
+D) A decrease in the price of internet connection will increase the demand for tablet computers.
+E) An increase in the price of butter increases the demand for margarine.
+Answer:  C
+Diff: 1
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+50) The demand curve for a variable factor is always 
+A) that factor's marginal cost curve.
+B) that factor's MRP curve.
+C) that factor's MP curve.
+D) steeper than that factor's MRP curve.
+E) flatter than that factor's MRP curve.
+Answer:  B
+Diff: 1
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+51) In a perfectly competitive labour market, a profit-maximizing firm will employ labour until the
+A) MPP = MRP.
+B) wage = MP.
+C) MRP = the product's price.
+D) wage = MRP.
+E) wage = the product's price.
+Answer:  D
+Diff: 1
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+52) The demand for a factor will be more elastic if
+A) there is little substitutability between factors.
+B) it is easier to substitute between this factor and others.
+C) that factor determines a small percentage of total cost.
+D) the demand for the good being produced is inelastic.
+E) the supply of the factor is elastic.
+Answer:  B
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+53) Consider a firm's demand curve for labour. If a technological change makes it easier to substitute capital for labour, the demand curve for labour
+A) shifts parallel to the right.
+B) shifts parallel to the left.
+C) becomes more inelastic.
+D) becomes more elastic.
+E) is not affected.
+Answer:  D
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Recall
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+54) Consider a firm's demand curve for labour. If a technological change makes it harder to substitute capital for labour, the demand curve for labour
+A) shifts parallel to the right.
+B) shifts parallel to the left.
+C) becomes less elastic.
+D) becomes more elastic.
+E) is not affected.
+Answer:  C
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+55) Which of the following is the best example of a derived demand?
+A) an increase in the wage for yoga instructors causes an increase in the demand for yoga classes
+B) a decrease in the price of Pilates classes causes an increase in the demand for yoga classes
+C) an increase in demand for yoga classes causes an increase in demand for yoga instructors
+D) a decrease in the demand for yoga mats causes a decrease in demand for yoga classes
+E) an increase in awareness about fitness causes an increase in demand for yoga classes
+Answer:  C
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+The diagram below shows the MRP curve for a firm producing copper plumbing pipe. The factor of production being considered here is hours of labour.
+
+
+
+FIGURE 13-1
+
+56) Refer to Figure 13-1. Assume that the firm is a perfect competitor and the price of the firm's output is fixed. We know that the firm's MRP curve is
+A) the same shape as the firm's marginal product curve for labour.
+B) the same shape as the firm's marginal revenue curve.
+C) horizontal, if the firm is perfectly competitive.
+D) steeper than the firm's marginal product curve for labour.
+E) flatter than the firm's marginal product curve for labour.
+Answer:  A
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+57) Refer to Figure 13-1. This firm's MRP curve is the firm's
+A) derived demand for copper plumbing pipe.
+B) demand curve for labour.
+C) market demand curve for copper plumbing pipe.
+D) marginal product of labour curve.
+E) total product curve for labour.
+Answer:  B
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+58) Refer to Figure 13-1. Suppose this firm initially has the marginal revenue product curve MRP1. One reason that the curve could shift to MRP2 is
+A) a decrease in demand for the firm's output, copper plumbing pipe.
+B) an increase in the supply of labour.
+C) a decrease in the wage rate.
+D) a decrease in the market price of copper plumbing pipe.
+E) an improvement in workers' human capital.
+Answer:  E
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+59) Refer to Figure 13-1. Suppose this firm initially has the marginal revenue product curve MRP1. One reason that the curve could shift to MRP3 is
+A) an increase in demand for the firm's output, copper plumbing pipe.
+B) a decrease in the market price of copper plumbing pipe.
+C) a decrease in the supply of labour.
+D) an increase in the wage rate.
+E) an increase in the marginal product of labour.
+Answer:  B
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+60) Refer to Figure 13-1. Suppose this firm has the marginal revenue product curve MRP1. At a wage rate of $12, the profit-maximizing firm will hire ________ units of labour.
+A) 100
+B) 120
+C) 140
+D) 160
+E) 180
+Answer:  C
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+61) Refer to Figure 13-1. Suppose this firm is facing MRP1, a wage rate of $12 per hour and is employing 150 units of labour. At this level of employment,
+A) the last unit of labour is adding less to the firm's cost than it is adding to the firm's revenue, so it should increase the use of labour.
+B) the last unit of labour contributes as much to the firm's costs as to the firm's revenues and so the firm should not change its use of labour.
+C) the last unit of labour is adding more to the firm's cost than it is adding to the firm's revenue, so it should reduce the use of labour.
+D) the firm has shifted the MRP curve to MRP2.
+E) the firm has shifted the MRP curve to MRP3.
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+62) Refer to Figure 13-1. Suppose this firm is facing MRP1, a wage rate of $16 per hour and is employing 100 units of labour. At this level of employment,
+A) the last unit of labour is adding less to the firm's cost than it is adding to the firm's revenue, so it should increase the use of labour.
+B) the last unit of labour contributes as much to the firm's costs as to the firm's revenues and so the firm should not change its use of labour.
+C) the last unit of labour is adding more to the firm's cost than it is adding to the firm's revenue, so it should reduce the use of labour.
+D) the firm has shifted the MRP curve to MRP2.
+E) the firm has shifted the MRP curve to MRP3.
+Answer:  A
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+63) Refer to Figure 13-1. Suppose this profit-maximizing firm is facing MRP1 and a wage rate of $12 per hour. Now suppose there is, simultaneously, an increase in demand for copper plumbing pipe (such that MRP shifts to MRP2), and an increase in the wage rate to $16 per hour. The firm should
+A) employ 20 more units of labour.
+B) employ 40 more units of labour.
+C) employ the same number of units of labour.
+D) employ 40 fewer units of labour
+E) employ 20 fewer units of labour.
+Answer:  A
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+The demand and supply curves shown below apply to a competitive market for a factor used in the production of widgets.
+
+
+
+FIGURE 13-2
+
+64) Refer to Figure 13-2. This factor market is in equilibrium at point B. What is the marginal revenue product of the 40th unit of the factor employed? 
+A) $8 multiplied by the price of the product
+B) $320
+C) $8
+D) the marginal product of the 40th unit employed multiplied by the wage
+E) $8 multiplied by the marginal revenue of the 40th unit employed
+Answer:  C
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Quantitative
+65) Refer to Figure 13-2. If the supply and demand curves for the factor are as shown in the diagram, but the wage being paid is $9, and the market is at point C,
+A) the wage is higher than the factor's marginal revenue product, and firms will reduce the amount of the factor employed.
+B) the wage is higher than the factor's marginal product, and firms will reduce the amount of the factor employed.
+C) the marginal revenue product is not equal to the marginal cost of the factor and firms will increase the amount of the factor employed. 
+D) the demand curve will shift to the right until equilibrium factor price and quantity are re-established. 
+E) the demand curve will shift to the left until equilibrium factor price and quantity are re-established. 
+Answer:  A
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Graph
+User2:  Qualitative
+
+66) Other things being equal, if it becomes more difficult to substitute capital for labour in the production of cell phones, the demand curve for labour in that industry
+A) will shift parallel to the left.
+B) will shift parallel to the right.
+C) will remain unchanged.
+D) will become more elastic.
+E) will become more inelastic.
+Answer:  E
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+67) Consider a firm's demand for a factor of production. A monopolist will continue to increase production until the marginal cost of the variable factor is
+A) greater than the marginal revenue of the firm's output.
+B) less than the marginal revenue of the firm's output.
+C) equal to zero.
+D) equal to the marginal revenue product of the factor.
+E) equal to the marginal revenue of the firm's output.
+Answer:  D
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+68) Consider a firm's demand for a factor of production. A perfectly competitive firm will continue to increase production until the marginal cost of the variable factor is
+A) greater than the marginal revenue of the firm's output.
+B) less than the marginal revenue of the firm's output.
+C) equal to zero.
+D) equal to the marginal revenue product of the factor.
+E) equal to the marginal revenue of the firm's output.
+Answer:  D
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+Consider the following production and cost schedule for a firm. The first column shows the number of units of a variable factor of production employed by the firm.
+
+Total Number of Units of the Factor
+Total Number of Units of Output
+Price per Unit
+of Output
+10
+20
+$10
+11
+44
+$10
+12
+64
+$10
+13
+78
+$10
+14
+84
+$10
+15
+86
+$10
+	
+TABLE 13-1
+
+69) Refer to Table 13-1. How many units of this factor of production would the profit-maximizing firm hire if the price of each unit of the factor was $200?
+A) 10
+B) 11
+C) 12
+D) 13
+E) It is not possible to determine with the data given.
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+70) Refer to Table 13-1. How many units of this factor of production would the profit-maximizing firm hire if the price of each unit of the factor was $140?
+A) 11
+B) 12
+C) 13
+D) 14
+E) It is not possible to determine with the data given.
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+71) Refer to Table 13-1. How many units of this factor of production would the profit-maximizing firm hire if the price of each unit of the factor was $30?
+A) 12
+B) 13
+C) 14
+D) 15
+E) It is not possible to determine with the data given.
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User1:  Table
+User2:  Quantitative
+
+72) Refer to Table 13-1. In order to determine this firm's profit-maximizing number of units of the variable factor of production, what necessary information is missing from the table?
+A) the price per unit of the factor
+B) the per unit price of the output
+C) the marginal product of the factor
+D) the marginal revenue product of the factor
+E) the total output for the firm
+Answer:  A
+Diff: 2
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+73) Consider a perfectly competitive labour market for video-game designers.  Which of the following will shift the demand curve for these workers to the right?
+1) an increase in the equilibrium wage rate for video-game designers;
+2) a decrease in the market price of video games;
+3) new software that improves the design process.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+74) Assume that the market for farmland in the fruit-growing region of southwestern Ontario is perfectly competitive.  Which of the following will shift the demand curve for this land to the left?
+1) a decrease in demand for Canadian-grown fruit;
+2) a change in consumer preferences toward eating more fruit;
+3) scientific reports that confirm a reduction in water supply to the region.
+A) 1 and 2
+B) 2 and 3
+C) 1 and 3
+D) 1 only
+E) 3 only
+Answer:  C
+Diff: 3
+Topic:  13.1b. a firm's demand for a factor
+Skill:  Applied
+Learning Obj.:  13-2 Examine the role of factor mobility in determining factor supply.
+User2:  Qualitative
+
+13.2  The Supply of Factors
+
+1) If a given factor of production is highly mobile across alternative uses, the factor's supply is 
+A) highly price elastic.
+B) highly price inelastic. 
+C) perfectly inelastic.
+D) irrelevant to its earnings.
+E) immobile at the industry level.
+Answer:  A
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Recall
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+2) The aggregate quantity of labour supplied will generally rise when there is an increase in
+	1) immigration;
+	2) labour-force participation rates;
+	3) the retirement age.
+A) 1 and 2
+B) 1 and 3
+C) 2 and 3
+D) 1, 2, and 3
+E) 1 only
+Answer:  D
+Diff: 1
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+
+3) The elasticity of supply of computer-game programmers will generally be greater if we are analyzing the amount supplied to
+A) the whole economy in the short run.
+B) the whole economy in the long run.
+C) a particular industry in the short run.
+D) a particular industry in the long run.
+E) a specific firm.
+Answer:  E
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Recall
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+
+4) Consider computer programmers as a factor of production. Their factor mobility is quite ________, and so to any specific firm the supply of this factor is quite ________. 
+A) low; inelastic
+B) low; elastic
+C) high; inelastic
+D) high; elastic
+Answer:  D
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+5) If small changes in incentives can induce a factor to shift between alternative uses, we say that the factor is 
+A) efficient.
+B) mobile.
+C) inelastic.
+D) declining.
+E) flighty.
+Answer:  B
+Diff: 1
+Topic:  13.2. factor mobility and supply
+Skill:  Recall
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+
+6) Which of the following statements concerning factor mobility is FALSE?
+A) Land is a mobile resource in an economic sense, because it has many alternative uses.
+B) Once it is in place, a factory designed and built for a specific purpose is highly mobile.
+C) The allocation of labour tends to depend more on non-monetary considerations than does the allocation of either land or capital.
+D) The elasticity of the supply of labour to any particular use is likely to be greater in the long run than in the short run.
+E) Factor mobility is an important determinant of economic rent.
+Answer:  B
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+The three diagrams below each show a supply curve for oil tankers over a relatively short period of time.
+
+
+
+	FIGURE 13-3
+
+7) Refer to Figure 13-3. Consider the supply of oil tankers to an individual Canadian shipping firm, the North American shipping industry, and the world shipping industry. Which diagram best shows the supply of oil tankers that is relevant to the North American shipping industry?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) diagrams 2 or 3
+E) diagrams 1 or 2
+Answer:  C
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User1:  Graph
+User2:  Qualitative
+
+8) Refer to Figure 13-3. Consider the supply of oil tankers to an individual Canadian shipping firm, the North American shipping industry, and the world shipping industry. Which diagram best shows the supply of oil tankers that is relevant to an individual Canadian firm?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) diagrams 2 or 3
+E) diagrams 1 or 2
+Answer:  A
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User1:  Graph
+User2:  Qualitative
+9) Refer to Figure 13-3. Consider the supply of oil tankers to an individual Canadian shipping firm, the North American shipping industry, and the world shipping industry. Which diagram best shows the supply of oil tankers that is relevant to the world shipping industry?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) diagrams 2 or 3
+E) diagrams 1 or 2
+Answer:  B
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 13-3. Consider oil tankers as a factor of production (for example, for the production of gasoline). Which diagram shows the most mobility of this factor of production?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) none of the diagrams
+E) each diagram shows mobility
+Answer:  A
+Diff: 3
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User1:  Graph
+User2:  Qualitative
+
+11) Consider a manufacturing plant as an example of physical capital. Factor mobility with regard to this physical capital refers to 
+A) the ease with which this plant can be relocated to another location. 
+B) the ease with which this plant can be converted to a different use. 
+C) the ease with which the labour employed at the plant can be retrained to produce a different product. 
+D) the elasticity of supply of the labour employed in the plant. 
+E) only the long-run concept of mobility because it is physical capital. 
+Answer:  B
+Diff: 2
+Topic:  13.2. factor mobility and supply
+Skill:  Applied
+Learning Obj.:  13-3 Distinguish between temporary and equilibrium factor‐price differentials.
+User2:  Qualitative
+13.3  The Operation of Factor Markets
+
+1) Which of the following statements about equilibrium factor-price differentials is correct? They
+A) tend to be self-eliminating.
+B) may be caused by differences in the intrinsic qualities of factors.
+C) will be eliminated when the allocation of resources is in long-run equilibrium.
+D) are unrelated to differences in non-monetary benefits.
+E) are unrelated to acquired differences in factors.
+Answer:  B
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+2) Non-monetary considerations tend to be most important in the allocation of
+A) land.
+B) capital.
+C) labour.
+D) raw materials.
+E) natural resources.
+Answer:  C
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+3) Factors of production (land, labour, and capital) tend to move between uses so as to
+A) equalize distribution of wealth.
+B) equalize the amount of industry in separate regions of a nation.
+C) maximize the net advantages to the owners of the factors.
+D) increase the ratio of capital to labour.
+E) maximize only the monetary advantages to the owners of the factors.
+Answer:  C
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+4) The difference between temporary factor-price differentials and equilibrium factor-price differentials is that
+A) equilibrium differentials are affected by shifts in demand and supply whereas temporary differentials are not.
+B) equilibrium differentials lead to, and are eliminated by, factor mobility whereas temporary differentials do not.
+C) the government can only eliminate equilibrium differentials.
+D) temporary differentials lead to, and are eliminated by, factor mobility whereas equilibrium differentials do not.
+E) only equilibrium differentials are interesting for policy purposes.
+Answer:  D
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+5) According to the hypothesis of "equal net advantage,"
+A) owners of factors will use their factors in a way that results in the largest financial return.
+B) in equilibrium, owners of identical factors of production will receive different net returns for different uses of the factors.
+C) owners of factors will use them in a way that results in the largest combined monetary and non-monetary rewards.
+D) supply curves for a factor in any particular use are not likely to shift.
+E) demand curves for a factor in any particular use are not likely to shift.
+Answer:  C
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+6) The theory of equal net advantage is a theory concerning
+A) the demand for factors.
+B) the supply of factors.
+C) the marginal product of the factors.
+D) the production process.
+E) economic versus accounting profit.
+Answer:  B
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+7) A temporary factor-price differential is one which
+A) will tend to be eliminated in the long run.
+B) will hamper the reallocation of resources from declining to growing industries.
+C) derives from intrinsic differences in the factors themselves.
+D) will reflect a permanent state of disequilibrium.
+E) is seldom self-eliminating.
+Answer:  A
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+8) The hypothesis of equal net advantage explains why
+A) two workers doing the same job in the same office are sometimes paid different wage rates.
+B) higher wages must be paid to entice workers to accept less desirable occupations or a less desirable location.
+C) the supply of unskilled labour in Canada is as great as it is.
+D) a hard-working employee may get paid less than other employees.
+E) lower wages are paid to workers with less qualifications.
+Answer:  B
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+9) When the wage paid to workers in job A increases relative to the wage in job B, then, ceteris paribus,the
+A) net advantage of job B will increase relative to job A.
+B) non-monetary advantages of job A will increase.
+C) non-monetary advantages of job B will decrease.
+D) net advantage of job A will increase relative to job B.
+E) monetary advantage of job A will increase, but not its net advantage.
+Answer:  D
+Diff: 1
+Topic:  13.3a. factor-price differentials
+Skill:  Recall
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+10) If at a particular wage rate in a competitive labour market the quantity demanded of labour is less than quantity supplied of labour, then 
+A) some workers will begin to accept lower wages and induce employers to hire more workers.
+B) there will be a shortage of labour, thereby increasing the equilibrium wage rate.
+C) the demand curve for labour will shift to the right.
+D) the supply curve for labour will shift to the right.
+E) a black market for labour will form, with firms offering workers very high wages.
+Answer:  A
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+11) Other things equal, if a particular province has some non-monetary advantages, such as a temperate climate, the wage rate in that province will be
+A) higher than national average and the market will be in equilibrium.
+B) higher than national average and the market will be in disequilibrium.
+C) lower than national average and the market will be in equilibrium.
+D) lower than national average and the market will be in disequilibrium.
+E) the same as any other province.
+Answer:  C
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+12) Suppose the following conditions existed in the Canadian labour market:
+1) All labour is mobile and possesses the same skills.
+2) Non-monetary advantages are the same across industries and occupations.
+3) The demand conditions for labour are the same across industries.
+In this situation, we expect wage rates to
+A) be the same in all industries.
+B) be higher in some industries than in others.
+C) be the same in most industries.
+D) differ because of the desirability of the location of the job.
+E) have equilibrium differentials.
+Answer:  A
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+13) Suppose a cook at a diamond mining camp in Canada's North earns a much higher wage than a cook with similar training and experience at an office building in Halifax. Economists would likely call this
+A) a temporary factor-price differential.
+B) a compensating differential.
+C) an intrinsic difference.
+D) an acquired difference.
+E) an equilibrium differential.
+Answer:  B
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+14) Suppose the government decides, in the interest of "fairness," to impose a policy prohibiting factor-price differentials. The likely result would be
+A) a horizontal factor supply curve.
+B) a decrease in net factor demands.
+C) an increase in factor mobility.
+D) a shortage of factors in uses with low net advantage.
+E) equilibrium in factor markets.
+Answer:  D
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+
+15) All of the following are examples of equilibrium factor-price differentials, EXCEPT
+A) the different prices of two pieces of land, one with a good supply of water and one without.
+B) the different wages earned by labour of varying ability.
+C) the difference in average wages in Toronto and Dryden, Ontario.
+D) an income differential that induces increased rates of entry into the higher paid professions.
+E) higher pay to a dentist than to a dental hygienist.
+Answer:  D
+Diff: 2
+Topic:  13.3a. factor-price differentials
+Skill:  Applied
+Learning Obj.:  13-4 Discuss "economic rent" and how it relates to factor mobility.
+User2:  Qualitative
+16) The term "economic rent" refers to 
+A) a payment for use of land.
+B) transfer earnings plus opportunity cost.
+C) the opportunity cost of land.
+D) economic profit.
+E) factor payments in excess of transfer earnings.
+Answer:  E
+Diff: 1
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+17) Alfred Marshall's concept of "transfer earnings" denotes
+A) the value of the factor to its user.
+B) a return to a particular factor which must be the same for all uses of that factor.
+C) the amount a factor earns over and above what is necessary to keep the factor from transferring to an alternative use.
+D) the amount that a factor must earn to keep it from transferring to another use.
+E) the amount the factor earns every time it transfers between locations.
+Answer:  D
+Diff: 1
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+18) Which of the following concepts is most similar to the concept of "transfer earnings"? 
+A) factor mobility
+B) factor price differentials
+C) factor payments
+D) equal net advantage
+E) opportunity cost
+Answer:  E
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+Consider the following demand and supply curves in factor markets.
+
+
+
+	FIGURE 13-4
+
+19) Refer to Figure 13-4. The panel that best illustrates the short-run supply of a factor to the economy as a whole is 
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 1 or 4.
+Answer:  C
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+20) Refer to Figure 13-4. Assume that all four factor markets are labour markets. The total amount paid to the workers is "transfer earnings" in diagram
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 1 or 4
+Answer:  B
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+21) Refer to Figure 13-4. Assume that all four factor markets are labour markets. The total amount paid to the workers is "economic rent" in diagram
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 1 or 4.
+Answer:  C
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+22) Refer to Figure 13-4. The panel that best illustrates the supply of a factor to a specific firm in the economy is
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 1 or 4.
+Answer:  B
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 13-4. In diagrams 1 and 4, the marginal worker is earning
+A) transfer earnings only.
+B) economic rent only.
+C) both transfer earnings and economic rent.
+D) a wage greater than the equilibrium market wage.
+E) a wage greater than the worker should receive for the product produced.
+Answer:  A
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+24) If the supply curve for a factor is perfectly inelastic, the payments to the factor are
+A) wholly economic rent.
+B) wholly transfer earnings.
+C) partly economic rent and partly transfer earnings.
+D) neither economic rent nor transfer earnings.
+E) an unnecessary tax on the factor.
+Answer:  A
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Qualitative
+25) If the supply curve for a factor is perfectly elastic, the payments to the factor are 
+A) wholly economic rent.
+B) wholly transfer earnings.
+C) partly economic rent and partly transfer earnings.
+D) neither economic rent nor transfer earnings.
+E) an unnecessary tax on the factor.
+Answer:  B
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+26) The earnings of a factor in its best alternative use is called its
+A) intrinsic value.
+B) alternative value.
+C) transfer earnings.
+D) economic earnings.
+E) economic profit.
+Answer:  C
+Diff: 1
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+27) Suppose that the municipal government of Calgary decides to tax economic rent on a highly sought-after piece of land. The result would be
+A) little or no effect on the supply of the land.
+B) an increase in the supply of the land.
+C) a reduction in the supply of land.
+D) a shift of the entire tax onto the consumer.
+E) a rise in the price of land.
+Answer:  A
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Qualitative
+
+28) John Smith plays baseball for $500 000 per year, but if he were not a baseball player, his next best alternative would be to earn $35 000 per year as a sales representative. By playing baseball, Smith is earning economic rent of
+A) $535 000.
+B) $500 000.
+C) $465 000.
+D) $35 000.
+E) zero.
+Answer:  C
+Diff: 1
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Quantitative
+29) Which of the following would be least likely to earn economic rent?
+A) an owner of land located on Yonge Street, near downtown Toronto
+B) Lady Gaga
+C) John Smith, an auto-plant worker in Oshawa, Ontario
+D) Robert Bateman, famous wildlife artist 
+E) a university professor who loves every bit of his job
+Answer:  C
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Qualitative
+
+30) Choose the statement that best describes the difference between "economic rent" and other factor payments.
+A) Economic rent is unearned income of the factor whereas other payments are earned.
+B) Economic rent is not a cost to the firm but other payments are.
+C) A reduction in economic rent will not reduce the availability of the factor whereas reducing other payments of factors will reduce their availability.
+D) There is no difference between economic rent and other factor payments.
+E) Economic rent is the sum of all factor payments.
+Answer:  C
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+31) Consider the mobility of any factor of production. The more broadly we define the use of the factor, the ________ is the mobility of the factor and the ________ is the share of the factor payment that is economic rent. 
+A) lower; lower
+B) lower; higher
+C) higher; higher
+D) higher; lower
+Answer:  B
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Recall
+User2:  Qualitative
+
+32) Suppose Harrison Ford makes 2 movies per year and earns $10 million per movie. Suppose that if he weren't making movies his next best alternative would be to earn $500 000 per year endorsing shampoo. By making movies, Harrison Ford
+A) is earning economic rent of $20 500 000 per year.
+B) is earning economic rent of $20 000 000 per year.
+C) is earning economic rent of $19 500 000 per year.
+D) is earning economic rent of $500 000 per year.
+E) is not earning economic rent.
+Answer:  C
+Diff: 2
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Quantitative
+33) Kobe Bryant is a highly paid professional basketball player in the National Basketball Association. From the perspective of the whole NBA, Kobe Bryant's economic rent would be ________, while from the perspective of his individual team it would be ________.
+A) very small; very large
+B) zero; impossible to calculate
+C) close to his whole salary; very small
+D) zero; close to his whole salary
+E) very large; close to his whole salary
+Answer:  C
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User2:  Qualitative
+
+The demand and supply curves shown below apply to a competitive market for a factor used in the production of widgets.
+
+
+
+FIGURE 13-2
+
+34) Refer to Figure 13-2.  This factor market is in equilibrium at point B.  Which of the following statements best describes factor payments at point B?
+A) total income paid to the factor is $8
+B) total of economic rent plus transfer earnings is $320
+C) total factor earnings are $320 and the 40th unit earns zero rent
+D) total factor earnings are $320 and the 40th unit earns economic rent of $8
+E) economic rent to the 40th unit is $320
+Answer:  C
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+35) Refer to Figure 13-2.  This factor market is initially in equilibrium at point B, but changes occur that cause the equilibrium to shift to point D (S curve shifts left).  At the new equilibrium, total factor earnings ________ compared to the initial equilibrium.
+A) decreased by $30
+B) increased by $30
+C) remained the same
+D) increased by $10
+E) increased by $330
+Answer:  D
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+36) Refer to Figure 13-2.  This factor market is in equilibrium at point B.  In equilibrium, the 20th unit of the factor is being paid transfer earnings of ________ and economic rent of ________.
+A) $120; -$2
+B) $16; $2
+C) $320; $80
+D) $120; $40
+E) $6; $2
+Answer:  E
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+37) Refer to Figure 13-2.  This factor market is in equilibrium at point B.  In equilibrium, the 30th unit of the factor is being paid transfer earnings of ________ and economic rent of ________.
+A) $120; -$2
+B) $16; $2
+C) $7; $1
+D) $210; $1
+E) $6; $2
+Answer:  C
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+38) Refer to Figure 13-2.  This factor market is in equilibrium at point B.  If a technological change occurs in the production of widgets that allows for increased production from each factor, then
+A) economic rents to the initial 40 units of the factor will decrease.
+B) equilibrium will move toward point D and the factor price will rise.
+C) total factor earnings will rise and economic rent to the 40th unit will be zero.
+D) equilibrium will move toward point C and economic rent to the initial 40 units will increase.
+E) total factor earnings will decrease and economic rent to the initial 40 units will increase.
+Answer:  D
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+39) Refer to Figure 13-2.  This factor market is initially in equilibrium at point B.  Assume that there is a decrease in the demand for widgets and a new equilibrium is established at point A.  Which of the following statements about point A is true?
+A) Total economic rent is $120.
+B) The marginal revenue product of the 20th unit of the factor is $6 and economic rent of the 20th unit of the factor is $0.
+C) The marginal revenue product of the 20th unit of the factor is $120 and economic rent of the 20th unit of the factor is $6.
+D) Total transfer earnings are $120.
+E) Transfer earnings for the 20th unit of the factor are $6 and economic rent of the 20th unit of the factor is $2.
+Answer:  B
+Diff: 3
+Topic:  13.3b. transfer earnings and economic rent
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 45
+Copyright © 2017 Pearson Education, Inc.
+
+
+

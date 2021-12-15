@@ -1,0 +1,1700 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 12   Economic Efficiency and Public Policy
+
+12.1  Productive and Allocative Efficiency
+
+1) Productive efficiency for an individual firm requires that
+A) all resources be fully used.
+B) MC = P for all goods.
+C) the firm be on its LRAC curve.
+D) the firm be allocatively efficient.
+E) P = ATC for all goods.
+Answer:  C
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+2) For an entire economy, allocative efficiency requires that
+A) goods are allocated equitably across markets.
+B) marginal cost equals price for all goods.
+C) MRP is equated for all factors of production.
+D) price equals average cost for all goods.
+E) price is greater than marginal cost for all goods.
+Answer:  B
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+3) Consider two firms, A and B, that are producing the same product but with different marginal costs. In this case, 
+A) a reallocation of output between the firms can lower the industry's total cost.
+B) neither firm is producing its output at the lowest attainable cost.
+C) some resources must be unemployed.
+D) each firm is being wasteful.
+E) one firm is not maximizing profits.
+Answer:  A
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+4) If the total output of some industry is allocated among its individual firms in such a way that the total cost of producing the industry's output is minimized, we know the industry has achieved
+1) full employment of resources;
+2) productive efficiency;
+3) allocative efficiency.
+A) 1 only
+B) 2 only
+C) 3 only
+D) both 1 and 3
+E) both 2 and 3
+Answer:  B
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+5) All points on a country's production possibilities boundary are
+A) allocatively efficient.
+B) points at which P = MC for all goods.
+C) productively efficient.
+D) Pareto optimal.
+E) not productively efficient.
+Answer:  C
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+6) Consider two firms, A and B, that are producing the same product but with different average costs. Economists say this situation reflects a problem of
+A) unemployed resources.
+B) economic inefficiency.
+C) productive inefficiency.
+D) allocative inefficiency.
+E) Not necessarily any of the above.
+Answer:  E
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+7) If an economy is productively inefficient, it could improve its situation by
+A) moving along its production possibilities boundary.
+B) moving beyond its production possibilities boundary.
+C) moving onto its production possibilities boundary.
+D) acquiring more resources.
+E) trading some of its resources.
+Answer:  C
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+8) An economy will be allocatively efficient if 
+A) the economy's resources are fully employed.
+B) all firms are breaking even.
+C) the average cost of production is the lowest possible for all goods produced.
+D) price equals marginal cost for all products.
+E) the price equals average cost for all goods.
+Answer:  D
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+9) An economy will be allocatively efficient if 
+A) least-cost production techniques are employed by all firms.
+B) the marginal costs of all firms in an industry are equal.
+C) marginal cost equals price for all goods.
+D) the economy's resources are fully employed.
+E) imperfectly competitive markets are regulated.
+Answer:  C
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+10) If all firms are profit maximizers, then the following is assured:
+A) allocative efficiency.
+B) each firm is productively efficient.
+C) allocative and productive efficiency.
+D) that the economy is operating inside the production possibilities boundary.
+E) that firms attain the lowest possible average costs.
+Answer:  B
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+11) Allocative efficiency is actively sought
+A) by profit-maximizing firms in all market structures.
+B) only by perfectly-competitive firms.
+C) only by profit-maximizing imperfectly-competitive firms.
+D) by none of the firms in any market.
+E) by all firms in all markets.
+Answer:  D
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+12) Productive efficiency (at the level of the firm) is a goal that is sought
+A) by profit-maximizing firms in all market structures.
+B) only by perfectly competitive firms.
+C) only by profit-maximizing imperfectly competitive firms.
+D) by no firms in any market.
+E) only by profit-maximizing firms in an oligopolistic market structure.
+Answer:  A
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+13) Allocative efficiency is a property of the behaviour of
+A) individual firms.
+B) all firms in an industry.
+C) perfectly-competitive firms.
+D) monopolies.
+E) the overall economy.
+Answer:  E
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+14) Allocative efficiency concerns
+A) producing outputs at lowest possible cost.
+B) the allocation of resources such that total economic surplus is maximized.
+C) encouraging monopoly if it generates innovation.
+D) discouraging all monopoly firms.
+E) the equitable distribution of resources.
+Answer:  B
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+15) At the level of the industry, the condition for productive efficiency is that
+A) goods are allocated equitably.
+B) there are no idle resources in the industry.
+C) MC = P for all goods.
+D) MRP = P for all inputs.
+E) MC is equal for all firms in the industry.
+Answer:  E
+Diff: 1
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+16) We can safely say that each point on a country's production possibilities boundary (PPB) is
+A) allocatively efficient.
+B) one at which P = MC for all goods.
+C) productively efficient.
+D) Pareto optimal.
+E) not productively efficient.
+Answer:  C
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+17) An economy in which there are no market failures and all industries are in a competitive long-run equilibrium is one where
+1. allocative efficiency is achieved;
+2. the economy is on the production possibilities boundary;
+3. there is no incentive for firms to enter or leave industries.
+A) 1 and 2
+B) 2 and 3
+C) 1 and 3
+D) 1, 2, and 3
+E) 2 only
+Answer:  D
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Recall
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+18) Consider a monopolistically competitive industry in long-run equilibrium. Will this industry be productively efficient? 
+A) Yes. Since the firms are in long-run equilibrium, they will all be producing at the minimum of their LRAC curves. 
+B) Yes. Since the firms are in long-run equilibrium, they will all be operating on their LRAC curves. 
+C) Yes. In long-run equilibrium, each firm is producing at an output level where price is equal to marginal cost. 
+D) No. Firms are selling their output at a level where price exceeds marginal cost and thus, by definition, cannot be productively efficient. 
+E) No. Since firms are selling differentiated products and there is no industry-wide price, we cannot conclude that marginal cost will be equated across all firms. 
+Answer:  E
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+19) Consider an industry with three profit-maximizing firms producing identical soccer jerseys. At their current levels of output, Firm A has a MC of $22, Firm B has a MC of $26, and Firm C has a MC of $27. Each firm is minimizing its costs for its given level of output. Which of the following statements is definitely true? 
+A) Each firm and the industry are productively efficient.
+B) Each firm is productively efficient but the industry is not. 
+C) The industry is productively efficient but each firm is not.
+D) Each firm is allocatively efficient but the industry is not. 
+E) Each firm and the industry are allocatively efficient. 
+Answer:  B
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+Consider three firms, A, B and C, all producing kilos of potatoes (per year) in a perfectly competitive market. The diagrams below show marginal cost curves for each of the three firms.
+
+
+
+FIGURE 12-1
+
+20) Refer to Figure 12-1. Suppose each of Firms A, B, and C are producing 500 kilos of potatoes. Is this industry productively efficient?
+A) No, because the marginal cost curve for each firm has a different slope.
+B) Yes, because output is equated for all firms.
+C) No, because each firm could easily produce more than 500 kilos.
+D) No, because marginal costs are not equated for all firms.
+E) It is not possible to say whether this industry is productively efficient because we do not know the market price of the product.
+Answer:  D
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+21) Refer to Figure 12-1. Suppose each of Firms A, B, and C are producing 500 kilos of potatoes. Which of the following statements correctly describes the productive efficiency of this industry?
+A) Productive efficiency would be achieved if Firm B produced all the output, since it has the lowest MC for the production of 500 kilos.
+B) It is possible to reduce the total cost of the given output by reallocating production among the three firms.
+C) The total output of 1500 kilos is the productively efficient output for this industry, so no reallocation is necessary.
+D) It is not possible to say whether this industry is productively efficient because we do not know the market price of the product.
+E) It is not possible to say whether this industry is productively efficient because we do not know the average costs for each firm.
+Answer:  B
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+22) Refer to Figure 12-1. Suppose each of Firms A, B and C are producing 500 kilos of potatoes. Keeping total output unchanged, what level of output should each firm be producing such that the industry is productively efficient?
+A) Firm A: 200 kilos, Firm B: 500 kilos, Firm C: 800 kilos
+B) Firm A: 700 kilos, Firm B: 800 kilos, Firm C: 0 kilos
+C) Firm A: 500 kilos, Firm B: 800 kilos, Firm C: 200 kilos
+D) Firm A: 500 kilos, Firm B: 500 kilos, Firm C: 500 kilos
+E) Firm A: 500 kilos, Firm B: 200 kilos, Firm C: 200 kilos
+Answer:  C
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Quantitative
+23) Refer to Figure 12-1. Suppose each of Firms A, B, and C are producing 500 kilos of potatoes. Is this industry allocatively efficient?
+A) It is not possible to say whether this industry is allocatively efficient because we do not know the market price for kilos of potatoes.
+B) It is not possible to say whether this industry is allocatively efficient because we do not know the average costs for each firm.
+C) Yes, because output is equated for all firms.
+D) No, since marginal costs are not equated for all firms, the industry is not productively efficient, and thus cannot be allocatively efficient.
+E) No, because the marginal cost curve for each firm has a different slope.
+Answer:  D
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+The production possibilities boundary shows possible combinations of guns and butter that can be produced by a country. The lower diagram shows demand and supply for butter.
+
+
+
+FIGURE 12-2
+
+24) Refer to Figure 12-2. Suppose demand and supply for butter are shown by D and S, respectively. And suppose the economy is at point (a) on the production possibilities boundary. Is this output of guns and butter allocatively efficient?
+A) No, because the marginal value to consumers of the butter produced is greater than the marginal cost to producers.
+B) No, because the marginal cost to producers of the butter produced is more than the marginal value to consumers.
+C) Yes, because all points on the production possibilities boundary are allocatively efficient.
+D) Yes, because the marginal cost of producing the butter equals the marginal value of consuming the butter.
+E) No, because the marginal costs for guns and butter are not equated.
+Answer:  A
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 12-2. Suppose demand and supply for butter are shown by D and S, respectively. And suppose the economy is at point (a) on the production possibilities boundary. How can this economy move toward allocative efficiency?
+A) expand the production possibilities boundary outward
+B) increase the supply of guns
+C) increase the demand for butter
+D) produce less butter, more guns
+E) produce more butter, fewer guns
+Answer:  E
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 12-2.  Suppose demand and supply for butter are shown by D and S, respectively. And suppose the economy is at point (b) on the production possibilities boundary, producing  units of butter. We can say that this economy is ________ efficient because ________.
+A) allocatively; guns and butter are both produced to the point where the marginal cost to producers equals the marginal value to consumers
+B) productively; the marginal cost of production across guns and butter is equated
+C) allocatively; the price of guns is equal to the price of butter
+D) productively; the economy is operating at a point inside the production possibilities boundary
+E) allocatively; the economy is operating at a point on the production possibilities boundary
+Answer:  A
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+27) Refer to Figure 12-2. Suppose this economy is allocatively efficient at Q1 units of butter. Now suppose there is an increase in demand for butter from D to D1. After this shift in demand,
+A) the supply curve will shift up to S1 and allocative efficiency will be maintained.
+B) the marginal value to consumers of butter is less than the marginal cost to producers; the price of butter (relative to the price of guns) rises; the economy moves to output Q2 of butter and point (c) on the PPB.
+C) the marginal value to consumers of butter is greater than the marginal cost to producers; the price of butter (relative to the price of guns) rises; the economy moves to output Q2 of butter and point (c) on the PPB.
+D) the increase in the price of butter (relative to the price of guns) will cause the demand curve to shift back down to D and allocative efficiency will be maintained.
+E) the price of guns (relative to the price of butter) rises and the economy moves to point (a) on the PPB.
+Answer:  C
+Diff: 3
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User1:  Graph
+User2:  Qualitative
+
+28) The Canadian economy is achieving allocative efficiency if
+A) price equals average cost in all industries.
+B) there are no idle resources in the economy.
+C) marginal product is equal for all factors of production.
+D) marginal cost equals price in all industries.
+E) marginal cost is equalized across industries.
+Answer:  D
+Diff: 2
+Topic:  12.1a. productive and allocative efficiency
+Skill:  Applied
+Learning Obj.:  12-1 Distinguish between productive efficiency and allocative efficiency.
+User2:  Qualitative
+
+29) An important defence of oligopoly as a market structure is that
+A) it involves less allocative inefficiency than monopoly.
+B) it results in lower prices than perfect competition.
+C) it is the most efficient available alternative when the minimum efficient scale is large.
+D) it generates less unused capacity than monopolistic competition.
+E) it is more productively efficient than monopoly.
+Answer:  C
+Diff: 2
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+30) Consider the efficiency of various market structures and complete the following sentence. The larger the minimum efficient scale of firms, ceteris paribus, the
+A) more likely we are to have a concentrated market and allocative inefficiency.
+B) less the tendency toward monopoly inefficiency.
+C) lower the advantages of large-scale production.
+D) greater the number of firms comprising an industry.
+E) more likely firms will display productive efficiency.
+Answer:  A
+Diff: 2
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+31) Traditionally, economists have regarded monopoly as an undesirable market structure because
+A) of its ability to minimize costs through large output.
+B) it is allocatively inefficient.
+C) of its wasteful innovation.
+D) it is usually characterized by wastefully confrontational labour relations.
+E) it allows producers to earn large profits.
+Answer:  B
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+32) Monopoly is allocatively inefficient because
+A) the price exceeds the marginal cost of the last unit produced.
+B) the opportunity cost exceeds the marginal cost of the last unit produced.
+C) the marginal cost exceeds the average cost for the last unit produced.
+D) lower costs could be achieved.
+E) the firm has no incentive to maximize profits.
+Answer:  A
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+33) Consider the efficiency of various market structures. In the absence of other market failures, allocative efficiency is achieved only under perfect competition because only this market structure results in
+A) zero long-run profits.
+B) P = MC.
+C) complete freedom of entry and exit.
+D) maximization of profits through competition.
+E) productive efficiency.
+Answer:  B
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+34) If a perfectly competitive industry was suddenly monopolized without any change in cost conditions,
+A) both price and quantity produced would increase.
+B) both price and quantity produced would decrease.
+C) price would increase and quantity produced would decrease.
+D) price would decrease and quantity produced would increase.
+E) there would be no change in either price or quantity produced.
+Answer:  C
+Diff: 2
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+35) In principle, a comparison of the long-run equilibrium of competitive and (single-price) monopoly industries leads to the following conclusion:
+A) both the competitive industry and the monopoly will allocate resources efficiently.
+B) the competitive industry is consistent with allocative efficiency whereas the monopoly is not.
+C) neither industry is capable of allocative efficiency.
+D) the competitive industry will achieve productive efficiency but the monopoly will not.
+E) both the competitive industry and the monopoly will allocate resources inefficiently.
+Answer:  B
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+
+FIGURE 12-3
+
+36) Refer to Figure 12-3. If the diagram is depicting a perfectly competitive industry, the equilibrium price and quantity is
+A) P1 and q1.
+B) P1 and q2.
+C) P2 and q1.
+D) P2 and q2.
+E) P3 and q1.
+Answer:  D
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+37) Refer to Figure 12-3. If the diagram is depicting the market situation for a monopoly, the equilibrium price and quantity are
+A) P1 and q1.
+B) P1 and q2.
+C) P2 and q1.
+D) P2 and q2.
+E) P3 and q1.
+Answer:  E
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+38) When comparing a perfectly competitive firm and a (single-price) monopolist, a major difference is that
+A) the monopolist produces where MR = MC, but the perfect competitor does not.
+B) the perfect competitor achieves productive efficiency, but the monopolist does not.
+C) the perfect competitor produces where P = MC, but the monopolist does not.
+D) the monopolist achieves allocative efficiency but the perfect competitor does not.
+E) the perfect competitor minimizes its costs, but the monopolist does not.
+Answer:  C
+Diff: 2
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+39) Choose the statement that best compares the long-run equilibrium of a competitive industry with that in a monopolized industry (with a single price).
+A) Resources will be allocated efficiently in both the competitive and monopolized industries.
+B) Allocative efficiency will be achieved in the competitive, but not the monopolized industry.
+C) Allocative efficiency is not possible in either industry.
+D) Allocative efficiency will be achieved in the monopolized, but not the competitive industry.
+E) It is not possible to make this comparison because firms in a competitive industry operate only in the short run.
+Answer:  B
+Diff: 1
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+40) In the absence of other market failures, allocative efficiency is achieved in a perfectly competitive industry because
+A) firms do not need to maximize profits.
+B) the industry produces a level of output such that the marginal cost of production is minimized.
+C) the industry produces a level of output such that there are increasing returns to scale.
+D) there are barriers to entry.
+E) the industry produces a level of output such that the marginal cost to producers equals the marginal benefit to consumers.
+Answer:  E
+Diff: 2
+Topic:  12.1b. market structure and efficiency
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+The diagram below shows supply, demand, and quantity exchanged of Monday matinee movie tickets. Assume it is a perfectly competitive market.
+
+
+
+FIGURE 12-4
+
+41) Refer to Figure 12-4. What is the total revenue received by the sellers of this product at the allocatively efficient level of output?
+A) $5
+B) $125
+C) $250
+D) $375
+E) $500
+Answer:  C
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+
+42) Refer to Figure 12-4. What is the value of the consumer surplus generated in this market at the allocatively efficient level of output?
+A) $0
+B) $5
+C) $10
+D) $125
+E) $250
+Answer:  D
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+
+43) Refer to Figure 12-4. What is the value of the producer surplus generated in this market at the free-market equilibrium?
+A) $0
+B) $5
+C) $10
+D) $125
+E) $250
+Answer:  D
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+44) Refer to Figure 12-4. What is the total economic surplus generated in this market at the allocatively efficient level of output?
+A) $5
+B) $10
+C) $125
+D) $250
+E) $500
+Answer:  D
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+
+45) Refer to Figure 12-4. Suppose a disequilibrium price of $7.50 per movie ticket is imposed in this market. The consumer surplus becomes ________ and the producer surplus becomes ________.
+A) $0; $62.50
+B) $2.50; $7.50
+C) $62.50; $125
+D) $62.50; $250
+E) $31.25; $156.25
+Answer:  E
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+
+46) Refer to Figure 12-4. Suppose a disequilibrium price of $7.50 per movie ticket is imposed on this market. The total economic surplus is now ________, which is ________ than the total economic surplus generated at the allocatively efficient level of output.
+A) $125; $250 less
+B) $125; $125 less
+C) $187.50; $62.50 less
+D) $62.50; $125 less
+E) $187.50; $187.50 less
+Answer:  C
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Quantitative
+47) Refer to Figure 12-4. If a disequilibrium price of $7.50 per movie ticket were imposed on this market, this market would not be allocatively efficient because
+1) the sum of consumer and producer surplus would not be maximized;
+2) the marginal benefit to consumers of the last movie consumed would be greater than the marginal cost to the seller;
+3) the marginal cost to the seller of the last movie consumed would be more than the marginal benefit to consumers.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  D
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+
+FIGURE 12-3
+
+48) Refer to Figure 12-3. The area representing consumer surplus in a monopoly equilibrium is outlined by
+A) ACE.
+B) ABE.
+C) 0P4Eq2.
+D) P3P4C.
+E) P2P4E.
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+49) Refer to Figure 12-3. The area representing consumer surplus in a perfectly competitive equilibrium is outlined by
+A) ACE.
+B) ABE.
+C) 0P4Eq2.
+D) P3P4C.
+E) P2P4E.
+Answer:  E
+Diff: 1
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+50) Refer to Figure 12-3. The area representing producer surplus at the monopoly equilibrium is outlined by
+A) 0P0Aq1.
+B) P0P2BA.
+C) P0AP1.
+D) P0P3CA.
+E) 0P3Cq1.
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+51) Refer to Figure 12-3. Comparing the perfectly competitive equilibrium to the monopoly equilibrium, the reduction in consumer surplus due to monopoly is outlined by
+A) P2EP4.
+B) P2ECP3.
+C) BCE.
+D) q1CEq2.
+E) P2P3E.
+Answer:  B
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+52) Refer to Figure 12-3. Comparing the monopoly equilibrium to the perfectly competitive equilibrium, the area representing the gain in producer surplus due to monopoly is outlined by
+A) P1P3CA less ACE.
+B) P2P3CB less ABE.
+C) P0P3CA less ACE
+D) P3P4 less ABE.
+E) P2P4E.
+Answer:  B
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+53) Refer to Figure 12-3. Comparing the monopoly equilibrium to the perfectly competitive equilibrium, the area P2P3CB represents
+A) the dead-weight loss of monopoly.
+B) a redistribution of income from consumers to the monopolist.
+C) the net gain in the monopolist's profits.
+D) the net loss in the monopolist's profits.
+E) a redistribution of income from the monopolist to the consumer.
+Answer:  B
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 12-3. Comparing the perfectly competitive equilibrium to the monopoly equilibrium, the deadweight loss of monopoly is given by 
+A) q1BEq2.
+B) AP4E.
+C) q1CEq2.
+D) ACE.
+E) P2P4E.
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+55) The deadweight loss of monopoly is
+A) its fixed cost.
+B) any negative profit due to cyclical decreases in demand.
+C) the loss of economic surplus due to the low monopoly output level.
+D) the cost of maintaining effective barriers to entry.
+E) the extra administrative costs of operating a large firm.
+Answer:  C
+Diff: 1
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+56) Suppose we compare two monopolists with identical cost and demand conditions. Monopolist A charges a single price. Monopolist B engages in price discrimination, charging a different price for different units of the product. Which one of the following statements is correct?
+A) B will produce less than A, resulting in a larger deadweight loss.
+B) B will generally produce more than A, resulting in less deadweight loss.
+C) A will produce less than B, resulting in smaller deadweight loss.
+D) A will produce more than B, and there is no deadweight loss.
+E) A and B will both produce the same amount.
+Answer:  B
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+57) Allocative efficiency occurs when
+A) producer surplus is maximized.
+B) consumer surplus is maximized.
+C) the sum of consumer and producer surplus is maximized.
+D) the economy achieves the frontier of the production possibilities boundary.
+E) deadweight loss is achieved.
+Answer:  C
+Diff: 1
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+58) In general, the sum of consumer and producer surplus is maximized under the conditions of
+A) perfect competition.
+B) monopoly.
+C) monopolistic competition.
+D) oligopoly.
+E) any market structure.
+Answer:  A
+Diff: 1
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+59) Which of the following is the result of a monopolist's pricing and output behaviour, as compared to a perfectly competitive outcome?
+A) a reduction in producer surplus and increase in consumer surplus
+B) an increase in both consumer and producer surplus
+C) a reduction in both consumer and producer surplus
+D) a reduction in the sum of consumer and producer surplus
+E) an increase in the sum of consumer and producer surplus
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+60) When comparing a monopoly equilibrium to a competitive market equilibrium, the consumer suffers two types of losses. They are
+A) the deadweight loss due to the output that is produced beyond the competitive level, and the transfer of consumer surplus to the monopolist .
+B) the loss of both consumer surplus and producer surplus.
+C) a loss of consumer surplus due to the output that is not produced, and the transfer of consumer surplus to the monopolist. 
+D) the deadweight loss due to the output that is produced and the reduced incentive for innovation by the monopolist. 
+E) the deadweight loss due to the output that is not produced and the transfer of producer surplus to the monopolist. 
+Answer:  C
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+The diagram below shows the demand and supply curves in a perfectly competitive market.
+
+
+
+FIGURE 12-5
+
+61) Refer to Figure 12-5. Allocative efficiency occurs 
+A) at output level Q3.
+B) at output level Q1.
+C) at price P1 and output Q3.
+D) at price P2 and output Q2.
+E) where the areas 1, 2, 3, and 4 are maximized.
+Answer:  D
+Diff: 1
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+62) Refer to Figure 12-5. At the free-market equilibrium, consumer surplus is represented by the area 
+A) P2P3E.
+B) P1P2E.
+C) P1P3E.
+D) 1 + 2.
+E) 1 + 2 + 3 + 4.
+Answer:  A
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+63) Refer to Figure 12-5. In the free-market equilibrium, producer surplus is shown by the area 
+A) P3P2E.
+B) P1P2E.
+C) P1P3E.
+D) 1 +2.
+E) 1 + 2 + 3 + 4.
+Answer:  B
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+64) Refer to Figure 12-5. In the free-market equilibrium, producer plus consumer surplus is maximized and is illustrated by the area 
+A) P3P2E.
+B) P1P2E.
+C) P1P3E.
+D) 1 + 2.
+E) 1 + 2 + 3 + 4.
+Answer:  C
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+65) Refer to Figure 12-5. If output in this market were Q1, but the price was still at its free-market level, the loss in consumer surplus relative to the competitive equilibrium would be illustrated by area
+A) P3P2E.
+B) P1P3E.
+C) 1.
+D) 2.
+E) 1 + 2.
+Answer:  C
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+66) Refer to Figure 12-5. If output in this market were Q1, and the price were still equal to its free-market level, the loss in producer surplus relative to the competitive equilibrium would be illustrated by area
+A) P3P2E.
+B) P1P3E.
+C) 1.
+D) 2.
+E) 1 + 2.
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+67) Refer to Figure 12-5. If output in this market were Q1, the total loss in economic surplus relative to the competitive equilibrium would be illustrated by area
+A) P1P3E.
+B) 1.
+C) 2.
+D) 1 + 2.
+E) 1 + 2 + 3 + 4.
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+68) Refer to Figure 12-5. If output in this market were Q3, and the price were still P2, the loss in consumer surplus relative to the competitive equilibrium would be illustrated by area
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 3 + 4.
+Answer:  D
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+69) Refer to Figure 12-5. If output in this market were Q3, and the price was still equal to its free-market level, the loss in producer surplus relative to the competitive equilibrium would be illustrated by area
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 3 + 4.
+Answer:  C
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+
+70) Refer to Figure 12-5. If output in this market were Q3, the loss in total economic surplus relative to the competitive equilibrium would be illustrated by area
+A) 1.
+B) 2.
+C) 3.
+D) 4.
+E) 3 + 4.
+Answer:  E
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User1:  Graph
+User2:  Qualitative
+71) Which of the following is the definition of producer surplus?
+A) the total revenue received by the producer for a good minus the total cost of producing that good
+B) the price of a good minus the marginal cost of producing it, summed over the quantity produced
+C) the revenue received for a good, minus the cost of producing it
+D) the price of a good minus the cost of producing it
+E) quantity produced in excess of the allocatively efficient amount
+Answer:  B
+Diff: 3
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+72) Which of the following is the definition of consumer surplus?
+A) the difference between the value that consumers place on a good and the payment they make to buy the good, summed over the quantity consumed
+B) the total value that consumers place on the quantity consumed of some good
+C) the quantity consumed in excess of the allocatively efficient amount
+D) the value that consumers place on the last unit consumed of a good
+E) the marginal value that consumers place on the last unit consumed of a good
+Answer:  A
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Recall
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+
+73) Which of the following is an example of an industry that succeeds in formally restricting entry, thereby maintaining prices above competitive levels?
+A) transport trucking
+B) beef cattle ranching
+C) window washing
+D) dentistry
+E) book publishing
+Answer:  D
+Diff: 2
+Topic:  12.1c. consumer and producer surplus
+Skill:  Applied
+Learning Obj.:  12-2 Explain why perfect competition is allocatively efficient, whereas monopoly is allocatively inefficient.
+User2:  Qualitative
+12.2  Economic Regulation to Promote Efficiency
+
+1) In which of the following situations would a natural monopoly exist?
+A) a firm has a government charter to be the sole producer of some good
+B) a firm is able to operate at the minimum point of its long-run average total cost curve
+C) a firm produces a product essential to national security
+D) only one firm is supplying a natural resource
+E) one firm can most efficiently supply the entire market demand
+Answer:  E
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+2) In general, which of the following statements guides policymakers with respect to a natural monopoly? The firm
+A) should be broken up into a large number of competitive firms.
+B) should be taken over by government and run as a crown corporation.
+C) is the best way to produce a given product and should be left alone.
+D) generally needs to be regulated in order to reduce allocative inefficiency.
+E) will not achieve productive efficiency without regulation.
+Answer:  D
+Diff: 1
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+3) One method of regulating a natural monopoly is known as average-cost pricing. Using this method, the regulator requires that the price be set equal to
+A) internal cost.
+B) marginal cost.
+C) average variable cost.
+D) long-run average cost.
+E) average fixed cost.
+Answer:  D
+Diff: 1
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+4) Choose the statement that best describes the dilemma facing the regulator of a natural monopoly.
+A) Marginal-cost pricing leads to profit or losses; average-cost pricing results in allocative inefficiency.
+B) Marginal-cost pricing will result in allocative inefficiency; average-cost pricing leads to profits or losses.
+C) Marginal-cost pricing will result in productive and allocative inefficiency; average-cost pricing will not.
+D) Both kinds of regulation have the same implications for allocative efficiency.
+E) There is no dilemma.
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+5) Consider the case of a natural monopoly with falling long-run average costs. If regulation sets the price equal to marginal cost, then 
+A) the firm would operate at a loss and eventually go out of business.
+B) shortages would result.
+C) the demand curve would shift to the left.
+D) the firm would earn economic profits.
+E) the outcome would be allocatively inefficient.
+Answer:  A
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+6) Consider a natural monopoly that has declining LRAC over the entire range of the market demand curve. If it is regulated and required to charge a price that is equal to MC, the resulting level of output is
+A) allocatively efficient, and profit is earned.
+B) allocatively efficient, but the firm must be paid a subsidy or it will eventually go out of business.
+C) less than the allocatively efficient level, and profit is zero.
+D) less than the allocatively efficient level, but losses occur.
+E) greater than the allocatively efficient level, but losses occur.
+Answer:  B
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+7) Consider a public utility that is a natural monopoly with falling long-run average costs. If a regulatory agency ordered this firm to price all of its output at marginal cost, then the firm
+A) would lose money unless it is subsidized.
+B) could incur profits or losses depending on the position of the demand curve and the LRAC curve.
+C) would earn profits since the demand curve is perfectly inelastic.
+D) would incur losses since the demand curve is perfectly elastic.
+E) would have to shut down.
+Answer:  A
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+8) If average-cost pricing is imposed on a falling-cost natural monopoly, the result will be
+A) exit from the industry in the short run.
+B) zero economic profit.
+C) economic profits.
+D) economic losses.
+E) losses and exit from the industry in the long run.
+Answer:  B
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+9) If a regulatory agency imposes a lump-sum tax on a monopolist (i.e., a tax that is independent of the level of output) it will reduce the firm's profits because the tax increases
+A) the LRAC but not the MC, leaving price and output unchanged.
+B) both the LRAC and the MC, leaving price and output unchanged.
+C) all costs as it shifts the demand curve to the left.
+D) all costs as it shifts the demand curve to the right.
+E) price whereas quantity demanded falls.
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+10) Regulation can reduce the profits of a natural monopoly by imposing a per-unit output tax (rather than directly regulating price). Such a tax would cause the monopolist's
+1) average total cost curve to shift upward;
+2) marginal cost curve to shift upward;
+3) demand curve to shift to the left.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2 
+E) 2 and 3 
+Answer:  D
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+11) Suppose a cell-phone service provider has monopoly rights for a geographical region and is earning monopoly profits.  If the government then imposes a lump-sum tax (i.e., a tax that is independent of the level output) of $X on this firm, the effect is
+A) an increase in consumer surplus due to the tax revenue.
+B) to increase the firm's marginal costs and reduce its profit by $X.
+C) to increase the firm's average costs and reduce its profit by $X.
+D) a reduction in output and an increase in price.
+E) an increase in output and a decrease in price.
+Answer:  C
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+12) The economic efficiency of a natural monopoly can be improved with the use of two-part tariffs because it allows the monopoly to
+A) charge users according to their willingness to pay.
+B) charge residential users different rates than business users.
+C) charge users according to their ability to pay.
+D) charge users separately for fixed and variable costs.
+E) lower its total costs.
+Answer:  D
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+13) Suppose your municipality charges your household a flat fee of $100 per year plus $2 per cubic metre of water used. This pricing policy is an example of
+A) marginal-cost pricing.
+B) average cost pricing.
+C) a two-part tariff.
+D) utility pricing.
+E) linear pricing.
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+14) In the long run, the imposition of average-cost pricing in natural monopolies, such as Manitoba Hydro and New Brunswick Power, would generally lead to
+A) allocative efficiency.
+B) productive efficiency.
+C) distorted investment decisions.
+D) a reduction in the output by these firms.
+E) both allocative efficiency and productive efficiency.
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+15) Consider a regulated natural monopoly, such as an electricity distribution company, that faces falling long-run average costs. If it is forced to price its output at average cost it will provide
+A) less output than what is socially optimal.
+B) more output than what is socially optimal.
+C) the socially optimal amount of output.
+D) more output than can be absorbed by the market.
+E) so little output that there will be a shortage.
+Answer:  A
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+16) A regulated monopoly that faces rising long-run costs (at its current level of output) and which is forced to price its output at average cost will provide
+A) less output than what is socially optimal.
+B) more output than what is socially optimal.
+C) the socially optimal amount of output.
+D) more output than what can be absorbed by the market.
+E) so little output that there will be a shortage.
+Answer:  B
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+17) Consider a natural monopoly that is producing an output level such that it is experiencing decreasing returns to scale. If government policy requires the firm to set price equal to marginal cost, 
+A) the outcome will be allocatively efficient and the firm will be earning profits. 
+B) the outcome will be allocatively inefficient and the firm will be earning profits. 
+C) the outcome will be allocatively efficient and the firm will be incurring losses. 
+D) the outcome will be allocatively inefficient and the firm will be incurring losses. 
+E) the outcome will be allocatively efficient and the firm will be earning zero profits. 
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+18) Consider the following information for a regional cable television service provider that is a natural monopoly and has a U-shaped long-run average cost curve. (Assume the service provided is basic cable and units are household connections.)
+	- minimum LRAC = $9.00 per month
+	- minimum efficient scale = 2 million units
+	- current output = 2.3 million units
+	- LRAC at current output = $10.25 per month
+If this firm is currently being regulated and is following an average-cost pricing policy, the price of the service is ________ per month.
+A) less than $9.00
+B) $9.00
+C) between $9.00 and $10.25
+D) $10.25
+E) higher than $10.25
+Answer:  D
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Quantitative
+19) Consider the following information for a regional cable television service provider that is a natural monopoly and has a U-shaped long-run average cost curve. (Assume the service provided is basic cable and units are household connections.)
+	- minimum LRAC = $9.00 per month
+	- minimum efficient scale = 2 million units
+	- current output = 2.3 million units
+	- LRAC at current output = $10.25 per month
+Suppose the firm is currently being regulated and is required to follow a marginal-cost pricing policy. The price of the service will be ________ per month. 
+A) lower than $9.00
+B) $9.00
+C) between $9.00 and $10.25
+D) $10.25
+E) higher than $10.25
+Answer:  E
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Quantitative
+
+20) Consider the following information for a regional cable television service provider that is a natural monopoly and has a U-shaped long-run average cost curve. (Assume the service provided is basic cable and units are household connections.) 
+	- minimum LRAC = $9.00 per month
+	- minimum efficient scale = 2 million units
+	- current output = 1.7 million units
+	- current LRAC = $10.25 per month
+If this firm is currently being regulated and is following an average-cost pricing policy, the price of service is ________ per month. 
+A) lower than $9.00
+B) $9.00
+C) between $9.00 and $10.25
+D) $10.25
+E) higher than $10.25
+Answer:  D
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Quantitative
+21) Consider the following information for a regional cable television service provider that is a natural monopoly and has a U-shaped long-run average cost curve. (Assume the service provided is basic cable and units are household connections.) 
+	- minimum LRAC = $9.00 per month
+	- minimum efficient scale = 2 million units
+	- current output = 1.7 million units
+	- current LRAC = $10.25 per month
+Suppose the firm is currently being regulated and is required to follow a marginal-cost pricing policy. The price of the service will be ________ per month. 
+A) lower than $9.00
+B) $9.00
+C) lower than $10.25
+D) $10.25
+E) higher than $10.25
+Answer:  C
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Quantitative
+
+22) According to economist George Stigler, the process of regulating firms with market power becomes suspect over time because
+A) regulators impose additional costs on regulated firms because they are expected to accomplish other social goals.
+B) regulators shift from protecting the consumer to protecting the regulated firm from competition.
+C) regulated firms are allowed to expand into other markets and drive out competing firms.
+D) regulated firms devise methods to circumvent the regulations.
+E) regulation leads to corruption of political parties.
+Answer:  B
+Diff: 1
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+The diagram below shows the market demand curve and the cost curves for a single firm.
+
+
+
+FIGURE 12-6
+
+23) Refer to Figure 12-6. The firm depicted in the figure is
+A) a perfectly competitive firm.
+B) a monopolistically competitive firm.
+C) a natural monopoly.
+D) an oligopoly.
+E) a cartel.
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+24) Refer to Figure 12-6. Suppose the firm is being regulated using a policy of average-cost pricing. The resulting price and output would be
+A) P1 and Q2.
+B) P1 and Q1.
+C) P2 and Q2.
+D) P3 and Q1.
+E) P3 and Q2.
+Answer:  D
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+25) Refer to Figure 12-6. Suppose this firm is being regulated using a policy of average-cost pricing. In this case, economic profits to the firm are represented by the area
+A) P2P3ad.
+B) P2P3ab.
+C) 0P3aQ1.
+D) P1P2bc.
+E) There are no economic profits.
+Answer:  E
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 12-6. Suppose this firm is being regulated using a policy of average-cost pricing. In this case,
+A) the result is allocatively efficient because economic profits are zero.
+B) the result is allocatively inefficient because price exceeds marginal cost.
+C) the level of output is too low, but the price is allocatively efficient.
+D) the result is as close to the competitive outcome as possible.
+E) the result is allocatively inefficient because the marginal cost curve is downward sloping.
+Answer:  B
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+27) Refer to Figure 12-6. Suppose this firm is being regulated using the policy of marginal-cost pricing. The resulting price and output would be
+A) P2 and Q2.
+B) P3 and Q1.
+C) P1 and Q2.
+D) P3 and Q2.
+E) P1 and Q1.
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+28) Refer to Figure 12-6. Suppose this firm is being regulated using a policy of marginal-cost pricing. In this case, the firm would experience ________ represented by the area ________.
+A) losses; P1P2bc
+B) losses; edbc
+C) losses; 0P2bQ2
+D) profits; P2P3ad
+E) profits; edbc
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 12-6. Suppose this firm is being regulated using a policy of marginal-cost pricing. In this case,
+A) allocative efficiency is achieved because profits are maximized.
+B) the result is allocatively inefficient because the firm is suffering losses.
+C) the result is allocatively inefficient because the firm is earning profits.
+D) the result is allocatively inefficient because the marginal cost curve lies below the ATC curve.
+E) allocative efficiency is achieved because price equals marginal cost.
+Answer:  E
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+30) Refer to Figure 12-6. Suppose this firm is being regulated using a policy of marginal-cost pricing. To maintain the resulting level of output
+A) the government would have to subsidize the firm or it will eventually shut down.
+B) the regulator would have to allow the firm to keep the monopoly profits at this level of output.
+C) the government would have to accept the allocative inefficiency associated with this level of output.
+D) the average total cost curve would have to shift up.
+E) the demand curve would have to the left.
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+31) Refer to Figure 12-6.  Suppose this firm is a government-owned natural monopoly and imposes a price so as to achieve allocative efficiency in this market.  The amount of tax revenue that the government must raise elsewhere in the economy to offset the losses of this firm is represented by the area
+A) P1P3ae.
+B) P1P2bc.
+C) edbc.
+D) Q1dbQ2.
+E) 0P2bQ2.
+Answer:  B
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Qualitative
+
+The diagram below shows cost and revenue curves for a natural monopoly producing electricity.  Price is dollars per kilowatt hour and quantity is kilowatt hours per day.
+
+
+FIGURE 12-7
+
+32) Refer to Figure 12-7.  If this firm were unregulated and profit maximizing, its profit would be ________ per day.
+A) $0
+B) $10 000
+C) $60 000
+D) $110 000
+E) $120 000
+Answer:  B
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Quantitative
+
+33) Refer to Figure 12-7. If this firm were unregulated and profit maximizing, its price and output would be ________ per kwh and ________ kwh per day.
+A) $0.08; 1.5 million
+B) $0.09; 1.4 million
+C) $0.12; 1 million
+D) $0.11; 1 million
+E) $0.07; 1.5 million
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+34) Refer to Figure 12-7.  Suppose this firm is being regulated using a policy of average-cost pricing.  The resulting price and output would be ________ per kwh and ________ kwh per day.
+A) $0.06; 1 million
+B) $0.07; 1.5 million
+C) $0.09; 1.4 million
+D) $0.11; 1 million
+E) $0.12; 1 million
+Answer:  C
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Quantitative
+
+35) Refer to Figure 12-7.  Suppose this firm is being regulated using a pricing policy of average-cost pricing.  In this case, economic profits are equal to
+A) $10 000.
+B) $6000.
+C) $126 000.
+D) $28 000.
+E) $0.
+Answer:  E
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Quantitative
+36) Refer to Figure 12-7.  Suppose this firm is being regulated using a policy of marginal-cost pricing.  The resulting price and output would be ________ per kwh and ________ kwh per day.
+A) $0.06; 1 million
+B) $0.07; 1.5 million
+C) $0.08; 1.5 million
+D) $0.09; 1.4 million
+E) $0.12; 1 million
+Answer:  B
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Quantitative
+
+37) Refer to Figure 12-7.  Suppose this firm is being regulated using a policy of marginal-cost pricing.  In this case, economic profits are equal to
+A) -$15 000.
+B) -$28 000.
+C) $0.
+D) $90 000.
+E) -$50 000.
+Answer:  A
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Applied
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User1:  Graph
+User2:  Quantitative
+
+38) Which of the following is a possible negative result of a policy of average-cost pricing as a method of regulating a natural monopoly? 
+A) economic losses will accumulate over time to unsustainable levels
+B) taxpayers will have to subsidize the economic losses of the regulated monopoly
+C) the regulated monopoly earns unreasonable profits
+D) socially desirable capital investment may not occur
+E) the induced technological change leads to more industries becoming natural monopolies
+Answer:  D
+Diff: 3
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+User2:  Qualitative
+39) There has been a trend toward less government regulation and ownership in oligopolistic industries in most industrialized countries since the 1980s.  One reason for this is
+A) policymakers came to understand that many oligopolistic firms were operating at their minimum efficient scale, thereby producing an efficient outcome.
+B) policymakers came to understand that many oligopolistic firms were producing output levels that resulted in allocative efficiency.
+C) policymakers realized that they did not have effective tools for promoting efficiency.
+D) Canada's Competition Bureau, and similar agencies in other countries were so successful at promoting competition that such regulation is no longer required.
+E) domestic firms are now exposed to more international competition due to falling transportation and communication costs.
+Answer:  E
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+40) In many cases throughout Canadian history, governments have sought to control the behaviour of oligopolistic firms through either ownership or regulation.  Policymakers are now skeptical of such practices because
+1) many innovations in products and production methods that have led to increases in living standards are attributable to firms in oligopolistic industries;
+2) it became clear that oligopolistic industries can achieve both productive and allocative efficiency without government intervention;
+3) the regulatory body often ends up protecting the firms from competition.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 2
+Topic:  12.2. regulation of monopoly and oligopoly
+Skill:  Recall
+Learning Obj.:  12-3 Describe alternative methods for regulating a natural monopoly.
+User2:  Qualitative
+
+12.3  Canadian Competition Policy
+
+1) The objective of government regulation and competition policy can be described as a means to
+A) promote economic efficiency.
+B) make at least one person better off at the expense of others.
+C) reduce inequality in the economy.
+D) increase fairness in economic activities.
+E) make all industries perfectly competitive.
+Answer:  A
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+2) A major aim of Canadian competition policy is to
+A) eliminate oligopolies and the allocative inefficiency that they entail.
+B) prevent further concentration of industries where such concentration would lessen competition.
+C) monitor the pricing practices of crown corporations.
+D) protect Canadian companies from unfair foreign competition.
+E) achieve a perfectly competitive market structure in all markets in the Canadian economy.
+Answer:  B
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+3) Prior to the 1986 amendments to the Canadian Competition Act, cases brought against mergers were almost always unsuccessful. The reason most often cited for this is
+A) that merging firms were always successful in destroying the incriminating evidence.
+B) that judges were influenced.
+C) that mergers that were detrimental to the public interest previously fell under criminal law, rather than civil law, making them particularly hard to prove.
+D) that mergers that were detrimental to the public interest previously fell under civil law, rather than criminal law, making them particularly hard to prove.
+E) the lack of a director responsible for prosecution.
+Answer:  C
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+4) An allowable defence for a merger according to Canada's Competition Bureau is that 
+A) merging firms find it easier to decide how they will share the market.
+B) merging firms are more profitable because they no longer have to compete with one another.
+C) the gains in efficiency resulting from the merger more than offset any reductions in competition.
+D) merged and therefore bigger firms are better placed to compete globally.
+E) larger firms are easier to regulate.
+Answer:  C
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+5) In Canada, a significant challenge for the Competition Bureau when reviewing a possible merger between firms in a concentrated industry is to
+A) determine whether efficiency gains make the merger desirable.
+B) determine whether monopoly no longer poses a threat to the Canadian economy.
+C) impose effective entry barriers to the industry.
+D) determine whether criminal charges are required due to unlawful collusion.
+E) allow those mergers that lead to larger firms that are easier to regulate.
+Answer:  A
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+6) In Canada, the Competition Act specifies that in antitrust cases the "watchdog" is the
+A) Senate.
+B) Commissioner of the Competition Bureau.
+C) Supreme Court of Canada.
+D) minister responsible for Industry Canada.
+E) prime minister.
+Answer:  B
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+7) The administrative agency established to enforce the provisions of the Competition Act is the
+A) Competition Bureau.
+B) Federal Free Trade Practices Commission.
+C) Department of Consumer and Corporate Affairs.
+D) Competition Tribunal Act.
+E) Director of Investigations.
+Answer:  A
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+8) Canadian governments (federal, provincial and municipal) employ public ownership or regulation of industries in an effort to
+A) ensure that the goal of profit maximization is being pursued because this ensures allocative efficiency.
+B) produce a more equitable distribution of income between consumers and producers with monopoly power.
+C) protect consumers from the high prices and restricted output associated with monopoly power.
+D) promote productive efficiency in all industries.
+E) transfer monopoly profits from private firm owners to the government.
+Answer:  C
+Diff: 2
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+9) Suppose there are only two firms (Firms A and B) in Canada that produce good X, and the two firms propose a merger to create a single firm (Firm AB). Is there any circumstance under which the authorities enforcing Canadian competition policy might approve of such a merger?
+A) According to the Competition Act, as long as the revenues of the merged firm are less than $100 million per year. 
+B) According to the Competition Act, if the merged firm enhances the status of a Canadian cultural industry. 
+C) If the market is defined as being within Canada's borders, and the merger allows Firm AB to exploit economies of scale. 
+D) If international trade in good X is such that Firm AB faces a fully competitive environment, both within and outside of Canada's borders. 
+Answer:  D
+Diff: 2
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+10) In Canada, alleged violations of the Competition Act are referred to the ________ for adjudication. 
+A) Commissioner of the Competition Bureau
+B) Competition Tribunal
+C) minister responsible for Industry Canada
+D) RCMP
+E) provincial Courts of Appeal
+Answer:  B
+Diff: 1
+Topic:  12.3. Canadian competition policy
+Skill:  Recall
+Learning Obj.:  12-4 Discuss some details about Canadian competition policy.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 49
+Copyright © 2017 Pearson Education, Inc.
+
+
+

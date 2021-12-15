@@ -1,0 +1,1847 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 32   The Gains from International Trade
+
+32.1  The Gains from Trade
+
+1) Since 1950, the world's real GDP has increased by seven times and the volume of world trade has increased by roughly 
+A) the same amount.
+B) two times.
+C) ten times.
+D) fifteen times.
+E) thirty-five times.
+Answer:  E
+Diff: 2
+Topic:  32.1a. trade and specialization
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+2) In 2014 the value of goods exported from Canada was approximately $________ while the value of goods imported was approximately $________. Each of these flows represents ________% of Canada's GDP.
+A) 50 billion; 30 billion; 6
+B) 530 billion; 525 billion; 32
+C) 12 billion; 12 billion; 1
+D) 100 billion; 100 billion; 15
+E) 25 billion; 25 billion; 10
+Answer:  B
+Diff: 2
+Topic:  32.1a. trade and specialization
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+3) A country that engages in no foreign trade is said to be in a situation of
+A) comparative advantage.
+B) absolute advantage.
+C) reciprocal absolute advantage.
+D) autarky.
+E) isolation.
+Answer:  D
+Diff: 1
+Topic:  32.1a. trade and specialization
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+4) The increases in a nation's output and consumption that result from specialization and trade are called 
+A) the terms of trade. 
+B) the gains from trade. 
+C) autarky. 
+D) absolute advantage. 
+E) comparative advantage.
+Answer:  B
+Diff: 1
+Topic:  32.1a. trade and specialization
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+5) Trade, whether between individuals or nations, generally promotes
+A) self-sufficiency.
+B) specialization.
+C) lower living standards.
+D) higher product prices.
+E) autarky.
+Answer:  B
+Diff: 1
+Topic:  32.1a. trade and specialization
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+6) The existence of any "gains from trade" relies on 
+A) closed economies.
+B) absolute advantage.
+C) comparative advantage.
+D) both absolute and comparative advantage.
+E) tariffs.
+Answer:  C
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+7) The existence of "absolute advantage" 
+A) implies that there will be no benefits from trade between two nations.
+B) refers to a situation where one country can produce one unit of a given product with fewer resources than the other country.
+C) fosters the self-sufficiency of nations.
+D) refers to a situation where one country can produce one unit of all goods with fewer resources than can another country.
+E) is not physically possible.
+Answer:  B
+Diff: 1
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+8) One region is said to have an absolute advantage over another region in the production of good X when
+A) the first region has a more productive labour force than the second.
+B) the first region has a larger supply of the raw materials required to produce good X.
+C) an equal quantity of resources can produce more of good X in the first region than in the second region.
+D) there is no demand for good X in the second region.
+E) the opportunity cost of one unit of X is lower in the first region than in the second region.
+Answer:  C
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+9) The concept of "comparative advantage" refers to the
+A) ability of one region to produce a commodity at a lower opportunity cost than another region.
+B) ability of one region to produce a commodity with less labour input than another region.
+C) ability of one region to produce a commodity with fewer total inputs than another region.
+D) gains from international trade.
+E) terms of trade index.
+Answer:  A
+Diff: 1
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+10) The principle of comparative advantage was first formulated in the 18th century by
+A) David Hume.
+B) Thomas Malthus.
+C) Karl Marx.
+D) David Ricardo.
+E) Adam Smith.
+Answer:  D
+Diff: 1
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+11) There will be no gains from specialization and trade between two countries if 
+1) neither country has an absolute advantage in the production of any good;
+2) neither country has a comparative advantage in the production of any good;
+3) opportunity costs are the same in the two countries.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  E
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+12) There will be no gains from specialization and trade between two countries if 
+1) neither country has an absolute advantage in the production of any good;
+2) neither country has a comparative advantage in the production of any good;
+3) opportunity costs differ too much between the two countries.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  B
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+13) Consider two countries that can produce rice and other products. If neither country has an absolute advantage in the production of rice,
+A) there is no possibility that either country will import rice from the other.
+B) neither country can possibly have a comparative advantage in the production of rice.
+C) rice will still be traded as long as one of the countries has a comparative advantage in its production.
+D) the opportunity cost of producing rice must be identical in the two countries.
+E) then rice should not be produced.
+Answer:  C
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+14) If a country has a comparative advantage in the production of soybeans, and it trades freely with other countries, it will most probably
+A) derive no advantage from any trade in soybeans.
+B) increase its consumption of soybeans.
+C) export soybeans.
+D) import soybeans.
+E) not consume soybeans.
+Answer:  C
+Diff: 1
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+15) Consider a country that is initially autarkic and then engages freely in international trade. If this country has a comparative advantage in the production of soybeans, it will most probably 
+A) derive no advantage from any trade in soybeans.
+B) decrease the production of soybeans for domestic consumption.
+C) increase the production of soybeans for domestic consumption.
+D) increase the production of soybeans to allow for the export of soybeans.
+E) import soybeans
+Answer:  D
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+Consider the following information about the production of two goods, X and Y, in two countries, A and B:
+
+∙	In Country A it takes Xa units of resources to produce one unit of X and Ya units  of resources to produce one unit of Y.
+∙	In Country B it takes Xb units of resources to produce one unit of X and Yb units of resources to produce one unit of Y.
+∙	Assume the amount of resources used to produce the goods in the two countries can be compared unambiguously.
+
+TABLE 32-1
+
+16) Refer to Table 32-1. Country A has an absolute advantage in producing good X if
+A) (Xa/Ya) is less than (Xb/Yb).
+B) Xa is less than Xb.
+C) Xa is less than Ya.
+D) (Xa/Xb) is less than (Ya/Yb).
+E) Xa = Xb.
+Answer:  B
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 32-1. Country A has a comparative advantage in producing good X if
+A) (Xa/Ya) is less than (Xb/Yb).
+B) (Xa/Xb) is greater than (Ya/Yb).
+C) (Xa/Ya) is greater than (Xb/Yb).
+D) Xa is less than Yb.
+E) Xa = Xb.
+Answer:  A
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+18) Refer to Table 32-1. There is no scope for gains from trade due to specialization between the two countries if
+A) (Xa/Ya) is greater than (Xb/Yb).
+B) Xa is equal to Yb.
+C) (Xa/Ya) is equal to (Xb/Yb).
+D) Xa is less than Yb and Ya is less than Yb.
+E) Xa is less than Xb.
+Answer:  C
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+19) Refer to Table 32-1. If  is less than , we can conclude with certainty that
+A) The opportunity cost of producing good X in Country A is less than in Country B.
+B) Country A has a comparative advantage in the production of good X.
+C) Country A has an absolute advantage in the production of good X.
+D) The price of good X in Country A is less than the price in Country B.
+E) The opportunity cost of producing good X in Country A is higher than in Country B.
+Answer:  C
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 32-1. If the ratio / is less than the ratio /, then we can say with certainty that 
+A) The opportunity cost of producing good X in Country A is less than in Country B.
+B) Country A has a comparative advantage in the production of good X.
+C) Country A has an absolute advantage in the production of good X.
+D) The opportunity cost of producing good X in Country A is higher than in Country B.
+E) Both A and B are correct.
+Answer:  E
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+21) If two nations want to trade with one another, they can determine their respective comparative advantages by
+A) hiring economists to gather and interpret the relevant data.
+B) first determining which has absolute advantage in the production of goods and services.
+C) allowing firms in each country to freely engage in international trade.
+D) making certain that the prices of tradable goods and services are equal in both nations.
+E) computing the opportunity costs of all goods and services.
+Answer:  C
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+22) Two nations want to engage in trade but discover that one of them is more efficient in producing all goods. In this case,
+A) each nation should export the good in which it has a comparative advantage.
+B) no trade is possible.
+C) the more efficient country should produce all goods and export them.
+D) the less efficient country should engage in importation of goods only.
+E) the more efficient country should import all goods.
+Answer:  A
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+23) If a country is not engaged in trade at all with its neighbours, and then begins to trade, it will
+A) experience increases in employment in all industries. 
+B) be consuming inside its production possibilities boundary. 
+C) import those goods which are acquired more cheaply through trade than through domestic production. 
+D) expect a decrease in the average standard of living, but will see increased profits for firms in the export business. 
+E) experience an increase in its average standard of living only if it begins with an absolute advantage in the production of all goods.
+Answer:  C
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+24) If Canada has an absolute advantage in the production of oil relative to the United States, then 
+A) Canada also has a comparative advantage in producing oil.
+B) Canada also has a comparative advantage in producing some good other than oil.
+C) the opportunity cost of producing oil is higher in Canada than in the United States.
+D) the opportunity cost of producing oil is lower in Canada than in the United States.
+E) Canada may or may not have a comparative advantage in producing oil relative to the United States.
+Answer:  E
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+25) Suppose Canada could produce all goods and services more cheaply than all other countries. In that case,
+A) no trade would occur because Canada would have an absolute advantage in producing everything.
+B) no trade would occur because Canada would not have a comparative advantage in producing anything.
+C) trade would probably take place because Canada would still have a comparative disadvantage in producing some goods.
+D) trade would occur but only if other countries also have an absolute advantage.
+E) trade would occur but only if other countries subsidize the import of Canadian goods and services.
+Answer:  C
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+26) Suppose Spain is currently producing 90 units of wine and 10 units of cheese, but to produce 10 more units of cheese it must sacrifice 30 units of wine. Further, suppose that Portugal produces 45 units of wine and 45 units of cheese, but to produce 10 more units of cheese it must sacrifice only 10 units of wine. It can be concluded that
+A) Portugal has an absolute advantage in both wine and cheese production.
+B) Portugal has an absolute advantage in wine production and Spain has an absolute advantage in cheese production.
+C) Spain has an absolute advantage in both wine and cheese production.
+D) Spain has a comparative advantage in the production of wine and Portugal has a comparative advantage in the production of cheese.
+E) more information is needed to conclude anything about comparative advantage in either country.
+Answer:  D
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Quantitative
+27) Suppose Spain is currently producing 90 units of wine and 10 units of cheese, but to produce 10 more units of cheese it must sacrifice 30 units of wine. Further, suppose that Portugal produces 45 units of wine and 45 units of cheese, but to produce 10 more units of cheese it must sacrifice only 10 units of wine. What is the pattern of absolute advantage between Spain and Portugal?
+A) Portugal has an absolute advantage in both wine and cheese production.
+B) Portugal has an absolute advantage in wine production and Spain has an absolute advantage in cheese production.
+C) Spain has an absolute advantage in both wine and cheese production.
+D) neither country has an absolute advantage in the production of either wine or cheese.
+E) more information is needed to conclude anything about absolute advantage in either country.
+Answer:  E
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Quantitative
+Ireland and Japan are assumed to produce only wool and steel, to have full employment and complete mobility of resources between industries. Their production possibilities boundaries before trade are drawn in solid lines. It is assumed that the two countries have the same amount of resources. Their consumption possibilities after trade are shown by the dotted lines. The outputs of wool and steel are given in physical units.
+
+
+	FIGURE 32-1
+
+28) Refer to Figure 32-1. Japan has an absolute advantage in 
+A) wool. 
+B) steel. 
+C) both goods. 
+D) neither good.
+E) Insufficient information to determine the answer.
+Answer:  B
+Diff: 3
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 32-1. Before any trade takes place, the opportunity cost of a unit of steel is
+A) 3/4 unit of wool in Ireland; 3/8 unit of wool in Japan.
+B) 4/3 unit of wool in Ireland; 8/3 unit of wool in Japan.
+C) 3 units of wool in Ireland; 3 units of wool in Japan.
+D) 4 units of wool in Ireland; 8 units of wool in Japan.
+E) 4 units of wool in Ireland; 4 units of wool in Japan.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+30) Refer to Figure 32-1. The comparative advantage is held by 
+A) neither country in either good. 
+B) Japan in both goods. 
+C) Ireland in both goods. 
+D) Ireland in wool, Japan in steel. 
+E) Ireland in steel, Japan in wool.
+Answer:  D
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+
+31) Refer to Figure 32-1. When trade between Ireland and Japan begins, the probable trade pattern is to 
+A) export wool from Ireland to Japan and steel from Japan to Ireland. 
+B) export wool from Japan to Ireland and steel from Ireland to Japan. 
+C) export both wool and steel from Ireland to Japan.
+D) export both wool and steel from Japan to Ireland. 
+E) impose tariffs on both goods in both countries. 
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+32) Refer to Figure 32-1. If Ireland and Japan were each to specialize in the good for which they have a comparative advantage, Ireland would produce ________ and Japan would produce ________. 
+A) 0 units of wool and 6 units of steel; 4 units of wool and 0 units of steel
+B) 3 units of wool and 6 units of steel; 4 units of wool and 8 units of steel
+C) 3 units of wool and 4 units of steel; 3 units of wool and 8 units of steel
+D) 3 units of wool and 0 units of steel; 0 units of wool and 8 units of steel
+E) 4 units of wool and 0 units of steel; 0 units of wool and 8 units of steel
+Answer:  D
+Diff: 2
+Topic:  32.1b. absolute and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+The following diagrams show the production possibilities boundaries for Austria and Switzerland, for the production of bicycles and shoes.
+
+
+
+	FIGURE 32-2
+
+33) Refer to Figure 32-2. The diagrams illustrate that the ________ is lower in Austria than in Switzerland.
+A) opportunity cost of producing shoes
+B) opportunity cost of producing bicycles
+C) total cost of producing shoes
+D) average cost of producing bicycles
+E) comparative advantage in producing bicycles
+Answer:  A
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 32-2. The diagrams illustrate that Switzerland
+A) has an absolute advantage in the production of bicycles.
+B) has a comparative advantage in the production of shoes.
+C) has an absolute advantage in the production of shoes.
+D) has a higher consumption of bicycles than Austria.
+E) has a comparative advantage in the production of bicycles.
+Answer:  E
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+35) Refer to Figure 32-2. Assume that Austria and Switzerland do not engage in international trade. In that case,
+A) Austria will produce all shoes and no bicycles.
+B) Switzerland will produce all bicycles and no shoes.
+C) each country will consume according to comparative advantage anyway.
+D) the downward-sloping lines illustrate each country's consumption possibilities.
+E) each country will produce according to comparative advantage anyway.
+Answer:  D
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+36) Refer to Figure 32-2. If Austria and Switzerland engage in free trade with each other, it is likely that Switzerland will specialize in the production of ________ and Austria will specialize in the production of ________.
+A) bicycles; bicycles
+B) shoes; bicycles
+C) shoes; shoes
+D) bicycles; shoes
+Answer:  D
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+37) When opportunity costs differ between countries,
+A) comparative advantages may not exist.
+B) specialization and trade can lead to increases in the production of all commodities.
+C) each country should produce only those goods for which it has an absolute advantage.
+D) only the smaller countries will benefit from trade.
+E) only the larger countries will benefit from trade.
+Answer:  B
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+38) When opportunity costs are identical between two countries for all goods,
+A) there can be no gains from trade unless there are economies of scale in some of the products.
+B) international trade will be advantageous only to the country that has an absolute advantage in the production of some commodity.
+C) there will be gains from trade for both countries if one country has an absolute advantage in the production of some commodity.
+D) absolute advantages will determine the gains from trade.
+E) there will be absolute advantages from trade but no comparative advantages from trade.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+39) Consider two countries that can produce wheat and coffee. The gains from trade when the two countries have different opportunity costs are realized when
+A) production possibility boundaries shift inward.
+B) the two countries continue to produce the same quantities of wheat and coffee.
+C) each country has an absolute advantage in one of the two commodities.
+D) resources are reallocated within the two countries such that each specializes in the production of the good in which it has an absolute advantage.
+E) resources are reallocated within the two countries such that each specializes in the production of the good in which it has a comparative advantage.
+Answer:  E
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+40) If two countries each produce wool and cotton, the country with the lower opportunity cost for cotton (in terms of wool) will also have
+A) a comparative advantage in the production of wool.
+B) a comparative advantage in the production of cotton.
+C) an absolute advantage in the production of wool.
+D) an absolute advantage in the production of cotton.
+E) an absolute advantage in the production of both wool and cotton.
+Answer:  B
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+41) If two countries each produce wool and cotton, the country with the higher opportunity cost for cotton (in terms of wool) will also have
+A) a comparative advantage in the production of wool.
+B) a comparative advantage in the production of cotton.
+C) an absolute advantage in the production of wool.
+D) an absolute advantage in the production of cotton.
+E) an absolute advantage in the production of both wool and cotton.
+Answer:  A
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+42) If two countries each produce wool and cotton, we know that the country with the comparative advantage in cotton will also have a lower
+A) opportunity cost to produce wool.
+B) opportunity cost to produce cotton.
+C) resource input per unit produced of wool.
+D) resource input per unit produced of cotton.
+E) resource input per unit produced of both cotton or wool.
+Answer:  B
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+43) The concept of comparative advantage in international trade is based on ________ as opposed to absolute costs.
+A) relative prices
+B) absolute prices
+C) opportunity costs
+D) average cost
+E) total cost
+Answer:  C
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+44) If Country A has a comparative advantage in the production of good X relative to Country B,
+A) then Country A also has an absolute advantage in the production of this good.
+B) then Country A also has an absolute advantage in the production of some good other than X.
+C) then the opportunity cost of producing X in Country A is higher than in Country B.
+D) then the opportunity cost of producing X in Country A is lower than in Country B.
+E) we do not have enough information to say anything about relative opportunity costs.
+Answer:  D
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+45) If Country A has a comparative advantage in the production of oil relative to Country B, then 
+A) Country A also has an absolute advantage in producing oil.
+B) Country A also has an absolute advantage in producing some good other than oil.
+C) the opportunity cost of producing oil is higher in Country A than in Country B.
+D) the opportunity cost of producing oil is lower in Country A than in Country B.
+E) Country A when compared to Country B must have an absolute advantage in producing some good other than oil.
+Answer:  D
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+The following production possibilities schedule shows the quantities of wheat and rice that can be produced in Canada and India with one unit of equivalent resources.
+
+
+Wheat
+(bushels)
+Rice
+(bushels)
+Canada
+13
+5
+India
+6
+13
+
+TABLE 32-2
+
+46) Refer to Table 32-2. If Canada were to transfer one unit of resources from rice to wheat production and if one unit of Indian resources were switched from wheat to rice production,
+A) total wheat production would go up by 7 bushels.
+B) total rice production would increase by 18 bushels.
+C) total wheat production would be decreased by 13 bushels.
+D) total rice output would decrease by 8 bushels.
+E) both total wheat and total rice production would go up by 7 bushels.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+47) Refer to Table 32-2. To achieve the potential gains from international trade,
+A) India should export wheat to Canada and import Canadian rice.
+B) Canada should produce both wheat and rice and not trade with India.
+C) India should export rice to Canada and import Canadian wheat.
+D) India should exclude wheat from its consumption.
+E) India should produce both wheat and rice and not trade with Canada.
+Answer:  C
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+48) Refer to Table 32-2. India has an absolute advantage in the production of
+A) rice.
+B) wheat.
+C) both rice and wheat.
+D) neither rice nor wheat.
+Answer:  A
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+The following production possibilities schedule shows the quantities of soybeans and oil that can each be produced in Canada and Mexico with one unit of equivalent resources.
+
+
+Soybeans
+(bushels)
+Oil
+(barrels)
+Canada
+60
+10
+Mexico
+24
+8
+	
+TABLE 32-3
+
+49) Refer to Table 32-3. The opportunity cost of a barrel of oil in Canada is
+A) 16.67 bushels of soybeans.
+B) 6 bushels of soybeans.
+C) 2.5 bushels of soybeans.
+D) 1.25 barrels of oil.
+E) 0.8 barrels of oil.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+50) Refer to Table 32-3. The opportunity cost of a barrel of oil in Mexico is 
+A) 0.33 bushels of soybeans.
+B) 1.25 barrels of oil.
+C) 0.8 barrels of oil.
+D) 3 bushels of soybeans.
+E) 16 bushels of soybeans.
+Answer:  D
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+
+51) Refer to Table 32-3. The opportunity cost of one bushel of soybeans in Mexico is
+A) 3 barrels of oil.
+B) 0.33 barrels of oil.
+C) 0.4 bushels of soybeans.
+D) indicative of Mexico's comparative advantage in soybean production.
+E) lower than the opportunity cost of soybeans in Canada.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+52) Refer to Table 32-3. Canada has an absolute advantage in the production of
+A) soybeans.
+B) oil.
+C) neither soybeans nor oil.
+D) both soybeans and oil.
+Answer:  D
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+53) Refer to Table 32-3. If Canada were to transfer half a unit of resources from oil to soybeans and Mexico were to transfer one unit of resources from soybeans to oil, the effect on the total output of the two countries would be as follows:
+A) soybean production would increase by 30 bushels.
+B) soybean production would increase by 6 bushels and oil production would increase by 3 barrels.
+C) soybean production would increase by 36 bushels and oil production would decrease by 2 barrels.
+D) oil production would increase by 8 barrels.
+E) soybean production would increase by 6 bushels and oil production would increase by 2.02 barrels.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+54) Refer to Table 32-3. Mexico would not gain by producing and exporting oil and importing soybeans unless it received
+A) any quantity of soybeans.
+B) 2 bushels of soybeans per barrel of oil.
+C) more than 3 bushels of soybeans per barrel of oil.
+D) more than 6 bushels of soybeans per barrel of oil.
+E) more than 10 barrel of oil.
+Answer:  C
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+This table shows how much cotton and cocoa can be produced in Peru and Brazil with one unit of equivalent resources.
+
+
+Cotton
+(bales)
+Cocoa Beans
+(bushels)
+Peru
+2
+4
+Brazil
+1
+6
+	
+TABLE 32-4
+
+55) Refer to Table 32-4. The opportunity cost of a bale of cotton in Peru is 
+A) 1/6 bushel of cocoa beans.
+B) 1/2 bushel of cocoa beans. 
+C) 2/3 bushel of cocoa beans. 
+D) 2 bushels of cocoa beans. 
+E) 4 bushels of cocoa beans.
+Answer:  D
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+56) Refer to Table 32-4. The opportunity cost of a bale of cotton in Brazil is 
+A) 4 bushels of cocoa beans.
+B) 6 bushels of cocoa beans.
+C) 1/6 bushels of cocoa beans.
+D) 1 bushel of cocoa beans.
+E) 2 bushels of cocoa beans.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+57) Refer to Table 32-4. The opportunity cost of a bushel of cocoa beans in Peru is
+A) 1/2 bale cotton.
+B) 1 bale cotton.
+C) 1/6 bale cotton.
+D) 1/3 bale cotton.
+E) 2/3 bale cotton.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+58) Refer to Table 32-4. The opportunity cost of a bushel of cocoa beans in Brazil is 
+A) 1/2 bale cotton.
+B) 1 bale cotton.
+C) 1/6 bale cotton.
+D) 1/3 bale cotton.
+E) 2/3 bale cotton.
+Answer:  C
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+59) Refer to Table 32-4. Compared with Peru, Brazil has 
+A) a comparative but not absolute advantage in the production of cocoa beans. 
+B) an absolute and a comparative advantage in the production of cocoa beans. 
+C) an absolute, but not a comparative, advantage in the production of cocoa beans.
+D) an absolute advantage in the production of cotton. 
+E) an absolute and a comparative advantage in the production of cotton.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+60) Refer to Table 32-4. If one unit of resources is shifted from cotton to cocoa beans in Brazil, and one unit of resources is shifted from cocoa beans to cotton in Peru, world output would increase by 
+A) 2 bales of cotton. 
+B) 1 bale of cotton and 2 bushels of cocoa beans. 
+C) 6 bushels of cocoa beans. 
+D) 3 bales of cotton and 10 bushels of cocoa beans. 
+E) 2 bales of cotton and 1 bushel of cocoa beans.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+61) Refer to Table 32-4. For trade to be advantageous to both Peru and Brazil, the number of bushels of cocoa beans that must be traded for a bale of cotton is 
+A) less than 2. 
+B) 2.
+C) more than 2, but less than 6. 
+D) 6.
+E) more than 6.
+Answer:  C
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+This table shows how much wine and cheese can be produced in Spain and Portugal with one unit of equivalent resources. Initially there is no trade. Once trade opens up, transportation costs are assumed to be zero.
+
+
+Wine
+(units)
+Cheese
+(units)
+Spain
+2
+8
+Portugal
+2
+3
+	
+TABLE 32-5
+
+62) Refer to Table 32-5. The comparative advantage in wine is held by 
+A) Spain. 
+B) Portugal. 
+C) both countries. 
+D) neither country.
+E) Insufficient information to determine the answer.
+Answer:  B
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+63) Refer to Table 32-5. The comparative advantage in cheese is held by
+A) Spain.
+B) Portugal.
+C) both countries.
+D) neither country.
+E) Insufficient information to know.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+64) Refer to Table 32-5. The opportunity cost of cheese in terms of wine is 
+A) 1/4 in Spain. 
+B) 4 in Spain. 
+C) 2 in each country.
+D) 3/2 in Portugal. 
+E) 3 in Portugal.
+Answer:  A
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Quantitative
+
+65) Refer to Table 32-5. Once Spain and Portugal begin to trade cheese and wine, 
+A) some resources will be permanently unemployed in Portugal. 
+B) it will be beneficial for Portugal to ban the import of cheese. 
+C) it will be beneficial for Spain to ban the import of wine. 
+D) the opportunity cost of the goods they now import will be less than when there was no trade, but for Portugal only. 
+E) the opportunity cost of the goods they now import will be less than when there was no trade, for both countries.
+Answer:  E
+Diff: 3
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Table
+User2:  Qualitative
+The diagram below shows Robinson Crusoe's annual production possibilities boundary for the production of bananas and coconuts.
+
+
+FIGURE 32-3
+
+66) Refer to Figure 32-3. Starting from point A and moving to point B, Robinson Crusoe's opportunity cost of producing each additional kilogram of coconuts is 
+A) increasing. 
+B) increasing followed by decreasing. 
+C) constant. 
+D) decreasing.
+E) decreasing followed by increasing.
+Answer:  C
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+67) Refer to Figure 32-3. Starting from point B and moving to point A, his opportunity cost of producing each additional kilogram of bananas is 
+A) increasing. 
+B) increasing followed by decreasing. 
+C) constant. 
+D) decreasing.
+E) decreasing followed by increasing.
+Answer:  C
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Qualitative
+
+68) Refer to Figure 32-3. What is Robinson Crusoe's opportunity cost of bananas in terms of coconuts?
+A) 2
+B) 1
+C) 1/2
+D) 100
+E) 200
+Answer:  C
+Diff: 1
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+
+69) Refer to Figure 32-3. What is Robinson Crusoe's opportunity cost of coconuts in terms of bananas?
+A) 2
+B) 1
+C) 1/2
+D) 100
+E) 200
+Answer:  A
+Diff: 1
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+The figure below shows Arcticland's annual production possibilities boundary for the production of fish and ice.
+
+
+
+FIGURE 32-4
+
+70) Refer to Figure 32-4. Starting from point A and moving to point B, the opportunity cost of producing each additional tonne of ice is 
+A) increasing. 
+B) increasing followed by decreasing. 
+C) constant. 
+D) decreasing.
+E) decreasing followed by increasing.
+Answer:  C
+Diff: 2
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+71) Refer to Figure 32-4. Beginning at point A on Arcticland's production possibilities boundary, the opportunity cost of producing 10 more tonnes of fish is ________ and the opportunity cost of producing 10 more tonnes of ice is ________.
+A) 5 tonnes of fish; 20 tonnes of ice
+B) 5 tonnes of ice; 20 tonnes of fish
+C) 20 tonnes of ice; 5 tonnes of fish
+D) 10 tonnes of ice; 10 tonnes of fish
+E) 0; 0 
+Answer:  C
+Diff: 1
+Topic:  32.1c. opportunity cost and comparative advantage
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User1:  Graph
+User2:  Quantitative
+
+72) When two countries are specializing and trading with each other, the gains from trade will tend to be greater when 
+A) opportunity costs in the two countries are similar.
+B) there are economies of scale in production. 
+C) prices rise in both countries.
+D) the production possibilities boundaries shift inward.
+E) comparative advantages are eliminated.
+Answer:  B
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+73) According to David Ricardo's principle of comparative advantage, there will be gains from international trade 
+A) only by a country with an absolute advantage in the production of some commodity.
+B) only by developed countries.
+C) by any trading country with opportunity costs similar to other countries.
+D) by only one country if opportunity costs are identical across countries.
+E) by any country with opportunity costs different from other countries.
+Answer:  E
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+74) When specialization according to comparative advantage also makes economies of scale possible,
+A) trade is not beneficial to the country that has the absolute advantage in both goods.
+B) the production possibilities boundaries of all trading countries will shift inward.
+C) there will be additional gains from trade.
+D) costs will rise in all trading countries.
+E) it will be beneficial for all trading countries to impose tariffs.
+Answer:  C
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+75) In addition to realizing the benefits of specialization according to comparative advantage, a nation that engages in international trade and specialization may realize benefits from
+A) economies of scale and learning by doing.
+B) diseconomies of scale and learning by doing.
+C) learning by doing and increased opportunity costs.
+D) a devaluation of its currency.
+E) a less diversified economy.
+Answer:  A
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Recall
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+76) A country with a ________ domestic market is most likely to gain from international trade, in part because of its prospects of benefitting from ________.
+A) small; diseconomies of scale and learning by doing
+B) small; economies of scale and learning by doing
+C) large; a less diversified economy 
+D) mature; a devaluation of its currency
+E) mature; a less diversified economy
+Answer:  B
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+77) North America exports clothing to the European Union, and the European Union exports clothing to North America. This is a(n) 
+A) violation of the law of comparative advantage. 
+B) obvious failure to take advantage of specialization. 
+C) likely result of economies of scale and product differentiation. 
+D) general conclusion of the Heckscher-Ohlin theory. 
+E) example of the inefficiency of trade patterns.
+Answer:  C
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+78) Consider the sources of the gains from international trade. Economies of scale and product differentiation can provide an explanation for 
+A) countries remaining at their autarkic positions.
+B) countries trading in completely different products.
+C) countries trading in similar products.
+D) firms seeking government intervention to protect their industries.
+E) firms seeking government approval of mergers.
+Answer:  C
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+79) Consider the sources of the gains from international trade. Economies of scale and product differentiation can provide an explanation for 
+A) countries remaining at their autarkic positions.
+B) countries trading in completely different products.
+C) the imposition of trade barriers.
+D) intra-industry trade.
+E) absolute advantage.
+Answer:  D
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+80) International trade permits a country to 
+A) produce and consume beyond its production possibilities boundary. 
+B) shift its production possibilities boundary outward. 
+C) increase its absolute advantage for its imported goods.
+D) expand its production possibilities while holding constant its consumption possibilities.
+E) consume beyond its production possibilities boundary.
+Answer:  E
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+81) Canadian politicians who promoted the NAFTA in the early 1990s claimed that Canadian producers would have access to a larger market and thus costs would decline. Which of the following sources of the gains from trade are implied by this statement?
+A) climate
+B) economies of scale
+C) comparative advantage
+D) factor endowments
+E) absolute advantage
+Answer:  B
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+82) Since joining NAFTA in the early 1990s, Canada has experienced increases in productivity and output in many export-oriented industries because of economies of scale and learning by doing. In these industries, these gains from trade will lead to
+A) downward shifts in the long-run average cost (LRAC) curve.
+B) downward movement (to the right) along the LRAC curve only.
+C) downward shifts of the LRAC and short-run AC curves.
+D) downward shifts of the LRAC curves and downward movement (to the right) along the LRAC curve.
+E) downward shifts of the LRAC and movement to the left along the LRAC curve.
+Answer:  D
+Diff: 3
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+83) Australia exports wine to Canada, and Canada also exports wine to Australia. This is a(n) 
+A) violation of the law of comparative advantage. 
+B) obvious failure to take advantage of specialization. 
+C) likely result of economies of scale and product differentiation. 
+D) general conclusion of the Heckscher-Ohlin theory. 
+E) example of the inefficiency of trade patterns.
+Answer:  C
+Diff: 2
+Topic:  32.1d. the gains from trade
+Skill:  Applied
+Learning Obj.:  32-1 Explain why the gains from trade depend on the pattern of comparative advantage.
+User2:  Qualitative
+
+84) Consider the sources of the gains from international trade. Governments often implement programs designed to encourage research and development. Such programs may change the comparative advantage of that country because
+A) they are expected to change the endowments of each country.
+B) they are expected to lead to improvements in technology.
+C) they will raise the costs of production of the trading partners.
+D) the opportunity costs of exported products cannot change.
+E) increases in research and development always lead to an increase in imports.
+Answer:  B
+Diff: 3
+Topic:  32.1e. sources of comparative advantage
+Skill:  Applied
+Learning Obj.:  32-2 Understand how factor endowments and climate can influence a country's comparative advantage.
+User2:  Qualitative
+
+85) The theory that patterns of international trade are determined by natural endowments of factors successfully explains the prominence of
+A) Britain in the pop music industry.
+B) Japan in car manufacturing.
+C) the United States in pharmaceutical research.
+D) Canada in communications technology.
+E) tourism in the Turks and Caicos.
+Answer:  E
+Diff: 2
+Topic:  32.1e. sources of comparative advantage
+Skill:  Recall
+Learning Obj.:  32-2 Understand how factor endowments and climate can influence a country's comparative advantage.
+User2:  Qualitative
+86) According to the Heckscher-Ohlin theory, national comparative advantages exist because of
+A) differences in national factor endowments.
+B) differences in saving and investment.
+C) differences in climate alone.
+D) economies of scale.
+E) international factor mobility.
+Answer:  A
+Diff: 2
+Topic:  32.1e. sources of comparative advantage
+Skill:  Recall
+Learning Obj.:  32-2 Understand how factor endowments and climate can influence a country's comparative advantage.
+User2:  Qualitative
+
+87) Which of the following statements about comparative advantage are true?
+1) A country's pattern of comparative advantage depends partly upon the relative abundance of different types of resources in its endowment of factors.
+2) Trade allows small countries to reap economies of scale through specialization.
+3) Climate affects a country's pattern of comparative advantage.
+A) 1 and 2
+B) 2 and 3
+C) 1, 2, and 3
+D) 1 only
+E) 2 only
+Answer:  C
+Diff: 2
+Topic:  32.1e. sources of comparative advantage
+Skill:  Recall
+Learning Obj.:  32-2 Understand how factor endowments and climate can influence a country's comparative advantage.
+User2:  Qualitative
+
+32.2  The Determination of Trade Patterns
+
+1) The "law of one price" states that the price of
+A) labour, measured in terms of its opportunity cost, is the same in all markets.
+B) a product is always equal to the absolute cost of the resources that went into its production in any country.
+C) a product worldwide is always equal to the cost of production from the country with the lowest opportunity cost to make the product. 
+D) a product that is costless to transport will be the same in all markets.
+E) natural resources is the same in all markets.
+Answer:  D
+Diff: 2
+Topic:  32.2a. the law of one price
+Skill:  Recall
+Learning Obj.:  32-3 Describe the law of one price.
+User2:  Qualitative
+2) According to what economists call the "law of one price," 
+A) the world price of a commodity is established by the country with the highest relative demand for that product without respect to the cost of production.
+B) the world price of a commodity is established by the country with the highest opportunity cost in producing the product without respect to the domestic or world demand for the product.
+C) the price of a specific product will be the same in any two markets in which the cost of labour is the same.
+D) the lower the costs to move a product from one market to the other, the more equal the prices for the same product when it is sold in different markets.
+E) the price of a given product will never be equal in two different markets because of differences in the patterns of demand.
+Answer:  D
+Diff: 3
+Topic:  32.2a. the law of one price
+Skill:  Recall
+Learning Obj.:  32-3 Describe the law of one price.
+User2:  Qualitative
+
+3) Consider the trade of a product between two regions. If it is very inexpensive to move the product from one regional market to another, then the
+A) "law of one price" argues that it will sell for the same price in all markets.
+B) price it sells for in every country will depend on the cost of labour in the single low-cost country in which the product was produced.
+C) difference in the price from one market to another will depend on the relative elasticities of supply in the separate markets.
+D) absolute cost of producing the product must be the same in all markets.
+E) production of the world supply will be from the single country with the lowest absolute cost of producing it.
+Answer:  A
+Diff: 2
+Topic:  32.2a. the law of one price
+Skill:  Applied
+Learning Obj.:  32-3 Describe the law of one price.
+User2:  Qualitative
+
+4) The hypothesis that the price of some given internationally traded product in one country will be equal to the price of the same product in some other country is known as
+A) absolute advantage.
+B) comparative advantage.
+C) gains from trade.
+D) the law of one price.
+E) the Big Mac index.
+Answer:  D
+Diff: 2
+Topic:  32.2a. the law of one price
+Skill:  Recall
+Learning Obj.:  32-3 Describe the law of one price.
+User2:  Qualitative
+The diagram below shows the domestic demand and supply curves in the market for newsprint in Paperland.
+
+
+
+FIGURE 32-5
+
+5) Refer to Figure 32-5. If Paperland does not engage in international trade, the equilibrium quantity of newsprint produced domestically will be 
+A) Q1. 
+B) Q2. 
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  C
+Diff: 1
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+6) Refer to Figure 32-5. If Paperland engages in international trade and the world price is PA, the amount of newsprint produced by Paperland will be 
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  E
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+
+7) Refer to Figure 32-5. If Paperland engages in international trade and the world price is , the amount of newsprint ________ will be ________.
+A) imported;  - 
+B) exported; 
+C) imported; 
+D) exported;  - 
+E) imported;  - 
+Answer:  D
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+
+8) Refer to Figure 32-5. If Paperland engages in international trade and the world price is PC, the amount of newsprint produced by Paperland will be 
+A) Q1. 
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  B
+Diff: 1
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+9) Refer to Figure 32-5. If Paperland engages in international trade and the world price is , the amount of newsprint ________ will be ________. 
+A) imported; 
+B) exported; 
+C) imported;  - 
+D) exported;  - 
+E) imported; 
+Answer:  C
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 32-5. If Paperland engages in trade and the world price is PA, the residents of Paperland will consume ________ units of newsprint.
+A) Q1 
+B) Q2
+C) Q3
+D) Q4
+E) Q5
+Answer:  A
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+
+11) Refer to Figure 32-5. If Paperland engages in trade and the world price is PB, the residents of Paperland will consume ________ units of newsprint, and the net exports of newsprint from Paperland will be ________ units.
+A) Q1; Q5 - Q1
+B) Q2; zero
+C) Q3; zero
+D) Q4; Q5 - Q1
+E) Q5; zero
+Answer:  C
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows the (hypothetical) demand and supply curves for regional jets in Canada.  Assume that the market is competitive, all jets are identical, and that Canada engages in international trade.
+
+
+
+FIGURE 32-6
+
+12) Refer to Figure 32-6. If the world price of a regional jet is $20 million, Canada will
+A) export 50 jets per year.
+B) export 70 jets per year.
+C) import 70 jets per year.
+D) import 40 jets per year.
+E) import 90 jets per year.
+Answer:  D
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+13) Refer to Figure 32-6. If the world price of a regional jet is $30 million, Canada will 
+A) neither import nor export any jets.
+B) import 70 jets per year.
+C) import 90 jets per year.
+D) export 50 jets per year.
+E) export 70 jets per year.
+Answer:  A
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+14) Refer to Figure 32-6. If the world price of a regional jet is $35 million, Canada will
+A) neither import nor export any jets.
+B) import 60 jets per year.
+C) import 20 jets per year.
+D) export 80 jets per year.
+E) export 20 jets per year.
+Answer:  E
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+15) Refer to Figure 32-6. At what price is the total domestic demand for regional jets met completely by domestic supply?
+A) exactly $30 million
+B) $30 million and below
+C) $30 million and above
+D) $35 million
+E) no price - there will always be some imported jets in this market. 
+Answer:  C
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+16) Refer to Figure 32-6. Assume the world price of a regional jet is $20 million. How many jets are not produced in Canada that would have been if Canada did not engage in international trade?
+A) 20
+B) 40
+C) 50
+D) 70
+E) 90
+Answer:  A
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+17) Refer to Figure 32-6. Assume the world price of a regional jet is $20 million. Further, suppose that Canada disallowed international trade in regional jets. With no trade in regional jets, Canadian consumers will spend ________ at the domestic equilibrium price and quantity versus ________ for the same quantity at the world price. 
+A) $1000 million; $1800 million
+B) $1800 million; $1000 million
+C) $1400 million; $2100 million
+D) $2100 million; $2100 million
+E) $2100 million; $1400 million
+Answer:  E
+Diff: 3
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+18) Refer to Figure 32-6. Assume the world price of a regional jet is $20 million. Further, suppose that Canada disallowed international trade in regional jets and Canadian consumers purchase the domestic equilibrium quantity of jets from domestic suppliers. What is the total additional expenditure Canadian consumers will pay in this no-trade situation versus the amount they would pay for the same quantity at the world price?
+A)  $10 million
+B) $700 million
+C) $1400 
+D) $1800 million
+E) $2100 
+Answer:  B
+Diff: 3
+Topic:  32.2b. exports and imports
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+The table below shows hypothetical Canadian domestic demand and supply schedules for granite. Assume there are no restrictions on trade. 
+
+World Price 
+of Granite 
+($/tonne)
+Quantity Demanded of Granite
+(tonnes)
+Quantity Supplied
+ of Granite
+(tonnes)
+1000
+  20
+170
+  900
+  40
+140
+  800
+  60
+110
+  700
+  80
+  80
+  600
+100
+  50
+  500
+120
+  20
+  400
+140
+    0
+  300
+160
+    0
+
+TABLE 32-6
+
+19) Refer to Table 32-6. At what price and quantity combination will Canada not engage in international trade in granite?
+A) $1000 and 20 tonnes
+B) $1000 and 170 tonnes
+C) $700 and 80 tonnes
+D) $400 and 140 tonnes
+E) $400 and 0 tonnes
+Answer:  C
+Diff: 1
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Table
+User2:  Quantitative
+
+20) Refer to Table 32-6. Suppose the world price of granite is $900. What quantity will Canada import or export? 
+A) Canada will export 100 tonnes
+B) Canada will export 140 tonnes
+C) Canada will neither import nor export
+D) Canada will import 40 tonnes
+E) Canada will import 100 tonnes
+Answer:  A
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Table
+User2:  Quantitative
+21) Refer to Table 32-6. Suppose the world price of granite is $350 per tonne. What quantity will Canada import or export?
+A) Canada will import 0 tonnes
+B) Canada will import 150 tonnes
+C) Canada will export 160 tonnes
+D) Canada will neither import nor export
+E) Canada will export 140 tonnes
+Answer:  B
+Diff: 2
+Topic:  32.2b. exports and imports
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Table
+User2:  Quantitative
+
+22) The "terms of trade" reflect the
+A) amount of absolute advantage held by one country over another. 
+B) conditions under which trade takes place, as established by the World Trade Organization. 
+C) difference in opportunity costs between two countries. 
+D) quantity of domestic goods that must be exported to get a unit of imported goods. 
+E) quantity of imports that must be purchased to sell a unit of exported goods.
+Answer:  D
+Diff: 1
+Topic:  32.2c. terms of trade
+Skill:  Recall
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+23) The division of the gains from trade between two trading countries depends on the
+A) difference between the terms of trade and the countries' autarkic relative prices.
+B) long-run costs.
+C) quantity of resources held by each country.
+D) level of unemployment in both countries.
+E) size of the absolute advantages possessed by each country.
+Answer:  A
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+24) There will be a favourable change in a nation's terms of trade if the
+A) export and import prices rise by the same amount.
+B) export price index rises by more than the import price index.
+C) import price index rises by more than the export price index. 
+D) export and import prices fall by the same amount.
+E) export and import prices stay the same.
+Answer:  B
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+25) There is an unfavourable change in a nation's terms of trade whenever its
+A) import prices rise more than its export prices.
+B) export prices rise more than its import prices.
+C) import prices fall while its export prices remain constant.
+D) export prices rise while its import prices remain constant.
+E) export and import prices stay the same.
+Answer:  A
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+26) The index for a country's terms of trade is computed as
+A) index of export prices/index of import prices.
+B) (index of import prices/index of export prices) × 100.
+C) index of import prices/index of export prices.
+D) (index of import prices + index of export prices) × 100.
+E) (index of export prices/index of import prices) × 100.
+Answer:  E
+Diff: 1
+Topic:  32.2c. terms of trade
+Skill:  Recall
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+27) If Canada's terms of trade rise from 212 to 236, then the change is said to be
+A) favourable.
+B) unfavourable.
+C) neutral.
+D) prudent, since the rule of 72 is not violated.
+E) a deterioration.
+Answer:  A
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+28) If Canada's index of export prices is 250 and the index of import prices is 200, then the index of the terms of trade is
+A) 125.
+B) 80.
+C) 50
+D) 1.25.
+E) 0.8.
+Answer:  A
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Quantitative
+
+29) If Canada's index of import prices is 250 and the index of export prices is 200, then the index of the terms of trade is
+A) 0.80.
+B) 1.25.
+C) 12.50.
+D) 80.00.
+E) 125.00.
+Answer:  D
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Quantitative
+
+30) If the index of export prices for Country X increases from 120 to 150 and the index of import prices increases from 100 to 125, it may be said that
+A) the terms of trade have improved.
+B) the terms of trade have deteriorated.
+C) there has been no change in the terms of trade.
+D) the terms of trade have improved by 10%.
+E) there is insufficient information to calculate the terms of trade.
+Answer:  C
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Quantitative
+31) If, over a period of a year, a country's import price index rises from 100 to 120 and its export price index rises from 100 to 110, its index for the terms of trade has
+A) risen from 100 to 120.
+B) risen from 100 to 110.
+C) risen to 109.09.
+D) fallen to 91.67.
+E) fallen from 110 to 100.
+Answer:  D
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Quantitative
+
+Ireland and Japan are assumed to produce only wool and steel, to have full employment and complete mobility of resources between industries. Their production possibilities boundaries before trade are drawn in solid lines. It is assumed that the two countries have the same amount of resources. Their consumption possibilities after trade are shown by the dotted lines. The outputs of wool and steel are given in physical units.
+
+
+	FIGURE 32-1
+
+32) Refer to Figure 32-1. At the "terms of trade" shown by the dotted lines, 
+A) only Japan can benefit from trade. 
+B) both countries can experience gains from trade. 
+C) consumers will press for tariffs. 
+D) resources will be permanently unemployed in Japan. 
+E) resources will be permanently unemployed in Ireland.
+Answer:  B
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows Robinson Crusoe's annual production possibilities boundary for the production of bananas and coconuts.
+
+
+FIGURE 32-3
+
+33) Refer to Figure 32-3. Suppose a trading partner offers to give coconuts to Robinson Crusoe in exchange for his bananas. If Robinson Crusoe is to improve his consumption possibilities, the terms of trade must be 1 kg coconuts for
+A) 5 kg bananas. 
+B) 4 kg bananas. 
+C) 3 kg bananas. 
+D) 2 kg bananas.
+E) 1 kg bananas.
+Answer:  E
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+34) Refer to Figure 32-3. Suppose a trading partner offers to give bananas to Robinson Crusoe in exchange for his coconuts. If Robinson Crusoe is to improve his consumption possibilities from this trade, the terms of trade must be 1 kg bananas for
+A) 3.0 kg coconuts. 
+B) 2.0 kg coconuts. 
+C) 1.0 kg coconuts. 
+D) 0.5 kg coconuts.
+E) 0.33 kg coconuts.
+Answer:  E
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+The figure below shows Arcticland's annual production possibilities boundary for the production of fish and ice.
+
+
+
+FIGURE 32-4
+
+35) Refer to Figure 32-4. Suppose a trading partner offers to give Arcticland some fish in exchange for its ice. If Arcticland is to improve its consumption possibilities, the terms of trade must be 1 tonne of fish for
+A) 5 tonnes of ice. 
+B) 4 tonnes of ice. 
+C) 3 tonnes of ice.
+D) 2 tonne of ice.
+E) 1 tonne of ice.
+Answer:  E
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+36) Refer to Figure 32-4. Suppose a trading partner offers to give Arcticland ice in exchange for its fish. If Arcticland is to improve its consumption possibilities from this trade, the terms of trade must be 1 tonne of ice for:
+A) 3 tonnes of fish. 
+B) 2 tonnes of fish. 
+C) 1 tonne of fish.
+D) 0.5 tonne of fish.
+E) 0.33 tonne of fish.
+Answer:  E
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User1:  Graph
+User2:  Quantitative
+
+37) Consider Canada's terms of trade. Canada is a net exporter of oil. An increase in the world price of oil, ceteris paribus, means that Canada's terms of trade will
+A) deteriorate.
+B) improve.
+C) not change.
+D) improve as long as all of Canada's production of oil is being exported.
+E) deteriorate as long as Canada exports more oil than it imports.
+Answer:  B
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+38) Consider Canada's terms of trade. Canadians consume millions of cups of Tim Horton's coffee each year. If Tim Horton's reduced the price per cup of coffee (because of a decrease in administration and transportation costs), ceteris paribus, Canada's terms of trade will
+A) deteriorate.
+B) improve.
+C) not change.
+D) improve as long as consumption of coffee decreases.
+E) deteriorate as long as consumption of coffee increases.
+Answer:  C
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+39) Consider Canada's terms of trade. Canada is a net importer of citrus fruit. If severe weather in Florida wipes out the fruit crop for one season, Canada's terms of trade will likely
+A) deteriorate.
+B) improve.
+C) not change.
+D) improve as long as Canada stops importing citrus fruit from Florida.
+E) indeterminable with the information provided.
+Answer:  A
+Diff: 2
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+40) Canada is both an importer and an exporter of automobiles. If Canada exports more automobiles than it imports, and the price of automobiles rises, then ceteris paribus, Canada's terms of trade will likely
+A) improve because the index of export prices would rise and the index of import prices would fall.
+B) remain the same because the index of export prices would rise by the same amount as the index of import prices.
+C) deteriorate because of the loss of exports that would result.
+D) deteriorate because the loss of exports would be more than offset by the gain in imports.
+E) improve because the index of export prices will rise more than the index of import prices.
+Answer:  E
+Diff: 3
+Topic:  32.2c. terms of trade
+Skill:  Applied
+Learning Obj.:  32-4 Explain why countries export some goods and import others.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 52
+Copyright © 2017 Pearson Education, Inc.
+
+
+

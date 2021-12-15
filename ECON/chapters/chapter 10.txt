@@ -1,0 +1,1801 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 10   Monopoly, Cartels, and Price Discrimination
+
+10.1  A Single-Price Monopolist
+
+1) One similarity between a monopolist and a perfectly competitive firm is that both 
+A) are large relative to their markets.
+B) may have similarly shaped cost curves.
+C) choose the price at which to sell their product.
+D) can make economic profits in the long run.
+E) need to know the shape of the market demand curve.
+Answer:  B
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+2) The marginal revenue curve facing a single-price monopolist
+A) is the same as the average revenue curve facing the monopolist.
+B) is the same as the demand curve facing the monopolist.
+C) shows the change in the profit for the firm.
+D) lies below the average revenue curve.
+E) at first falls to a minimum and then rises as output is increased.
+Answer:  D
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+3) The demand curve facing a single-price monopolist slopes downward because
+A) its average revenue equals its marginal revenue.
+B) its demand curve is the market demand curve, which is generally downward sloping.
+C) demand is perfectly inelastic.
+D) it sells typically to only one consumer.
+E) its supply curve is upward sloping.
+Answer:  B
+Diff: 1
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+4) A monopoly is distinguished from a firm operating under any other market structure in the following way: the monopoly
+A) charges a price higher than its average revenue.
+B) can choose its output level.
+C) can choose its level of cost.
+D) does not produce at a profit-maximizing level of output.
+E) faces a demand curve which is identical to the market demand curve.
+Answer:  E
+Diff: 1
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+5) A monopolistic firm faces a downward-sloping demand curve because
+A) there are a large number of firms in the industry, all selling the same product.
+B) the demand for its product is always inelastic.
+C) the market price is affected by the amount sold by a monopolistic firm.
+D) marginal revenue is negative throughout the feasible range of output.
+E) the monopolistic firm can exploit economies of scale.
+Answer:  C
+Diff: 1
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+6) The average revenue curve for a single-price monopolist 
+A) is a horizontal line, equal to the price of its product.
+B) lies below its demand curve.
+C) coincides with its demand curve.
+D) slopes upward to the right.
+E) does not exist.
+Answer:  C
+Diff: 1
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+7) For a single-price monopolist, marginal revenue falls faster than price (as output rises) because
+A) in order to sell additional units, the price must be lowered on all units.
+B) profits are maximized when marginal cost equals marginal revenue.
+C) the firm has no supply curve.
+D) the cost of producing extra units of output increases as production is increased.
+E) none of the above — marginal revenue does not fall faster than price.
+Answer:  A
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+8) Marginal revenue is less than price for a single-price monopolist because the
+A) firm's output decisions do not affect the selling price.
+B) firm must lower its price for all units if it wants to sell more of the product.
+C) monopolist charges a price higher than the unit production cost.
+D) monopolist must worry about how its price setting will lead to entry by other firms.
+E) monopolist has achieved economies of scale.
+Answer:  B
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+
+Price
+Quantity Demanded
+$8
+5
+$7
+6
+$6
+7
+$5
+8
+$4
+9
+$3
+10
+$2
+11
+
+TABLE 10-1
+
+9) Refer to Table 10-1. For a single-price monopolist, the marginal revenue associated with increasing sales from 5 to 6 units is
+A) -4.
+B) -2.
+C) 0.
+D) 2.
+E) 4.
+Answer:  D
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+10) Refer to Table 10-1. For a single-price monopolist, the marginal revenue associated with increasing sales from 6 to 7 units is
+A) -4.
+B) -2.
+C) 0.
+D) 2.
+E) 4.
+Answer:  C
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+11) Refer to Table 10-1. For a single-price monopolist producing and selling 9 units, the marginal revenue earned by selling the 9th unit is 
+A) -4.
+B) -2.
+C) 0.
+D) 2.
+E) 4.
+Answer:  A
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+12) Refer to Table 10-1, which displays the demand schedule for a single-price monopolist. At what level of output is marginal revenue equal to 0?
+A) between 6 and 7 units
+B) between 7 and 8 units
+C) between 8 and 9 units
+D) between 9 and 10 units
+E) between 10 and 11 units
+Answer:  A
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+13) Refer to Table 10-1, which displays the demand schedule for a single-price monopolist. At what level of output is total revenue maximized for this firm?
+A) between 6 and 7 units
+B) between 7 and 8 units
+C) between 8 and 9 units
+D) between 9 and 10 units
+E) between 10 and 11 units
+Answer:  A
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+14) Refer to Table 10-1, which displays the demand schedule for a single-price monopolist. Which of the following statements about price elasticity of demand is true?
+A) demand is unit-elastic at a price of $4
+B) demand is elastic at a price of $8
+C) demand is elastic at a price of $5
+D) demand is inelastic at a price of $8
+E) demand is elastic at a price of $3
+Answer:  B
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+15) Refer to Table 10-1, which displays the demand schedule for a single-price monopolist. At what level of demand is the price elasticity of demand equal to 1?
+A) between 6 and 7 units
+B) between 7 and 8 units
+C) between 8 and 9 units
+D) between 9 and 10 units
+E) between 10 and 11 units
+Answer:  A
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+The figure below shows the demand schedule and demand curve for a product produced by a single-price monopolist.
+
+
+FIGURE 10-1
+
+16) Refer to Figure 10-1. Suppose this single-price monopolist is initially selling 5 units at $8 each and then reduces the price of the product to $6.  By making this change, the firm is giving up revenue of ________ on the original number of units sold and gaining revenue of ________ on the additional units sold.  Its marginal revenue is therefore ________.  (All figures are dollars.)
+A) 38; 40; 2
+B) 8; 6; 2
+C) 10; 12; 2
+D) 14; 14; 0
+E) 5; 7; -2
+Answer:  C
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Quantitative
+
+17) Refer to Figure 10-1.  Suppose this single-price monopolist is initially selling 9 units at $4 each and then reduces the price of the product to $3.  By making this change, the firm is giving up revenue of ________ on the original number of units sold and gaining revenue of ________ on the additional units sold.  Its marginal revenue is therefore ________. (All figures are dollars)
+A) 40; 27; -13
+B) 30; 36; 6
+C) 34; 28; -6
+D) 9; 3; -6
+E) 3; 9; 6
+Answer:  D
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Quantitative
+18) Refer to Figure 10-1.  What is the level of output at which marginal revenue first becomes negative?
+A) 5th unit
+B) 6th unit
+C) 7th unit
+D) 8th unit
+E) 9th unit
+Answer:  D
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Quantitative
+
+19) If a single-price monopolist sets price where the price elasticity of demand exactly equals 1, its 
+A) total profits are at a maximum.
+B) marginal revenue is always positive.
+C) total revenue is rising, although marginal revenue is falling.
+D) total revenue is falling.
+E) total revenue is at its maximum.
+Answer:  E
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+20) Consider a profit-maximizing single-price monopolist that faces a linear demand curve. The firm sets price where the price elasticity of demand is
+A) zero.
+B) less than one.
+C) one.
+D) greater than one.
+E) infinite.
+Answer:  D
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+21) A monopolist faces a straight-line demand curve and is currently producing an output level of 2000 units receiving $10 000 in total revenue. At an output of 1000 units the marginal revenue for this firm would be
+A) 0.
+B) $2.50.
+C) $5.00.
+D) $10.00.
+E) Impossible to tell with the given information.
+Answer:  E
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+22) Consider a single-price monopolist that is operating in the inelastic range of its linear demand curve. This firm
+A) would be operating where its AR is negative.
+B) would have a marginal revenue curve that is negative.
+C) would have a marginal revenue that is negative although its total revenues would be at a maximum.
+D) could raise its total revenue by lowering its price.
+E) would be operating at its profit-maximizing position.
+Answer:  B
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+23) Consider a profit-maximizing single-price monopolist that faces a linear demand curve. The firm would not set a price at which demand is inelastic because
+A) marginal revenue is zero in that range of output.
+B) average revenue is zero in that range of output.
+C) the marginal revenue would be negative in that range of output.
+D) the average revenue would be negative in that range of output.
+E) the marginal revenue and average revenue would be equal in that range of output.
+Answer:  C
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Recall
+User2:  Quantitative
+Consider the following AR and MR curves for a single-price monopolist.
+
+
+
+FIGURE 10-2
+
+24) Refer to Figure 10-2. The price elasticity of demand at Q2 is
+A) zero.
+B) greater than 1.
+C) less than 1.
+D) equal to 1.
+E) not determinable from the diagram.
+Answer:  D
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 10-2. The price elasticity of demand at Q1 is
+A) zero.
+B) less than 1.
+C) equal to 1.
+D) greater than 1.
+E) not determinable from the diagram.
+Answer:  D
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows total revenue for a single-price monopolist.
+
+
+
+FIGURE 10-3
+
+26) Refer to Figure 10-3. The firm's marginal revenue at Q1 is 
+A) zero.
+B) positive and rising.
+C) positive but falling.
+D) negative and falling.
+E) not determinable from the diagram.
+Answer:  C
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+27) Refer to Figure 10-3. The price elasticity of demand at Q3 is
+A) zero.
+B) less than 1.
+C) equal to 1.
+D) greater than 1.
+E) not determinable from the diagram.
+Answer:  B
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows the demand curve facing a single-price monopolist.
+
+
+
+FIGURE 10-4
+
+28) Refer to Figure 10-4. Suppose the firm is currently producing at point A on the demand curve, selling 100 units of output at a price of $60 per unit. If the firm moves to point B, the revenue the firm gives up on the units it was already selling is ________, and the revenue it gains on the additional units sold is ________.
+A) $1000; $5000
+B) $2000; $5000
+C) $5000; $2000
+D) $100; $200
+E) $100; $500
+Answer:  A
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+29) Refer to Figure 10-4. What is the firm's marginal revenue per unit as it moves from point A to point B on the demand curve?
+A) $0
+B) $40
+C) $50
+D) $1000
+E) $2000
+Answer:  B
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+30) Refer to Figure 10-4. Suppose the firm is currently at point C on the demand curve, selling 300 units at $40 per unit. If the firm moves to point D, the revenue the firm gives up on the units it was already selling is ________ and the revenue it gains on the additional units sold is ________.
+A) $9000; $9000
+B) $12 000; $12 000
+C) $3000; 4000
+D) $4000; $3000
+E) $3000; $3000
+Answer:  E
+Diff: 2
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+31) Refer to Figure 10-4. What is the firm's marginal revenue per unit as it moves from point C to point D on the demand curve?
+A) $0
+B) $10
+C) $50
+D) $100
+E) $3000
+Answer:  A
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+32) Refer to Figure 10-4. At what level of quantity does the marginal revenue curve for this firm intersect the horizontal axis?
+A) 0
+B) 250
+C) 350
+D) 500
+E) 700
+Answer:  C
+Diff: 3
+Topic:  10.1a. demand, price and revenue for a monopolist
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+Consider the following AR and MR curves for a single-price monopolist.
+
+
+
+FIGURE 10-2
+
+33) Refer to Figure 10-2. If marginal costs were zero, the profit-maximizing output for this single-price monopolist would be
+A) 0.
+B) Q1.
+C) Q2.
+D) Q3.
+E) Q4.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+34) Refer to Figure 10-2. If marginal costs were positive and constant but less than A, the profit-maximizing output for this single-price monopolist would be
+A) 0.
+B) greater than zero, but less than Q1.
+C) greater than zero, but less than Q2.
+D) equal to Q2.
+E) between Q2 and Q4.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+35) Refer to Figure 10-2. For this single-price monopolist, the profit-maximizing level of output is 
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) not determinable from the diagram.
+Answer:  E
+Diff: 1
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+36) If a single-price monopoly is presently producing an output at which marginal revenue is less than marginal cost, it can increase its profits by
+A) reducing output and raising prices.
+B) reducing output and holding prices unchanged.
+C) expanding output and lowering price.
+D) expanding output and raising price. 
+E) reducing barriers to entry.
+Answer:  A
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+37) For a monopolist, the profit-maximizing level of output occurs where
+A) MR = MC.
+B) MR = AC.
+C) MC = 0.
+D) MC = AR.
+E) MC = price.
+Answer:  A
+Diff: 1
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+38) A monopolist will be earning positive economic profits
+A) at all times, since it controls the market.
+B) when price equals marginal cost.
+C) whenever marginal revenue equals marginal cost.
+D) when price exceeds average total cost.
+E) whenever marginal revenue is positive.
+Answer:  D
+Diff: 1
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+39) At the profit-maximizing level of output for a single-price monopolist, price
+A) always exceeds average total cost.
+B) equals marginal cost.
+C) exceeds marginal cost.
+D) equals marginal revenue.
+E) is below marginal revenue.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+40) Which of the following statements about single-price monopolists is correct?
+A) The profit-maximizing level of output is the same as the total revenue-maximizing level of output.
+B) The average revenue curve lies above the demand curve.
+C) AR is greater than MR.
+D) Price elasticity of demand will be equal to one if the firm is profit-maximizing.
+E) Price equals marginal cost at the profit-maximizing level of output.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+41) Monopolistic firms do not have supply curves because
+A) they are not constrained by the marginal costs of production.
+B) their output is a fixed quantity.
+C) monopolists get to choose their price-quantity combination along the demand curve.
+D) monopolists face a given market price.
+E) their marginal costs cannot be calculated.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+42) A single-price monopolist is currently producing an output level where price equals marginal cost, and profits are positive. In order to maximize profits, this monopolist should
+A) produce zero output.
+B) increase production and reduce price.
+C) decrease production and increase price.
+D) not change his output level, because he is currently earning profits.
+E) reduce price and let production adjust to the new price.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+43) If a single-price monopolist's price equals marginal cost, the firm
+A) could increase its profits by lowering output and raising price.
+B) should maintain its current price because it is a price taker.
+C) will find it more profitable to produce a greater output.
+D) is producing where MR = MC and thus is maximizing profits.
+E) should definitely shut down.
+Answer:  A
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+44) Suppose that a single-price monopolist calculates that at its present output, marginal revenue is $2 and marginal cost is $1. If the price of the product is $3, the monopolist could maximize its profits by
+A) lowering price and raising output.
+B) lowering price and leaving output unchanged.
+C) raising price and leaving output unchanged.
+D) doing nothing.
+E) shutting down.
+Answer:  A
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+The diagram below shows total revenue for a single-price monopolist.
+
+
+
+FIGURE 10-3
+
+45) Refer to Figure 10-3. The profit-maximizing output for this single-price monopolist is
+A) Q1
+B) Q2.
+C) Q3.
+D) Q4.
+E) not determinable from the diagram.
+Answer:  E
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+46) A single-price monopolist is currently producing an output level where P = $20, MR = $13, ATC = $15, and MC = $14. In order to maximize profits, this monopolist should
+A) produce zero output.
+B) increase production and reduce price.
+C) decrease production and increase price.
+D) not change the output level, because the firm is currently at the profit-maximizing output level.
+E) There is insufficient information to make a recommendation.
+Answer:  C
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+47) A single-price monopolist is currently producing an output level where P = $320, MR = $260, ATC = $280, and MC = $200. In order to maximize profits, this monopolist should
+A) produce zero output.
+B) increase production and reduce price
+C) decrease production and increase price.
+D) not change the output level because the firm is currently at the profit-maximizing output level. 
+E) There is insufficient information to make a recommendation.
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+48) A single-price monopolist is currently producing an output level where P = $320, MR = $200, AVC = $327, and MC = $200. In order to maximize profits, this firm should
+A) increase production and reduce prices.
+B) decrease production and increase prices.
+C) not change its output level, because the firm is currently at its profit maximizing level.
+D) produce zero output.
+E) There is insufficient information to make a recommendation. 
+Answer:  D
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+49) Economic profit for a monopolistic firm will equal zero when
+A) average total cost is minimized.
+B) marginal revenue equals marginal cost.
+C) marginal revenue equals price.
+D) price equals marginal cost.
+E) average total cost equals price.
+Answer:  E
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+50) If a monopolist's marginal revenue is MR = 12 - 2Q and its marginal cost is MC = 3, then the profit-maximizing quantity is
+A) 0.
+B) 4.
+C) 4.5.
+D) 6.
+E) 12.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+51) If a monopolist's marginal revenue is MR = 15 - 2Q and its marginal cost is MC = 5, then the profit-maximizing quantity is
+A) 0.
+B) 5.
+C) 7.5.
+D) 10.
+E) 15.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+Suppose a monopolist faces the demand curve and cost curves shown below.
+
+
+FIGURE 10-5
+
+52) Refer to Figure 10-5. A profit-maximizing single-price monopolist would produce the quantity
+A) Q0.
+B) Q1.
+C) Q2.
+D) Q3.
+E) Q4.
+Answer:  A
+Diff: 1
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+53) Refer to Figure 10-5. A profit-maximizing single-price monopolist would charge the price
+A) P0.
+B) P1.
+C) P2.
+D) P3.
+E) P4.
+Answer:  E
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+54) Refer to Figure 10-5. The average per unit profit earned by this profit-maximizing single-price monopolist is
+A) P4 - P0.
+B) P4 - P1.
+C) P4 - P2.
+D) P4 - P3.
+E) P3 - P2.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 10-5. If the single-price monopolist is producing at the profit-maximizing level of output, the total cost is represented by the area
+A) 0P4aQ0.
+B) 0P3cQ3.
+C) 0P1dQ1.
+D) 0P2bQ0.
+E) 0P0gQ5.
+Answer:  D
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+56) Refer to Figure 10-5. If this single-price monopolist is producing at the profit-maximizing level of output, the total revenue is represented by the area
+A) 0P4aQ0.
+B) 0P3cQ2.
+C) 0P1dQ1.
+D) 0P2bQ0.
+E) 0P0gQ5.
+Answer:  A
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+57) Refer to Figure 10-5. If this single-price monopolist is producing at the profit-maximizing level of output, the total profit is represented by the area
+A) 0P4aQ0.
+B) P4abP2.
+C) P3ceP2.
+D) 0P2bQ0.
+E) 0P0fQ0.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+58) Refer to Figure 10-5. If this single-price monopolist is producing at the profit-maximizing level of output, consumer surplus is represented by the area
+A) P5P2b.
+B) P5P4a.
+C) P5P0g.
+D) P5P1e.
+E) P5Q30.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+59) Refer to Figure 10-5. This single-price monopolist would maximize total revenue by producing the quantity
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+60) Refer to Figure 10-5. Suppose this firm experiences an increase in the demand for its product.  In the short run, this profit-maximizing monopolist will 
+A) increase price and output.
+B) increase price and produce the same output.
+C) increase price and reduce output.
+D) neither raise price nor change output.
+E) lower price and increase output.
+Answer:  A
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Graph
+User2:  Qualitative
+
+Your food-services company has been named as the monopoly provider of meals at a small university. The cost and demand schedules are:
+	
+Sold per Day
+Price per Meal
+Total
+ Fixed Cost
+Total
+ Variable Cost
+Total Revenue
+   0
+$3.50
+$150
+   $0
+   $0
+100
+$3.25
+$150
+$300
+$325
+200
+$3.00
+$150
+$500
+$600
+300
+$2.75
+$150
+$650
+$825
+400
+$2.50
+$150
+$750
+$1000
+500
+$2.25
+$150
+$830
+$1125
+600
+$2.00
+$150
+$905
+$1200
+700
+$1.75
+$150
+$995
+$1225
+
+TABLE 10-2
+
+61) Refer to Table 10-2. The marginal cost between 100 and 200 meals per day is
+A) $0.
+B) $1.00.
+C) $1.50.
+D) $2.00.
+E) $3.00.
+Answer:  D
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+62) Refer to Table 10-2. The marginal cost between 300 and 400 meals per day is 
+A) $0.
+B) $1.00.
+C) $1.50.
+D) $2.00.
+E) $3.00.
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+63) Refer to Table 10-2. Assuming the firm is a single-price monopolist, the marginal revenue between 100 and 200 meals per day is
+A) $1.75.
+B) $2.25.
+C) $2.75.
+D) $3.25.
+E) $0.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+64) Refer to Table 10-2. For a single-price monopolist, the profit-maximizing price and number of meals per day is best approximated by
+A) 650 meals at $1.87 per meal.
+B) 550 meals at $2.12 per meal.
+C) 450 meals at $2.37 per meal.
+D) 350 meals at $2.62 per meal.
+E) 250 meals at $2.87 per meal.
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+65) Refer to Table 10-2, and suppose that the firm is a single-price monopolist. At the profit-maximizing level of output, the price elasticity of demand is
+A) less than one.
+B) one.
+C) greater than one.
+D) infinite.
+E) impossible to know with the available information.
+Answer:  C
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+66) Refer to Table 10-2, and suppose that the firm is a single-price monopolist. If the firm provided 700 meals per day, total daily profits would be
+A) -$60.
+B) $80.
+C) $150.
+D) $230.
+E) impossible to calculate given the information provided.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+67) Refer to Table 10-2, and suppose that the firm is a single-price monopolist. The level of output at which profits are zero is between 
+A) 0 and 100 meals.
+B) 100 and 200 meals.
+C) 200 and 300 meals.
+D) 300 and 400 meals.
+E) 300 and 500 meals.
+Answer:  C
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+68) Refer to Table 10-2. If the firm were to shut down in the short run its losses per day would be
+A) zero.
+B) $150.
+C) equal to its average variable cost.
+D) equal to its total revenue.
+E) equal to its total cost.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+
+69) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$10.001500$7.00$6000$5.00$5.00
+The monopolist could maximize profits by
+A) staying at the current price and output.
+B) lowering price and increasing output.
+C) lowering price and leaving output unchanged.
+D) raising price and leaving output unchanged.
+E) producing zero output.
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+70) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$10.001500$7.00$6000$5.00$5.00
+The total profit being earned by this firm at the current level of output is ________ which ________ the maximum profit possible. 
+A) $3000; is not
+B) $7500; is not
+C) $15 000; is
+D) $97 500; is not
+E) $105 000; is
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+71) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$9.001500$4.00$7000$7.00$5.00
+The monopolist could maximize its profits by
+A) staying at the current price and output.
+B) lowering price and increasing output.
+C) lowering price and leaving output unchanged.
+D) raising price and lowering output.
+E) producing zero output.
+Answer:  D
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+72) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$9.001500$4.00$7000$7.00$5.00
+The total profit being earned by this firm at the current level of output is
+A) $1500.
+B) $3000.
+C) $6500.
+D) $10 500.
+E) $13 500.
+Answer:  B
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+73) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$5.002000$4.00$2000$5.00$3.00
+The monopolist could maximize profits in the short run by
+A) staying at the current price and output.
+B) lowering price and increasing output.
+C) lowering price and leaving output unchanged.
+D) raising price and lowering output.
+E) shutting down.
+Answer:  B
+Diff: 3
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Quantitative
+
+74) Suppose that a single-price monopolist knows the following information:
+
+PriceQuantityTRMRFixed CostTCATCMC$5.002000$4.00$2000$5.00$3.00
+The total profit being earned by this firm at the current level of output is
+A) -$2000.
+B) -$1000.
+C) 0.
+D) $1000.
+E) $2000.
+Answer:  C
+Diff: 2
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Applied
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User1:  Table
+User2:  Quantitative
+75) Which of the following statements describes a major difference between monopoly and perfect competition?
+A) Perfectly competitive firms cannot maintain positive economic profits in the long run, whereas monopolists can.
+B) Monopolists do not consider consumer demand when choosing price and output levels.
+C) Monopolistic firms tend to maximize revenue while perfectly competitive firms maximize profit.
+D) Monopolistic firms emphasize cost minimization whereas perfectly competitive firms emphasize profit maximization.
+E) Perfectly competitive firms can never earn economic profits; monopolistic firms always earn economic profits.
+Answer:  A
+Diff: 1
+Topic:  10.1b. profit maximization for a monopolist
+Skill:  Recall
+Learning Obj.:  10-1 Explain why marginal revenue is less than price for a profit‐maximizing monopolist.
+User2:  Qualitative
+
+76) Which one of the following is a natural barrier to firms entering an industry?
+A) decreasing returns to scale
+B) a positively sloped LRAC curve over the whole range of output
+C) a negatively sloped LRAC curve over the whole range of output
+D) threats of punitive price-cutting by existing producers
+E) licensing and patent restrictions
+Answer:  C
+Diff: 1
+Topic:  10.1c. entry barriers
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+77) Natural barriers to firms to entering an industry include
+A) control or ownership of the entire supply of an essential raw material.
+B) large economies of scale in the industry.
+C) a government-awarded franchise.
+D) a patent which allows production by only the patent holder.
+E) increasing-cost production.
+Answer:  B
+Diff: 2
+Topic:  10.1c. entry barriers
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+78) A likely cause of a natural monopoly occurring in some industry is
+A) scale economies.
+B) patents.
+C) licenses.
+D) charters.
+E) sabotage.
+Answer:  A
+Diff: 1
+Topic:  10.1c. entry barriers
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+79) If an industry's demand conditions allow at most one firm to cover its costs while producing at its minimum efficient scale (MES), this situation is known as
+A) a discriminating monopoly.
+B) a natural monopoly.
+C) declining marginal revenue.
+D) limited competition.
+E) natural economic limits.
+Answer:  B
+Diff: 1
+Topic:  10.1c. entry barriers
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+80) Suppose the technology of an industry is such that the typical firm's minimum efficient scale is 8000 units per month at an average long-run cost of $5 per unit. If the total quantity demanded at a price of $5 per unit is 8500 units per month, the likely result would be
+A) a cartel.
+B) a concentrated oligopoly.
+C) a natural monopoly.
+D) price discrimination.
+E) perfectly competitive firms.
+Answer:  C
+Diff: 2
+Topic:  10.1c. entry barriers
+Skill:  Applied
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+81) Suppose the technology of an industry is such that the typical firm's minimum efficient scale is 18 units per day at an average long-run cost of $1600 per unit.  If the total quantity demanded at a price of $1750 per unit is 16 units per month, the likely result would be
+A) a competitive industry.
+B) a cartel.
+C) price discrimination.
+D) a natural monopoly.
+E) a concentrated oligopoly.
+Answer:  D
+Diff: 3
+Topic:  10.1c. entry barriers
+Skill:  Applied
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Quantitative
+
+82) Suppose the technology of production is such that the typical firm's minimum efficient scale is 1400 units per week at an average long-run cost of $9 per unit. If the total quantity demanded in this market at a price of $9 per unit is 22 million units per week, the likely result will be
+A) a cartel.
+B) price discrimination.
+C) a natural monopoly.
+D) a concentrated oligopoly.
+E) a competitive industry.
+Answer:  E
+Diff: 2
+Topic:  10.1c. entry barriers
+Skill:  Applied
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+83) If a competing firm is able to overcome an entry barrier of a monopolized industry, the demand curve of the single firm already in the industry will
+A) shift to the right.
+B) remain the same in spite of the entry of the other firm.
+C) shift to the left.
+D) become less elastic.
+E) shift to the left and become more elastic.
+Answer:  E
+Diff: 2
+Topic:  10.1c. entry barriers
+Skill:  Applied
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+84) A firm is best described as a natural monopoly if 
+A) there are no competing firms.
+B) it holds an exclusive charter from the government.
+C) its ATC curve is upward sloping.
+D) its MC curve is downward sloping.
+E) it can supply the entire market while minimizing its average costs.
+Answer:  E
+Diff: 1
+Topic:  10.1c. entry barriers
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+85) The main argument of Joseph Schumpeter's idea of "creative destruction" is that
+A) the existence of monopolies leads to destruction of the environment.
+B) short-run profits created by the existence of monopolies will lead to antitrust legislation, which will force the fragmentation of monopolies into competitive industries.
+C) perfectly competitive industries are characterized by more productive innovation and productivity growth than monopolistic industries, which Schumpeter regarded as destructive.
+D) monopoly profits lead to innovation in an effort to sustain those profits.
+E) monopolies create profits for themselves at the expense of the destruction of consumer surplus.
+Answer:  D
+Diff: 2
+Topic:  10.1d. innovation and creative destruction
+Skill:  Recall
+Learning Obj.:  10-2 Understand how entry barriers can allow monopolists to maintain positive profits in the long run.
+User2:  Qualitative
+
+10.2  Cartels and Monopoly Power
+
+1) A number of firms agreeing together to restrict output and thereby raise prices is known as
+A) a monopoly.
+B) a natural monopoly.
+C) a cartel.
+D) a barrier to entry.
+E) an oligopoly.
+Answer:  C
+Diff: 1
+Topic:  10.2. cartels
+Skill:  Recall
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+2) The cartelization of an industry with a homogeneous product usually means that 
+A) member firms have agreed to cooperate in reducing costs.
+B) member firms have agreed to reduce their joint output.
+C) the demand curve facing the industry must be linear.
+D) the demand curve facing the industry must be elastic.
+E) member firms have agreed to reduce investment.
+Answer:  B
+Diff: 1
+Topic:  10.2. cartels
+Skill:  Recall
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+
+3) One of the reasons cartels are considered unstable is that
+A) member firms reduce their investment, thereby becoming uncompetitive over time.
+B) it is inefficient to manage individual firms collectively.
+C) there are wide fluctuations in price as cartel members vary their output.
+D) consumers seek out substitutes to the cartel product.
+E) individual members of the cartel have an incentive to violate the cartel agreement.
+Answer:  E
+Diff: 1
+Topic:  10.2. cartels
+Skill:  Recall
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+
+4) The two characteristic problems for cartels are
+A) agreeing on the price to be set and preventing new entrants.
+B) policing members' output restrictions and preventing new entrants.
+C) coordinating marketing policies and policing members' quotas.
+D) agreeing on the price to be set and coordinating marketing policies.
+E) policing members' prices and restricting output.
+Answer:  B
+Diff: 2
+Topic:  10.2. cartels
+Skill:  Recall
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+5) It is common for a cartel to collapse when one or more firms in the cartel
+A) exceed its output quota.
+B) produce more efficiently than other member firms.
+C) is much larger than other cartel members.
+D) increase its price above the monopoly price.
+E) exit the industry.
+Answer:  A
+Diff: 1
+Topic:  10.2. cartels
+Skill:  Applied
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+
+6) A cartel can only succeed in the long run
+A) with authorization from the government.
+B) if there is free entry of new firms.
+C) if all firms are experiencing decreasing returns to scale.
+D) if the long-run market supply curve is elastic.
+E) if member firms cooperate and resist their individual incentives.
+Answer:  E
+Diff: 2
+Topic:  10.2. cartels
+Skill:  Recall
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+
+7) Suppose all of the firms in a perfectly competitive industry form a cartel and agree to restrict output, thereby raising the price of the product. Individual Firm A will gain the most from the existence of the cartel if
+A) all firms, including A, cooperate and restrict output.
+B) Firm A restricts output, while the other firms do not.
+C) all firms, except Firm A, cooperate and restrict output.
+D) no firms restrict output.
+E) all firms revert back to their competitive outputs.
+Answer:  C
+Diff: 2
+Topic:  10.2. cartels
+Skill:  Applied
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+8) In November 2012, there was some discussion of several south-Asian countries joining together to restrict the supply of rice to the world market. Between them, these countries' exports of rice account for 40% of the total global trade. What would they be trying to accomplish?
+A) They are attempting to form a cartel, increase their joint output, and control a larger percentage of the total global trade. 
+B) They are attempting to price discriminate between consumers of their exported rice, thereby increasing their share of the global trade and increasing their joint profits. 
+C) They are attempting to form a cartel, jointly restrict output, and increase the world price of rice. 
+D) They are attempting to act as a bloc to restrict entry of new producers to the world market, and thereby protect their joint profits. 
+E) They are attempting to form a cartel, drive other producers out of the world market and then increase their output of rice. 
+Answer:  C
+Diff: 3
+Topic:  10.2. cartels
+Skill:  Applied
+Learning Obj.:  10-3 Describe why firms would form a cartel to restrict industry output and how this would increase their profits.
+User2:  Qualitative
+10.3  Price Discrimination
+
+Suppose a monopolist faces the demand curve and cost curves shown below.
+
+
+FIGURE 10-5
+
+1) Refer to Figure 10-5. In order to maximize its profits, a perfect-price-discriminating monopolist produces the quantity
+A) Q0.
+B) Q1.
+C) Q2.
+D) Q3.
+E) Q4.
+Answer:  C
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+2) Refer to Figure 10-5. If the monopolist is practicing perfect price discrimination and is maximizing its profits, the total revenue is represented by the area
+A) 0P4aQ0.
+B) 0P5cQ2.
+C) 0P1dQ1.
+D) 0P2bQ0.
+E) 0P3cQ2.
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+3) Refer to Figure 10-5. If the monopolist is practicing perfect price discrimination and is maximizing its profits, the consumer surplus is represented by the area
+A) P5P3c.
+B) P5P4a.
+C) P5P0c.
+D) P5P2e.
+E) There is no consumer surplus in this case.
+Answer:  E
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+4) Refer to Figure 10-5. Suppose this monopolist is practicing perfect price discrimination. How does this differ from the situation where this firm is charging a single price for its product? 
+A) The firm is producing the same quantity, has successfully identified different segments of the market, and is able to capture some of the consumer surplus. 
+B) The firm is restricting output to a level below that of the single-price monopolist, and thereby raises the price of its product and earns higher profits. 
+C) The firm is producing a smaller quantity, is charging a different price for each unit sold and is earning higher profits. 
+D) The firm is producing the same quantity, but charging a different price for each unit sold and is earning higher profits. 
+E) The firm is producing a higher quantity, is charging a different price for each unit sold and is earning higher profits. 
+Answer:  E
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+5) Relative to a firm that must charge a single price for all of its output, the ability to charge multiple prices gives a firm with market power the ability to capture some or all of the
+A) producer surplus.
+B) consumer surplus.
+C) fixed costs.
+D) variable costs.
+E) marginal costs.
+Answer:  B
+Diff: 1
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+6) Price discrimination, if possible, allows a price-setting firm to increase its profits by
+A) shifting its cost curves downward.
+B) raising the price above the competitive price.
+C) charging different prices according to the willingness to pay of each consumer.
+D) reducing costs through a reduction in output.
+E) charging different prices according to the different marginal cost on each unit.
+Answer:  C
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+7) Suppose the market for some product can be divided into two segments, each with a linear demand curve. A monopolist can set a different price (but only one price) in each segment. The profit-maximizing price discrimination across these two market segments will lead to 
+A) higher output with average revenue higher than the best single price.
+B) lower output with total revenue higher than the single best price.
+C) lower output with a higher average revenue than the best single price.
+D) higher output with average revenue lower than the best single price.
+E) the same output but higher average revenue than the best single price.
+Answer:  E
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+8) One reason movie theatres charge a lower admission price to senior citizens is that 
+A) movie-theatre owners are able to practice perfect price discrimination.
+B) government sets the price policies.
+C) senior citizens have a more elastic demand than other movie-goers.
+D) senior citizens have a less elastic demand than other movie-goers.
+E) senior citizens have a higher willingness-to-pay than other people.
+Answer:  C
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+9) Which one of the following cases is NOT an example of price discrimination?
+A) Airlines charge different fares for business people than tourist travelers.
+B) Young males are charged higher premiums for car insurance than older males or women.
+C) A local phone company charges different telephone rates to residential and business users.
+D) Electric companies charge different rates to commercial and residential users for electricity.
+E) Theatres charge different rates for different age groups.
+Answer:  B
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+10) Which of the following is probably NOT an example of price discrimination?
+A) A doctor charging for his services according to the income of his patients.
+B) Train fares that are less expensive for weekend travel than weekday travel.
+C) A theatre charging children under 12 less for a movie ticket than it charges an adult.
+D) Universities charging out-of-province students higher tuition fees.
+E) A supermarket charging more for strawberries in December than in June.
+Answer:  E
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+11) Which of the following statements about a monopoly practicing perfect price discrimination is correct?
+A) The profit-maximizing criterion is MR = P, the same as for perfect competition.
+B) The demand curve is also the marginal-revenue curve.
+C) It will charge higher prices in those market segments with more elastic demand.
+D) The output will always be less than that produced by a single-price monopolist.
+E) Total costs will be lower than that of a single-price monopolist.
+Answer:  B
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+12) If a monopolist is practicing perfect price discrimination, then the following equation is true:
+A) MR = P for all units.
+B) MR = 1/2 P for any unit.
+C) AR = ATC at the profit-maximizing level of output.
+D) MC = 1/2 MR at the profit-maximizing level of output.
+E) P = AVC at the profit-maximizing level of output.
+Answer:  A
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+13) If a monopolist is practicing perfect price discrimination, then
+A) the producer surplus is zero.
+B) consumer surplus is zero.
+C) costs are lower than for the non-price-discriminating monopolist.
+D) demand must be inelastic.
+E) the monopolist is not profit maximizing.
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+14) Which of the following products would most easily lend itself to successful price discrimination by a monopolist?
+A) cellular phones
+B) electricity
+C) pianos
+D) restaurant meals
+E) transport trucks
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+15) If a monopolist is practising perfect price discrimination, we know that 
+A) the firm is facing a perfectly elastic demand curve.
+B) the firm is facing a perfectly inelastic demand curve.
+C) marginal cost is rising as output rises.
+D) the firm is producing a lower output than it would if it were a single-price monopolist.
+E) the firm is selling each unit at a different price and capturing all consumer surplus.
+Answer:  E
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Recall
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+16) One reason airlines charge a higher price to business travellers is that
+A) business travellers don't profit maximize.
+B) government sets the price policies.
+C) business travellers have a relatively higher demand elasticity than other travellers.
+D) business travellers have a relatively lower demand elasticity than other travellers.
+E) they are thereby able to minimize costs.
+Answer:  D
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+The diagram below shows the demand curve and marginal cost and marginal revenue curves for a new heart medication for which the pharmaceutical firm holds a 20-year patent on its production and sales. This protection gives the firm monopoly power for the 20 years of the patent.
+
+
+
+FIGURE 10-6
+
+17) Refer to Figure 10-6. Assume this pharmaceutical firm charges a single price for its drug. At its profit-maximizing level of output it will produce
+A) Q0 units and charge the perfectly competitive price.
+B) Q0 units and charge a price of p0.
+C) Q1 units and charge a price of p1.
+D) Q0 units and charge a price of p2.
+E) Q1 units and charge a price greater than its average total variable cost.
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+18) Refer to Figure 10-6. Assume this pharmaceutical firm charges a single price for its drug. At its profit-maximizing level of output, consumer surplus is represented by
+A) areas H + I.
+B) areas C + D + E + F.
+C) areas D + E.
+D) There is no consumer surplus generated.
+E) It is not possible to determine with the information provided.
+Answer:  C
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+19) Refer to Figure 10-6. Assume this pharmaceutical firm charges a single price for its drug. At its profit-maximizing level of output, it will generate a total profit represented by
+A) the sum of areas A through K.
+B) areas A + B + C + F + G.
+C) areas B + C + F + G + H + I.
+D) areas D + E.
+E) It is not possible to determine with the information provided.
+Answer:  E
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+20) Refer to Figure 10-6. Assume this pharmaceutical firm is practicing perfect price discrimination among its buyers. At its profit-maximizing level of output it will produce
+A) Q1 units and charge a price of p1 on the last unit sold.
+B) Q1 units and charge a price of p1 on all units.
+C) Q0 units and charge a price of p0 on the last unit sold.
+D) Q0 units and charge a price of p0 on all units.
+E) It is not possible to determine with the information provided.
+Answer:  A
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+21) Refer to Figure 10-6. Assume this pharmaceutical firm is practicing perfect price discrimination among its buyers. At its profit-maximizing level of output, consumer surplus is represented by
+A) areas C + D + E + F + H.
+B) areas D + E.
+C) areas C + F + H.
+D) There is no consumer surplus.
+E) It is not possible to determine with the information provided.
+Answer:  D
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+22) Refer to Figure 10-6. Assume this pharmaceutical firm charges a single price for its drug. At its profit-maximizing level of output, it will generate a deadweight loss to society represented by
+A) areas H + I.
+B) areas H + I + J + K.
+C) areas I + J + K.
+D) There is no deadweight loss generated.
+E) It is not possible to determine with the information provided.
+Answer:  A
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+23) Refer to Figure 10-6. Assume this pharmaceutical firm is practicing perfect price discrimination among its buyers. At its profit-maximizing level of output, it will generate a deadweight loss to society represented by
+A) areas H + I.
+B) areas H + I + J + K.
+C) areas I + J + K.
+D) There is no deadweight loss generated.
+E) It is not possible to determine with the information provided.
+Answer:  D
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+24) Refer to Figure 10-6. Assume this pharmaceutical firm has no fixed costs and is practicing perfect price discrimination among its buyers. At its profit-maximizing level of output, it will generate a total profit represented by
+A) areas B + C + F + G + H + I.
+B) areas C + F + H.
+C) areas G + I.
+D) the area below the demand curve minus the area below the MC curve, up to Q1.
+E) It is not possible to determine with the information provided.
+Answer:  D
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 10-6. Suppose this pharmaceutical firm is charging a single price for its drug and is maximizing its profits. If it then begins to perfectly price discriminate among its buyers it will
+A) cause a loss of economic surplus to society as a whole.
+B) capture consumer surplus equal to areas D + E + C + F + H.
+C) no longer be equating MR and MC.
+D) reduce its producer surplus by areas C + F + H.
+E) decrease its total output.
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User1:  Graph
+User2:  Qualitative
+26) Consider a monopolist that is able to distinguish between two distinct market segments, A and B, for its product.  Marginal cost is constant at $18 for each unit produced.  The firm is currently selling its output at a single price and allocating its output across segments such that marginal revenue in segment A is $25 and marginal revenue in segment B is $15.  Is this firm maximizing its profit?
+A) Yes, because it has set a price such that MC is between the MRs of the two market segments.
+B) No, because it is only possible to equate MR and MC when there is a single MR curve.
+C) Yes, because since marginal cost is constant, the firm must set a single price.
+D) No, this firm can increase its profits by price discriminating across the two market segments.
+Answer:  D
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Quantitative
+
+27) Consider a monopolist that is able to distinguish between two distinct market segments, A and B, for its product.  Marginal cost is constant at $18 for each unit produced.  The firm is currently selling its output at a single price and allocating its output across segments such that marginal revenue in segment A is $25 and marginal revenue in segment B is $15.  How can this firm maximize its profit?
+A) increase the output in segment A and decrease the output in segment B
+B) increase the output in segments A and B
+C) decrease the output in segment A and increase the output in segment B
+D) decrease the output in segments A and B
+E) maintain the current output and its allocation across segments
+Answer:  A
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Quantitative
+
+28) Consider a monopolist that is able to distinguish between two distinct market segments, A and B, for its product.  Marginal cost is constant at $100 for each unit produced.  The firm is currently selling its output at a single price and allocating its output across segments such that marginal revenue in segment A is $85 and marginal revenue in segment B is $105.  Is this firm maximizing its profit?
+A) Yes, because it has set a price such that MC is between the MRs of the two market segments.
+B) No, because it is only possible to equate MR and MC when there is a single MR curve.
+C) Yes, because since marginal cost is constant, the firm must set a single price.
+D) No, this firm can increase its profits by price discriminating across the two market segments.
+Answer:  D
+Diff: 1
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Quantitative
+29) Consider a monopolist that is able to distinguish between two distinct market segments, A and B, for its product.  Marginal cost is constant at $100 for each unit produced.  The firm is currently selling its output at a single price and allocating its output across segments such that marginal revenue in segment A is $85 and marginal revenue in segment B is $105.  How can this firm maximize its profit?
+A) increase the output in segment A and decrease the output in segment B
+B) increase the output in segments A and B
+C) decrease the output in segment A and increase the output in segment B
+D) decrease the output in segments A and B
+E) maintain the current output and its allocation across segments
+Answer:  C
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Quantitative
+
+30) With regard to price discrimination, we can generally say that a monopolist practicing perfect price discrimination ________ a single-price monopolist in the same market.
+A) produces a lower level of output compared to
+B) generates more consumer surplus than
+C) generates a more efficient outcome for society as a whole compared to
+D) produces the same output level and charges the same price as
+E) has the same effects on consumer welfare as
+Answer:  C
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+31) Many clothing retailers allow you to go to their website and print a coupon that you then present for a discounted price on your next purchase in the store. In economics we refer to this as
+A) a created entry barrier, a form of price discrimination.
+B) hurdle pricing, a form of price discrimination.
+C) sales maximization, a form of market segmentation.
+D) a loss-leader, a form of advertising.
+E) arbitrage, a form of price discrimination.
+Answer:  B
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+32) Suppose you go to a retailer's website and print a coupon that gives you a discount on your next purchase at their store.  But your friend, who also plans to purchase there, can't be bothered. You are revealing to the store that
+A) you have a lower income than your friend.
+B) you understand price discrimination and your friend does not.
+C) you have a lower elasticity of demand than your friend.
+D) you have a higher elasticity of demand than your friend.
+E) elasticity of demand changes according to the size of the discount offered.
+Answer:  D
+Diff: 2
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+33) Consider the following statement: "Price discrimination is harmful to society and should not be tolerated under any circumstance." Why is this statement false? 
+A) Price discrimination always leads to lower prices and higher quantities. 
+B) Price discrimination can allow for some consumers to be made better off because they are able to buy a product or service that was otherwise unaffordable. 
+C) Price discrimination leads to higher prices for all consumers and a reduction in consumer surplus. 
+D) Price discrimination reduces total quantity exchanged and therefore reduces the sum of producer and consumer surplus. 
+E) Price discrimination violates the Canadian Charter of Rights and Freedoms. 
+Answer:  B
+Diff: 3
+Topic:  10.3. price discrimination
+Skill:  Applied
+Learning Obj.:  10-4 Explain how some firms can increase their profits through price discrimination.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 47
+Copyright © 2017 Pearson Education, Inc.
+
+
+

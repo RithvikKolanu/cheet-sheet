@@ -1,0 +1,1658 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 14   Labour Markets and Income Inequality
+
+14.1  Wage Differentials
+
+1)  In a perfectly competitive labour market, all workers would earn the same wage if
+A) the world was fair.
+B) workers' education and experience were identical.
+C) all jobs had the same working conditions.
+D) regional variables mattered.
+E) jobs and workers were identical in every way.
+Answer:  E
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+2) If labour markets were perfectly competitive,
+A) all workers would eventually earn the same wage.
+B) all workers would achieve the same levels of education and experience.
+C) working conditions would be the same for all jobs.
+D) wage differentials could still exist because of differences in workers and jobs.
+E) discrimination could not create wage differentials.
+Answer:  D
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+3) One possible reason for wage differentials is that 
+A) there are competitive forces operating in labour markets. 
+B) discrimination affects labour-market outcomes.
+C) working conditions are the same for most jobs.
+D) workers have more-or-less equal skills.
+E) there is only a single national labour market.
+Answer:  B
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+4) Other things being equal, individuals working in relatively risky working conditions generally 
+A) earn higher wages due to the greater relative demand for these individuals.
+B) earn higher wages due to the reduced supply of risk-taking individuals.
+C) earn lower wages because of the scarcity of these jobs.
+D) do not concern economists as these situations are uncommon.
+E) work in perfectly competitive labour markets.
+Answer:  B
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+5) All of the following are classified as human capital EXCEPT
+A) education.
+B) training.
+C) gender.
+D) health.
+E) experience.
+Answer:  C
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+6) One attempt to provide some minimum level of human capital for all citizens is a system of 
+A) compulsory and publicly financed education.
+B) income taxation.
+C) unionism.
+D) comparable worth.
+E) minimum wages.
+Answer:  A
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+7) If you choose to stay in school beyond the compulsory minimum period, you are 
+A) realizing the benefits of your investment in human capital.
+B) delaying your investment in human capital.
+C) refusing to invest in your human capital.
+D) investing further in your human capital.
+E) wasting your time from an economic standpoint.
+Answer:  D
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+8) During recessions, individual investment in higher education typically ________ due to the relatively ________ opportunity cost of time spent in university.
+A) rises; high
+B) rises; low
+C) falls; high
+D) falls; low
+E) stays constant; constant
+Answer:  B
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+9) Investment in human capital can be very costly to the individual, but it can also generate large returns. Canadian census data from 2007 show that average employment income for a university graduate is approximately ________ of the average employment income of a worker with no more than a high school diploma.
+A) 50%
+B) 125%
+C) 200%
+D) 300%
+E) 400%
+Answer:  C
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+10) Wage differentials due to cross-worker differences in human capital
+A) are not justifiable on efficiency grounds.
+B) will persist in competitive equilibrium.
+C) are not an important source of observed wage differentials.
+D) are an example of economic distortions due to monopoly power.
+E) exist because of distortions in labour markets.
+Answer:  B
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+11) A typical firm hiring in a perfectly competitive labour market faces a marginal cost curve for labour that is
+A) horizontal.
+B) vertical.
+C) equal to the supply curve of the firm.
+D) parallel to the firm's marginal cost curve for its product.
+E) downward sloping.
+Answer:  A
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+12) In terms of human capital, which of the following is the best example of an inherited skill?
+A) a neurosurgeon who can perform brain surgery after many years of training
+B) a retail worker who is able to work overtime each week
+C) a worker who exercises is healthier and therefore more productive
+D) a salesman doubles his sales after taking a training course
+E) a music teacher who can carry a tune for the school choir
+Answer:  E
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+13) One or two generations ago, fewer Canadians completed post-secondary training and education. One explanation for this is
+A) a decrease in demand for more education in recent years.
+B) wage differentials due to formal education have diminished over time.
+C) a negative relationship between the acquisition of human capital and overall earnings.
+D) the relative wage of more highly educated people has increased in recent years.
+E) that the opportunity cost of post-secondary education has increased.
+Answer:  D
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+14) In recent years, some business schools in Canada have begun charging tuition of close to $35 000 per year for a graduate degree, whereas Arts faculties charge much lower tuition for their graduate degrees. Students are prepared to pay the high tuition in a business school because
+A) the expected payoff in terms of higher future wages is large.
+B) the cost of providing the business education is far higher than the cost of the Arts education.
+C) the marginal revenue product of a business degree is lower than the marginal revenue product of an Arts degree.
+D) the marginal cost of a business degree is less than the marginal benefit of a business degree.
+E) they recognize that the investment in human capital is not worthwhile.
+Answer:  A
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+The table below shows the labour demand and labour supply schedules in a competitive labour market. 
+
+Wage Rate
+($/hour)
+Quantity Demanded
+ of Labour
+(hours/month)
+Quantity Supplied
+of Labour (hours/month)
+10
+1300
+ 500
+12
+1000
+1000
+14
+  800
+1300
+15
+  400
+1500
+17
+  200
+1800
+
+TABLE 14-1
+
+15) Refer to Table 14-1. In a competitive labour market that clears, the equilibrium employment level would be 
+A) 400 units. 
+B) 500 units. 
+C) 800 units. 
+D) 1000 units. 
+E) 1300 units. 
+Answer:  D
+Diff: 1
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Table
+User2:  Quantitative
+16) Refer to Table 14-1. If the wage rate is $15 per hour, how many hours per month are supplied to this market but are not actually employed? 
+A) 0
+B) 400
+C) 1000
+D) 1100
+E) 1500
+Answer:  D
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Table
+User2:  Quantitative
+
+17) Refer to Table 14-1. In this labour market, if the wage rate is $10 per hour, how many hours of labour per month are actually employed? 
+A) 0
+B) 500
+C) 1000
+D) 1300
+E) 1850
+Answer:  B
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Table
+User2:  Quantitative
+
+18) Labour-market discrimination results in a
+A) lower supply in discriminating occupations and a higher supply in non-discriminating occupations.
+B) higher supply in discriminating occupations and a lower supply in non-discriminating occupations.
+C) lower supply in all occupations.
+D) lower demand in all occupations.
+E) higher demand in both occupations.
+Answer:  A
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+19) Labour-market discrimination, which keeps one group of workers out of elite (E) occupations and limits them to ordinary (O) occupations, will have which of the following effects?
+A) a decrease in supply and higher wages in the E occupations
+B) more employment in the E occupations
+C) a decrease in supply and lower wages in the O occupations
+D) more unemployment in the E occupations
+E) a decrease in supply and higher wages in the O occupation
+Answer:  A
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+20) Labour-market discrimination, which keeps one group of workers out of elite (E) occupations and limits them to ordinary (O) occupations, will have which of the following effects?
+A) a decrease in supply and lower wages in the O occupations
+B) an increase in supply and lower wages in the E occupations
+C) an increase in supply and higher wages in the E occupations
+D) a decrease in supply and lower wages in the E occupations
+E) an increase in supply and lower wages in the O occupations
+Answer:  E
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+21) If competitive labour market E discriminates against one group of workers and market O does not, we can predict an increase in
+A) employment in market E.
+B) wages in market E.
+C) wages in market O.
+D) the welfare of the average worker.
+E) economy-wide wage rates.
+Answer:  B
+Diff: 1
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+22) Suppose market E discriminates against one group of workers and market O does not. Unemployment in market O would result if
+A) the free-market equilibrium wage in market O is below the legal minimum wage.
+B) some workers are unwilling to work in E-market jobs.
+C) there is no statutory minimum wage.
+D) the supply curve in market O shifts to the left and wages are slow to adjust.
+E) the demand curve in market O shifts to the right and wages are slow to adjust.
+Answer:  A
+Diff: 3
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+23) Evidence suggests that some of the observed average female-male wage differential can be explained by 
+A) the nature of the jobs and differences in acquired human capital.
+B) differences in the innate abilities between men and women.
+C) higher marginal revenue product for female workers.
+D) the labour-force participation rate of adult women being above that of adult men.
+E) None of the above can explain part of the wage differentials.
+Answer:  A
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+24) Some types of discrimination in the labour market will be limited by 
+A) the minimum wage.
+B) entry of of discriminating firms into the market.
+C) an increase in the number of individuals discriminated against.
+D) the desire of firms to maximize profits.
+E) greater monopoly power in the market.
+Answer:  D
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+25) The following statements describe the adverse effects suffered by groups subject to labour-market discrimination. Which of the statements is false?
+A) They will be more likely to experience spells of unemployment.
+B) Their children's ability and willingness to invest in human capital will be less on average than those of children of other groups.
+C) They will receive lower wages on average than other groups.
+D) Their human capital will increase.
+E) The discriminatory wage differentials will persist as long as the discrimination exists.
+Answer:  D
+Diff: 1
+Topic:  14.1b. discrimination
+Skill:  Recall
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+26) If there is discrimination against some workers in market A but no discrimination in market B, then we can predict
+1) a decrease in supply and higher wages in the A occupations.;
+2) more employment in the A occupations.;
+3) more unemployment in the B occupations if there is a binding minimum wage.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 3
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+Suppose an island economy has only two labour markets - fishing (high skill) and farming (low skill).  There are 1000 males and 1000 females in the labour force.  There is an equal distribution of skilled and non-skilled workers among each sex.
+
+
+
+	FIGURE 14-1
+
+27) Refer to Figure 14-1.  The two labour markets are each in a ________ equilibrium at point E.  The wage differential between the industries is a(n) ________ wage differential.
+A) non-competitive; discriminatory
+B) competitive; temporary
+C) competitive; equilibrium
+D) non-competitive; temporary
+E) competitive; discriminatory
+Answer:  C
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Graph
+User2:  Qualitative
+28) Refer to Figure 14-1.  Suppose the employers in the fishers labour market begin to discriminate against male workers.  Which of the following can we expect to occur in the fishers labour market?
+A) There will be an equal flow of workers between the two markets, equilibrium will remain at point E and the wage at $100 per day.
+B) The demand for labour curve shifts to the right until a new equilibrium is reached at point B and the wage rises to $120 per day.
+C) The labour supply curve shifts to the left until a new equilibrium is reached at point A and the wage rises to $120 per day.
+D) The demand for labour curve shifts to the left until a new equilibrium is reached at point C and the wage falls to $80 per day. 
+E) The labour supply curve shifts to the right until a new equilibrium is reached at point D and the wage falls to $80 per day.
+Answer:  C
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Graph
+User2:  Quantitative
+
+29) Refer to Figure 14-1.  Suppose the employers in the fishers labour market begin to discriminate against male workers.  Which of the following can we expect to occur in the farmers labour market?
+A) There will be an equal flow of workers between the two markets, equilibrium will remain at point E and the wage at $80 per day.
+B) The demand for labour curve shifts to the right until a new equilibrium is reached at point B and the wage rises to $100 per day.
+C) The labour supply curve shifts to the left until a new equilibrium is reached at point A and the wage rises to $100 per day.
+D) The demand for labour curve shifts to the left until a new equilibrium is reached at point C and the wage falls to $60 per day. 
+E) The labour supply curve shifts to the right until a new equilibrium is reached at point D and the wage falls to $60 per day.
+Answer:  E
+Diff: 2
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Graph
+User2:  Quantitative
+30) Refer to Figure 14-1.  Suppose the employers in the fishers labour market begin to discriminate against male workers, and we move to a new equilibrium in each market.  In the absence of any government intervention in these markets, what forces might we expect to see over time?
+1) All female workers will migrate to the fishers labour market due to the higher wage.
+2) The discriminatory wage differential will tend to be eliminated by the pursuit of profit.
+3) Some firm owners in the fishing labour market will find it profitable to hire high-skill males, thus reducing the wage differential.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  E
+Diff: 3
+Topic:  14.1b. discrimination
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User1:  Graph
+User2:  Qualitative
+
+31) Certain professions limit the number of students who are eligible to enroll in their programs in university - engineering, architecture, dentistry, and law, for example. Other things being equal, what is one predicted effect of such restrictions? 
+A) increased wages across all segments of the labour market
+B) decreased wages across all segments of the labour market
+C) decreased wages in the labour market outside of these professions
+D) increased wages in the labour market outside of these professions
+E) there will be no effect on any wages
+Answer:  C
+Diff: 2
+Topic:  14.1a. wage differentials in competitive markets
+Skill:  Applied
+Learning Obj.:  14-1 Explain wage differentials in both competitive and non-competitive labour markets.
+User2:  Qualitative
+
+32) If there is only a single buyer in the labour market, that buyer is called 
+A) a monopolist.
+B) a monopsonist.
+C) an oligopolist.
+D) an oligopsonist.
+E) a single-product firm.
+Answer:  B
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+33) As a seller of labour services, a labour union is a form of
+A) monopoly.
+B) monopsony.
+C) oligopoly.
+D) monopolistic competitor.
+E) illegal cartel.
+Answer:  A
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+34) A labour union can most easily raise the wages received by its members by 
+A) increasing the demand for the product.
+B) decreasing the supply of labour from its members.
+C) raising employment.
+D) increasing the demand for labour.
+E) improving productivity.
+Answer:  B
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+35) In the 1950s and 1960s, Arvida, Quebec, was basically a one-company town where Alcan was the sole buyer of labour services. This is a good example of
+A) pure monopoly.
+B) monopolistic competition.
+C) oligopoly.
+D) monopsony.
+E) union power.
+Answer:  D
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+36) Suppose a labour union enters a competitive labour market and is successful in raising wages above the competitive equilibrium level. In this situation, 
+A) each firm in the industry will face a horizontal supply curve for labour at the union wage, up to the maximum quantity of labour that is prepared to work at that wage.
+B) those workers already employed will earn a lower wage than before. 
+C) employment in the industry will surely increase.
+D) the market supply curve for labour will be upward sloping over its entire range.
+E) the number of firms in the industry will increase and the demand for labour curve will shift to the right, causing a subsequent increase in the wage.
+Answer:  A
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+37) Suppose that a professional association strengthened the limits to entry into their profession and at the same time lengthened its required apprenticeship program. The likely effect would be that
+A) the supply curve for labour would shift to the left.
+B) the supply curve for labour would shift to the right.
+C) both the demand and supply curves for labour would shift to the left.
+D) the demand curve for labour would shift to the right.
+E) there would be an increase in the quantity of labour supplied.
+Answer:  A
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+38) Certain professions limit the number of students who are eligible to enroll in their programs in university - engineering, architecture, dentistry, and law, for example. What is the predicted effect of such a policy in each of these professions? 
+A) An increase in supply and a wage that is lower than it otherwise would be. 
+B) A reduction in supply and a wage that is lower than it otherwise would be. 
+C) An increase in supply and a wage that is higher than it otherwise would be. 
+D) A reduction in supply and a wage that is higher than it otherwise would be. 
+E) These professions are a relatively small portion of the labour market and so there will be no detectible change in wages. 
+Answer:  D
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+39) To a monopsonist in a labour market, the average cost curve of labour 
+A) lies above the supply curve of labour.
+B) lies below the supply curve of labour.
+C) is the supply curve of labour, which lies below the marginal cost curve for labour.
+D) is the marginal cost curve of labour when the supply curve is upward sloping.
+E) coincides with the marginal cost curve of labour only below the profit-maximizing wage rate.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+40) For a monopsonist in a labour market, the firm's MC curve for labour lies ________ the competitive supply curve for labour; just as the marginal revenue curve for a monopolist lies ________ the demand curve for its product.
+A) below; below
+B) below; above
+C) above; above
+D) above; below
+Answer:  D
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+41) For a monopsonist that faces an upward-sloping labour supply curve, the marginal cost of labour curve will be ________ the supply curve because ________.
+A) below; the increased wage necessary to attract an extra worker is paid to that worker alone
+B) above; the increased wage necessary to attract an extra worker must be paid to everyone already employed
+C) above; the average wage exceeds the marginal wage when the average wage is rising
+D) the same as; the marginal cost of labour equals the average cost of labour
+E) below; the extra labour supplied is less capable than previous units of labour supplied
+Answer:  B
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+42) A profit-maximizing monopsonist in a labour market will continue to hire labour until the
+A) hourly wage of the labour is equated with its marginal cost.
+B) hourly wage of the labour is equated with its average cost.
+C) marginal revenue product of labour equals its marginal cost.
+D) marginal cost of labour equals its average revenue.
+E) marginal product of labour is maximized.
+Answer:  C
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+43) Suppose your firm is a monopsonist hiring only one variable input. If you want to maximize profits, you will purchase that variable input up to the point where the
+A) demand curve intersects the supply curve of the input.
+B) MRP curve for the input intersects the marginal cost curve for the input.
+C) wage rate is the highest.
+D) marginal product of that input equals the price of one unit of the input.
+E) cost of the input equals the profit generated by the employment of that input.
+Answer:  B
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+44) If we compare the wage rate and the level of employment achieved in a competitive labour market with those in a monopsonistic labour market, the latter will generate
+A) a lower level of employment and a higher wage rate.
+B) a higher level of employment and a lower wage.
+C) a higher level of employment and a higher wage rate.
+D) a lower level of employment and a lower wage.
+E) the same outcomes as in a competitive labour market.
+Answer:  D
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+45) Consider a monopsonistic labour market. Ten units of labour will be supplied if the wage rate is $12, and 11 units of labour will be supplied if the wage rate is $14. The marginal cost of the eleventh worker is
+A) $2.
+B) $12.
+C) between $12 and $14.
+D) $14.
+E) more than $14.
+Answer:  E
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+46) Consider a monopsonistic labour market. One hundred units of labour will be supplied if the wage rate is $12, and 101 units of labour will be supplied if the wage rate is $14. The marginal cost of the 101st worker is
+A) $14.
+B) $140.
+C) $214.
+D) $1414.
+E) Not enough information to know.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+47) Consider a small, remote town with only one employer - a gold mining company.  Suppose the current work force is 875 workers, each of whom is paid $6000 per month.  In order to attract one additional worker, the employer must increase the wage to $6025 per month.  The marginal cost of this additional worker is 
+A) $21 875 per month.
+B) $21 900 per month.
+C) $27 900 per month.
+D) $5.25 million per month.
+E) $5.28 million per month.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+48) Suppose that a regional health authority is the only employer of nurses, and further, suppose that nurses are not unionized. The 625 currently employed nurses are paid $27 per hour. To attract an additional nurse, the employer must increase the wage to $28 per hour. The marginal cost of this additional worker is
+A) $653.
+B) $28.
+C) $17 500.
+D) $17 528.
+E) $27.
+Answer:  A
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+49) Suppose we have a labour market with a monopsony employer in a town. Now suppose that all workers form a union and negotiate a wage with the employer. We refer to this as a situation of 
+A) double monopsony.
+B) collective bargaining.
+C) union-wage premium.
+D) bilateral monopoly.
+E) monopsony.
+Answer:  D
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+50) Consider a wage-setting union in an otherwise competitive labour market. If the union sets a wage above the competitive level, the effect will be
+A) to raise wages for all workers who wish to work in the industry.
+B) to increase the amount of employment in the industry.
+C) to create a group of workers who would like to obtain jobs in the industry but cannot do so.
+D) a level of employment which is the same as that at the competitive equilibrium wage.
+E) to cause the labour supply curve to shift to the right.
+Answer:  C
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+FIGURE 14-2
+
+51) Refer to Figure 14-2. Suppose the labour market is perfectly competitive. If a minimum wage of W5 were then established, the predicted effect would be which one of the following?
+A) Q2 workers would be employed and unemployment would equal Q2Q3.
+B) Employment would fall by the amount Q1Q4.
+C) Employment would remain the same as in a competitive market.
+D) Q3 workers would now be employed.
+E) Q4 workers would be employed and there would be no unemployment.
+Answer:  B
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+52) Refer to Figure 14-2. If the labour market were in a monopsonistic equilibrium, the predicted wage and number of workers employed would be
+A) W4 and Q4.
+B) W5 and Q4.
+C) W2 and Q1.
+D) W1 and Q2.
+E) W1 and Q3.
+Answer:  A
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+53) Refer to Figure 14-2. Suppose the labour market is perfectly competitive. If a minimum wage of W4 is then established, the predicted change in the wage is 
+A) an increase in the wage paid.
+B) a decrease in the wage paid.
+C) no change in the wage paid.
+D) a decrease equal to W1 - W4.
+E) an increase equal to W1 - W4.
+Answer:  C
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+54) Refer to Figure 14-2. Suppose the labour market is initially in a monopsonistic equilibrium. If a strong union is then formed and establishes a minimum wage of W1,
+A) employment will decrease to Q2.
+B) the wage rate and employment will both increase to their competitive levels.
+C) the wage rate will increase but employment will decrease.
+D) there will be an effect on either wages or employment but not both.
+E) the wage rate will decrease but employment will increase.
+Answer:  B
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 14-2. In a perfectly competitive labour market, the equilibrium wage rate and the quantity of labour employed would be
+A) W4 and Q4.
+B) W2 and Q2.
+C) W5 and Q5.
+D) W1 and Q1.
+E) W5 and Q4.
+Answer:  D
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+56) Refer to Figure 14-2. Suppose the labour market is in a monopsonistic equilibrium. If a minimum wage is then imposed at W5, the effect would be to 
+A) increase employment only.
+B) waste policy effort, as there would be no effect whatsoever in the labour market.
+C) increase wages and maintain employment but create a pool of unemployed workers.
+D) increase wages and create a shortage of workers.
+E) decrease wages but employment would remain the same.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+The three diagrams below show the supply and demand for teenage babysitters in one local area. The initial supply curve is S0 in all cases.
+
+
+
+	FIGURE 14-3
+
+57) Refer to Figure 14-3. Suppose all of the teenage babysitters in one local area form an association and set a minimum age of 16 for working as a babysitter. Which diagram illustrates the new supply curve (SA) for babysitters?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) none of the diagrams
+E) any of the diagrams
+Answer:  B
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+58) Refer to Figure 14-3. Suppose all of the teenage babysitters in one local area form an association and set a minimum acceptable wage of $8 per hour. Which diagram illustrates the new supply curve (SA) for babysitters?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) none of the diagrams
+E) any of the diagrams
+Answer:  A
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+59) Suppose that the professional association of dentists reduces entry into their profession by lengthening the required training program. The likely effect is that
+A) the supply curve of dentists will shift to the left.
+B) the supply curve of dentists will shift to the right.
+C) both the demand and supply curves for dentists will shift to the left.
+D) the demand curve for dentists will shift to the right.
+E) there will be an increase in the quantity of dentists supplied.
+Answer:  A
+Diff: 1
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+The diagram below shows the supply and demand for labour in a hypothetical town in northern British Columbia, with only one employer, a logging company.
+
+
+FIGURE 14-4
+
+60) Refer to Figure 14-4. The wage paid by this monopsonistic firm will be ________ and employment will be ________.
+A) below $25 per hour; below 750 units of labour
+B) between $25 and $35 per hour; between 750 and 1000 units of labour
+C) $30 per hour; 1000 units of labour
+D) $25 per hour; 750 units of labour
+E) $35 per hour; 750 units of labour
+Answer:  D
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Quantitative
+
+61) Refer to Figure 14-4. Compared to the outcome in a competitive labour market, the wage and employment outcome in this town's monopsonistic labour market are as follows:
+A) wages are lower by $5 per hour and employment is lower by 250 units of labour.
+B) wages and employment are both the same as the competitive outcome.
+C) wages are higher by $10 per hour and employment is lower by 250 units of labour.
+D) wages are lower by $10 per hour and employment is the same as the competitive outcome.
+E) wages are the same as the competitive outcome and employment is higher by 250 units of labour.
+Answer:  A
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Quantitative
+
+62) Refer to Figure 14-4. Suppose this labour market is in a monopsonistic equilibrium. Then, suppose the workers form a union and negotiate a higher wage with the firm. In this case the wage will be ________ and the employment will be ________.
+A) above $35 per hour; less than 750 units of labour
+B) between $25 and $35 per hour; between 750 and 1000 units of labour
+C) above $25 per hour; above or below 750 units of labour, depending on the negotiated wage
+D) $30 per hour; 1000 units of labour
+E) $35 per hour; 750 units of labour
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Quantitative
+63) Refer to Figure 14-4. Suppose the workers in this town form a union to negotiate the wage rate with the firm. Economists refer to this situation as
+A) a monopoly.
+B) a unionized monopoly.
+C) a competitive labour market.
+D) a monopolistic labour market.
+E) a bilateral monopoly.
+Answer:  E
+Diff: 2
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+64) Refer to Figure 14-4. Suppose this labour market is in a monopsonistic equilibrium. Then, suppose the provincial government of British Columbia imposes a minimum wage for employees in this industry of $30 per hour. What will be the effects on wages and employment?
+A) wages will fall by $5 per hour and employment will increase by 250 units of labour
+B) wages will not change and employment will increase by 250 units of labour
+C) wages will rise by $5 per hour and employment will increase by 250 units of labour
+D) wages will not change and employment will change by between 0 and 250 units of labour
+E) wages will not change and employment will not change
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+65) Refer to Figure 14-4. Suppose this labour market is in a monopsonistic equilibrium. Then, suppose the provincial government of British Columbia imposes a minimum wage for employees in this industry of $38 per hour. What will be the effects on wages and employment?
+A) wages will rise by $8 per hour and employment will fall below 750 units of labour
+B) wages will rise by $3 per hour and employment will fall by 125 units of labour
+C) wages will rise by $8 per hour and employment will remain unchanged
+D) wages will rise by $13 per hour and employment will fall below 750 units of labour
+E) wages will rise by $8 per hour and employment will fall by between 0 and 250 units of labour
+Answer:  D
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+66) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). What is the equilibrium level of employment?
+A) 20
+B) 40
+C) 400
+D) 800
+E) 1000
+Answer:  D
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+67) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). Suppose that a union now successfully organizes the workers at this mall and obtains a wage rate of $11 (but does not affect the demand curve). The number of workers employed after unionization is
+A) 400.
+B) 780.
+C) 880.
+D) 1000.
+E) Not determinable from the information provided.
+Answer:  B
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+68) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). Suppose that a union now successfully organizes the workers at this mall and obtains a wage rate of $11 (but does not affect the demand curve). The number of workers who wish to work at the new wage is 
+A) 400.
+B) 440.
+C) 780.
+D) 840.
+E) 1000.
+Answer:  D
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+69) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). Suppose that a union now successfully organizes the workers at this mall and obtains a wage rate of $11 (but does not affect the demand curve). One result is
+A) an increase in employment of 20 workers.
+B) an increase in employment of 40 workers.
+C) a decrease in employment of 20 workers.
+D) a decrease in employment of 40 workers.
+E) a decrease in employment of 60 workers.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+70) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). Suppose that a union now successfully organizes the workers at this mall and obtains a wage rate of $11 (but does not affect the demand curve). The number of unemployed workers in this mall labour market becomes
+A) 20.
+B) 40.
+C) 60.
+D) 80.
+E) 100.
+Answer:  C
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+
+71) Suppose there is a competitive market for retail workers at a large shopping mall that is large enough to constitute its own labour market. The labour demand curve is QD = 1000 - 20(w). The labour supply curve is QS = 400 + 40(w). Suppose that a union now successfully organizes the workers at this mall and obtains a wage rate of $13 (but does not affect the position of the demand curve). One result is
+A) an increase in employment of 20 workers.
+B) an increase in employment of 60 workers.
+C) a decrease in employment of 100 workers. 
+D) a decrease in employment of 140 workers. 
+E) a decrease in employment of 60 workers.
+Answer:  E
+Diff: 3
+Topic:  14.1c. wage differentials in non-competitive markets
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Quantitative
+72) A legislated minimum wage is said to be binding when
+A) it is below an industry's free-market equilibrium wage.
+B) an industry is poorly organized and composed largely of unskilled labour.
+C) it raises wage rates in an industry above the free-market equilibrium level.
+D) it decreases the turnover rate among employees.
+E) it is enforced by legal authorities.
+Answer:  C
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+73) A legislated minimum wage is comparable to 
+A) bilateral monopoly.
+B) a black-market price.
+C) a rent control.
+D) a price ceiling.
+E) a price floor.
+Answer:  E
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+74) If a minimum wage is set above the free-market equilibrium wage in a competitive labour market, the labour market will experience an increase in wages and
+A) employment will increase.
+B) employment will decrease.
+C) there will be no unemployment.
+D) employment will remain the same.
+E) there is an unpredictable effect on employment.
+Answer:  B
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+75) Which of the following statements about a legislated minimum wage is true? 
+A) In a competitive labour market, (if effective) it may increase wages and will increase employment. 
+B) In a monopsonistic labour market, (if effective) it may increase wage rates but it must decrease employment. 
+C) In a monopsonistic labour market, if set equal to the competitive wage, will increase wages and employment. 
+D) It will have the same wage and employment effects in competitive and monopsonistic labour markets. 
+E) It will have no effect if the market is monopsonistic.
+Answer:  C
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+FIGURE 14-5
+
+76) Refer to Figure 14-5. If this labour market were perfectly competitive, the predicted wage and employment level would be
+A) W1 and Q2.
+B) W2 and Q3.
+C) W3 and Q2.
+D) W3 and Q4.
+E) W4 and Q5.
+Answer:  B
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+77) Refer to Figure 14-5. Suppose this labour market is perfectly competitive. If a minimum wage of W1 is then imposed, the quantity of labour hired would be
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  C
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+78) Refer to Figure 14-5. Suppose this labour market is competitive. If a minimum wage of W3 is then imposed, the quantity of labour hired would be
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  B
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+79) Refer to Figure 14-5. Suppose this labour market is competitive. If a minimum wage of W4 is then imposed, the quantity of labour supplied would be
+A) Q1.
+B) Q2.
+C) Q3.
+D) Q4.
+E) Q5.
+Answer:  E
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+80) Refer to Figure 14-5. Suppose this labour market is competitive. If a minimum wage of W4 is then imposed, the number of unemployed workers would be
+A) 0Q1.
+B) Q5 - Q1.
+C) Q3 - Q1.
+D) 0Q3.
+E) 0Q5.
+Answer:  B
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+81) Refer to Figure 14-5. Suppose the labour market is competitive. If a minimum wage of W3 is then imposed, the number of unemployed workers would be
+A) 0Q2.
+B) Q3 - Q1.
+C) Q3 - Q2.
+D) Q4 - Q2.
+E) 0Q4.
+Answer:  D
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+82) Refer to Figure 14-5. If this labour market is perfectly competitive, an increase in the legislated minimum wage from W2 to W3 would 
+A) have no effect on employment.
+B) create unemployment where there previously was none.
+C) increase employment from what would have initially occurred.
+D) create unemployment in other minimum wage sectors.
+E) increase employment in this industry but decrease it in other industries. 
+Answer:  B
+Diff: 3
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+83) Which of the following statements about minimum-wage laws is most accurate? 
+A) All Canadian provinces have the same minimum wage.
+B) There is some evidence that minimum-wage laws cause additional unemployment, particularly among youths.
+C) Minimum-wage laws only affect the income of the higher-skilled, lowest-wage workers.
+D) Minimum-wage laws are unfair.
+E) There is some evidence that minimum-wage laws create a lot of jobs, particularly among youths.
+Answer:  B
+Diff: 1
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+84) Canadian studies on the effects of minimum-wage laws 
+A) suggest that they have no effect whatsoever on employment.
+B) support the evidence from the United States that these laws increase wages and employment.
+C) support the theoretical predictions that minimum-wage laws increase employment.
+D) find that employment increases with increases in minimum wages, thus supporting the argument that labour markets are monopsonistic.
+E) find that they decrease the level of employment, particularly for low-skilled workers.
+Answer:  E
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Recall
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User2:  Qualitative
+
+The three diagrams below show the supply and demand for teenage babysitters in one local area. The initial supply curve is S0 in all cases.
+
+
+
+	FIGURE 14-3
+
+85) Refer to Figure 14-3. Suppose the teenage babysitters in one local area are earning an equilibrium wage of $6 per hour. Now suppose that the local government imposes a minimum wage of $8 per hour for babysitters. Which diagram illustrates the new supply curve (SA) for babysitters?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) none of the diagrams
+E) any of the diagrams
+Answer:  A
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+86) Refer to Figure 14-3. Suppose the teenage babysitters in one local area are earning an equilibrium wage of $6 per hour. Now suppose the local government reduces the minimum age for working as a babysitter from 14 to 12 years of age. Which diagram illustrates the new supply curve (SA) for babysitters?
+A) diagram 1
+B) diagram 2
+C) diagram 3
+D) none of the diagrams
+E) any of the diagrams
+Answer:  D
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Graph
+User2:  Qualitative
+
+The table below shows the labour demand and labour supply schedules in a competitive labour market. 
+
+Wage Rate
+($/hour)
+Quantity Demanded
+ of Labour
+(hours/month)
+Quantity Supplied
+of Labour (hours/month)
+10
+1300
+ 500
+12
+1000
+1000
+14
+  800
+1300
+15
+  400
+1500
+17
+  200
+1800
+
+TABLE 14-1
+
+87) Refer to Table 14-1. In a competitive labour market, a legislated minimum wage imposed at $10 per hour would 
+A) have no effect on the competitive equilibrium level of employment. 
+B) lead to unemployment of 500 hours/month. 
+C) lead to over-employment of 500 hours/month. 
+D) lead to an equilibrium wage higher than the competitive wage. 
+E) lead to an employment level lower than the competitive level. 
+Answer:  A
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Table
+User2:  Qualitative
+88) Refer to Table 14-1. In a competitive labour market, a legislated minimum wage imposed at $14 per hour would 
+A) have no effect on the competitive equilibrium level of employment. 
+B) have no effect on the competitive equilibrium wage. 
+C) lead to unemployment of 500 hours/month. 
+D) lead to unemployment of 300 hours/month. 
+E) lead to an equilibrium wage lower than the competitive wage. 
+Answer:  C
+Diff: 2
+Topic:  14.1d. legislated minimum wages
+Skill:  Applied
+Learning Obj.:  14-2 Describe the possible effects of legislated minimum wages.
+User1:  Table
+User2:  Quantitative
+
+14.2  Labour Unions
+
+1) In general, in collective bargaining between a labour union and a firm, the 
+A) union sets the wage and the employer decides how much labour will be hired.
+B) employer sets the wages and the union decides how many workers will be hired.
+C) wage is negotiated, whereas the firm is generally free to choose the level of employment. 
+D) wage and the number of workers to be hired is negotiated.
+E) only the level of employment is negotiated.
+Answer:  C
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+FIGURE 14-6
+
+2) Refer to Figure 14-6. The market begins in equilibrium with the curves labelled Demand and Supply. If a labour union negotiates the wage to W2, the difference between this wage and the competitive equilibrium wage is called 
+A) the industry's wage premium. 
+B) the union wage premium. 
+C) a temporary wage differential.
+D) a discrimination differential. 
+E) a legislated wage differential. 
+Answer:  B
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User1:  Graph
+User2:  Qualitative
+
+3)  Refer to Figure 14-6. The market begins in equilibrium with the curves labelled Demand and Supply. If a labour union negotiates the wage to W2 in an otherwise competitive labour market, 
+A) the supply of labour will stay the same.
+B) employers will hire L2 quantity of labour.
+C) the demand for labour will shift to D2.
+D) employers will hire L1 quantity of labour.
+E) equilibrium will occur at W1 and L2.
+Answer:  D
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User1:  Graph
+User2:  Qualitative
+4) Economists observe clear evidence of a union wage premium but do not observe the clear union effect on employment levels predicted from theory. One explanation for this is
+A) that the labour supply curve shifts to the right in the collective bargaining process, thereby eliminating any employment effect.
+B) that the labour supply curve, in the presence of a union, is very inelastic, which implies only a very small effect on employment.
+C) that union-based advertising for the product increases demand for the product, shifts the demand curve to the right and eliminates any employment effect.
+D) the union's ability, through the collective bargaining process, to pressure firms to hire more workers than they otherwise would at the union wage.
+E) both C and D are correct.
+Answer:  E
+Diff: 2
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+5) If a wage-setting union enters a monopsonistic labour market, the union can cause
+A) wages to rise to what would have been the competitive level but no higher.
+B) wages to rise above the level set by the monopsonist, but only if it allows employment to fall below the level set by the monopsonist.
+C) both wages and employment to rise over the monopsonistic level.
+D) wages or employment to rise above the level set by the monopsonist, but not both.
+E) the level of non-wage benefits to rise but cannot affect either wages or employment.
+Answer:  C
+Diff: 2
+Topic:  14.2. labour unions
+Skill:  Applied
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+6) If a union succeeds in shifting the labour supply curve to the left, it can achieve wages above the
+A) competitive level and all workers will gain.
+B) equilibrium level and an increase in employment.
+C) equilibrium level without affecting employment.
+D) competitive level but will reduce the level of employment.
+E) competitive level without a pool of unemployed workers seeking to work at the higher wage.
+Answer:  D
+Diff: 2
+Topic:  14.2. labour unions
+Skill:  Applied
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+7) The fundamental dilemma facing labour unions is 
+A) job security versus worker safety. 
+B) wage increases versus employment growth. 
+C) wage increases versus publicly provided pensions. 
+D) members' roles as workers versus their roles as consumers. 
+E) "featherbedding" versus the union-wage premium.
+Answer:  B
+Diff: 2
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+8) Unions currently represent ________ employed workers in Canada. 
+A) all of the 
+B) half of the 
+C) more than 50% of 
+D) approximately 30% of 
+E) less than 10% of
+Answer:  D
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+9) Unions currently represent ________ government employees in Canada. 
+A) all of the 
+B) approximately half of the 
+C) over 70% of 
+D) less than 30% of 
+E) less than 10% of
+Answer:  C
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+10) The average union wage premium in Canada is 
+A) less than 10%.
+B) between 10 and 15%.
+C) between 15 and 30%.
+D) between 30 and 50%.
+E) more than 50%.
+Answer:  B
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+11) The union wage premium refers to the
+A) portion of a union wage attributable to fees payable to the union. 
+B) trade-off the union faces between the level of the wage and the size of the union.
+C) higher wage attributable only to the union status of the job. 
+D) wage that a union is able to set unilaterally. 
+E) wage that an employer is able to set unilaterally.
+Answer:  C
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+12) The purpose of a labour union is to
+A) maintain a minimum level of employment.
+B) exploit its labour-market power in the same way a monopolist exploits its market power in product markets.
+C) exploit its labour-market power in the same way a monopolist exploits its market power in labour markets.
+D) increase employment in its industry.
+E) decrease employment in its industry.
+Answer:  B
+Diff: 2
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+13) One of the most unionized industries in Canada is 
+A) agriculture. 
+B) finance and insurance. 
+C) real estate. 
+D) education. 
+E) non-governmental administrative services. 
+Answer:  D
+Diff: 1
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+14) An important unanswered question about the role of unions in developed economies is whether the presence of unions affects long-run productivity. There is some evidence to suggest that the presence of a union
+A) increases the human capital of unionized workers, which leads to increased long-run productivity for the firm. 
+B) reduces the demand for labour and therefore the demand for physical capital.
+C) decreases the human capital of unionized workers, and therefore reduces long-run productivity. 
+D) reduces the level of employment (because of the union-wage premium) and thus raises the marginal product of labour. 
+E) reduces the expected profitability of installed capital and therefore leads to reduced capital investment by firms. 
+Answer:  E
+Diff: 3
+Topic:  14.2. labour unions
+Skill:  Recall
+Learning Obj.:  14-3 Discuss the tradeoff that unions usually face between wages and employment.
+User2:  Qualitative
+
+14.3  Income Inequality
+
+1) When studying income distribution, the Classical economists were primarily concerned with the distribution of income among 
+A) workers and the government.
+B) workers and capitalists.
+C) the government and capitalists.
+D) workers and landowners.
+E) workers, capitalists, and landowners.
+Answer:  E
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+2) The "functional distribution of income" refers to the distribution of income
+A) among the various social classes.
+B) among the major factors of production.
+C) among the industrial nations.
+D) between the government and the factors of production.
+E) between the various economic sectors of a country.
+Answer:  B
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+3) The "size distribution of income" refers to the distribution of income
+A) among different households with reference to the source of the income.
+B) between capitalists and workers.
+C) between capitalists and landowners.
+D) among different individuals without reference to the source of the income.
+E) to a particular factor of production in different time periods.
+Answer:  D
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+4) A Lorenz curve shows the
+A) degree of inequality across households in the distribution of income.
+B) ratio of workers' income to capitalists' income.
+C) level of a country's income relative to its productive capacity.
+D) level of a country's income relative to its foreign trade.
+E) functional distribution of income.
+Answer:  A
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+5) In a Lorenz curve diagram, the size of the area between the Lorenz curve and the diagonal line represents 
+A) the degree of inequality in the distribution of income.
+B) the percentage of income received by the bottom 20% of families.
+C) the dollar incomes of the bottom 40% of families.
+D) the percentage of income received by the top 5% of families.
+E) complete income equality.
+Answer:  A
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+6) The diagonal line on a Lorenz curve diagram represents 
+A) the degree of inequality in the distribution of income.
+B) the percentage of income received by the bottom 50% of families.
+C) the dollar incomes of the bottom 50% of families.
+D) the percentage of income received by the top 50% of families.
+E) where the Lorenz curve would be if there were complete income equality.
+Answer:  E
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+
+FIGURE 14-7
+
+7) Refer to Figure 14-7. The diagonal line in the diagram 
+A) illustrates the functional distribution of income.
+B) shows where the Lorenz curve would be if there were complete income equality.
+C) shows the actual distribution of income.
+D) has no real purpose.
+E) shows the distribution of income over time.
+Answer:  B
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User1:  Graph
+User2:  Qualitative
+8) Refer to Figure 14-7. Which point shows that 100% of families earn 100% of the income?
+A) A
+B) B
+C) C
+D) D
+E) E
+Answer:  E
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Applied
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User1:  Graph
+User2:  Qualitative
+
+9) Refer to Figure 14-7. Which point shows that 20% of families earn almost 40% of total income?
+A) A
+B) B
+C) C
+D) D
+E) E
+Answer:  D
+Diff: 3
+Topic:  14.3a. income distribution
+Skill:  Applied
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 14-7. Which point shows that the bottom 60% of families earn just under 40% of total income?
+A) A
+B) B
+C) C
+D) D
+E) E
+Answer:  C
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Applied
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User1:  Graph
+User2:  Qualitative
+11) Refer to Figure 14-7. On the Lorenz curve shown in the diagram, 
+A) the poorest 20% of families earn almost 90% of total income.
+B) perfect equality of income distribution occurs.
+C) the richest 20% of families earn over 60% of total income.
+D) the functional distribution of income is shown.
+E) the richest 20% of families earn almost 40% of total income. 
+Answer:  E
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Applied
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User1:  Graph
+User2:  Qualitative
+
+12) Suppose all Canadians earned equal incomes. In this case, Canada's Lorenz curve would be
+A) coincident with the horizontal axis.
+B) the diagonal line.
+C) above the diagonal line.
+D) below the diagonal line.
+E) non-existent.
+Answer:  B
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Applied
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Qualitative
+
+13) Median family income (pre-tax) in Canada in 2012 was closest to
+A) $45 000.
+B) $52 000.
+C) $65 000.
+D) $82 000.
+E) $95 000.
+Answer:  D
+Diff: 1
+Topic:  14.3a. income distribution
+Skill:  Recall
+Learning Obj.:  13-1 Determine a profit‐maximizing firm's demand for a factor of production.
+User2:  Quantitative
+14) A Lorenz curve showing the current distribution of pre-tax income in Canada is not an entirely accurate depiction of Canadian income distribution because 
+A) Statistics Canada does not actually collect data on Canadian household income.
+B) Canada's tax-and-transfer system reduces income inequality, which causes the Lorenz curve to be flatter and closer to the diagonal than the pre-tax curve.
+C) the data collected on Canadian income distribution does not allow for an accurate plotting of a Lorenz curve.
+D) a Lorenz curve cannot depict the distribution of income after government transfer payments have been distributed to households. 
+E) a Lorenz curve cannot depict the distribution of after-tax income.
+Answer:  A
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Applied
+User2:  Qualitative
+
+15) If Canada's Lorenz curve began changing such that it bends further from the diagonal line and becomes more curved, this would be an indication that
+A) data collection on Canadian household incomes is improving.
+B) the distribution of income in Canada is becoming more unequal.
+C) the distribution of income in Canada is becoming more equal.
+D) average Canadian family income is rising.
+E) average Canadian family income is falling.
+Answer:  B
+Diff: 2
+Topic:  14.3a. income distribution
+Skill:  Applied
+User2:  Qualitative
+
+16) Much attention is being paid to the issue of rising income inequality. A serious aspect of this issue, especially in the United States and the United Kingdom , is that even though average per capita income has been growing,
+A) a larger proportion of households fall below the poverty line.
+B) high-income earners are paying much higher rates of income tax.
+C) the vast majority of the economy's total income growth has accrued to the highest income earners.
+D) low- and middle-class households are not earning enough income to pay income tax.
+E) incomes in these countries are not growing as fast as in other OECD countries.
+Answer:  C
+Diff: 2
+Topic:  14.3b. income inequality
+Skill:  Recall
+User2:  Qualitative
+17) Researchers are trying to identify the causes of rising income inequality in various economies.  Important forces that are almost certainly contributing are:
+1) globalization
+2) rising rates of personal income tax
+3) skill-biased technological change
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 on
+D) 2 only
+E) 1 and 3 only
+Answer:  E
+Diff: 1
+Topic:  14.3b. income inequality
+Skill:  Recall
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 45
+Copyright © 2017 Pearson Education, Inc.
+
+
+

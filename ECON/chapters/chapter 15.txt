@@ -1,0 +1,1459 @@
+Economics - Canadian Edition, 15e (Ragan)
+Chapter 15   Interest Rates and the Capital Market
+
+15.1  A Brief Overview of the Capital Market
+
+1) A firm can finance its purchase of new capital equipment (investment) in the following ways:
+1) purchasing financial capital;
+2) borrowing from a bank;
+3) using its retained earnings.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 3
+E) 2 and 3
+Answer:  E
+Diff: 2
+Topic:  15.1. overview of the capital market
+Skill:  Applied
+Learning Obj.:  15-1 Describe how the capital market brings together the borrowing decisions of firms with the lending decisions of households.
+User2:  Qualitative
+
+2) The concepts of stock and flow are involved in firms' demand for labour and for capital. Which of the following statements is correct?
+A) A firm hires a stock of labour services; and purchases a stock of physical capital, which provides a flow of services.
+B) Labour and capital are both flow variables because their values change over time.
+C) A firm hires a flow of labour services; and purchases a stock of physical capital, which provides a flow of services.
+D) Labour and capital are both stock variables because they are providing service at any given moment in time.
+E) A firm's demand for both labour and capital is determined by the marginal value each provides to the stock of labour and capital, respectively.
+Answer:  C
+Diff: 2
+Topic:  15.1. overview of the capital market
+Skill:  Recall
+Learning Obj.:  15-1 Describe how the capital market brings together the borrowing decisions of firms with the lending decisions of households.
+User2:  Qualitative
+3) Financial intermediaries are often the "middlemen" between households and firms and, as such, 
+A) they reduce the amount of trade by charging high fees for their services. 
+B) they are not essential for the workings of an economy. 
+C) they specialize in assessing the risk of various borrowers. 
+D) are the fundamental determinant of the supply of capital.
+E) are the fundamental determinant of the demand for capital.
+Answer:  C
+Diff: 2
+Topic:  15.1. overview of the capital market
+Skill:  Recall
+Learning Obj.:  15-1 Describe how the capital market brings together the borrowing decisions of firms with the lending decisions of households.
+User2:  Qualitative
+
+4) What is the most fundamental purpose of the "capital market"?
+A) To connect the savings decisions of households with the borrowing decisions of firms.
+B) To provide the means by which firms can acquire physical capital. 
+C) To provide the means by which households and firms can invest financial capital. 
+D) To connect firms and households who wish to borrow with financial institutions. 
+E) To connect households who wish to borrow with banks who wish to lend. 
+Answer:  A
+Diff: 2
+Topic:  15.1. overview of the capital market
+Skill:  Recall
+Learning Obj.:  15-1 Describe how the capital market brings together the borrowing decisions of firms with the lending decisions of households.
+User2:  Qualitative
+
+5) Consider the physical equipment that a printing company would purchase in order to print glossy magazines. The equipment itself is considered a(n) ________, while the printing services the equipment provides is considered a(n) ________. 
+A) asset; liability
+B) flow; opportunity cost
+C) stock; flow
+D) retained asset; spent asset
+E) flow; stock
+Answer:  C
+Diff: 1
+Topic:  15.1. overview of the capital market
+Skill:  Applied
+Learning Obj.:  15-1 Describe how the capital market brings together the borrowing decisions of firms with the lending decisions of households.
+User2:  Qualitative
+6) When we discuss household saving as the supply of capital to financial markets, the term includes which of the following?
+A) households' savings accounts
+B) education and retirement savings
+C) private-sector pension plans
+D) Canada Pension Plan and Quebec Pension Plan
+E) all of the above
+Answer:  E
+Diff: 2
+Topic:  15.1. overview of the capital market
+Skill:  Applied
+User2:  Qualitative
+
+15.2  Present Value
+
+1) When a firm is making a decision about whether to purchase a new piece of physical capital, it is necessary to evaluate the ________ of services it delivers. The concept of ________ allows the firm to determine how much it would be willing to pay for the new piece of physical capital.
+A) stock; present value
+B) flow; future value
+C) flow; present value
+D) stock; future value
+Answer:  C
+Diff: 1
+Topic:  15.2. present value
+Skill:  Recall
+User2:  Qualitative
+
+2) A firm must evaluate the value of the services that a piece of capital equipment can deliver to the firm over its lifetime. The firm does this by estimating its 
+A) rate of depreciation.
+B) marginal product.
+C) marginal revenue product.
+D) future value.
+E) present value.
+Answer:  E
+Diff: 1
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+3) The term "present value" refers to the
+A) value that a capital good will have in the future.
+B) current interest rate.
+C) current purchase price of a capital good.
+D) value today of a payment or receipt to occur in the future.
+E) value in the future of a payment made today.
+Answer:  D
+Diff: 1
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+
+4) When we consider any future stream of benefits, and we seek to determine its value today, we ________ that steam of benefits using the market interest rate.
+A) capitalize
+B) collateralize
+C) depreciate
+D) discount
+E) appreciate
+Answer:  D
+Diff: 1
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+
+5) The present value of a given future stream of benefits will be lower when the benefits are ________ and the interest rate is ________.
+A) nearer in time; lower
+B) accruing in the first time period only; lower
+C) more distant in time; higher
+D) equalized over a ten-year period; zero
+E) more distant in time; lower
+Answer:  C
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+6) The textbook presentation of present value involves an important simplification of reality in order to analyze the concept. That simplification is in assuming that
+A) the future stream of MRPs lasts for one period only.
+B) the future stream of MRPs of a unit of capital is known with certainty.
+C) all units of capital generate an identical stream of MRPs.
+D) the future stream of MRPs is constant over time.
+E) the interest rate is constant over time.
+Answer:  B
+Diff: 2
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+
+7) The present value of $100 to be received one year from now, with an annual interest rate of 6%, is
+A) $94.00.
+B) $94.34.
+C) $95.27.
+D) $102.13.
+E) $106.00.
+Answer:  B
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+8) If the annual interest rate is 5%, the present value of $100 to be received two years from now is
+A) $87.70.
+B) $90.70.
+C) $95.23.
+D) $97.00.
+E) $110.00.
+Answer:  B
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+9) If the annual interest rate is 10%, the present value of $100 to be received two years from now is
+A) $75.25.
+B) $82.64.
+C) $90.90.
+D) $94.73.
+E) $110.00.
+Answer:  B
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+10) If the annual rate of interest is 6%, the present value of $100 to be paid every year for three years (beginning one year from now) is
+A) $83.90.
+B) $251.88.
+C) $267.30.
+D) $283.02.
+E) $300.00.
+Answer:  C
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+11) If the annual interest rate is 6%, the present value of $100 paid 3 years from now is 
+A) $15.15.
+B) $40.00.
+C) $56.45.
+D) $83.96.
+E) $94.34.
+Answer:  D
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+12) The formula to calculate the present value of a future payment of $X received t years from now when the annual percentage interest rate is i is
+A) PV = $X/(1 + i)t.
+B) PV = $X/i.
+C) PV = $X/(1 + i).
+D) PV = $X(1 + i)t.
+E) PV = $X(1 + i).
+Answer:  A
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+13) A lottery winner receives a $100 000 cheque now, and a second one in two years. If the annual interest rate is 9%, the present value of his total winnings is
+A) $184 168.
+B) $200 000.
+C) $215 832.
+D) $300 000.
+E) Not able to determine from the information provided.
+Answer:  A
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+14) How much would you have to deposit today in a bank account paying 8% annual interest to allow you to withdraw $200 one year from now?
+A) $185.19.
+B) $216.00.
+C) $160.00.
+D) $385.19.
+E) $200.00.
+Answer:  A
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+15) How much would you have to deposit today in a bank account paying 8% annual interest to allow you to withdraw $200 one year from now and still have $200 remaining in the bank?
+A) $185.19.
+B) $216.00.
+C) $370.37.
+D) $385.19.
+E) none of the above.
+Answer:  C
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+16) The present value of a given future payment is higher the ________ the rate of interest and the ________ distant the payment date.
+A) higher; more
+B) higher; less
+C) lower; more
+D) lower; less
+Answer:  D
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+17) The present value of $100 to be received one year from now, with an annual interest rate of 8%, is
+A) $85.73.
+B) $94.34.
+C) $92.59.
+D) $102.13.
+E) $108.00.
+Answer:  C
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+18) If the annual interest rate is 7%, the present value of $100 to be received at the end of two years is
+A) $87.34.
+B) $90.70.
+C) $93.46.
+D) $97.00.
+E) $107.00.
+Answer:  A
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+19) If the annual interest rate is 10%, the present value of $200 paid 3 years from now is
+A) $20.00.
+B) $40.00.
+C) $56.45.
+D) $150.26.
+E) $165.28.
+Answer:  D
+Diff: 2
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+20) How much would you have to deposit today in a bank account paying 8% annual interest to allow you to withdraw $200 each year for the next 2 years, beginning one year from today?
+A) $171.47
+B) $185.19
+C) $356.66
+D) $368.00
+E) $400.00
+Answer:  C
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+21) Economists use the concept of present value to determine
+A) the amount someone would be willing to pay in the future for a discounted value today.
+B) the amount someone would be willing to pay today to get a payment or stream of payments in the future.
+C) the value in the future of a given stock of physical capital.
+D) the marginal revenue product of a unit of capital.
+E) the price of a unit of physical capital in the future.
+Answer:  B
+Diff: 2
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+
+22) Present value is computed by
+A) evaluating a stream of future sums resulting from a piece of capital.
+B) summing all future payments.
+C) multiplying a stream of future sums by the interest rate.
+D) discounting a stream of future payments by today's purchase price.
+E) discounting a stream of future sums by the interest rate.
+Answer:  E
+Diff: 1
+Topic:  15.2. present value
+Skill:  Recall
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Qualitative
+23) Suppose a new piece of capital equipment will deliver a stream of MRPs of $1000 each year for 3 years (beginning one year from today). What is the present value of this stream of benefits, assuming that the annual rate of interest is 5%?
+A) $863.86
+B) $952.38
+C) $1000.00
+D) $2591.58
+E) $2723.25
+Answer:  E
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+24) How much would you have to deposit today in a bank account paying 8% annual interest to allow you to withdraw $200, 5 years from now?
+A) $136.12
+B) $142.57
+C) $184.17
+D) $185.19
+E) $293.80
+Answer:  A
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+25) If the annual interest rate is currently 3.5%, Joan is ________ a $1000 payment in exactly two years. 
+A) better off accepting $930 right now than 
+B) better off accepting $950 right now than 
+C) worse off accepting $940 right now than 
+D) indifferent between accepting $932.51 right now and 
+E) indifferent between accepting $935.94 right now and 
+Answer:  B
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+26) Carol can borrow $13 000 to buy a used car from the bank at 8% for five years, or from her friend Eric, who is willing to lend her the money at 7% for five years. If Carol accepts Eric's offer, he can expect a lump-sum repayment in five years of approximately 
+A) $13 544. 
+B) $15 239. 
+C) $17 837.
+D) $18 233. 
+E) $19 097. 
+Answer:  D
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User2:  Quantitative
+
+The table below shows the payments at the end of each year from three different physical assets. 
+
+Asset
+Year 1
+Year 2
+Year 3
+A
+$1000
+$1000
+$1000
+B
+$0
+ $1000
+$2000
+C
+ $0
+$0
+$3000
+Interest Rate
+5%
+5%
+5%
+
+TABLE 15-1
+
+27) Refer to Table 15-1. A, B, and C represent possible purchases of physical capital, each offering a stream of payments as indicated in the table. There are no payments beyond Year 3. The interest rates in each year are also specified in the table. Which asset is the most valuable to a firm contemplating them at the beginning of Year 1? 
+A) A 
+B) B 
+C) C 
+D) They are equivalent.
+E) It cannot be determined with the available data. 
+Answer:  A
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+Learning Obj.:  15-2 Compute the present value of an asset that delivers a stream of future benefits.
+User1:  Table
+User2:  Quantitative
+28) Refer to Table 15-1. A, B, and C represent possible purchases of physical capital, each offering a stream of payments as indicated in the table. There are no payments beyond Year 3. The interest rates in each year are also specified in the table. What is the present value (at the beginning of Year 1) of asset A?
+A) $3000
+B) $3150
+C) $2590.68 
+D) $2723.24
+E) $2857.14 
+Answer:  D
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 15-1. A, B, and C represent possible purchases of physical capital, each offering a stream of payments as indicated in the table. There are no payments beyond Year 3. The interest rates in each year are also specified in the table. What is the present value (at the beginning of Year 1) of asset B?
+A) $3000 
+B) $3150 
+C) $2634.70
+D) $2590.67
+E) $2722.97
+Answer:  C
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+30) Refer to Table 15-1. A, B, and C represent possible purchases of physical capital, each offering a stream of payments as indicated in the table. There are no payments beyond Year 3. The interest rates in each year are also specified in the table. What is the present value (at the beginning of Year 1) of asset C?
+A) 2590.67 
+B) $3000 
+C) $3150 
+D) $2722.97
+E) $2634.70
+Answer:  A
+Diff: 3
+Topic:  15.2. present value
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+15.3  The Demand for Capital
+
+1) To determine an individual profit-maximizing firm's maximum purchase price for a unit of capital it is necessary to
+A) know what competing firms are prepared to pay.
+B) compute the present value of the stream of benefits produced by the unit of capital.
+C) compute the future value of the stream of benefits produced by the unit of capital.
+D) compute the rental price of the unit of capital and the interest rate.
+E) know how the interest rate is related to the cost of capital. 
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+2) In a competitive market for capital equipment, the purchase price of a piece of capital equipment is predicted to be 
+A) its current-period MRP.
+B) its current-period MRP divided by the interest rate.
+C) its last-period MRP divided by the interest rate.
+D) the present value of its stream of MRPs.
+E) the future value of its stream of MRPs.
+Answer:  D
+Diff: 1
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+3) In general, a profit-maximizing firm will purchase a piece of capital equipment if the
+A) present value of the stream of future MRPs exceeds the purchase price.
+B) present value of the stream of future MRPs falls below the purchase price.
+C) simple sum of the future MRPs exceeds the purchase price.
+D) simple sum of the future MRPs falls below the purchase price.
+E) future value of the stream of MRPs exceeds the purchase price.
+Answer:  A
+Diff: 1
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+4) We can think about the interest rate as the "price" of capital because 
+A) the interest rate determines the MRP of the capital, which determines its price.
+B) the interest rate determines the equilibrium level of investment demand.
+C) the interest rate represents the value the firm avoids paying to lenders by purchasing the capital instead.
+D) firms use financial capital to purchase physical capital and the interest rate is the "price" of financial capital.
+E) this is the amount the firm earns by purchasing the capital.
+Answer:  D
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+5) Consider a firm making a decision to purchase a unit of capital - let's say, a forklift. In terms of capital markets, which of the following would we consider to be the opportunity cost of the forklift?
+A) the future stream of MRPs from the forklift 
+B) the resale value of the forklift after one year
+C) the additional revenue to the firm that the forklift would generate in the future
+D) the purchase price of the forklift 
+E) the interest the firm could earn by purchasing a bond instead
+Answer:  E
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+6) In general, a profit-maximizing firm will purchase a unit of capital as long as its purchase price is
+A) non-negative.
+B) equal to the present value of the stream of marginal revenue product generated by the capital.
+C) no less than the present value of the stream of marginal revenue product generated by the capital.
+D) no more than the present value of the stream of marginal revenue product generated by the capital.
+E) less than its present marginal revenue product.
+Answer:  D
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+7) Suppose a piece of capital equipment offers its last MRP of $40 000 in one year, after which it is valueless. At an annual interest rate of 8%, a profit-maximizing firm would be willing to buy this unit of capital if its purchase price is
+A) below $37 037.
+B) above $37 037.
+C) below $40 000.
+D) above $40 000.
+E) above $40 000, but only at a higher interest rate.
+Answer:  A
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+8) Suppose a piece of capital equipment will produce an MRP of $1000 per year for the next three years (beginning one year from now). What is the maximum price a firm will pay to purchase it today if the annual interest rate is 7%?
+A) $816.37
+B) $1649.81
+C) $2624.32
+D) $3210.00
+E) $3000
+Answer:  C
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+9) Suppose a piece of capital equipment will produce an MRP of $100 000 per year for the next three years (beginning one year from now). What is the maximum price a profit-maximizing firm will pay to purchase it if the annual interest rate is 4%?
+A) $96 154
+B) $88 888
+C) $277 498
+D) $266 664
+E) $288 462
+Answer:  C
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+10) Consider a manufacturing firm that contemplates buying a lathe with an annual MRP of $1000 (beginning one year from now). Suppose the interest rate is 5% per year. If the lathe is obsolete after the fourth MRP is generated, the maximum the firm is prepared to pay now for the lathe is 
+A) $3019.52.
+B) $3546.40.
+C) $3723.24.
+D) $3910.51.
+E) $4000.
+Answer:  B
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+11) The law of diminishing marginal returns tells us that, generally, the more capital the firm uses, the
+A) lower is the firm's interest rate.
+B) lower is the MRP of the firm's capital.
+C) higher is the MRP of the firm's capital.
+D) higher is capital's purchase price.
+E) lower is capital's rental price.
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+12) A decrease in market interest rates will
+A) increase the amount a firm is willing to pay for a machine that generates future returns.
+B) decrease the amount a firm is willing to pay for a machine that generates future returns.
+C) not affect the price a firm is willing to pay for a machine that generates future returns.
+D) be good for all firms.
+E) be bad for all firms.
+Answer:  A
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+13) An increase in market interest rates will
+A) increase the amount a firm is willing to pay for a machine that generates future returns.
+B) decrease the amount a firm is willing to pay for a machine that generates future returns.
+C) not affect the price a firm is willing to pay for a machine that generates future returns.
+D) be good for all firms.
+E) be bad for all firms.
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+14) The present value of a piece of capital equipment that generates future MRPs will increase if
+A) the interest rate increases.
+B) the interest rate decreases.
+C) the MRP values are received farther in the future.
+D) the purchase price of the capital asset decreases.
+E) the productivity of the capital asset falls.
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+15) A firm's downward-sloping investment demand curve is usually plotted with ________ on the vertical axis.
+A) the price of capital equipment 
+B) MRP
+C) the interest rate
+D) the capital stock
+E) the general price level
+Answer:  C
+Diff: 1
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+16) Under which of the following circumstances will a competitive firm choose to own more capital, assuming that the purchase price of the capital and the interest rate remain unchanged?
+A) the stock of capital in the entire economy increases
+B) other firms are increasing their stock of capital
+C) the lifespan of the capital is reduced
+D) technological improvement has made the capital more productive
+E) the price of the product the firm produces declines
+Answer:  D
+Diff: 1
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+17) In any given period, which of the following is most likely to determine a firm's flow of investment demand?
+A) a change in the firm's optimal flow of investment
+B) a change in the firm's optimal capital stock
+C) the rate of change of the firm's investment demand
+D) the rate of change of the capital stock in the entire economy
+E) Any of the above, as they are all the same
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+18) Suppose a dairy farmer is considering the purchase of an additional milking machine at a price of $4000. She expects the discounted MRP of the machine in Year 1 to be $1700, in Year 2 to be $1500 and in Year 3 to be $1200, after which the machine has no value. The farmer should
+A) buy the machine because its present value is $400 more than its purchase price.
+B) buy the machine because its marginal revenue is $400 more than its marginal cost. 
+C) be indifferent about the purchase because its present value is approximately equal to its purchase price. 
+D) not buy the machine because its marginal revenue is $400 less than its marginal cost. 
+E) not buy the machine because its present value is $400 less than its purchase price. 
+Answer:  A
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+19) Suppose a dairy farmer is considering the purchase of an additional milking machine at a price of $5000. She expects the discounted MRP of the machine in Year 1 to be $1700, in Year 2 to be $1500 and in Year 3 to be $1200, after which the machine has no value. The farmer should
+A) buy the machine because its present value is $600 more than its purchase price.
+B) buy the machine because its marginal revenue is $600 more than its marginal cost. 
+C) be indifferent about the purchase because its present value is approximately equal to its purchase price. 
+D) not buy the machine because its purchase price is $600 less than its present value. 
+E) not buy the machine because its present value is $600 less than its purchase price. 
+Answer:  E
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+User2:  Quantitative
+20) Suppose a roofing contractor is considering the purchase of an additional truck at a price of $35 000. He expects the discounted MRP of the truck in Year 1 to be $7000, in Year 2 to be $6000, in Year 3 to be $5000, after which he can sell the truck at a present value of $14 000. This contractor should 
+A) not buy the truck because its marginal cost is greater than its marginal revenue. 
+B) be indifferent about the purchase because its present value is approximately equal to its purchase price. 
+C) buy the truck because its present value is more than its purchase price. 
+D) not buy the truck because its present value is less than its purchase price. 
+E) buy the truck because its marginal cost is less than its marginal revenue. 
+Answer:  D
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+21) Suppose a firm producing aircraft engines is considering the purchase of a robotic assembly machine at a price of $4 million. The firm expects the discounted MRP of the machine to be $1 million over each of the first 3 years, and $0.5 million each in years 4 and 5, after which the machine has no value. This firm should
+A) not buy the machine because its present value is less than its purchase price. 
+B) buy the machine because its present value is more than its purchase price. 
+C) be indifferent about the purchase because its present value is equal to its purchase price. 
+D) not buy the machine because its marginal cost is greater than its marginal revenue.
+E) buy the machine because its marginal cost is less than its marginal revenue. 
+Answer:  C
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Quantitative
+
+22) Consider a firm that places coin-operated coffee machines in university buildings. On January 1, 2015 the firm has 1500 machines in operation, and on January 1, 2016 the firm has 2250 machines in operation. A possible explanation is that
+1) there was an increase in productivity of coin-operated coffee machines that reduced the cost per cup of coffee produced;
+2) an increase in demand for coffee led to an increase in the price per cup;
+3) there was an increase in interest rates.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 or 2
+E) 2 or 3
+Answer:  D
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+The diagram below shows a firm's demand for its units of capital—coin-operated coffee machines. The firm places its machines in universities and colleges across Canada.
+
+
+FIGURE 15-1
+
+23) Refer to Figure 15-1. The downward slope of the firm's investment demand curve can be explained by  
+A) the negative relationship between the interest rate and the present value of a future stream of MRPs generated by each coffee machine.
+B) the negative relationship between the interest rate and the purchase price of the coffee machines.
+C) the downward slope of the demand curve for the firm's product—cups of coffee.
+D) the relationship between the MRP of the coffee machine and technology improvements to the coffee machines.
+E) the downward slope of the marginal cost of capital curve.
+Answer:  A
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Graph
+User2:  Qualitative
+24) Refer to Figure 15-1. One possible explanation for a shift of the firm's investment demand curve from I0 to I2 is
+A) an increase in the interest rate.
+B) a technological improvement that reduces the cost per cup of coffee.
+C) a decrease in the interest rate.
+D) an increase in the expected MRP of the coffee machines.
+E) demographic changes that lead to a reduction in the growth rate of the student population at universities.
+Answer:  E
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Graph
+User2:  Qualitative
+
+25) Refer to Figure 15-1. One possible explanation for a shift of the firm's investment demand curve from I0 to I1 is 
+A) an increase in the interest rate.
+B) a technological change that increases the cost per cup of coffee. 
+C) a decrease in the interest rate. 
+D) an increase in the expected MRP of the coffee machines.
+E) demographic changes that lead to a reduction in the growth rate of the student population at universities.
+Answer:  D
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Graph
+User2:  Qualitative
+The firm in the table below produces denim jeans and each unit of capital represents one sewing machine. The MRP for each of machines 10 through 14 is provided. Each sewing machine delivers a stream of MRPs beginning one year from now, for a total of 2 years. Assume that after 2 years each sewing machine is worth nothing.
+
+Number of
+Sewing Machines
+Annual MRP
+10
+$2000
+11
+$1800
+12
+$1600
+13
+$1400
+14
+$1200
+
+TABLE 15-2
+
+26) Refer to Table 15-2. If the annual interest rate is 4%, what is the present value of the 11th sewing machine (rounded to the nearest dollar)? Note that the stream of MRPs begins one year from now and lasts 2 years.
+A) $3600
+B) $3531
+C) $3328
+D) $3395
+E) $3772
+Answer:  D
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+
+27) Refer to Table 15-2. If the interest rate is 4%, what is the present value of the 14th sewing machine (rounded to the nearest dollar)? Note that the stream of MRPs begins one year from now and lasts for 2 years.
+A) $1400
+B) $2800
+C) $4200
+D) $2641
+E) $2263
+Answer:  E
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+28) Refer to Table 15-2. If the interest rate is 4%, and the purchase price of a sewing machine is $3000, what is the optimal capital stock (number of sewing machines) for this firm?
+A) fewer than 10
+B) 10
+C) 11
+D) 12
+E) more than 12
+Answer:  D
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+
+29) Refer to Table 15-2. If the interest rate is 4%, and the purchase price of a sewing machine is $4000, what is the optimal capital stock (number of sewing machines) for this firm?
+A) fewer than 10
+B) 10
+C) 11
+D) 12
+E) more than 12
+Answer:  A
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+
+30) Refer to Table 15-2. If the interest rate is 4% and the purchase price of a sewing machine is $2000, what is the optimal capital stock (number of sewing machines) for this firm?
+A) 11
+B) 12
+C) 13
+D) exactly 14
+E) at least 14
+Answer:  E
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+31) Refer to Table 15-2. Suppose the interest rate is 4%, the purchase price of a sewing machine is $3000, and the firm is holding its optimal capital stock. If the interest rate rises to 7%, how will this firm adjust its capital stock?
+A) it will reduce its number of machines from 12 to 11
+B) it will reduce its number of machines from 14 to 13
+C) it will not change its capital stock
+D) it will increase its number of machines from 11 to 12
+E) it will increase its number of machines from 13 to 14
+Answer:  A
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+
+32) Refer to Table 15-2. Suppose the interest rate is 4%, the purchase price of a sewing machine is $3000, and the firm is holding its optimal capital stock. If the interest falls to 2%, how will this firm adjust its capital stock?
+A) it will reduce its number of machines from 12 to 11
+B) it will reduce its number of machines from 14 to 13
+C) it will not change its capital stock
+D) it will increase its number of machines from 11 to 12
+E) it will increase its number of machines from 13 to 14
+Answer:  C
+Diff: 3
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Quantitative
+
+33) Refer to Table 15-2. What principle will this firm follow to determine the optimal number of sewing machines to own and operate?
+A) the marginal revenue products of all the machines should be equal
+B) the present value of the future MRPs on the last unit of capital is equal to (or greater than) its purchase price
+C) the annual MRP on the last unit of capital should be equal to (or greater than) its purchase price
+D) the marginal products of each machine should be equal
+E) the present value of the future MRPs should be increasing over time
+Answer:  B
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User1:  Table
+User2:  Qualitative
+34) The amount of physical capital is a ________ variable;________. 
+A) flow; its usefulness lasts over a long period of time
+B) flow; it is usually put in place and maintained over a long period of time
+C) stock; any flow of investment adds to the current capital stock
+D) stock; most equipment is solidly built and lasts for a long time
+E) stock; it generally increases its value through use
+Answer:  C
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+35) A technological improvement in the physical capital available to the firm has a similar impact on a firm's desired capital stock as 
+A) an increase in the interest rate. 
+B) a decrease in capital's MRP. 
+C) a reduction in the price of capital goods. 
+D) a decrease in the price of the firm's product.
+E) a shift to the left of the capital's MRP curve.
+Answer:  C
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+36) Consider the market for commercial ovens as a factor of production in the commercial bread industry. Assume that all commercial ovens are identical, they have a lifespan of 10 years, and the purchase price is $12 000. The present value of the stream of MRPs from the last oven purchased by each commercial bakery is $16 000. We can expect that 
+A) profit-maximizing firms will reduce their capital stock of ovens until the PV of the stream of MRPs falls to $12 000.
+B) investment demand by all firms will fall until the PV of the stream of MRPs falls to $12 000.
+C) investment demand by all firms will rise until all firms have an identical capital stock.
+D) the purchase price of commercial ovens will fall until the price is equated with the PV of the stream of MRPs.
+E) investment demand by all firms will increase and there will be a tendency for the price of commercial ovens to rise.
+Answer:  E
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+37) The firm's investment demand curve shows
+A) the difference between nominal and real interest rates.
+B) the equilibrium interest rate.
+C) how the firm's desired stock of capital varies with changes in MRP.
+D) how the firm's MRP changes with advances in technology.
+E) how the firm's desired purchases of new capital vary with the interest rate.
+Answer:  E
+Diff: 1
+Topic:  15.3a. a firm's demand for capital
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+38) Consider the economy's downward-sloping demand for investment curve. An increase in the interest rate causes
+A) a shift of the curve to the right.
+B) a movement downward along the curve.
+C) no change.
+D) a shift of the curve to the left.
+E) a movement upward along the curve.
+Answer:  E
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+User2:  Qualitative
+
+39) Consider the economy's downward-sloping demand for investment curve. A decrease in the interest rate causes ________; an improvement in the marginal productivity of capital causes ________. 
+A) a shift of the curve to the right; a shift of the curve further to the right
+B) a movement downward along the curve; a shift of the curve to the left
+C) a movement downward along the curve; a shift of the curve to the right
+D) a shift of the curve to the left; a movement downward along the curve
+E) a movement upward along the curve; a shift of the curve to the right
+Answer:  C
+Diff: 2
+Topic:  15.3a. a firm's demand for capital
+Skill:  Applied
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+
+40) Choose the best reason for a rightward shift in the economy's investment demand curve.
+A) diminishing marginal returns to capital
+B) changes in technology that improve the productivity of capital
+C) a decrease in the interest rate
+D) an increase in the interest rate
+E) none of the above would shift the investment demand curve
+Answer:  B
+Diff: 1
+Topic:  15.3b. the economy's demand for investment
+Skill:  Recall
+Learning Obj.:  15-3 Explain why the demand for investment is negatively related to the interest rate.
+User2:  Qualitative
+15.4  The Supply of Capital
+
+1) The economy's supply curve for saving (financial capital) shows 
+A) the difference between nominal and real interest rates.
+B) the relationship between the flow of saving and the stock of financial assets.
+C) how the economy's desired flow of saving varies with changes in the interest rate.
+D) how the economy's flow of saving changes with advances in technology.
+E) how the economy's stock of capital varies with the interest rate.
+Answer:  C
+Diff: 1
+Topic:  15.4. the supply of capital
+Skill:  Recall
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+
+2) An economy's upward-sloping supply curve of desired saving is usually plotted with ________ on the vertical axis.
+A) the price of capital
+B) capital stock
+C) the market interest rate
+D) technology
+E) the general price level
+Answer:  C
+Diff: 1
+Topic:  15.4. the supply of capital
+Skill:  Recall
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+
+3) A firm's demand for physical capital leads to its ________ and a household's supply of saving leads to its ________.
+A) demand for financial capital; supply of financial capital
+B) demand for stocks; supply of stocks
+C) lending behaviour; borrowing behaviour
+D) negative effect on the interest rate; positive effect on the interest rate
+E) demand for bonds; supply of bonds
+Answer:  A
+Diff: 1
+Topic:  15.4. the supply of capital
+Skill:  Recall
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+4) If the interest rate that you could earn on your savings is 4% per year, then your decision to spend $1500 on a big screen TV today "costs" you ________ in potential forgone spending one year from now.
+A) $0
+B) $60
+C) $120
+D) $1500
+E) $1560
+Answer:  E
+Diff: 2
+Topic:  15.4. the supply of capital
+Skill:  Applied
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Quantitative
+
+5) Suppose you are working as an intern at a large financial firm with an annual salary of $30 000, but you are guaranteed a salary increase to $85 000 at the end of the internship. In general, we can expect that
+A) your current level of saving rises in anticipation of the higher future income.
+B) your current level of saving falls and your supply of financial capital to the economy decreases in anticipation of the higher future income.
+C) your current level of saving falls and your supply of financial capital to the economy rises in anticipation of the higher future income.
+D) your current level of saving rises because there is a positive relationship between household saving and future income.
+E) your current level of saving is certain to be positive.
+Answer:  B
+Diff: 2
+Topic:  15.4. the supply of capital
+Skill:  Applied
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+
+6) Consider the economy's upward-sloping supply of saving curve. An increase in the interest rate causes ________; an increase in current income causes ________.
+A) a movement downward along the curve; a shift of the curve to the right
+B) a shift of the curve to the left; a movement upward along the curve
+C) a movement upward along the curve; a shift of the curve to the right
+D) a shift of the curve to the left; a movement downward along the curve
+E) a movement upward along the curve; a movement downward along the curve
+Answer:  C
+Diff: 2
+Topic:  15.4. the supply of capital
+Skill:  Recall
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+7) Households' supply of financial capital is derived from 
+A) their supply of human capital. 
+B) their supply of physical capital. 
+C) firms' demand for financial capital 
+D) firms' demand for physical capital. 
+E) their supply of saving. 
+Answer:  E
+Diff: 1
+Topic:  15.4. the supply of capital
+Skill:  Recall
+Learning Obj.:  15-4 Explain why the supply of saving is positively related to the interest rate.
+User2:  Qualitative
+
+8) Which of the following best explains why there is a positive relationship between the interest rate and the supply of households' savings to the financial capital market?
+A) a decrease in the interest rate increases the opportunity cost of current spending, which leads to an increase in desired saving
+B) an increase in the interest rate increases the opportunity cost of current spending, which leads to a decrease in desired saving
+C) an increase in the interest rate increases the opportunity cost of current spending, which leads to an increase in desired saving
+D) an increase in the interest rate causes the investment demand curve to shift up
+E) an increase in the interest rate causes the savings demand curve to shift up
+Answer:  C
+Diff: 2
+Topic:  15.4. the supply of capital
+Skill:  Applied
+User2:  Qualitative
+
+15.5  Equilibrium in the Capital Market
+
+1) Suppose the nominal interest rate is 10%. The rate of inflation has been 4% and is expected to continue at 4% in the future. The real interest rate, which determines the firm's decision to purchase capital, is therefore
+A) 4%.
+B) 6%.
+C) 10%.
+D) 14%.
+E) indeterminate.
+Answer:  B
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Recall
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Quantitative
+2) Suppose that you lend me $100 for a year, and that I agree to pay you $110 at the end of one year (principal plus interest). Over the intervening year, however, the average price of goods in the economy rises by 3%. The real rate of return that you will earn on your loan to me is therefore equal to
+A) 3%.
+B) 7%.
+C) 10%.
+D) 13%.
+E) greater than 13%.
+Answer:  B
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Quantitative
+
+3) Suppose that you lend me $100 for a year, and that I agree to pay you $110 at that time (principal plus interest). Over the intervening year, however, the average price of goods in the economy falls by 4%. The real rate of return that you will earn on your loan to me is therefore equal to
+A) 4%.
+B) 6%.
+C) 10%.
+D) 14%.
+E) greater than 14%.
+Answer:  D
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Quantitative
+
+4) For the economy as a whole, the equilibrium interest rate is determined by
+A) the current state of technology.
+B) the intersection of the aggregate investment demand curve with the aggregate saving supply curve.
+C) the condition that the MRP of capital equal the purchase price of capital.
+D) only by the purchase price of capital.
+E) exclusively by government policy.
+Answer:  B
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Recall
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+FIGURE 15-2
+
+5) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at E1. A shift of the aggregate investment demand curve from I1 to I2, all other things constant, would 
+A) shift the supply of saving curve to S2.
+B) change the technology of capital use.
+C) decrease the equilibrium interest rate.
+D) increase the equilibrium interest rate.
+E) reduce the marginal product of capital.
+Answer:  D
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+6) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at point E1. A shift of the aggregate saving supply curve from S1 to S2, all other things being equal, would
+A) shift the investment demand curve to I2.
+B) change the technology of capital use.
+C) decrease the equilibrium interest rate.
+D) increase the equilibrium interest rate.
+E) reduce the marginal product of capital.
+Answer:  C
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+7) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at point E1. If the marginal product of capital increases, all other things being equal, the 
+A) investment demand curve will shift to I2 and the new equilibrium will be E4.
+B) supply of saving curve will shift to S2 and the new equilibrium will be E2.
+C) investment demand curve will shift to I2, the supply of saving will shift to S2, and the new equilibrium will be E3.
+D) the equilibrium will remain at E1.
+E) the supply of saving curve will shift to S2 and new equilibrium will be E2.
+Answer:  A
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+8) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at point E1. If the government then institutes a policy that encourages individuals to increase their desired saving, 
+A) the equilibrium interest rate falls and the amount of investment increases.
+B) the equilibrium interest rate falls but the amount of investment is unchanged.
+C) the flow of investment and saving both increase in the new equilibrium, but the interest rate is unaffected.
+D) the flow of investment and saving both increase, and the equilibrium interest rate increases.
+E) the equilibrium interest rate rises, and the amount of investment decreases.
+Answer:  A
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+9) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at point E1. If the government then institutes a policy that encourages firms to increase their desired investment, 
+A) the equilibrium interest rate falls and the amount of investment increases.
+B) the equilibrium interest rate falls but the amount of investment is unchanged.
+C) the flow of investment and saving both increase in the new equilibrium, but the interest rate is unaffected.
+D) the flow of investment and saving both increase, and the equilibrium interest rate increases.
+E) the equilibrium interest rate rises and the amount of investment decreases.
+Answer:  D
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+10) Refer to Figure 15-2. The market for financial capital is initially in equilibrium at point E1. If the government then institutes a policy that encourages individuals to decrease the fraction of their income that they consume, 
+A) the equilibrium interest rate falls and the amount of investment increases.
+B) the equilibrium interest rate falls but the amount of investment is unchanged.
+C) the flow of investment and saving both increase in the new equilibrium, but the interest rate is unaffected.
+D) the flow of investment and saving both increase, and the equilibrium interest rate increases.
+E) the equilibrium interest rate rises and the amount of saving increases.
+Answer:  A
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+11) Refer to Figure 15-2. Suppose the economy begins at point E1. If technology changes in a way that increases the marginal product of capital, which movement best depicts the change in equilibrium in the market for financial capital?
+A) E1 to E2
+B) E1 to E3
+C) E1 to E4
+D) E3 to E2
+E) E4 to E2
+Answer:  C
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+The diagram below shows the market for financial capital for a closed economy.
+
+
+FIGURE 15-3
+
+12) Refer to Figure 15-3. Suppose the current equilibrium in the market for financial capital is at point A. Which of the following events is likely to move the equilibrium to point B? 
+A) a reduction in the interest rate 
+B) an increase in the interest rate 
+C) an increase in current household income 
+D) an increase in expected future income 
+E) a decrease in the marginal product of capital
+Answer:  C
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+13) Refer to Figure 15-3. Suppose the current equilibrium in the market for financial capital is at point A. Which of the following events is likely to move the equilibrium to point D? 
+A) a technological improvement 
+B) an increase in the interest rate 
+C) a decrease in the interest rate 
+D) population growth 
+E) a reduction in the marginal product of capital 
+Answer:  E
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+14) Refer to Figure 15-3. Suppose the current equilibrium in the market for financial capital is at point D. Which of the following events is likely to move the equilibrium to point A? 
+A) an increase in the interest rate 
+B) a decrease in the interest rate 
+C) a technological improvement 
+D) the introduction of a policy that encourages saving
+E) growth in average household income
+Answer:  C
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 15-3. Suppose the current equilibrium in the market for financial capital is at point A. Which of the following events is likely to move the equilibrium to point C? 
+A) an increase in the interest rate and simultaneous technological improvement 
+B) a decrease in the interest rate 
+C) population growth and a simultaneous increase in the marginal product of capital
+D) population growth and a simultaneous reduction in the marginal product of capital
+E) population growth and a technological improvement 
+Answer:  D
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User1:  Graph
+User2:  Qualitative
+
+16) The Canadian government introduced the Tax-Free Savings Account (TFSA) in 2009, which allows Canadians to earn tax-free investment returns on a limited amount of savings each year. In theory, and all else remaining equal, what do we expect the effect of such a policy to be on the market for financial capital?
+A) The investment demand curve shifts right, the equilibrium interest rate rises and investment rises.
+B) The investment demand curve shifts left, the equilibrium interest rate falls and investment falls. 
+C) The supply of savings curve shifts right, the equilibrium interest rate falls and investment increases.
+D) The supply of saving curve shifts left, the equilibrium interest rate rises and investment decreases.
+E) There will be no effect on the market for financial capital.
+Answer:  C
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+17) The Canadian government introduced the Tax-Free Savings Account (TFSA) in 2009, which allows Canadians to earn tax-free investment returns on a limited amount of savings each year. What is the underlying goal of such a government policy?
+A) to decrease the supply of financial capital to the economy
+B) to increase government tax revenues
+C) to maintain upward pressure on the equilibrium interest rate
+D) to increase investment demand of Canadian firms
+E) to increase desired saving of Canadian households
+Answer:  E
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+18) In recent decades the economy has experienced dramatic technological improvement in many types of capital equipment. All else remaining equal, this change has the effect of shifting the investment demand curve to the ________ and causing an excess ________ capital, and thus a ________ in the equilibrium interest rate.
+A) right; supply of; rise
+B) right; demand for; rise
+C) left; demand for; rise
+D) left; supply of; fall
+E) right; demand; fall
+Answer:  B
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+19) Consider the flow of investment and saving in a small economy. Suppose the equilibrium interest rate is 2.5% and the equilibrium level of saving and investment is $4 billion. Now suppose, all else remaining equal, that there is sustained population growth over several years. What will be the effect in the capital market? 
+A) An increase in the flow of investment and saving and an indeterminate effect on the equilibrium interest rate. 
+B) An increase in the flow of investment and saving and an increase in the equilibrium interest rate. 
+C) An increase in the flow of investment and saving and a decrease in the equilibrium interest rate. 
+D) An indeterminate effect on the flow of investment and saving and a decrease in the equilibrium interest rate.
+E) An indeterminate effect on the flow of investment and saving and an increase in the equilibrium interest rate. 
+Answer:  A
+Diff: 3
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+20) Consider the flow of investment and saving in a small economy. Suppose the equilibrium interest rate is 2.5% and the equilibrium level of saving and investment is $4 billion. Now suppose, all else remaining equal, that there is an increase in per capita income. What will be the effect in the capital market? 
+A) the interest rate will fall below 2.5% and the quantity of investment demanded will increase
+B) the interest rate will rise above 2.5% and the quantity of saving supplied will increase
+C) the interest rate will rise above 2.5% and the quantity of investment demanded will decrease
+D) an indeterminate effect on the interest rate and an increase in the equilibrium level of investment and saving
+E) the interest rate will fall below 2.5% and the quantity of saving supplied will increase
+Answer:  D
+Diff: 3
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Quantitative
+21) Ongoing technological improvement over the past four decades in Canada has led to continual increases in investment demand, and an increase in the flow of investment, but no clear trend in the interest rate. The reason that we have not seen continual increases in the interest rate over this time period is that 
+A) natural forces in the economy cause the investment demand curve to shift left to eliminate the excess demand for capital.
+B) the supply of saving curve shifts to the left in response to the increases in investment demand.
+C) the government intervenes in the capital market.
+D) technological change has also led to rising productivity and rising incomes and therefore an increase in the supply of saving.
+E) the annual flow of investment is large enough to offset any change in the interest rate.
+Answer:  D
+Diff: 3
+Topic:  15.5. equilibrium in the capital market
+Skill:  Recall
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+22) Over the past four decades, Canada's non-residential capital stock has increased at an average annual growth rate of approximately ________%.
+A) 2.6
+B) 6.0
+C) 9.5
+D) 12.4
+E) 15.0
+Answer:  A
+Diff: 1
+Topic:  15.5. equilibrium in the capital market
+Skill:  Recall
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+23) The Canadian federal government can encourage a rightward shift of the investment demand curve with which of the following policies:
+1) an increase in corporate income-tax rates;
+2) providing interest-rate subsidies on loans to firms;
+3) decreasing the interest rate.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  B
+Diff: 2
+Topic:  15.5. equilibrium in the capital market
+Skill:  Applied
+Learning Obj.:  15-5 Understand how the equilibrium interest rate is determined and why it changes over time.
+User2:  Qualitative
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 38
+Copyright © 2017 Pearson Education, Inc.
+
+
+
